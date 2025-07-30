@@ -1,0 +1,300 @@
+﻿msgstr ""
+
+msgid "Maintenance Status has to be Cancelled or Completed to Submit"
+msgstr ""
+
+msgid "Maintenance Task"
+msgstr ""
+
+msgid "Maintenance Tasks"
+msgstr ""
+
+msgid "Maintenance Team"
+msgstr ""
+
+msgid "Maintenance Team Member"
+msgstr ""
+
+msgid "Maintenance Team Members"
+msgstr ""
+
+msgid "Maintenance Team Name"
+msgstr ""
+
+msgid "Maintenance Time"
+msgstr ""
+
+msgid "Maintenance Type"
+msgstr ""
+
+msgid "Maintenance User"
+msgstr ""
+
+msgid "Maintenance Visit"
+msgstr ""
+
+msgid "Maintenance Visit Purpose"
+msgstr "วัตถุประสงค์การเยี่ยมบำรุงรักษา"
+
+msgid "Maintenance start date can not be before delivery date for Serial No {0}"
+msgstr "วันที่เริ่มต้นการบำรุงรักษาไม่สามารถอยู่ก่อนวันที่จัดส่งสำหรับหมายเลขซีเรียล {0}"
+
+msgid "Major/Optional Subjects"
+msgstr "วิชาเอก/วิชาเลือก"
+
+msgid "Make"
+msgstr "สร้าง"
+
+msgid "Make Asset Movement"
+msgstr "สร้างการเคลื่อนย้ายสินทรัพย์"
+
+msgid "Make Depreciation Entry"
+msgstr "สร้างรายการค่าเสื่อมราคา"
+
+msgid "Make Difference Entry"
+msgstr "สร้างรายการความแตกต่าง"
+
+msgid "Make Payment via Journal Entry"
+msgstr "ชำระเงินผ่านรายการบัญชี"
+
+msgid "Make Purchase Invoice"
+msgstr "สร้างใบแจ้งหนี้ซื้อ"
+
+msgid "Make Quotation"
+msgstr "สร้างใบเสนอราคา"
+
+msgid "Make Return Entry"
+msgstr "สร้างรายการคืน"
+
+msgid "Make Sales Invoice"
+msgstr "สร้างใบแจ้งหนี้ขาย"
+
+msgid "Make Serial No / Batch from Work Order"
+msgstr "สร้างหมายเลขซีเรียล / แบทช์จากคำสั่งงาน"
+
+msgid "Make Stock Entry"
+msgstr "สร้างรายการสต็อก"
+
+msgid "Make Subcontracting PO"
+msgstr "สร้างใบสั่งซื้อจ้างช่วง"
+
+msgid "Make Transfer Entry"
+msgstr "สร้างรายการโอน"
+
+msgid "Make project from a template."
+msgstr "สร้างโครงการจากแม่แบบ"
+
+msgid "Make {0}"
+msgstr "สร้าง {0}"
+
+msgid "Make {0} Variant"
+msgstr "สร้างตัวเลือก {0}"
+
+msgid "Make {0} Variants"
+msgstr "สร้างตัวเลือก {0} หลายตัว"
+
+msgid "Making Journal Entries against advance accounts: {0} is not recommended. These Journals won't be available for Reconciliation."
+msgstr "การสร้างรายการบัญชีต่อบัญชีล่วงหน้า: {0} ไม่แนะนำ รายการเหล่านี้จะไม่สามารถใช้สำหรับการกระทบยอดได้"
+
+msgid "Manage"
+msgstr "จัดการ"
+
+msgid "Manage cost of operations"
+msgstr "จัดการต้นทุนการดำเนินงาน"
+
+msgid "Manage your orders"
+msgstr "จัดการคำสั่งซื้อของคุณ"
+
+msgid "Management"
+msgstr "การจัดการ"
+
+msgid "Manager"
+msgstr ""
+
+msgid "Managing Director"
+msgstr ""
+
+msgid "Mandatory"
+msgstr "จำเป็น"
+
+msgid "Mandatory Accounting Dimension"
+msgstr "มิติการบัญชีที่จำเป็น"
+
+msgid "Mandatory Depends On"
+msgstr "ขึ้นอยู่กับที่จำเป็น"
+
+msgid "Mandatory Field"
+msgstr "ฟิลด์ที่จำเป็น"
+
+msgid "Mandatory For Balance Sheet"
+msgstr "จำเป็นสำหรับงบดุล"
+
+msgid "Mandatory For Profit and Loss Account"
+msgstr "จำเป็นสำหรับบัญชีกำไรขาดทุน"
+
+msgid "Mandatory Missing"
+msgstr "ขาดสิ่งจำเป็น"
+
+msgid "Mandatory Purchase Order"
+msgstr "ใบสั่งซื้อที่จำเป็น"
+
+msgid "Mandatory Purchase Receipt"
+msgstr "ใบรับซื้อที่จำเป็น"
+
+msgid "Mandatory Section"
+msgstr "ส่วนที่จำเป็น"
+
+msgid "Manual"
+msgstr "คู่มือ"
+
+msgid "Manual Inspection"
+msgstr "การตรวจสอบด้วยตนเอง"
+
+msgid "Manual entry cannot be created! Disable automatic entry for deferred accounting in accounts settings and try again"
+msgstr "ไม่สามารถสร้างรายการด้วยตนเองได้! ปิดใช้งานรายการอัตโนมัติสำหรับการบัญชีรอตัดบัญชีในการตั้งค่าบัญชีและลองอีกครั้ง"
+
+msgid "Manufacture"
+msgstr "ผลิต"
+
+msgid "Manufacture against Material Request"
+msgstr "ผลิตตามคำขอวัสดุ"
+
+msgid "Manufactured"
+msgstr "ผลิตแล้ว"
+
+msgid "Manufactured Qty"
+msgstr "ปริมาณที่ผลิต"
+
+msgid "Manufacturer"
+msgstr "ผู้ผลิต"
+
+msgid "Manufacturer Part Number"
+msgstr "หมายเลขชิ้นส่วนผู้ผลิต"
+
+msgid "Manufacturer Part Number <b>{0}</b> is invalid"
+msgstr "หมายเลขชิ้นส่วนผู้ผลิต <b>{0}</b> ไม่ถูกต้อง"
+
+msgid "Manufacturers used in Items"
+msgstr "ผู้ผลิตที่ใช้ในรายการ"
+
+msgid "Manufacturing"
+msgstr "การผลิต"
+
+msgid "Manufacturing BOM"
+msgstr "BOM การผลิต"
+
+msgid "Manufacturing Date"
+msgstr "วันที่ผลิต"
+
+msgid "Manufacturing Manager"
+msgstr "ผู้จัดการการผลิต"
+
+msgid "Manufacturing Quantity is mandatory"
+msgstr "ปริมาณการผลิตเป็นสิ่งจำเป็น"
+
+msgid "Manufacturing Section"
+msgstr "ส่วนการผลิต"
+
+msgid "Manufacturing Settings"
+msgstr "การตั้งค่าการผลิต"
+
+msgid "Manufacturing Type"
+msgstr "ประเภทการผลิต"
+
+msgid "Manufacturing User"
+msgstr "ผู้ใช้การผลิต"
+
+msgid "Mapping Purchase Receipt ..."
+msgstr ""
+
+msgid "Mapping Subcontracting Order ..."
+msgstr ""
+
+msgid "Mapping {0} ..."
+msgstr ""
+
+msgid "Margin"
+msgstr ""
+
+msgid "Margin Money"
+msgstr ""
+
+msgid "Margin Rate or Amount"
+msgstr ""
+
+msgid "Margin Type"
+msgstr ""
+
+msgid "Margin View"
+msgstr ""
+
+msgid "Marital Status"
+msgstr ""
+
+msgid "Mark As Closed"
+msgstr ""
+
+msgid "Market Segment"
+msgstr ""
+
+msgid "Marketing"
+msgstr ""
+
+msgid "Marketing Expenses"
+msgstr "ค่าการตลาด"
+
+msgid "Marketing Manager"
+msgstr ""
+
+msgid "Marketing Specialist"
+msgstr ""
+
+msgid "Married"
+msgstr ""
+
+msgid "Mask"
+msgstr ""
+
+msgid "Mass Mailing"
+msgstr ""
+
+msgid "Master"
+msgstr ""
+
+msgid "Masters"
+msgstr ""
+
+msgid "Material"
+msgstr ""
+
+msgid "Material Consumption"
+msgstr ""
+
+msgid "Material Consumption for Manufacture"
+msgstr ""
+
+msgid "Material Consumption is not set in Manufacturing Settings."
+msgstr ""
+
+msgid "Material Issue"
+msgstr ""
+
+msgid "Material Receipt"
+msgstr ""
+
+msgid "Material Request"
+msgstr ""
+
+msgid "Material Request Date"
+msgstr ""
+
+msgid "Material Request Detail"
+msgstr ""
+
+msgid "Material Request Item"
+msgstr ""
+
+msgid "Material Request No"
+msgstr ""
+
+msgid "Material Request Plan Item"

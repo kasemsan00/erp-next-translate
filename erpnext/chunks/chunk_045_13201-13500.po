@@ -1,0 +1,300 @@
+﻿msgstr ""
+
+msgid "Millisecond"
+msgstr ""
+
+msgid "Min Amount"
+msgstr "จำนวนเงินขั้นต่ำ"
+
+msgid "Min Amt"
+msgstr "จำนวนเงินขั้นต่ำ"
+
+msgid "Min Amt can not be greater than Max Amt"
+msgstr "จำนวนเงินขั้นต่ำต้องไม่มากกว่าจำนวนเงินสูงสุด"
+
+msgid "Min Grade"
+msgstr "เกรดขั้นต่ำ"
+
+msgid "Min Order Qty"
+msgstr "ปริมาณการสั่งซื้อขั้นต่ำ"
+
+msgid "Min Qty"
+msgstr "ปริมาณขั้นต่ำ"
+
+msgid "Min Qty (As Per Stock UOM)"
+msgstr "ปริมาณขั้นต่ำ (ตามหน่วยวัดสต็อก)"
+
+msgid "Min Qty can not be greater than Max Qty"
+msgstr "ปริมาณขั้นต่ำต้องไม่มากกว่าปริมาณสูงสุด"
+
+msgid "Min Qty should be greater than Recurse Over Qty"
+msgstr "ปริมาณขั้นต่ำควรมากกว่าปริมาณที่วนซ้ำ"
+
+msgid "Minimum Invoice Amount"
+msgstr "จำนวนเงินใบแจ้งหนี้ขั้นต่ำ"
+
+msgid "Minimum Lead Age (Days)"
+msgstr "อายุขั้นต่ำของลูกค้าเป้าหมาย (วัน)"
+
+msgid "Minimum Net Rate"
+msgstr "อัตราสุทธิต่ำสุด"
+
+msgid "Minimum Order Qty"
+msgstr "ปริมาณการสั่งซื้อขั้นต่ำ"
+
+msgid "Minimum Order Quantity"
+msgstr "ปริมาณการสั่งซื้อขั้นต่ำ"
+
+msgid "Minimum Payment Amount"
+msgstr "จำนวนเงินชำระขั้นต่ำ"
+
+msgid "Minimum Qty"
+msgstr "ปริมาณขั้นต่ำ"
+
+msgid "Minimum Total Spent"
+msgstr "ยอดใช้จ่ายรวมขั้นต่ำ"
+
+msgid "Minimum Value"
+msgstr "ค่าต่ำสุด"
+
+msgid "Minimum quantity should be as per Stock UOM"
+msgstr "ปริมาณขั้นต่ำควรเป็นไปตามหน่วยวัดสต็อก"
+
+msgid "Minute"
+msgstr "นาที"
+
+msgid "Minutes"
+msgstr "นาที"
+
+msgid "Miscellaneous Expenses"
+msgstr "ค่าใช้จ่ายเบ็ดเตล็ด"
+
+msgid "Mismatch"
+msgstr "ไม่ตรงกัน"
+
+msgid "Missing"
+msgstr "หายไป"
+
+msgid "Missing Account"
+msgstr "บัญชีที่หายไป"
+
+msgid "Missing Asset"
+msgstr "สินทรัพย์ที่หายไป"
+
+msgid "Missing Cost Center"
+msgstr "ศูนย์ต้นทุนที่หายไป"
+
+msgid "Missing Default in Company"
+msgstr "ค่าเริ่มต้นที่หายไปในบริษัท"
+
+msgid "Missing Finance Book"
+msgstr "สมุดการเงินที่หายไป"
+
+msgid "Missing Finished Good"
+msgstr "สินค้าสำเร็จรูปที่หายไป"
+
+msgid "Missing Formula"
+msgstr "สูตรที่หายไป"
+
+msgid "Missing Item"
+msgstr "รายการที่หายไป"
+
+msgid "Missing Payments App"
+msgstr "แอปการชำระเงินที่หายไป"
+
+msgid "Missing Serial No Bundle"
+msgstr "ชุดหมายเลขซีเรียลที่หายไป"
+
+msgid "Missing Values Required"
+msgstr "ค่าที่จำเป็นหายไป"
+
+msgid "Missing email template for dispatch. Please set one in Delivery Settings."
+msgstr "ไม่มีแม่แบบอีเมลสำหรับการจัดส่ง โปรดตั้งค่าในการตั้งค่าการจัดส่ง"
+
+msgid "Missing value"
+msgstr "ค่าที่หายไป"
+
+msgid "Mixed Conditions"
+msgstr "เงื่อนไขผสม"
+
+msgid "Mobile"
+msgstr "มือถือ"
+
+msgid "Mobile No"
+msgstr ""
+
+msgid "Mobile Number"
+msgstr "หมายเลขมือถือ"
+
+msgid "Mobile: "
+msgstr "มือถือ: "
+
+msgid "Mode Of Payment"
+msgstr "วิธีการชำระเงิน"
+
+msgid "Mode of Payment"
+msgstr "วิธีการชำระเงิน"
+
+msgid "Mode of Payment Account"
+msgstr "บัญชีวิธีการชำระเงิน"
+
+msgid "Mode of Payments"
+msgstr "วิธีการชำระเงิน"
+
+msgid "Model"
+msgstr "รุ่น"
+
+msgid "Modes of Payment"
+msgstr "วิธีการชำระเงิน"
+
+msgid "Modified By"
+msgstr "แก้ไขโดย"
+
+msgid "Modified On"
+msgstr "แก้ไขเมื่อ"
+
+msgid "Module Settings"
+msgstr ""
+
+msgid "Monday"
+msgstr "วันจันทร์"
+
+msgid "Monitor Progress"
+msgstr "ติดตามความคืบหน้า"
+
+msgid "Monitor for Last 'X' days"
+msgstr "ติดตามสำหรับ 'X' วันที่ผ่านมา"
+
+msgid "Monitoring Frequency"
+msgstr "ความถี่ในการติดตาม"
+
+msgid "Month"
+msgstr "เดือน"
+
+msgid "Month(s) after the end of the invoice month"
+msgstr "เดือนหลังจากสิ้นสุดเดือนใบแจ้งหนี้"
+
+msgid "Monthly"
+msgstr "รายเดือน"
+
+msgid "Monthly Completed Work Orders"
+msgstr "คำสั่งงานที่เสร็จสิ้นรายเดือน"
+
+msgid "Monthly Distribution"
+msgstr "การกระจายรายเดือน"
+
+msgid "Monthly Distribution Percentage"
+msgstr "เปอร์เซ็นต์การกระจายรายเดือน"
+
+msgid "Monthly Distribution Percentages"
+msgstr "เปอร์เซ็นต์การกระจายรายเดือน"
+
+msgid "Monthly Quality Inspections"
+msgstr "การตรวจสอบคุณภาพรายเดือน"
+
+msgid "Monthly Rate"
+msgstr "อัตรารายเดือน"
+
+msgid "Monthly Sales Target"
+msgstr "เป้าหมายการขายรายเดือน"
+
+msgid "Monthly Total Work Orders"
+msgstr "คำสั่งงานรวมรายเดือน"
+
+msgid "Months"
+msgstr "เดือน"
+
+msgid "More Info"
+msgstr "ข้อมูลเพิ่มเติม"
+
+msgid "More Information"
+msgstr "ข้อมูลเพิ่มเติม"
+
+msgid "More/Less than 12 months."
+msgstr "มากกว่า/น้อยกว่า 12 เดือน"
+
+msgid "Motion Picture & Video"
+msgstr ""
+
+msgid "Move"
+msgstr "ย้าย"
+
+msgid "Move Item"
+msgstr "ย้ายรายการ"
+
+msgid "Move Stock"
+msgstr "ย้ายสต็อก"
+
+msgid "Move to Cart"
+msgstr "ย้ายไปยังรถเข็น"
+
+msgid "Movement"
+msgstr "การเคลื่อนไหว"
+
+msgid "Moving Average"
+msgstr "ค่าเฉลี่ยเคลื่อนที่"
+
+msgid "Moving up in tree ..."
+msgstr "กำลังเลื่อนขึ้นในโครงสร้างต้นไม้ ..."
+
+msgid "Multi Currency"
+msgstr "หลายสกุลเงิน"
+
+msgid "Multi-level BOM Creator"
+msgstr "ตัวสร้าง BOM หลายระดับ"
+
+msgid "Multiple Loyalty Programs found for Customer {}. Please select manually."
+msgstr "พบโปรแกรมสะสมคะแนนหลายรายการสำหรับลูกค้า {} โปรดเลือกด้วยตนเอง"
+
+msgid "Multiple POS Opening Entry"
+msgstr ""
+
+msgid "Multiple Price Rules exists with same criteria, please resolve conflict by assigning priority. Price Rules: {0}"
+msgstr "มีข้อกำหนดราคาหลายรายการที่มีเกณฑ์เดียวกัน โปรดแก้ไขความขัดแย้งโดยกำหนดลำดับความสำคัญ ข้อกำหนดราคา: {0}"
+
+msgid "Multiple Tier Program"
+msgstr "โปรแกรมหลายระดับ"
+
+msgid "Multiple Variants"
+msgstr "ตัวเลือกหลายรายการ"
+
+msgid "Multiple Warehouse Accounts"
+msgstr "บัญชีคลังสินค้าหลายรายการ"
+
+msgid "Multiple fiscal years exist for the date {0}. Please set company in Fiscal Year"
+msgstr "มีปีงบประมาณหลายปีสำหรับวันที่ {0} โปรดตั้งค่าบริษัทในปีงบประมาณ"
+
+msgid "Multiple items cannot be marked as finished item"
+msgstr "ไม่สามารถทำเครื่องหมายรายการหลายรายการเป็นรายการที่เสร็จสิ้นแล้ว"
+
+msgid "Music"
+msgstr ""
+
+msgid "Must be Whole Number"
+msgstr "ต้องเป็นจำนวนเต็ม"
+
+msgid "Must be a publicly accessible Google Sheets URL and adding Bank Account column is necessary for importing via Google Sheets"
+msgstr "ต้องเป็น URL Google Sheets ที่เข้าถึงได้สาธารณะและจำเป็นต้องเพิ่มคอลัมน์บัญชีธนาคารสำหรับการนำเข้าผ่าน Google Sheets"
+
+msgid "Mute Email"
+msgstr "ปิดเสียงอีเมล"
+
+msgid "N/A"
+msgstr "ไม่มี"
+
+msgid "Name"
+msgstr "ชื่อ"
+
+msgid "Name and Employee ID"
+msgstr "ชื่อและรหัสพนักงาน"
+
+msgid "Name of Beneficiary"
+msgstr "ชื่อผู้รับผลประโยชน์"
+
+msgid "Name of new Account. Note: Please don't create accounts for Customers and Suppliers"
+msgstr "ชื่อบัญชีใหม่ หมายเหตุ: โปรดอย่าสร้างบัญชีสำหรับลูกค้าและผู้จัดจำหน่าย"
+
+msgid "Name of the Monthly Distribution"
+msgstr "ชื่อการกระจายรายเดือน"
+
+msgid "Named Place"

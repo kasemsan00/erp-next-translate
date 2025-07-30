@@ -1,0 +1,300 @@
+﻿msgstr ""
+
+msgid "Annual Expenses"
+msgstr ""
+
+msgid "Annual Income"
+msgstr ""
+
+msgid "Annual Revenue"
+msgstr ""
+
+msgid "Another Budget record '{0}' already exists against {1} '{2}' and account '{3}' for fiscal year {4}"
+msgstr ""
+
+msgid "Another Cost Center Allocation record {0} applicable from {1}, hence this allocation will be applicable upto {2}"
+msgstr ""
+
+msgid "Another Payment Request is already processed"
+msgstr ""
+
+msgid "Another Sales Person {0} exists with the same Employee id"
+msgstr ""
+
+msgid "Any one of following filters required: warehouse, Item Code, Item Group"
+msgstr ""
+
+msgid "Apparel & Accessories"
+msgstr ""
+
+msgid "Applicable Charges"
+msgstr ""
+
+msgid "Applicable Dimension"
+msgstr ""
+
+msgid "Applicable For"
+msgstr "ใช้สำหรับ"
+
+msgid "Applicable Holiday List"
+msgstr ""
+
+msgid "Applicable Modules"
+msgstr ""
+
+msgid "Applicable On Account"
+msgstr ""
+
+msgid "Applicable To (Designation)"
+msgstr ""
+
+msgid "Applicable To (Employee)"
+msgstr ""
+
+msgid "Applicable To (Role)"
+msgstr ""
+
+msgid "Applicable To (User)"
+msgstr ""
+
+msgid "Applicable for Countries"
+msgstr ""
+
+msgid "Applicable for Users"
+msgstr ""
+
+msgid "Applicable for external driver"
+msgstr ""
+
+msgid "Applicable if the company is SpA, SApA or SRL"
+msgstr ""
+
+msgid "Applicable if the company is a limited liability company"
+msgstr ""
+
+msgid "Applicable if the company is an Individual or a Proprietorship"
+msgstr ""
+
+msgid "Applicable on Cumulative Expense"
+msgstr ""
+
+msgid "Applicable on Material Request"
+msgstr ""
+
+msgid "Applicable on Purchase Order"
+msgstr ""
+
+msgid "Applicable on booking actual expenses"
+msgstr ""
+
+msgid "Application of Funds (Assets)"
+msgstr ""
+
+msgid "Applied Coupon Code"
+msgstr ""
+
+msgid "Applied on each reading."
+msgstr ""
+
+msgid "Applied putaway rules."
+msgstr ""
+
+msgid "Applies To"
+msgstr ""
+
+msgid "Apply Additional Discount On"
+msgstr ""
+
+msgid "Apply Discount On"
+msgstr ""
+
+msgid "Apply Discount on Discounted Rate"
+msgstr ""
+
+msgid "Apply Discount on Rate"
+msgstr ""
+
+msgid "Apply Multiple Pricing Rules"
+msgstr ""
+
+msgid "Apply On"
+msgstr ""
+
+msgid "Apply Putaway Rule"
+msgstr ""
+
+msgid "Apply Recursion Over (As Per Transaction UOM)"
+msgstr ""
+
+msgid "Apply Rule On Brand"
+msgstr ""
+
+msgid "Apply Rule On Item Code"
+msgstr ""
+
+msgid "Apply Rule On Item Group"
+msgstr ""
+
+msgid "Apply Rule On Other"
+msgstr ""
+
+msgid "Apply SLA for Resolution Time"
+msgstr ""
+
+msgid "Apply TDS"
+msgstr ""
+
+msgid "Apply Tax Withholding Amount"
+msgstr ""
+
+msgid "Apply Tax Withholding Amount "
+msgstr ""
+
+msgid "Apply restriction on dimension values"
+msgstr ""
+
+msgid "Apply to All Inventory Documents"
+msgstr ""
+
+msgid "Apply to Document"
+msgstr ""
+
+msgid "Appointment"
+msgstr ""
+
+msgid "Appointment Booking Settings"
+msgstr ""
+
+msgid "Appointment Booking Slots"
+msgstr ""
+
+msgid "Appointment Confirmation"
+msgstr ""
+
+msgid "Appointment Created Successfully"
+msgstr ""
+
+msgid "Appointment Details"
+msgstr ""
+
+msgid "Appointment Duration (In Minutes)"
+msgstr ""
+
+msgid "Appointment Scheduling Disabled"
+msgstr ""
+
+msgid "Appointment Scheduling has been disabled for this site"
+msgstr ""
+
+msgid "Appointment With"
+msgstr ""
+
+msgid "Appointment was created. But no lead was found. Please check the email to confirm"
+msgstr ""
+
+msgid "Approving Role (above authorized value)"
+msgstr ""
+
+msgid "Approving Role cannot be same as role the rule is Applicable To"
+msgstr ""
+
+msgid "Approving User  (above authorized value)"
+msgstr ""
+
+msgid "Approving User cannot be same as user the rule is Applicable To"
+msgstr ""
+
+msgid "Approximately match the description/party name against parties"
+msgstr ""
+
+msgid "Are"
+msgstr ""
+
+msgid "Are you sure you want to clear all demo data?"
+msgstr ""
+
+msgid "Are you sure you want to delete this Item?"
+msgstr "คุณแน่ใจหรือไม่ว่าต้องการลบรายการนี้?"
+
+msgid "Are you sure you want to delete {0}?<p>This action will also delete all associated Common Code documents.</p>"
+msgstr "คุณแน่ใจหรือไม่ว่าต้องการลบ {0}?<p>การดำเนินการนี้จะลบเอกสาร Common Code ที่เกี่ยวข้องทั้งหมดด้วย</p>"
+
+msgid "Are you sure you want to restart this subscription?"
+msgstr "คุณแน่ใจหรือไม่ว่าต้องการเริ่มการสมัครสมาชิกนี้ใหม่?"
+
+msgid "Area"
+msgstr "พื้นที่"
+
+msgid "Area UOM"
+msgstr "หน่วยวัดพื้นที่"
+
+msgid "Arrival Quantity"
+msgstr "ปริมาณที่มาถึง"
+
+msgid "Arshin"
+msgstr ""
+
+msgid "As On Date"
+msgstr "ณ วันที่"
+
+msgid "As on Date"
+msgstr "ณ วันที่"
+
+msgid "As per Stock UOM"
+msgstr "ตามหน่วยวัดสต็อก"
+
+msgid "As the field {0} is enabled, the field {1} is mandatory."
+msgstr "เนื่องจากฟิลด์ {0} ถูกเปิดใช้งาน ฟิลด์ {1} จึงเป็นฟิลด์บังคับ"
+
+msgid "As the field {0} is enabled, the value of the field {1} should be more than 1."
+msgstr "เนื่องจากฟิลด์ {0} ถูกเปิดใช้งาน ค่าของฟิลด์ {1} ควรมากกว่า 1"
+
+msgid "As there are existing submitted transactions against item {0}, you can not change the value of {1}."
+msgstr "เนื่องจากมีธุรกรรมที่ส่งแล้วที่เกี่ยวข้องกับรายการ {0} คุณไม่สามารถเปลี่ยนค่าของ {1} ได้"
+
+msgid "As there are negative stock, you can not enable {0}."
+msgstr "เนื่องจากมีสต็อกติดลบ คุณไม่สามารถเปิดใช้งาน {0} ได้"
+
+msgid "As there are reserved stock, you cannot disable {0}."
+msgstr "เนื่องจากมีสต็อกที่ถูกจองไว้ คุณไม่สามารถปิดใช้งาน {0} ได้"
+
+msgid "As there are sufficient Sub Assembly Items, Work Order is not required for Warehouse {0}."
+msgstr "เนื่องจากมีรายการชิ้นส่วนย่อยเพียงพอ จึงไม่จำเป็นต้องมีคำสั่งงานสำหรับคลังสินค้า {0}"
+
+msgid "As there are sufficient raw materials, Material Request is not required for Warehouse {0}."
+msgstr "เนื่องจากมีวัตถุดิบเพียงพอ จึงไม่จำเป็นต้องมีคำขอวัสดุสำหรับคลังสินค้า {0}"
+
+msgid "As {0} is enabled, you can not enable {1}."
+msgstr "เนื่องจาก {0} ถูกเปิดใช้งาน คุณไม่สามารถเปิดใช้งาน {1} ได้"
+
+msgid "Assembly Items"
+msgstr "รายการชิ้นส่วนประกอบ"
+
+msgid "Asset"
+msgstr "สินทรัพย์"
+
+msgid "Asset Account"
+msgstr "บัญชีสินทรัพย์"
+
+msgid "Asset Activity"
+msgstr "กิจกรรมสินทรัพย์"
+
+msgid "Asset Capitalization"
+msgstr "การเพิ่มมูลค่าสินทรัพย์"
+
+msgid "Asset Capitalization Asset Item"
+msgstr "รายการสินทรัพย์ที่เพิ่มมูลค่าสินทรัพย์"
+
+msgid "Asset Capitalization Service Item"
+msgstr "รายการบริการที่เพิ่มมูลค่าสินทรัพย์"
+
+msgid "Asset Capitalization Stock Item"
+msgstr "รายการสต็อกที่เพิ่มมูลค่าสินทรัพย์"
+
+msgid "Asset Category"
+msgstr "หมวดหมู่สินทรัพย์"
+
+msgid "Asset Category Account"
+msgstr "บัญชีหมวดหมู่สินทรัพย์"
+
+msgid "Asset Category Name"

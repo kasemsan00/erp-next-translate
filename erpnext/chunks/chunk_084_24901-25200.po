@@ -1,0 +1,300 @@
+﻿msgid "UOM Conversion Factor"
+msgstr ""
+
+msgid "UOM Conversion factor ({0} -> {1}) not found for item: {2}"
+msgstr ""
+
+msgid "UOM Conversion factor is required in row {0}"
+msgstr ""
+
+msgid "UOM Name"
+msgstr ""
+
+msgid "UOM conversion factor required for UOM: {0} in Item: {1}"
+msgstr ""
+
+msgid "UOM {0} not found in Item {1}"
+msgstr ""
+
+msgid "UOMs"
+msgstr ""
+
+msgid "UPC"
+msgstr ""
+
+msgid "UPC-A"
+msgstr ""
+
+msgid "URL"
+msgstr ""
+
+msgid "URL can only be a string"
+msgstr ""
+
+msgid "UTM Source"
+msgstr "แหล่งที่มา UTM"
+
+msgid "UnBuffered Cursor"
+msgstr "เคอร์เซอร์ที่ไม่ได้บัฟเฟอร์"
+
+msgid "UnReconcile"
+msgstr "ยกเลิกการกระทบยอด"
+
+msgid "UnReconcile Allocations"
+msgstr "ยกเลิกการกระทบยอดการจัดสรร"
+
+msgid "Unable to find exchange rate for {0} to {1} for key date {2}. Please create a Currency Exchange record manually"
+msgstr "ไม่สามารถหาอัตราแลกเปลี่ยนจาก {0} เป็น {1} สำหรับวันที่สำคัญ {2} ได้ โปรดสร้างบันทึกการแลกเปลี่ยนสกุลเงินด้วยตนเอง"
+
+msgid "Unable to find score starting at {0}. You need to have standing scores covering 0 to 100"
+msgstr "ไม่สามารถหาคะแนนเริ่มต้นที่ {0} ได้ คุณต้องมีคะแนนที่ครอบคลุมตั้งแต่ 0 ถึง 100"
+
+msgid "Unable to find the time slot in the next {0} days for the operation {1}. Please increase the 'Capacity Planning For (Days)' in the {2}."
+msgstr "ไม่สามารถหาช่วงเวลาภายใน {0} วันถัดไปสำหรับการดำเนินการ {1} ได้ โปรดเพิ่ม 'การวางแผนความจุสำหรับ (วัน)' ใน {2}"
+
+msgid "Unable to find variable:"
+msgstr "ไม่สามารถหาตัวแปรได้:"
+
+msgid "Unallocated Amount"
+msgstr "จำนวนเงินที่ไม่ได้จัดสรร"
+
+msgid "Unassigned Qty"
+msgstr "ปริมาณที่ไม่ได้กำหนด"
+
+msgid "Unblock Invoice"
+msgstr "ปลดบล็อกใบแจ้งหนี้"
+
+msgid "Unclosed Fiscal Years Profit / Loss (Credit)"
+msgstr "กำไร / ขาดทุน (เครดิต) ของปีงบประมาณที่ยังไม่ปิด"
+
+msgid "Under AMC"
+msgstr "อยู่ภายใต้ AMC"
+
+msgid "Under Graduate"
+msgstr "ระดับปริญญาตรี"
+
+msgid "Under Warranty"
+msgstr "อยู่ภายใต้การรับประกัน"
+
+msgid "Under Working Hours table, you can add start and end times for a Workstation. For example, a Workstation may be active from 9 am to 1 pm, then 2 pm to 5 pm. You can also specify the working hours based on shifts. While scheduling a Work Order, the system will check for the availability of the Workstation based on the working hours specified."
+msgstr "ในตารางเวลาทำงาน คุณสามารถเพิ่มเวลาเริ่มต้นและสิ้นสุดสำหรับสถานีงานได้ ตัวอย่างเช่น สถานีงานอาจทำงานตั้งแต่ 9 โมงเช้าถึง 1 โมงเย็น จากนั้น 2 โมงถึง 5 โมงเย็น คุณยังสามารถระบุเวลาทำงานตามกะได้ ขณะกำหนดเวลาคำสั่งงาน ระบบจะตรวจสอบความพร้อมใช้งานของสถานีงานตามเวลาทำงานที่ระบุ"
+
+msgid "Unfulfilled"
+msgstr "ยังไม่สมบูรณ์"
+
+msgid "Unit"
+msgstr ""
+
+msgid "Unit of Measure"
+msgstr "หน่วยวัด"
+
+msgid "Unit of Measure (UOM)"
+msgstr ""
+
+msgid "Unit of Measure {0} has been entered more than once in Conversion Factor Table"
+msgstr "หน่วยวัด {0} ถูกป้อนมากกว่าหนึ่งครั้งในตารางปัจจัยการแปลง"
+
+msgid "Units of Measure"
+msgstr "หน่วยวัด"
+
+msgid "Unknown"
+msgstr "ไม่ทราบ"
+
+msgid "Unknown Caller"
+msgstr "ผู้โทรที่ไม่ทราบ"
+
+msgid "Unlink Advance Payment on Cancellation of Order"
+msgstr "ยกเลิกการเชื่อมโยงการชำระเงินล่วงหน้าเมื่อยกเลิกคำสั่งซื้อ"
+
+msgid "Unlink Payment on Cancellation of Invoice"
+msgstr "ยกเลิกการเชื่อมโยงการชำระเงินเมื่อยกเลิกใบแจ้งหนี้"
+
+msgid "Unlink external integrations"
+msgstr "ยกเลิกการเชื่อมโยงการรวมภายนอก"
+
+msgid "Unlinked"
+msgstr "ไม่ได้เชื่อมโยง"
+
+msgid "Unpaid"
+msgstr "ยังไม่ได้ชำระ"
+
+msgid "Unpaid and Discounted"
+msgstr "ยังไม่ได้ชำระและมีส่วนลด"
+
+msgid "Unplanned machine maintenance"
+msgstr "การบำรุงรักษาเครื่องจักรที่ไม่ได้วางแผน"
+
+msgid "Unqualified"
+msgstr "ไม่มีคุณสมบัติ"
+
+msgid "Unrealized Exchange Gain/Loss Account"
+msgstr "บัญชีกำไร/ขาดทุนจากอัตราแลกเปลี่ยนที่ยังไม่รับรู้"
+
+msgid "Unrealized Profit / Loss Account"
+msgstr "บัญชีกำไร / ขาดทุนที่ยังไม่รับรู้"
+
+msgid "Unrealized Profit / Loss account for intra-company transfers"
+msgstr "บัญชีกำไร / ขาดทุนที่ยังไม่รับรู้สำหรับการโอนภายในบริษัท"
+
+msgid "Unrealized Profit/Loss account for intra-company transfers"
+msgstr "บัญชีกำไร/ขาดทุนที่ยังไม่รับรู้สำหรับการโอนภายในบริษัท"
+
+msgid "Unreconcile Payment"
+msgstr "ยกเลิกการกระทบยอดการชำระเงิน"
+
+msgid "Unreconcile Payment Entries"
+msgstr "ยกเลิกการกระทบยอดรายการชำระเงิน"
+
+msgid "Unreconcile Transaction"
+msgstr "ยกเลิกการกระทบยอดธุรกรรม"
+
+msgid "Unreconciled"
+msgstr "ยังไม่ได้กระทบยอด"
+
+msgid "Unreconciled Amount"
+msgstr "จำนวนเงินที่ยังไม่ได้กระทบยอด"
+
+msgid "Unreconciled Entries"
+msgstr "รายการที่ยังไม่ได้กระทบยอด"
+
+msgid "Unreserve"
+msgstr "ยกเลิกการจอง"
+
+msgid "Unreserve Stock"
+msgstr "ยกเลิกการจองสต็อก"
+
+msgid "Unreserve for Raw Materials"
+msgstr "ยกเลิกการจองสำหรับวัตถุดิบ"
+
+msgid "Unreserve for Sub-assembly"
+msgstr "ยกเลิกการจองสำหรับชุดย่อย"
+
+msgid "Unreserving Stock..."
+msgstr "กำลังยกเลิกการจองสต็อก..."
+
+msgid "Unresolved"
+msgstr "ยังไม่ได้แก้ไข"
+
+msgid "Unscheduled"
+msgstr "ยังไม่ได้กำหนดเวลา"
+
+msgid "Unsecured Loans"
+msgstr "สินเชื่อแบบไม่มีหลักประกัน"
+
+msgid "Unset Matched Payment Request"
+msgstr "ยกเลิกการตั้งค่าคำขอชำระเงินที่ตรงกัน"
+
+msgid "Unsigned"
+msgstr "ไม่ได้ลงนาม"
+
+msgid "Unsubscribe from this Email Digest"
+msgstr "ยกเลิกการสมัครสมาชิกจากอีเมลสรุปนี้"
+
+msgid "Unsubscribed"
+msgstr "ยกเลิกการสมัครสมาชิกแล้ว"
+
+msgid "Until"
+msgstr "จนถึง"
+
+msgid "Unverified"
+msgstr "ยังไม่ได้ยืนยัน"
+
+msgid "Unverified Webhook Data"
+msgstr "ข้อมูล Webhook ที่ยังไม่ได้ยืนยัน"
+
+msgid "Up"
+msgstr "ขึ้น"
+
+msgid "Upcoming Calendar Events"
+msgstr "กิจกรรมปฏิทินที่กำลังจะมาถึง"
+
+msgid "Upcoming Calendar Events "
+msgstr ""
+
+msgid "Update"
+msgstr "อัปเดต"
+
+msgid "Update Account Name / Number"
+msgstr "อัปเดตชื่อ / หมายเลขบัญชี"
+
+msgid "Update Account Number / Name"
+msgstr "อัปเดตหมายเลข / ชื่อบัญชี"
+
+msgid "Update Additional Information"
+msgstr "อัปเดตข้อมูลเพิ่มเติม"
+
+msgid "Update Auto Repeat Reference"
+msgstr "อัปเดตการอ้างอิงการทำซ้ำอัตโนมัติ"
+
+msgid "Update BOM Cost Automatically"
+msgstr "อัปเดตต้นทุน BOM โดยอัตโนมัติ"
+
+msgid "Update BOM cost automatically via scheduler, based on the latest Valuation Rate/Price List Rate/Last Purchase Rate of raw materials"
+msgstr "อัปเดตต้นทุน BOM โดยอัตโนมัติผ่านตัวกำหนดเวลา โดยอิงจากอัตราการประเมินมูลค่าล่าสุด / อัตราราคาสินค้า / อัตราการซื้อครั้งสุดท้ายของวัตถุดิบ"
+
+msgid "Update Billed Amount in Delivery Note"
+msgstr "อัปเดตจำนวนเงินที่เรียกเก็บในใบส่งของ"
+
+msgid "Update Billed Amount in Purchase Order"
+msgstr "อัปเดตจำนวนเงินที่เรียกเก็บในคำสั่งซื้อ"
+
+msgid "Update Billed Amount in Purchase Receipt"
+msgstr "อัปเดตจำนวนเงินที่เรียกเก็บในใบรับซื้อ"
+
+msgid "Update Billed Amount in Sales Order"
+msgstr "อัปเดตจำนวนเงินที่เรียกเก็บในคำสั่งขาย"
+
+msgid "Update Clearance Date"
+msgstr "อัปเดตวันที่เคลียร์"
+
+msgid "Update Consumed Material Cost In Project"
+msgstr "อัปเดตต้นทุนวัสดุที่ใช้ในโครงการ"
+
+msgid "Update Cost"
+msgstr "อัปเดตต้นทุน"
+
+msgid "Update Cost Center Name / Number"
+msgstr "อัปเดตชื่อ / หมายเลขศูนย์ต้นทุน"
+
+msgid "Update Costing and Billing"
+msgstr ""
+
+msgid "Update Current Stock"
+msgstr "อัปเดตสต็อกปัจจุบัน"
+
+msgid "Update Existing Price List Rate"
+msgstr "อัปเดตราคาสินค้าในรายการราคาที่มีอยู่"
+
+msgid "Update Existing Records"
+msgstr "อัปเดตระเบียนที่มีอยู่"
+
+msgid "Update Items"
+msgstr "อัปเดตรายการ"
+
+msgid "Update Outstanding for Self"
+msgstr "อัปเดตยอดค้างชำระสำหรับตัวเอง"
+
+msgid "Update Price List Based On"
+msgstr "อัปเดตรายการราคาตาม"
+
+msgid "Update Print Format"
+msgstr "อัปเดตรูปแบบการพิมพ์"
+
+msgid "Update Rate and Availability"
+msgstr "อัปเดตอัตราและความพร้อมใช้งาน"
+
+msgid "Update Rate as per Last Purchase"
+msgstr "อัปเดตอัตราตามการซื้อครั้งล่าสุด"
+
+msgid "Update Stock"
+msgstr "อัปเดตสต็อก"
+
+msgid "Update Type"
+msgstr "อัปเดตประเภท"
+
+msgid "Update frequency of Project"
+msgstr "อัปเดตความถี่ของโครงการ"
+
+msgid "Update latest price in all BOMs"
+msgstr "อัปเดตราคาล่าสุดใน BOM ทั้งหมด"
+

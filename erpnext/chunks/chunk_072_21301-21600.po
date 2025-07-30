@@ -1,0 +1,300 @@
+﻿msgstr ""
+
+msgid "Service Level Agreement Status"
+msgstr ""
+
+msgid "Service Level Agreement for {0} {1} already exists."
+msgstr ""
+
+msgid "Service Level Agreement has been changed to {0}."
+msgstr ""
+
+msgid "Service Level Agreement was reset."
+msgstr ""
+
+msgid "Service Level Agreements"
+msgstr ""
+
+msgid "Service Level Name"
+msgstr ""
+
+msgid "Service Level Priority"
+msgstr ""
+
+msgid "Service Provider"
+msgstr ""
+
+msgid "Service Received But Not Billed"
+msgstr ""
+
+msgid "Service Start Date"
+msgstr ""
+
+msgid "Service Stop Date"
+msgstr ""
+
+msgid "Service Stop Date cannot be after Service End Date"
+msgstr ""
+
+msgid "Service Stop Date cannot be before Service Start Date"
+msgstr ""
+
+msgid "Service item not present in Purchase Invoice {0}"
+msgstr ""
+
+msgid "Services"
+msgstr ""
+
+msgid "Set"
+msgstr "ตั้งค่า"
+
+msgid "Set Accepted Warehouse"
+msgstr "ตั้งค่าคลังสินค้าที่รับ"
+
+msgid "Set Advances and Allocate (FIFO)"
+msgstr "ตั้งค่าล่วงหน้าและจัดสรร (FIFO)"
+
+msgid "Set Basic Rate Manually"
+msgstr "ตั้งค่าอัตราพื้นฐานด้วยตนเอง"
+
+msgid "Set Default Supplier"
+msgstr "ตั้งค่าผู้จัดจำหน่ายเริ่มต้น"
+
+msgid "Set Finished Good Quantity"
+msgstr "ตั้งค่าปริมาณสินค้าสำเร็จรูป"
+
+msgid "Set From Warehouse"
+msgstr "ตั้งค่าจากคลังสินค้า"
+
+msgid "Set Grand Total to Default Payment Method"
+msgstr "ตั้งค่ายอดรวมเป็นวิธีการชำระเงินเริ่มต้น"
+
+msgid "Set Item Group-wise budgets on this Territory. You can also include seasonality by setting the Distribution."
+msgstr "ตั้งค่างบประมาณตามกลุ่มรายการในเขตนี้ คุณยังสามารถรวมฤดูกาลโดยการตั้งค่าการกระจาย"
+
+msgid "Set Landed Cost Based on Purchase Invoice Rate"
+msgstr "ตั้งค่าต้นทุนที่มาถึงตามอัตราใบแจ้งหนี้ซื้อ"
+
+msgid "Set Loyalty Program"
+msgstr "ตั้งค่าโปรแกรมสะสมคะแนน"
+
+msgid "Set New Release Date"
+msgstr "ตั้งค่าวันที่เผยแพร่ใหม่"
+
+msgid "Set Operating Cost / Scrap Items From Sub-assemblies"
+msgstr "ตั้งค่าต้นทุนการดำเนินงาน / รายการเศษจากชุดย่อย"
+
+msgid "Set Operating Cost Based On BOM Quantity"
+msgstr "ตั้งค่าต้นทุนการดำเนินงานตามปริมาณ BOM"
+
+msgid "Set Parent Row No in Items Table"
+msgstr "ตั้งค่าหมายเลขแถวหลักในตารางรายการ"
+
+msgid "Set Password"
+msgstr "ตั้งรหัสผ่าน"
+
+msgid "Set Posting Date"
+msgstr "ตั้งค่าวันที่โพสต์"
+
+msgid "Set Process Loss Item Quantity"
+msgstr "ตั้งค่าปริมาณรายการสูญเสียกระบวนการ"
+
+msgid "Set Project Status"
+msgstr "ตั้งค่าสถานะโครงการ"
+
+msgid "Set Project and all Tasks to status {0}?"
+msgstr "ตั้งค่าโครงการและงานทั้งหมดเป็นสถานะ {0}?"
+
+msgid "Set Quantity"
+msgstr "ตั้งค่าปริมาณ"
+
+msgid "Set Reserve Warehouse"
+msgstr "ตั้งค่าคลังสินค้าสำรอง"
+
+msgid "Set Response Time for Priority {0} in row {1}."
+msgstr "ตั้งค่าเวลาตอบสนองสำหรับลำดับความสำคัญ {0} ในแถว {1}"
+
+msgid "Set Serial and Batch Bundle Naming Based on Naming Series"
+msgstr "ตั้งค่าการตั้งชื่อชุดซีเรียลและแบทช์ตามชุดการตั้งชื่อ"
+
+msgid "Set Source Warehouse"
+msgstr "ตั้งค่าคลังสินค้าแหล่งที่มา"
+
+msgid "Set Target Warehouse"
+msgstr "ตั้งค่าคลังสินค้าเป้าหมาย"
+
+msgid "Set Valuation Rate Based on Source Warehouse"
+msgstr "ตั้งค่าอัตราการประเมินมูลค่าตามคลังสินค้าแหล่งที่มา"
+
+msgid "Set Valuation Rate for Rejected Materials"
+msgstr "ตั้งค่าอัตราการประเมินมูลค่าสำหรับวัสดุที่ถูกปฏิเสธ"
+
+msgid "Set Warehouse"
+msgstr "ตั้งค่าคลังสินค้า"
+
+msgid "Set as Closed"
+msgstr "ตั้งค่าเป็นปิด"
+
+msgid "Set as Completed"
+msgstr "ตั้งค่าเป็นเสร็จสิ้น"
+
+msgid "Set as Lost"
+msgstr "ตั้งค่าเป็นสูญหาย"
+
+msgid "Set as Open"
+msgstr "ตั้งค่าเป็นเปิด"
+
+msgid "Set by Item Tax Template"
+msgstr "ตั้งค่าโดยแม่แบบภาษีรายการ"
+
+msgid "Set default inventory account for perpetual inventory"
+msgstr "ตั้งค่าบัญชีสินค้าคงคลังเริ่มต้นสำหรับสินค้าคงคลังถาวร"
+
+msgid "Set default {0} account for non stock items"
+msgstr "ตั้งค่าบัญชี {0} เริ่มต้นสำหรับรายการที่ไม่ใช่สต็อก"
+
+msgid "Set fieldname from which you want to fetch the data from the parent form."
+msgstr "ตั้งค่าชื่อฟิลด์ที่คุณต้องการดึงข้อมูลจากฟอร์มหลัก"
+
+msgid "Set quantity of process loss item:"
+msgstr "ตั้งค่าปริมาณของรายการสูญเสียกระบวนการ:"
+
+msgid "Set rate of sub-assembly item based on BOM"
+msgstr "ตั้งค่าอัตราของรายการชุดย่อยตาม BOM"
+
+msgid "Set targets Item Group-wise for this Sales Person."
+msgstr "ตั้งค่าเป้าหมายตามกลุ่มรายการสำหรับพนักงานขายนี้"
+
+msgid "Set the Planned Start Date (an Estimated Date at which you want the Production to begin)"
+msgstr "ตั้งค่าวันเริ่มต้นที่วางแผนไว้ (วันที่ประมาณการที่คุณต้องการให้การผลิตเริ่มต้น)"
+
+msgid "Set the status manually."
+msgstr "ตั้งค่าสถานะด้วยตนเอง"
+
+msgid "Set this if the customer is a Public Administration company."
+msgstr "ตั้งค่านี้หากลูกค้าเป็นบริษัทการบริหารสาธารณะ"
+
+msgid "Set {0} in asset category {1} for company {2}"
+msgstr "ตั้งค่า {0} ในหมวดหมู่สินทรัพย์ {1} สำหรับบริษัท {2}"
+
+msgid "Set {0} in asset category {1} or company {2}"
+msgstr "ตั้งค่า {0} ในหมวดหมู่สินทรัพย์ {1} หรือบริษัท {2}"
+
+msgid "Set {0} in company {1}"
+msgstr "ตั้งค่า {0} ในบริษัท {1}"
+
+msgid "Sets 'Accepted Warehouse' in each row of the Items table."
+msgstr "ตั้งค่า 'คลังสินค้าที่รับ' ในแต่ละแถวของตารางรายการ"
+
+msgid "Sets 'Rejected Warehouse' in each row of the Items table."
+msgstr "ตั้งค่า 'คลังสินค้าที่ปฏิเสธ' ในแต่ละแถวของตารางรายการ"
+
+msgid "Sets 'Reserve Warehouse' in each row of the Supplied Items table."
+msgstr "ตั้งค่า 'คลังสินค้าสำรอง' ในแต่ละแถวของตารางรายการที่จัดหา"
+
+msgid "Sets 'Source Warehouse' in each row of the items table."
+msgstr "ตั้งค่า 'คลังสินค้าแหล่งที่มา' ในแต่ละแถวของตารางรายการ"
+
+msgid "Sets 'Target Warehouse' in each row of the items table."
+msgstr "ตั้งค่า 'คลังสินค้าเป้าหมาย' ในแต่ละแถวของตารางรายการ"
+
+msgid "Sets 'Warehouse' in each row of the Items table."
+msgstr "ตั้งค่า 'คลังสินค้า' ในแต่ละแถวของตารางรายการ"
+
+msgid "Setting Account Type helps in selecting this Account in transactions."
+msgstr "การตั้งค่าประเภทบัญชีช่วยในการเลือกบัญชีนี้ในธุรกรรม"
+
+msgid "Setting Events to {0}, since the Employee attached to the below Sales Persons does not have a User ID{1}"
+msgstr "ตั้งค่าเหตุการณ์เป็น {0} เนื่องจากพนักงานที่แนบมากับพนักงานขายด้านล่างไม่มีรหัสผู้ใช้ {1}"
+
+msgid "Setting Item Locations..."
+msgstr "กำลังตั้งค่าตำแหน่งรายการ..."
+
+msgid "Setting defaults"
+msgstr "กำลังตั้งค่าค่าเริ่มต้น"
+
+msgid "Setting the account as a Company Account is necessary for Bank Reconciliation"
+msgstr "การตั้งค่าบัญชีเป็นบัญชีบริษัทเป็นสิ่งจำเป็นสำหรับการกระทบยอดธนาคาร"
+
+msgid "Setting up company"
+msgstr "กำลังตั้งค่าบริษัท"
+
+msgid "Setting {0} is required"
+msgstr ""
+
+msgid "Settings"
+msgstr "การตั้งค่า"
+
+msgid "Settings for Selling Module"
+msgstr "การตั้งค่าสำหรับโมดูลการขาย"
+
+msgid "Settled"
+msgstr "ตกลงแล้ว"
+
+msgid "Setup"
+msgstr "การตั้งค่า"
+
+msgid "Setup your organization"
+msgstr "ตั้งค่าองค์กรของคุณ"
+
+msgid "Share Balance"
+msgstr "แชร์ยอดคงเหลือ"
+
+msgid "Share Ledger"
+msgstr "แชร์บัญชีแยกประเภท"
+
+msgid "Share Management"
+msgstr ""
+
+msgid "Share Transfer"
+msgstr "แชร์การโอน"
+
+msgid "Share Type"
+msgstr "ประเภทการแชร์"
+
+msgid "Shareholder"
+msgstr "ผู้ถือหุ้น"
+
+msgid "Shelf Life In Days"
+msgstr "อายุการเก็บรักษาในวัน"
+
+msgid "Shelf Life in Days"
+msgstr "อายุการเก็บรักษาในวัน"
+
+msgid "Shift"
+msgstr "กะ"
+
+msgid "Shift Factor"
+msgstr "ปัจจัยกะ"
+
+msgid "Shift Name"
+msgstr "ชื่อกะ"
+
+msgid "Shipment"
+msgstr "การจัดส่ง"
+
+msgid "Shipment Amount"
+msgstr "จำนวนเงินการจัดส่ง"
+
+msgid "Shipment Delivery Note"
+msgstr "ใบส่งของการจัดส่ง"
+
+msgid "Shipment ID"
+msgstr "รหัสการจัดส่ง"
+
+msgid "Shipment Information"
+msgstr "ข้อมูลการจัดส่ง"
+
+msgid "Shipment Parcel"
+msgstr "พัสดุการจัดส่ง"
+
+msgid "Shipment Parcel Template"
+msgstr "แม่แบบพัสดุการจัดส่ง"
+
+msgid "Shipment Type"
+msgstr "ประเภทการจัดส่ง"
+
+msgid "Shipment details"
+msgstr "รายละเอียดการจัดส่ง"
+
+msgid "Shipments"

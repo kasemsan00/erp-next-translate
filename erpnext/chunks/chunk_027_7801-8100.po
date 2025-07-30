@@ -1,0 +1,300 @@
+﻿msgid "Electronics"
+msgstr ""
+
+msgid "Ells (UK)"
+msgstr ""
+
+msgid "Email"
+msgstr "อีเมล"
+
+msgid "Email / Notifications"
+msgstr ""
+
+msgid "Email Account"
+msgstr "บัญชีอีเมล"
+
+msgid "Email Address"
+msgstr "ที่อยู่อีเมล"
+
+msgid "Email Address (required)"
+msgstr "ที่อยู่อีเมล (จำเป็น)"
+
+msgid "Email Address must be unique, it is already used in {0}"
+msgstr "ที่อยู่อีเมลต้องไม่ซ้ำกัน มีการใช้งานแล้วใน {0}"
+
+msgid "Email Campaign"
+msgstr "แคมเปญอีเมล"
+
+msgid "Email Campaign For "
+msgstr ""
+
+msgid "Email Details"
+msgstr "รายละเอียดอีเมล"
+
+msgid "Email Digest"
+msgstr "สรุปอีเมล"
+
+msgid "Email Digest Recipient"
+msgstr "ผู้รับสรุปอีเมล"
+
+msgid "Email Digest Settings"
+msgstr "การตั้งค่าสรุปอีเมล"
+
+msgid "Email Digest: {0}"
+msgstr "สรุปอีเมล: {0}"
+
+msgid "Email Domain"
+msgstr "โดเมนอีเมล"
+
+msgid "Email Group"
+msgstr "กลุ่มอีเมล"
+
+msgid "Email Id"
+msgstr "รหัสอีเมล"
+
+msgid "Email Receipt"
+msgstr "ใบเสร็จอีเมล"
+
+msgid "Email Sent"
+msgstr "ส่งอีเมลแล้ว"
+
+msgid "Email Sent to Supplier {0}"
+msgstr "ส่งอีเมลถึงผู้จัดจำหน่าย {0}"
+
+msgid "Email Settings"
+msgstr "การตั้งค่าอีเมล"
+
+msgid "Email Template"
+msgstr "แม่แบบอีเมล"
+
+msgid "Email not sent to {0} (unsubscribed / disabled)"
+msgstr "ไม่ได้ส่งอีเมลถึง {0} (ยกเลิกการสมัคร / ปิดใช้งาน)"
+
+msgid "Email or Phone/Mobile of the Contact are mandatory to continue."
+msgstr "อีเมลหรือโทรศัพท์/มือถือของผู้ติดต่อเป็นสิ่งจำเป็นในการดำเนินการต่อ"
+
+msgid "Email sent successfully."
+msgstr "ส่งอีเมลสำเร็จ"
+
+msgid "Email sent to"
+msgstr "ส่งอีเมลถึง"
+
+msgid "Email sent to {0}"
+msgstr "ส่งอีเมลถึง {0}"
+
+msgid "Email verification failed."
+msgstr "การยืนยันอีเมลล้มเหลว"
+
+msgid "Emails Queued"
+msgstr "อีเมลในคิว"
+
+msgid "Emergency Contact"
+msgstr "ผู้ติดต่อฉุกเฉิน"
+
+msgid "Emergency Contact Name"
+msgstr "ชื่อผู้ติดต่อฉุกเฉิน"
+
+msgid "Emergency Phone"
+msgstr "โทรศัพท์ฉุกเฉิน"
+
+msgid "Employee"
+msgstr "พนักงาน"
+
+msgid "Employee "
+msgstr ""
+
+msgid "Employee Advance"
+msgstr "เงินล่วงหน้าพนักงาน"
+
+msgid "Employee Advances"
+msgstr "เงินทดรองจ่ายพนักงาน"
+
+msgid "Employee Detail"
+msgstr "รายละเอียดพนักงาน"
+
+msgid "Employee Education"
+msgstr "การศึกษาของพนักงาน"
+
+msgid "Employee Exit"
+msgstr "การพ้นสภาพของพนักงาน"
+
+msgid "Employee External Work History"
+msgstr "ประวัติการทำงานภายนอกของพนักงาน"
+
+msgid "Employee Group"
+msgstr "กลุ่มพนักงาน"
+
+msgid "Employee Group Table"
+msgstr "ตารางกลุ่มพนักงาน"
+
+msgid "Employee ID"
+msgstr "รหัสพนักงาน"
+
+msgid "Employee Internal Work History"
+msgstr "ประวัติการทำงานภายในของพนักงาน"
+
+msgid "Employee Name"
+msgstr "ชื่อพนักงาน"
+
+msgid "Employee Number"
+msgstr "หมายเลขพนักงาน"
+
+msgid "Employee User Id"
+msgstr "รหัสผู้ใช้พนักงาน"
+
+msgid "Employee cannot report to himself."
+msgstr "พนักงานไม่สามารถรายงานต่อตัวเองได้"
+
+msgid "Employee is required while issuing Asset {0}"
+msgstr "จำเป็นต้องมีพนักงานในขณะที่ออกสินทรัพย์ {0}"
+
+msgid "Employee {0} does not belongs to the company {1}"
+msgstr "พนักงาน {0} ไม่ได้เป็นของบริษัท {1}"
+
+msgid "Employee {0} is currently working on another workstation. Please assign another employee."
+msgstr "พนักงาน {0} กำลังทำงานอยู่ที่สถานีงานอื่น โปรดกำหนดพนักงานคนอื่น"
+
+msgid "Employees"
+msgstr "พนักงาน"
+
+msgid "Empty"
+msgstr "ว่างเปล่า"
+
+msgid "Ems(Pica)"
+msgstr ""
+
+msgid "Enable Allow Partial Reservation in the Stock Settings to reserve partial stock."
+msgstr "เปิดใช้งานอนุญาตการจองบางส่วนในการตั้งค่าสต็อกเพื่อจองสต็อกบางส่วน"
+
+msgid "Enable Appointment Scheduling"
+msgstr "เปิดใช้งานการจัดตารางนัดหมาย"
+
+msgid "Enable Auto Email"
+msgstr "เปิดใช้งานอีเมลอัตโนมัติ"
+
+msgid "Enable Auto Re-Order"
+msgstr "เปิดใช้งานการสั่งซื้อใหม่อัตโนมัติ"
+
+msgid "Enable Automatic Party Matching"
+msgstr "เปิดใช้งานการจับคู่ฝ่ายอัตโนมัติ"
+
+msgid "Enable Capital Work in Progress Accounting"
+msgstr "เปิดใช้งานการบัญชีงานทุนระหว่างดำเนินการ"
+
+msgid "Enable Common Party Accounting"
+msgstr "เปิดใช้งานการบัญชีฝ่ายทั่วไป"
+
+msgid "Enable Cut-Off Date on Bulk Delivery Note Creation"
+msgstr "เปิดใช้งานวันที่ตัดยอดในการสร้างใบส่งของจำนวนมาก"
+
+msgid "Enable Deferred Expense"
+msgstr "เปิดใช้งานค่าใช้จ่ายรอตัดบัญชี"
+
+msgid "Enable Deferred Revenue"
+msgstr "เปิดใช้งานรายได้รอตัดบัญชี"
+
+msgid "Enable Discount Accounting for Selling"
+msgstr "เปิดใช้งานการบัญชีส่วนลดสำหรับการขาย"
+
+msgid "Enable European Access"
+msgstr "เปิดใช้งานการเข้าถึงในยุโรป"
+
+msgid "Enable Fuzzy Matching"
+msgstr "เปิดใช้งานการจับคู่แบบคลุมเครือ"
+
+msgid "Enable Health Monitor"
+msgstr "เปิดใช้งานตัวตรวจสอบสุขภาพ"
+
+msgid "Enable Immutable Ledger"
+msgstr "เปิดใช้งานบัญชีแยกประเภทที่ไม่เปลี่ยนแปลง"
+
+msgid "Enable Perpetual Inventory"
+msgstr "เปิดใช้งานสินค้าคงคลังถาวร"
+
+msgid "Enable Provisional Accounting For Non Stock Items"
+msgstr "เปิดใช้งานการบัญชีชั่วคราวสำหรับรายการที่ไม่ใช่สต็อก"
+
+msgid "Enable Stock Reservation"
+msgstr "เปิดใช้งานการจองสต็อก"
+
+msgid "Enable YouTube Tracking"
+msgstr "เปิดใช้งานการติดตาม YouTube"
+
+msgid "Enable it if users want to consider rejected materials to dispatch."
+msgstr "เปิดใช้งานหากผู้ใช้ต้องการพิจารณาวัสดุที่ถูกปฏิเสธสำหรับการจัดส่ง"
+
+msgid "Enable this checkbox even if you want to set the zero priority"
+msgstr "เปิดใช้งานช่องทำเครื่องหมายนี้แม้ว่าคุณต้องการตั้งค่าลำดับความสำคัญเป็นศูนย์"
+
+msgid "Enable this option to calculate daily depreciation by considering the total number of days in the entire depreciation period, (including leap years) while using daily pro-rata based depreciation"
+msgstr "เปิดใช้งานตัวเลือกนี้เพื่อคำนวณค่าเสื่อมรายวันโดยพิจารณาจำนวนวันทั้งหมดในช่วงค่าเสื่อมทั้งหมด (รวมถึงปีอธิกสุรทิน) ในขณะที่ใช้ค่าเสื่อมตามสัดส่วนรายวัน"
+
+msgid "Enable to apply SLA on every {0}"
+msgstr "เปิดใช้งานเพื่อใช้ SLA ในทุก {0}"
+
+msgid "Enabled"
+msgstr "เปิดใช้งานแล้ว"
+
+msgid "Enabling the check box will fetch timesheet on select of a Project in Sales Invoice"
+msgstr "การเปิดใช้งานช่องทำเครื่องหมายจะดึงตารางเวลางานเมื่อเลือกโครงการในใบแจ้งหนี้ขาย"
+
+msgid "Enabling this checkbox will force each Job Card Time Log to have From Time and To Time"
+msgstr "การเปิดใช้งานช่องทำเครื่องหมายนี้จะบังคับให้แต่ละบันทึกเวลาในบัตรงานมีเวลาเริ่มต้นและเวลาสิ้นสุด"
+
+msgid "Enabling this ensures each Purchase Invoice has a unique value in Supplier Invoice No. field within a particular fiscal year"
+msgstr "การเปิดใช้งานนี้ทำให้มั่นใจว่าใบแจ้งหนี้ซื้อแต่ละใบมีค่าที่ไม่ซ้ำกันในฟิลด์หมายเลขใบแจ้งหนี้ของผู้จัดจำหน่ายภายในปีงบประมาณที่กำหนด"
+
+msgid "Enabling this option will allow you to record - <br><br> 1. Advances Received in a <b>Liability Account</b> instead of the <b>Asset Account</b><br><br>2. Advances Paid in an <b>Asset Account</b> instead of the <b> Liability Account</b>"
+msgstr "การเปิดใช้งานตัวเลือกนี้จะช่วยให้คุณบันทึก - <br><br> 1. เงินล่วงหน้าที่ได้รับใน <b>บัญชีหนี้สิน</b> แทนที่จะเป็น <b>บัญชีสินทรัพย์</b><br><br>2. เงินล่วงหน้าที่จ่ายใน <b>บัญชีสินทรัพย์</b> แทนที่จะเป็น <b>บัญชีหนี้สิน</b>"
+
+msgid "Enabling this will allow creation of multi-currency invoices against single party account in company currency"
+msgstr "การเปิดใช้งานนี้จะอนุญาตให้สร้างใบแจ้งหนี้หลายสกุลเงินกับบัญชีฝ่ายเดียวในสกุลเงินของบริษัท"
+
+msgid "Enabling this will change the way how cancelled transactions are handled."
+msgstr "การเปิดใช้งานนี้จะเปลี่ยนวิธีการจัดการธุรกรรมที่ถูกยกเลิก"
+
+msgid "Encashment Date"
+msgstr "วันที่แลกเป็นเงินสด"
+
+msgid "End Date"
+msgstr ""
+
+msgid "End Date cannot be before Start Date."
+msgstr ""
+
+msgid "End Time"
+msgstr "เวลาสิ้นสุด"
+
+msgid "End Transit"
+msgstr ""
+
+msgid "End Year"
+msgstr "ปีสิ้นสุด"
+
+msgid "End Year cannot be before Start Year"
+msgstr "ปีสิ้นสุดไม่สามารถอยู่ก่อนปีเริ่มต้นได้"
+
+msgid "End date cannot be before start date"
+msgstr "วันที่สิ้นสุดไม่สามารถอยู่ก่อนวันที่เริ่มต้นได้"
+
+msgid "End date of current invoice's period"
+msgstr "วันที่สิ้นสุดของรอบใบแจ้งหนี้ปัจจุบัน"
+
+msgid "End of Life"
+msgstr "สิ้นสุดอายุการใช้งาน"
+
+msgid "End of the current subscription period"
+msgstr "สิ้นสุดรอบการสมัครสมาชิกปัจจุบัน"
+
+msgid "Energy"
+msgstr ""
+
+msgid "Enforce Time Logs"
+msgstr "บังคับบันทึกเวลา"
+
+msgid "Engineer"
+msgstr ""
+
+msgid "Enough Parts to Build"
+msgstr "มีชิ้นส่วนเพียงพอสำหรับการสร้าง"
+

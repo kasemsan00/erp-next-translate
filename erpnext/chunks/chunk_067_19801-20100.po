@@ -1,0 +1,300 @@
+﻿msgstr "แบทช์ {1} หมดอายุแล้ว"
+
+msgid "Row #{0}: The warehouse {1} is not a child warehouse of a group warehouse {2}"
+msgstr "คลังสินค้า {1} ไม่ใช่คลังสินค้าย่อยของคลังสินค้ากลุ่ม {2}"
+
+msgid "Row #{0}: Timings conflicts with row {1}"
+msgstr "เวลาขัดแย้งกับแถว {1}"
+
+msgid "Row #{0}: Total Number of Depreciations cannot be less than or equal to Opening Number of Booked Depreciations"
+msgstr "จำนวนการหักค่าเสื่อมราคาทั้งหมดต้องไม่น้อยกว่าหรือเท่ากับจำนวนการหักค่าเสื่อมราคาที่จองไว้"
+
+msgid "Row #{0}: You cannot use the inventory dimension '{1}' in Stock Reconciliation to modify the quantity or valuation rate. Stock reconciliation with inventory dimensions is intended solely for performing opening entries."
+msgstr "คุณไม่สามารถใช้มิติสินค้าคงคลัง '{1}' ในการกระทบยอดสต็อกเพื่อแก้ไขปริมาณหรืออัตราการประเมินมูลค่า การกระทบยอดสต็อกด้วยมิติสินค้าคงคลังมีไว้สำหรับการทำรายการเปิดเท่านั้น"
+
+msgid "Row #{0}: You must select an Asset for Item {1}."
+msgstr "คุณต้องเลือกสินทรัพย์สำหรับรายการ {1}"
+
+msgid "Row #{0}: {1} can not be negative for item {2}"
+msgstr "{1} ไม่สามารถเป็นค่าลบสำหรับรายการ {2}"
+
+msgid "Row #{0}: {1} is not a valid reading field. Please refer to the field description."
+msgstr "{1} ไม่ใช่ฟิลด์การอ่านที่ถูกต้อง โปรดดูคำอธิบายฟิลด์"
+
+msgid "Row #{0}: {1} is required to create the Opening {2} Invoices"
+msgstr "ต้องการ {1} เพื่อสร้างใบแจ้งหนี้เปิด {2}"
+
+msgid "Row #{0}: {1} of {2} should be {3}. Please update the {1} or select a different account."
+msgstr "{1} ของ {2} ควรเป็น {3} โปรดอัปเดต {1} หรือเลือกบัญชีอื่น"
+
+msgid "Row #{1}: Warehouse is mandatory for stock Item {0}"
+msgstr "คลังสินค้าเป็นสิ่งจำเป็นสำหรับรายการสต็อก {0}"
+
+msgid "Row #{idx}: Cannot select Supplier Warehouse while suppling raw materials to subcontractor."
+msgstr "ไม่สามารถเลือกคลังสินค้าผู้จัดจำหน่ายขณะจัดหาวัตถุดิบให้กับผู้รับจ้างช่วง"
+
+msgid "Row #{idx}: Item rate has been updated as per valuation rate since its an internal stock transfer."
+msgstr "อัตรารายการได้รับการอัปเดตตามอัตราการประเมินมูลค่าเนื่องจากเป็นการโอนสต็อกภายใน"
+
+msgid "Row #{idx}: Please enter a location for the asset item {item_code}."
+msgstr "โปรดป้อนตำแหน่งสำหรับรายการสินทรัพย์ {item_code}"
+
+msgid "Row #{idx}: Received Qty must be equal to Accepted + Rejected Qty for Item {item_code}."
+msgstr "ปริมาณที่ได้รับต้องเท่ากับปริมาณที่ยอมรับ + ปริมาณที่ปฏิเสธสำหรับรายการ {item_code}"
+
+msgid "Row #{idx}: {field_label} can not be negative for item {item_code}."
+msgstr "{field_label} ไม่สามารถเป็นค่าลบสำหรับรายการ {item_code}"
+
+msgid "Row #{idx}: {field_label} is mandatory."
+msgstr "{field_label} เป็นสิ่งจำเป็น"
+
+msgid "Row #{idx}: {field_label} is not allowed in Purchase Return."
+msgstr "{field_label} ไม่อนุญาตในการคืนสินค้า"
+
+msgid "Row #{idx}: {from_warehouse_field} and {to_warehouse_field} cannot be same."
+msgstr "{from_warehouse_field} และ {to_warehouse_field} ไม่สามารถเป็นคลังเดียวกันได้"
+
+msgid "Row #{idx}: {schedule_date} cannot be before {transaction_date}."
+msgstr "{schedule_date} ไม่สามารถก่อน {transaction_date} ได้"
+
+msgid "Row #{}: Currency of {} - {} doesn't matches company currency."
+msgstr "สกุลเงินของ {} - {} ไม่ตรงกับสกุลเงินของบริษัท"
+
+msgid "Row #{}: Finance Book should not be empty since you're using multiple."
+msgstr "สมุดการเงินไม่ควรว่างเปล่าเนื่องจากคุณกำลังใช้หลายสมุด"
+
+msgid "Row #{}: Item Code: {} is not available under warehouse {}."
+msgstr "รหัสรายการ: {} ไม่มีในคลังสินค้า {}"
+
+msgid "Row #{}: POS Invoice {} has been {}"
+msgstr "ใบแจ้งหนี้ POS {} ได้ถูก {}"
+
+msgid "Row #{}: POS Invoice {} is not against customer {}"
+msgstr "ใบแจ้งหนี้ POS {} ไม่ได้อยู่กับลูกค้า {}"
+
+msgid "Row #{}: POS Invoice {} is not submitted yet"
+msgstr "ใบแจ้งหนี้ POS {} ยังไม่ได้ส่ง"
+
+msgid "Row #{}: Please assign task to a member."
+msgstr "โปรดมอบหมายงานให้กับสมาชิก"
+
+msgid "Row #{}: Please use a different Finance Book."
+msgstr "โปรดใช้สมุดการเงินที่แตกต่างกัน"
+
+msgid "Row #{}: Serial No {} cannot be returned since it was not transacted in original invoice {}"
+msgstr "หมายเลขซีเรียล {} ไม่สามารถคืนได้เนื่องจากไม่ได้ทำธุรกรรมในใบแจ้งหนี้ต้นฉบับ {}"
+
+msgid "Row #{}: Stock quantity not enough for Item Code: {} under warehouse {}. Available quantity {}."
+msgstr "ปริมาณสต็อกไม่เพียงพอสำหรับรหัสรายการ: {} ในคลังสินค้า {} ปริมาณที่มีอยู่ {}"
+
+msgid "Row #{}: The original Invoice {} of return invoice {} is not consolidated."
+msgstr "ใบแจ้งหนี้ต้นฉบับ {} ของใบแจ้งหนี้คืน {} ยังไม่ได้รวม"
+
+msgid "Row #{}: You cannot add positive quantities in a return invoice. Please remove item {} to complete the return."
+msgstr "คุณไม่สามารถเพิ่มปริมาณบวกในใบแจ้งหนี้คืน โปรดลบรายการ {} เพื่อดำเนินการคืนให้เสร็จสิ้น"
+
+msgid "Row #{}: item {} has been picked already."
+msgstr "รายการ {} ถูกเลือกแล้ว"
+
+msgid "Row #{}: {}"
+msgstr "แถว #{}: {}"
+
+msgid "Row #{}: {} {} does not exist."
+msgstr "{} {} ไม่มีอยู่"
+
+msgid "Row #{}: {} {} doesn't belong to Company {}. Please select valid {}."
+msgstr "{} {} ไม่ได้เป็นของบริษัท {} โปรดเลือก {} ที่ถูกต้อง"
+
+msgid "Row No {0}: Warehouse is required. Please set a Default Warehouse for Item {1} and Company {2}"
+msgstr ""
+
+msgid "Row Number"
+msgstr ""
+
+msgid "Row {0}"
+msgstr "แถว {0}"
+
+msgid "Row {0} : Operation is required against the raw material item {1}"
+msgstr "แถว {0} : ต้องการการดำเนินการสำหรับรายการวัตถุดิบ {1}"
+
+msgid "Row {0} picked quantity is less than the required quantity, additional {1} {2} required."
+msgstr "แถว {0} ปริมาณที่เลือกน้อยกว่าปริมาณที่ต้องการ ต้องการเพิ่มเติม {1} {2}"
+
+msgid "Row {0}# Item {1} cannot be transferred more than {2} against {3} {4}"
+msgstr "แถว {0}# รายการ {1} ไม่สามารถโอนมากกว่า {2} กับ {3} {4}"
+
+msgid "Row {0}# Item {1} not found in 'Raw Materials Supplied' table in {2} {3}"
+msgstr "แถว {0}# รายการ {1} ไม่พบในตาราง 'วัตถุดิบที่จัดหา' ใน {2} {3}"
+
+msgid "Row {0}: Accepted Qty and Rejected Qty can't be zero at the same time."
+msgstr "แถว {0}: ปริมาณที่ยอมรับและปริมาณที่ปฏิเสธไม่สามารถเป็นศูนย์พร้อมกันได้"
+
+msgid "Row {0}: Account {1} and Party Type {2} have different account types"
+msgstr "แถว {0}: บัญชี {1} และประเภทคู่สัญญา {2} มีประเภทบัญชีที่แตกต่างกัน"
+
+msgid "Row {0}: Activity Type is mandatory."
+msgstr "แถว {0}: ประเภทกิจกรรมเป็นสิ่งจำเป็น"
+
+msgid "Row {0}: Advance against Customer must be credit"
+msgstr "แถว {0}: การล่วงหน้ากับลูกค้าต้องเป็นเครดิต"
+
+msgid "Row {0}: Advance against Supplier must be debit"
+msgstr "แถว {0}: การล่วงหน้ากับผู้จัดจำหน่ายต้องเป็นเดบิต"
+
+msgid "Row {0}: Allocated amount {1} must be less than or equal to invoice outstanding amount {2}"
+msgstr "แถว {0}: จำนวนเงินที่จัดสรร {1} ต้องน้อยกว่าหรือเท่ากับจำนวนเงินค้างชำระในใบแจ้งหนี้ {2}"
+
+msgid "Row {0}: Allocated amount {1} must be less than or equal to remaining payment amount {2}"
+msgstr "แถว {0}: จำนวนเงินที่จัดสรร {1} ต้องน้อยกว่าหรือเท่ากับจำนวนเงินที่เหลืออยู่ {2}"
+
+msgid "Row {0}: As {1} is enabled, raw materials cannot be added to {2} entry. Use {3} entry to consume raw materials."
+msgstr "แถว {0}: เนื่องจาก {1} ถูกเปิดใช้งาน วัตถุดิบไม่สามารถเพิ่มในรายการ {2} ได้ ใช้รายการ {3} เพื่อใช้วัตถุดิบ"
+
+msgid "Row {0}: Bill of Materials not found for the Item {1}"
+msgstr "แถว {0}: ไม่พบใบกำกับวัสดุสำหรับรายการ {1}"
+
+msgid "Row {0}: Both Debit and Credit values cannot be zero"
+msgstr "แถว {0}: ค่าเดบิตและเครดิตไม่สามารถเป็นศูนย์ได้"
+
+msgid "Row {0}: Conversion Factor is mandatory"
+msgstr "แถว {0}: ปัจจัยการแปลงเป็นสิ่งจำเป็น"
+
+msgid "Row {0}: Cost Center {1} does not belong to Company {2}"
+msgstr "แถว {0}: ศูนย์ต้นทุน {1} ไม่ได้เป็นของบริษัท {2}"
+
+msgid "Row {0}: Cost center is required for an item {1}"
+msgstr "แถว {0}: ต้องการศูนย์ต้นทุนสำหรับรายการ {1}"
+
+msgid "Row {0}: Credit entry can not be linked with a {1}"
+msgstr "แถว {0}: รายการเครดิตไม่สามารถเชื่อมโยงกับ {1} ได้"
+
+msgid "Row {0}: Currency of the BOM #{1} should be equal to the selected currency {2}"
+msgstr "แถว {0}: สกุลเงินของ BOM #{1} ควรเท่ากับสกุลเงินที่เลือก {2}"
+
+msgid "Row {0}: Debit entry can not be linked with a {1}"
+msgstr "แถว {0}: รายการเดบิตไม่สามารถเชื่อมโยงกับ {1} ได้"
+
+msgid "Row {0}: Delivery Warehouse ({1}) and Customer Warehouse ({2}) can not be same"
+msgstr "แถว {0}: คลังสินค้าส่งมอบ ({1}) และคลังสินค้าลูกค้า ({2}) ไม่สามารถเป็นคลังเดียวกันได้"
+
+msgid "Row {0}: Due Date in the Payment Terms table cannot be before Posting Date"
+msgstr "แถว {0}: วันที่ครบกำหนดในตารางเงื่อนไขการชำระเงินไม่สามารถก่อนวันที่โพสต์ได้"
+
+msgid "Row {0}: Either Delivery Note Item or Packed Item reference is mandatory."
+msgstr "แถว {0}: ต้องการการอ้างอิงรายการใบส่งของหรือรายการที่บรรจุ"
+
+msgid "Row {0}: Exchange Rate is mandatory"
+msgstr "แถว {0}: อัตราแลกเปลี่ยนเป็นสิ่งจำเป็น"
+
+msgid "Row {0}: Expected Value After Useful Life must be less than Gross Purchase Amount"
+msgstr "แถว {0}: มูลค่าที่คาดหวังหลังอายุการใช้งานต้องน้อยกว่าจำนวนเงินซื้อรวม"
+
+msgid "Row {0}: Expense Head changed to {1} as no Purchase Receipt is created against Item {2}."
+msgstr "แถว {0}: หัวข้อค่าใช้จ่ายเปลี่ยนเป็น {1} เนื่องจากไม่มีการสร้างใบรับซื้อสำหรับรายการ {2}"
+
+msgid "Row {0}: Expense Head changed to {1} because account {2} is not linked to warehouse {3} or it is not the default inventory account"
+msgstr "แถว {0}: หัวข้อค่าใช้จ่ายเปลี่ยนเป็น {1} เนื่องจากบัญชี {2} ไม่ได้เชื่อมโยงกับคลังสินค้า {3} หรือไม่ใช่บัญชีสินค้าคงคลังเริ่มต้น"
+
+msgid "Row {0}: Expense Head changed to {1} because expense is booked against this account in Purchase Receipt {2}"
+msgstr "แถว {0}: หัวข้อค่าใช้จ่ายเปลี่ยนเป็น {1} เนื่องจากค่าใช้จ่ายถูกบันทึกในบัญชีนี้ในใบรับซื้อ {2}"
+
+msgid "Row {0}: For Supplier {1}, Email Address is Required to send an email"
+msgstr "แถว {0}: สำหรับผู้จัดจำหน่าย {1} ต้องการที่อยู่อีเมลเพื่อส่งอีเมล"
+
+msgid "Row {0}: From Time and To Time is mandatory."
+msgstr "แถว {0}: เวลาเริ่มต้นและเวลาสิ้นสุดเป็นสิ่งจำเป็น"
+
+msgid "Row {0}: From Time and To Time of {1} is overlapping with {2}"
+msgstr "แถว {0}: เวลาเริ่มต้นและเวลาสิ้นสุดของ {1} ทับซ้อนกับ {2}"
+
+msgid "Row {0}: From Warehouse is mandatory for internal transfers"
+msgstr "แถว {0}: คลังสินค้าเริ่มต้นเป็นสิ่งจำเป็นสำหรับการโอนภายใน"
+
+msgid "Row {0}: From time must be less than to time"
+msgstr "แถว {0}: เวลาเริ่มต้นต้องน้อยกว่าเวลาสิ้นสุด"
+
+msgid "Row {0}: Hours value must be greater than zero."
+msgstr "แถว {0}: ค่าชั่วโมงต้องมากกว่าศูนย์"
+
+msgid "Row {0}: Invalid reference {1}"
+msgstr "แถว {0}: การอ้างอิง {1} ไม่ถูกต้อง"
+
+msgid "Row {0}: Item Tax template updated as per validity and rate applied"
+msgstr "แถว {0}: แม่แบบภาษีรายการอัปเดตตามความถูกต้องและอัตราที่ใช้"
+
+msgid "Row {0}: Item rate has been updated as per valuation rate since its an internal stock transfer"
+msgstr "แถว {0}: อัตรารายการได้รับการอัปเดตตามอัตราการประเมินมูลค่าเนื่องจากเป็นการโอนสต็อกภายใน"
+
+msgid "Row {0}: Item {1} must be a stock item."
+msgstr "แถว {0}: รายการ {1} ต้องเป็นรายการสต็อก"
+
+msgid "Row {0}: Item {1} must be a subcontracted item."
+msgstr "แถว {0}: รายการ {1} ต้องเป็นรายการจ้างช่วง"
+
+msgid "Row {0}: Item {1}'s quantity cannot be higher than the available quantity."
+msgstr "แถว {0}: ปริมาณของรายการ {1} ไม่สามารถมากกว่าปริมาณที่มีอยู่ได้"
+
+msgid "Row {0}: Packed Qty must be equal to {1} Qty."
+msgstr "แถว {0}: ปริมาณที่บรรจุต้องเท่ากับปริมาณ {1}"
+
+msgid "Row {0}: Packing Slip is already created for Item {1}."
+msgstr "แถว {0}: ใบบรรจุถูกสร้างขึ้นแล้วสำหรับรายการ {1}"
+
+msgid "Row {0}: Party / Account does not match with {1} / {2} in {3} {4}"
+msgstr "แถว {0}: คู่สัญญา/บัญชีไม่ตรงกับ {1} / {2} ใน {3} {4}"
+
+msgid "Row {0}: Party Type and Party is required for Receivable / Payable account {1}"
+msgstr "แถว {0}: ต้องการประเภทคู่สัญญาและคู่สัญญาสำหรับบัญชีลูกหนี้/เจ้าหนี้ {1}"
+
+msgid "Row {0}: Payment Term is mandatory"
+msgstr "แถว {0}: เงื่อนไขการชำระเงินเป็นสิ่งจำเป็น"
+
+msgid "Row {0}: Payment against Sales/Purchase Order should always be marked as advance"
+msgstr "แถว {0}: การชำระเงินกับคำสั่งขาย/ซื้อควรถูกทำเครื่องหมายเป็นล่วงหน้าเสมอ"
+
+msgid "Row {0}: Please check 'Is Advance' against Account {1} if this is an advance entry."
+msgstr "แถว {0}: โปรดตรวจสอบ 'เป็นล่วงหน้า' กับบัญชี {1} หากนี่เป็นรายการล่วงหน้า"
+
+msgid "Row {0}: Please provide a valid Delivery Note Item or Packed Item reference."
+msgstr "แถว {0}: โปรดระบุการอ้างอิงรายการใบส่งของหรือรายการที่บรรจุที่ถูกต้อง"
+
+msgid "Row {0}: Please select a BOM for Item {1}."
+msgstr "แถว {0}: โปรดเลือก BOM สำหรับรายการ {1}"
+
+msgid "Row {0}: Please select an active BOM for Item {1}."
+msgstr "แถว {0}: โปรดเลือก BOM ที่ใช้งานสำหรับรายการ {1}"
+
+msgid "Row {0}: Please select an valid BOM for Item {1}."
+msgstr "แถว {0}: โปรดเลือก BOM ที่ถูกต้องสำหรับรายการ {1}"
+
+msgid "Row {0}: Please set at Tax Exemption Reason in Sales Taxes and Charges"
+msgstr "แถว {0}: โปรดตั้งเหตุผลการยกเว้นภาษีในภาษีและค่าใช้จ่ายการขาย"
+
+msgid "Row {0}: Please set the Mode of Payment in Payment Schedule"
+msgstr "แถว {0}: โปรดตั้งค่ารูปแบบการชำระเงินในตารางการชำระเงิน"
+
+msgid "Row {0}: Please set the correct code on Mode of Payment {1}"
+msgstr "แถว {0}: โปรดตั้งรหัสที่ถูกต้องในรูปแบบการชำระเงิน {1}"
+
+msgid "Row {0}: Project must be same as the one set in the Timesheet: {1}."
+msgstr "แถว {0}: โครงการต้องเหมือนกับที่ตั้งไว้ในตารางเวลา: {1}"
+
+msgid "Row {0}: Purchase Invoice {1} has no stock impact."
+msgstr "แถว {0}: ใบแจ้งหนี้ซื้อ {1} ไม่มีผลกระทบต่อสต็อก"
+
+msgid "Row {0}: Qty cannot be greater than {1} for the Item {2}."
+msgstr "แถว {0}: ปริมาณไม่สามารถมากกว่า {1} สำหรับรายการ {2}"
+
+msgid "Row {0}: Qty in Stock UOM can not be zero."
+msgstr "แถว {0}: ปริมาณในหน่วยวัดสต็อกไม่สามารถเป็นศูนย์ได้"
+
+msgid "Row {0}: Qty must be greater than 0."
+msgstr "แถว {0}: ปริมาณต้องมากกว่า 0"
+
+msgid "Row {0}: Quantity cannot be negative."
+msgstr "แถว {0}: ปริมาณไม่สามารถเป็นค่าลบได้"
+
+msgid "Row {0}: Quantity not available for {4} in warehouse {1} at posting time of the entry ({2} {3})"
+msgstr "แถว {0}: ไม่มีปริมาณสำหรับ {4} ในคลังสินค้า {1} ณ เวลาที่โพสต์รายการ ({2} {3})"
+
+msgid "Row {0}: Shift cannot be changed since the depreciation has already been processed"

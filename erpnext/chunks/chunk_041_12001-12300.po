@@ -1,0 +1,300 @@
+﻿
+msgid "Kilometer"
+msgstr ""
+
+msgid "Kilometer/Hour"
+msgstr ""
+
+msgid "Kilopascal"
+msgstr ""
+
+msgid "Kilopond"
+msgstr ""
+
+msgid "Kilopound-Force"
+msgstr ""
+
+msgid "Kilowatt"
+msgstr ""
+
+msgid "Kilowatt-Hour"
+msgstr ""
+
+msgid "Kindly cancel the Manufacturing Entries first against the work order {0}."
+msgstr "กรุณายกเลิกการบันทึกการผลิตก่อนสำหรับคำสั่งงาน {0}"
+
+msgid "Kindly select the company first"
+msgstr "กรุณาเลือกบริษัทก่อน"
+
+msgid "Kip"
+msgstr ""
+
+msgid "Knot"
+msgstr ""
+
+msgid "LIFO"
+msgstr ""
+
+msgid "Label"
+msgstr "ป้ายกำกับ"
+
+msgid "Landed Cost Help"
+msgstr "ความช่วยเหลือต้นทุนที่มาถึง"
+
+msgid "Landed Cost Item"
+msgstr "รายการต้นทุนที่มาถึง"
+
+msgid "Landed Cost Purchase Receipt"
+msgstr "ใบรับซื้อต้นทุนที่มาถึง"
+
+msgid "Landed Cost Taxes and Charges"
+msgstr "ภาษีและค่าใช้จ่ายต้นทุนที่มาถึง"
+
+msgid "Landed Cost Voucher"
+msgstr "ใบสำคัญต้นทุนที่มาถึง"
+
+msgid "Landed Cost Voucher Amount"
+msgstr "จำนวนเงินใบสำคัญต้นทุนที่มาถึง"
+
+msgid "Landscape"
+msgstr "แนวนอน"
+
+msgid "Language"
+msgstr "ภาษา"
+
+msgid "Lapsed"
+msgstr "หมดอายุ"
+
+msgid "Large"
+msgstr "ใหญ่"
+
+msgid "Last Carbon Check"
+msgstr "การตรวจสอบคาร์บอนล่าสุด"
+
+msgid "Last Communication"
+msgstr "การสื่อสารล่าสุด"
+
+msgid "Last Communication Date"
+msgstr "วันที่การสื่อสารล่าสุด"
+
+msgid "Last Completion Date"
+msgstr "วันที่เสร็จสิ้นล่าสุด"
+
+msgid "Last GL Entry update was done {}. This operation is not allowed while system is actively being used. Please wait for 5 minutes before retrying."
+msgstr "การอัปเดตรายการบัญชีแยกประเภททั่วไปครั้งล่าสุดเสร็จสิ้น {} การดำเนินการนี้ไม่ได้รับอนุญาตในขณะที่ระบบกำลังใช้งานอยู่ โปรดรอ 5 นาทีก่อนลองอีกครั้ง"
+
+msgid "Last Integration Date"
+msgstr "วันที่การรวมล่าสุด"
+
+msgid "Last Month Downtime Analysis"
+msgstr "การวิเคราะห์เวลาหยุดทำงานเดือนที่แล้ว"
+
+msgid "Last Name"
+msgstr "นามสกุล"
+
+msgid "Last Name, Email or Phone/Mobile of the user are mandatory to continue."
+msgstr "นามสกุล อีเมล หรือโทรศัพท์/มือถือของผู้ใช้เป็นสิ่งจำเป็นในการดำเนินการต่อ"
+
+msgid "Last Order Amount"
+msgstr "จำนวนคำสั่งซื้อครั้งล่าสุด"
+
+msgid "Last Order Date"
+msgstr "วันที่คำสั่งซื้อครั้งล่าสุด"
+
+msgid "Last Purchase Rate"
+msgstr "อัตราการซื้อครั้งล่าสุด"
+
+msgid "Last Stock Transaction for item {0} under warehouse {1} was on {2}."
+msgstr "ธุรกรรมสต็อกครั้งล่าสุดสำหรับรายการ {0} ภายใต้คลังสินค้า {1} คือวันที่ {2}"
+
+msgid "Last carbon check date cannot be a future date"
+msgstr "วันที่ตรวจสอบคาร์บอนครั้งล่าสุดต้องไม่เป็นวันที่ในอนาคต"
+
+msgid "Last transacted"
+msgstr "ธุรกรรมครั้งล่าสุด"
+
+msgid "Latest"
+msgstr "ล่าสุด"
+
+msgid "Latest Age"
+msgstr "อายุล่าสุด"
+
+msgid "Latitude"
+msgstr "ละติจูด"
+
+msgid "Lead"
+msgstr "ลูกค้าเป้าหมาย"
+
+msgid "Lead -> Prospect"
+msgstr "ลูกค้าเป้าหมาย -> ผู้มีโอกาสเป็นลูกค้า"
+
+msgid "Lead Conversion Time"
+msgstr "เวลาการแปลงลูกค้าเป้าหมาย"
+
+msgid "Lead Count"
+msgstr "จำนวนลูกค้าเป้าหมาย"
+
+msgid "Lead Details"
+msgstr "รายละเอียดลูกค้าเป้าหมาย"
+
+msgid "Lead Name"
+msgstr "ชื่อลูกค้าเป้าหมาย"
+
+msgid "Lead Owner"
+msgstr "เจ้าของลูกค้าเป้าหมาย"
+
+msgid "Lead Owner Efficiency"
+msgstr "ประสิทธิภาพของเจ้าของลูกค้าเป้าหมาย"
+
+msgid "Lead Owner cannot be same as the Lead Email Address"
+msgstr "เจ้าของลูกค้าเป้าหมายไม่สามารถเป็นที่อยู่อีเมลของลูกค้าเป้าหมายได้"
+
+msgid "Lead Source"
+msgstr ""
+
+msgid "Lead Time"
+msgstr "เวลานำ"
+
+msgid "Lead Time (Days)"
+msgstr "เวลานำ (วัน)"
+
+msgid "Lead Time (in mins)"
+msgstr "เวลานำ (นาที)"
+
+msgid "Lead Time Date"
+msgstr "วันที่เวลานำ"
+
+msgid "Lead Time Days"
+msgstr "วันเวลานำ"
+
+msgid "Lead Time in days"
+msgstr "เวลานำเป็นวัน"
+
+msgid "Lead Type"
+msgstr "ประเภทลูกค้าเป้าหมาย"
+
+msgid "Lead {0} has been added to prospect {1}."
+msgstr "ลูกค้าเป้าหมาย {0} ถูกเพิ่มในผู้มีโอกาสเป็นลูกค้า {1}"
+
+msgid "Leads"
+msgstr "ลูกค้าเป้าหมาย"
+
+msgid "Leads help you get business, add all your contacts and more as your leads"
+msgstr "ลูกค้าเป้าหมายช่วยให้คุณได้รับธุรกิจ เพิ่มผู้ติดต่อทั้งหมดของคุณและอื่น ๆ เป็นลูกค้าเป้าหมายของคุณ"
+
+msgid "Learn Accounting"
+msgstr ""
+
+msgid "Learn Inventory Management"
+msgstr ""
+
+msgid "Learn Manufacturing"
+msgstr ""
+
+msgid "Learn Procurement"
+msgstr ""
+
+msgid "Learn Project Management"
+msgstr ""
+
+msgid "Learn Sales Management"
+msgstr ""
+
+msgid "Learn about <a href=\"https://docs.erpnext.com/docs/v13/user/manual/en/accounts/articles/common_party_accounting#:~:text=Common%20Party%20Accounting%20in%20ERPNext,Invoice%20against%20a%20primary%20Supplier.\">Common Party</a>"
+msgstr ""
+
+msgid "Leave Encashed?"
+msgstr "เงินสดที่เหลือ?"
+
+msgid "Leave blank for home.\n"
+"This is relative to site URL, for example \"about\" will redirect to \"https://yoursitename.com/about\""
+msgstr ""
+
+msgid "Leave blank if the Supplier is blocked indefinitely"
+msgstr "เว้นว่างไว้หากผู้จัดจำหน่ายถูกบล็อกอย่างไม่มีกำหนด"
+
+msgid "Leave blank to use the standard Delivery Note format"
+msgstr "เว้นว่างไว้เพื่อใช้รูปแบบใบส่งของมาตรฐาน"
+
+msgid "Ledger"
+msgstr "บัญชีแยกประเภท"
+
+msgid "Ledger Health"
+msgstr "สุขภาพบัญชีแยกประเภท"
+
+msgid "Ledger Health Monitor"
+msgstr "ตัวตรวจสอบสุขภาพบัญชีแยกประเภท"
+
+msgid "Ledger Health Monitor Company"
+msgstr "บริษัทตัวตรวจสอบสุขภาพบัญชีแยกประเภท"
+
+msgid "Ledger Merge"
+msgstr "การรวมบัญชีแยกประเภท"
+
+msgid "Ledger Merge Accounts"
+msgstr "การรวมบัญชีแยกประเภท"
+
+msgid "Ledgers"
+msgstr ""
+
+msgid "Left"
+msgstr "ซ้าย"
+
+msgid "Left Child"
+msgstr "ลูกซ้าย"
+
+msgid "Left Index"
+msgstr "ดัชนีซ้าย"
+
+msgid "Legacy Fields"
+msgstr "ฟิลด์เก่า"
+
+msgid "Legal"
+msgstr "กฎหมาย"
+
+msgid "Legal Entity / Subsidiary with a separate Chart of Accounts belonging to the Organization."
+msgstr "นิติบุคคล / บริษัทในเครือที่มีผังบัญชีแยกต่างหากที่เป็นขององค์กร"
+
+msgid "Legal Expenses"
+msgstr "ค่าใช้จ่ายทางกฎหมาย"
+
+msgid "Legend"
+msgstr "คำอธิบาย"
+
+msgid "Length"
+msgstr "ความยาว"
+
+msgid "Length (cm)"
+msgstr "ความยาว (ซม.)"
+
+msgid "Less Than Amount"
+msgstr "น้อยกว่าจำนวนเงิน"
+
+msgid "Letter Head"
+msgstr "หัวจดหมาย"
+
+msgid "Letter or Email Body Text"
+msgstr "ข้อความในจดหมายหรืออีเมล"
+
+msgid "Letter or Email Closing Text"
+msgstr "ข้อความปิดท้ายในจดหมายหรืออีเมล"
+
+msgid "Level"
+msgstr "ระดับ"
+
+msgid "Level (BOM)"
+msgstr "ระดับ (BOM)"
+
+msgid "Lft"
+msgstr "ซ้าย"
+
+msgid "Liabilities"
+msgstr "หนี้สิน"
+
+msgid "Liability"
+msgstr "ความรับผิดชอบ"
+
+msgid "License Details"
+msgstr "รายละเอียดใบอนุญาต"
+
+msgid "License Number"

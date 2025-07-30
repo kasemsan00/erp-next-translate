@@ -1,0 +1,300 @@
+﻿msgid "Delivered Qty"
+msgstr "ปริมาณที่จัดส่งแล้ว"
+
+msgid "Delivered Qty (in Stock UOM)"
+msgstr ""
+
+msgid "Delivered Quantity"
+msgstr "ปริมาณที่จัดส่งแล้ว"
+
+msgid "Delivered by Supplier (Drop Ship)"
+msgstr "จัดส่งโดยผู้จัดจำหน่าย (Drop Ship)"
+
+msgid "Delivered: {0}"
+msgstr "จัดส่งแล้ว: {0}"
+
+msgid "Delivery"
+msgstr "การจัดส่ง"
+
+msgid "Delivery Date"
+msgstr "วันที่จัดส่ง"
+
+msgid "Delivery Details"
+msgstr "รายละเอียดการจัดส่ง"
+
+msgid "Delivery Manager"
+msgstr "ผู้จัดการการจัดส่ง"
+
+msgid "Delivery Note"
+msgstr "ใบส่งของ"
+
+msgid "Delivery Note Item"
+msgstr "รายการในใบส่งของ"
+
+msgid "Delivery Note No"
+msgstr "หมายเลขใบส่งของ"
+
+msgid "Delivery Note Packed Item"
+msgstr "รายการที่บรรจุในใบส่งของ"
+
+msgid "Delivery Note Trends"
+msgstr "แนวโน้มใบส่งของ"
+
+msgid "Delivery Note {0} is not submitted"
+msgstr "ใบส่งของ {0} ยังไม่ได้ส่ง"
+
+msgid "Delivery Notes"
+msgstr "ใบส่งของ"
+
+msgid "Delivery Notes should not be in draft state when submitting a Delivery Trip. The following Delivery Notes are still in draft state: {0}. Please submit them first."
+msgstr "ใบส่งของไม่ควรอยู่ในสถานะร่างเมื่อส่งการเดินทางจัดส่ง ใบส่งของต่อไปนี้ยังอยู่ในสถานะร่าง: {0} โปรดยื่นก่อน"
+
+msgid "Delivery Notes {0} updated"
+msgstr "อัปเดตใบส่งของ {0} แล้ว"
+
+msgid "Delivery Settings"
+msgstr "การตั้งค่าการจัดส่ง"
+
+msgid "Delivery Status"
+msgstr "สถานะการจัดส่ง"
+
+msgid "Delivery Stop"
+msgstr "จุดหยุดการจัดส่ง"
+
+msgid "Delivery Stops"
+msgstr "จุดหยุดการจัดส่ง"
+
+msgid "Delivery To"
+msgstr "จัดส่งถึง"
+
+msgid "Delivery Trip"
+msgstr "การเดินทางจัดส่ง"
+
+msgid "Delivery User"
+msgstr "ผู้ใช้การจัดส่ง"
+
+msgid "Delivery Warehouse"
+msgstr "คลังสินค้าสำหรับการจัดส่ง"
+
+msgid "Delivery to"
+msgstr "จัดส่งถึง"
+
+msgid "Delivery warehouse required for stock item {0}"
+msgstr "ต้องการคลังสินค้าสำหรับการจัดส่งสำหรับรายการสต็อก {0}"
+
+msgid "Demand"
+msgstr ""
+
+msgid "Demo Company"
+msgstr ""
+
+msgid "Demo data cleared"
+msgstr ""
+
+msgid "Department"
+msgstr ""
+
+msgid "Department Stores"
+msgstr ""
+
+msgid "Departure Time"
+msgstr ""
+
+msgid "Dependant SLE Voucher Detail No"
+msgstr ""
+
+msgid "Dependencies"
+msgstr ""
+
+msgid "Dependent Task"
+msgstr ""
+
+msgid "Dependent Task {0} is not a Template Task"
+msgstr ""
+
+msgid "Dependent Tasks"
+msgstr ""
+
+msgid "Depends on Tasks"
+msgstr ""
+
+msgid "Deposit"
+msgstr ""
+
+msgid "Depreciate based on daily pro-rata"
+msgstr ""
+
+msgid "Depreciate based on shifts"
+msgstr ""
+
+msgid "Depreciated Amount"
+msgstr ""
+
+msgid "Depreciation"
+msgstr "ค่าเสื่อมราคา"
+
+msgid "Depreciation Amount"
+msgstr ""
+
+msgid "Depreciation Amount during the period"
+msgstr ""
+
+msgid "Depreciation Date"
+msgstr ""
+
+msgid "Depreciation Details"
+msgstr ""
+
+msgid "Depreciation Eliminated due to disposal of assets"
+msgstr ""
+
+msgid "Depreciation Entry"
+msgstr ""
+
+msgid "Depreciation Entry Posting Status"
+msgstr ""
+
+msgid "Depreciation Expense Account"
+msgstr ""
+
+msgid "Depreciation Expense Account should be an Income or Expense Account."
+msgstr ""
+
+msgid "Depreciation Method"
+msgstr ""
+
+msgid "Depreciation Options"
+msgstr ""
+
+msgid "Depreciation Posting Date"
+msgstr ""
+
+msgid "Depreciation Posting Date cannot be before Available-for-use Date"
+msgstr ""
+
+msgid "Depreciation Row {0}: Depreciation Posting Date cannot be before Available-for-use Date"
+msgstr ""
+
+msgid "Depreciation Row {0}: Expected value after useful life must be greater than or equal to {1}"
+msgstr ""
+
+msgid "Depreciation Schedule"
+msgstr ""
+
+msgid "Depreciation Schedule View"
+msgstr ""
+
+msgid "Depreciation cannot be calculated for fully depreciated assets"
+msgstr ""
+
+msgid "Depreciation eliminated via reversal"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Description of Content"
+msgstr ""
+
+msgid "Designation"
+msgstr ""
+
+msgid "Designer"
+msgstr ""
+
+msgid "Desk User"
+msgstr ""
+
+msgid "Detailed Reason"
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "Determine Address Tax Category From"
+msgstr ""
+
+msgid "Diesel"
+msgstr ""
+
+msgid "Difference"
+msgstr ""
+
+msgid "Difference (Dr - Cr)"
+msgstr ""
+
+msgid "Difference Account"
+msgstr ""
+
+msgid "Difference Account in Items Table"
+msgstr ""
+
+msgid "Difference Account must be a Asset/Liability type account (Temporary Opening), since this Stock Entry is an Opening Entry"
+msgstr ""
+
+msgid "Difference Account must be a Asset/Liability type account, since this Stock Reconciliation is an Opening Entry"
+msgstr ""
+
+msgid "Difference Amount"
+msgstr ""
+
+msgid "Difference Amount (Company Currency)"
+msgstr ""
+
+msgid "Difference Amount must be zero"
+msgstr ""
+
+msgid "Difference In"
+msgstr ""
+
+msgid "Difference Posting Date"
+msgstr ""
+
+msgid "Difference Qty"
+msgstr ""
+
+msgid "Difference Value"
+msgstr ""
+
+msgid "Different 'Source Warehouse' and 'Target Warehouse' can be set for each row."
+msgstr ""
+
+msgid "Different UOM for items will lead to incorrect (Total) Net Weight value. Make sure that Net Weight of each item is in the same UOM."
+msgstr ""
+
+msgid "Dimension Defaults"
+msgstr ""
+
+msgid "Dimension Details"
+msgstr ""
+
+msgid "Dimension Filter"
+msgstr ""
+
+msgid "Dimension Filter Help"
+msgstr ""
+
+msgid "Dimension Name"
+msgstr ""
+
+msgid "Dimension-wise Accounts Balance Report"
+msgstr ""
+
+msgid "Dimensions"
+msgstr ""
+
+msgid "Direct Expense"
+msgstr ""
+
+msgid "Direct Expenses"
+msgstr "ค่าใช้จ่ายทางตรง"
+
+msgid "Direct Income"
+msgstr "รายได้ทางตรง"
+
+msgid "Disable"
+msgstr "ปิดใช้งาน"
+
+msgid "Disable Capacity Planning"
+msgstr ""
+

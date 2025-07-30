@@ -1,0 +1,300 @@
+﻿msgstr ""
+
+msgid "B+"
+msgstr ""
+
+msgid "B-"
+msgstr ""
+
+msgid "BFS"
+msgstr ""
+
+msgid "BIN Qty"
+msgstr ""
+
+msgid "BOM"
+msgstr ""
+
+msgid "BOM 1"
+msgstr ""
+
+msgid "BOM 1 {0} and BOM 2 {1} should not be same"
+msgstr "BOM 1 {0} และ BOM 2 {1} ไม่ควรเหมือนกัน"
+
+msgid "BOM 2"
+msgstr ""
+
+msgid "BOM Comparison Tool"
+msgstr "เครื่องมือเปรียบเทียบ BOM"
+
+msgid "BOM Created"
+msgstr "สร้าง BOM แล้ว"
+
+msgid "BOM Creator"
+msgstr "ผู้สร้าง BOM"
+
+msgid "BOM Creator Item"
+msgstr "รายการผู้สร้าง BOM"
+
+msgid "BOM Detail No"
+msgstr "หมายเลขรายละเอียด BOM"
+
+msgid "BOM Explorer"
+msgstr "ตัวสำรวจ BOM"
+
+msgid "BOM Explosion Item"
+msgstr "รายการการระเบิด BOM"
+
+msgid "BOM ID"
+msgstr "รหัส BOM"
+
+msgid "BOM Info"
+msgstr "ข้อมูล BOM"
+
+msgid "BOM Item"
+msgstr "รายการ BOM"
+
+msgid "BOM Level"
+msgstr "ระดับ BOM"
+
+msgid "BOM No"
+msgstr "หมายเลข BOM"
+
+msgid "BOM No (For Semi-Finished Goods)"
+msgstr "หมายเลข BOM (สำหรับสินค้ากึ่งสำเร็จรูป)"
+
+msgid "BOM No. for a Finished Good Item"
+msgstr "หมายเลข BOM สำหรับสินค้าสำเร็จรูป"
+
+msgid "BOM Operation"
+msgstr "การดำเนินการ BOM"
+
+msgid "BOM Operations Time"
+msgstr "เวลาการดำเนินการ BOM"
+
+msgid "BOM Qty"
+msgstr "ปริมาณ BOM"
+
+msgid "BOM Rate"
+msgstr "อัตรา BOM"
+
+msgid "BOM Scrap Item"
+msgstr "รายการเศษ BOM"
+
+msgid "BOM Search"
+msgstr "ค้นหา BOM"
+
+msgid "BOM Stock Calculated"
+msgstr "คำนวณสต็อก BOM แล้ว"
+
+msgid "BOM Stock Report"
+msgstr "รายงานสต็อก BOM"
+
+msgid "BOM Tree"
+msgstr "โครงสร้าง BOM"
+
+msgid "BOM UoM"
+msgstr "หน่วยวัด BOM"
+
+msgid "BOM Update Batch"
+msgstr "อัปเดตชุด BOM"
+
+msgid "BOM Update Initiated"
+msgstr "เริ่มการอัปเดต BOM แล้ว"
+
+msgid "BOM Update Log"
+msgstr "บันทึกการอัปเดต BOM"
+
+msgid "BOM Update Tool"
+msgstr "เครื่องมืออัปเดต BOM"
+
+msgid "BOM Update Tool Log with job status maintained"
+msgstr "บันทึกเครื่องมืออัปเดต BOM พร้อมสถานะงานที่บำรุงรักษา"
+
+msgid "BOM Updation already in progress. Please wait until {0} is complete."
+msgstr "การอัปเดต BOM กำลังดำเนินการอยู่ โปรดรอจนกว่า {0} จะเสร็จสิ้น"
+
+msgid "BOM Updation is queued and may take a few minutes. Check {0} for progress."
+msgstr "การอัปเดต BOM อยู่ในคิวและอาจใช้เวลาสองสามนาที โปรดตรวจสอบ {0} สำหรับความคืบหน้า"
+
+msgid "BOM Variance Report"
+msgstr "รายงานความแปรปรวนของ BOM"
+
+msgid "BOM Website Item"
+msgstr "รายการ BOM บนเว็บไซต์"
+
+msgid "BOM Website Operation"
+msgstr "การดำเนินการ BOM บนเว็บไซต์"
+
+msgid "BOM and Manufacturing Quantity are required"
+msgstr "ต้องการ BOM และปริมาณการผลิต"
+
+msgid "BOM and Production"
+msgstr "BOM และการผลิต"
+
+msgid "BOM does not contain any stock item"
+msgstr "BOM ไม่มีรายการสต็อกใด ๆ"
+
+msgid "BOM recursion: {0} cannot be child of {1}"
+msgstr "การวนซ้ำ BOM: {0} ไม่สามารถเป็นลูกของ {1} ได้"
+
+msgid "BOM recursion: {1} cannot be parent or child of {0}"
+msgstr "การวนซ้ำ BOM: {1} ไม่สามารถเป็นพ่อแม่หรือลูกของ {0} ได้"
+
+msgid "BOM {0} does not belong to Item {1}"
+msgstr "BOM {0} ไม่ได้เป็นของรายการ {1}"
+
+msgid "BOM {0} must be active"
+msgstr "BOM {0} ต้องเปิดใช้งาน"
+
+msgid "BOM {0} must be submitted"
+msgstr "BOM {0} ต้องถูกส่ง"
+
+msgid "BOM {0} not found for the item {1}"
+msgstr "ไม่พบ BOM {0} สำหรับรายการ {1}"
+
+msgid "BOMs Updated"
+msgstr "อัปเดต BOM แล้ว"
+
+msgid "BOMs created successfully"
+msgstr "สร้าง BOM สำเร็จแล้ว"
+
+msgid "BOMs creation failed"
+msgstr "การสร้าง BOM ล้มเหลว"
+
+msgid "BOMs creation has been enqueued, kindly check the status after some time"
+msgstr "การสร้าง BOM ได้ถูกจัดคิวแล้ว โปรดตรวจสอบสถานะหลังจากเวลาผ่านไป"
+
+msgid "Backdated Stock Entry"
+msgstr ""
+
+msgid "Backflush Materials From WIP Warehouse"
+msgstr ""
+
+msgid "Backflush Raw Materials"
+msgstr ""
+
+msgid "Backflush Raw Materials Based On"
+msgstr ""
+
+msgid "Backflush Raw Materials From Work-in-Progress Warehouse"
+msgstr ""
+
+msgid "Backflush Raw Materials of Subcontract Based On"
+msgstr ""
+
+msgid "Balance"
+msgstr ""
+
+msgid "Balance (Dr - Cr)"
+msgstr ""
+
+msgid "Balance ({0})"
+msgstr ""
+
+msgid "Balance In Account Currency"
+msgstr ""
+
+msgid "Balance In Base Currency"
+msgstr ""
+
+msgid "Balance Qty"
+msgstr ""
+
+msgid "Balance Qty (Stock)"
+msgstr ""
+
+msgid "Balance Serial No"
+msgstr ""
+
+msgid "Balance Sheet"
+msgstr ""
+
+msgid "Balance Sheet Summary"
+msgstr ""
+
+msgid "Balance Stock Qty"
+msgstr ""
+
+msgid "Balance Stock Value"
+msgstr ""
+
+msgid "Balance Value"
+msgstr ""
+
+msgid "Balance for Account {0} must always be {1}"
+msgstr ""
+
+msgid "Balance must be"
+msgstr ""
+
+msgid "Bank"
+msgstr ""
+
+msgid "Bank / Cash Account"
+msgstr ""
+
+msgid "Bank A/C No."
+msgstr ""
+
+msgid "Bank Account"
+msgstr ""
+
+msgid "Bank Account Details"
+msgstr ""
+
+msgid "Bank Account Info"
+msgstr ""
+
+msgid "Bank Account No"
+msgstr "เลขที่บัญชีธนาคาร"
+
+msgid "Bank Account Subtype"
+msgstr ""
+
+msgid "Bank Account Type"
+msgstr ""
+
+msgid "Bank Account {} in Bank Transaction {} is not matching with Bank Account {}"
+msgstr ""
+
+msgid "Bank Accounts"
+msgstr "บัญชีธนาคาร"
+
+msgid "Bank Balance"
+msgstr ""
+
+msgid "Bank Charges"
+msgstr ""
+
+msgid "Bank Charges Account"
+msgstr ""
+
+msgid "Bank Clearance"
+msgstr ""
+
+msgid "Bank Clearance Detail"
+msgstr ""
+
+msgid "Bank Clearance Summary"
+msgstr ""
+
+msgid "Bank Credit Balance"
+msgstr ""
+
+msgid "Bank Details"
+msgstr ""
+
+msgid "Bank Draft"
+msgstr ""
+
+msgid "Bank Entry"
+msgstr ""
+
+msgid "Bank Guarantee"
+msgstr ""
+
+msgid "Bank Guarantee Number"
+msgstr ""
+
+msgid "Bank Guarantee Type"

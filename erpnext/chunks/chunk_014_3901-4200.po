@@ -1,0 +1,300 @@
+﻿msgstr ""
+
+msgid "Bundle Items"
+msgstr ""
+
+msgid "Bundle Qty"
+msgstr ""
+
+msgid "Bushel (UK)"
+msgstr ""
+
+msgid "Bushel (US Dry Level)"
+msgstr ""
+
+msgid "Business Analyst"
+msgstr ""
+
+msgid "Business Development Manager"
+msgstr ""
+
+msgid "Busy"
+msgstr ""
+
+msgid "Buy"
+msgstr ""
+
+msgid "Buyer of Goods and Services."
+msgstr ""
+
+msgid "Buying"
+msgstr ""
+
+msgid "Buying & Selling Settings"
+msgstr ""
+
+msgid "Buying Amount"
+msgstr ""
+
+msgid "Buying Price List"
+msgstr ""
+
+msgid "Buying Rate"
+msgstr ""
+
+msgid "Buying Settings"
+msgstr ""
+
+msgid "Buying and Selling"
+msgstr ""
+
+msgid "Buying must be checked, if Applicable For is selected as {0}"
+msgstr ""
+
+msgid "By default, the Supplier Name is set as per the Supplier Name entered. If you want Suppliers to be named by a <a href='https://docs.erpnext.com/docs/user/manual/en/setting-up/settings/naming-series' target='_blank'>Naming Series</a> choose the 'Naming Series' option."
+msgstr ""
+
+msgid "Bypass Credit Limit Check at Sales Order"
+msgstr ""
+
+msgid "Bypass credit check at Sales Order"
+msgstr ""
+
+msgid "CANCELLED"
+msgstr ""
+
+msgid "CC"
+msgstr "สำเนาถึง"
+
+msgid "CC To"
+msgstr "สำเนาถึง"
+
+msgid "CODE-39"
+msgstr ""
+
+msgid "COGS By Item Group"
+msgstr "COGS ตามกลุ่มสินค้า"
+
+msgid "COGS Debit"
+msgstr "COGS เดบิต"
+
+msgid "CRM"
+msgstr ""
+
+msgid "CRM Note"
+msgstr "บันทึก CRM"
+
+msgid "CRM Settings"
+msgstr "การตั้งค่า CRM"
+
+msgid "CWIP Account"
+msgstr "บัญชีเงินทุนระหว่างดำเนินการ"
+
+msgid "Caballeria"
+msgstr ""
+
+msgid "Cable Length"
+msgstr ""
+
+msgid "Cable Length (UK)"
+msgstr ""
+
+msgid "Cable Length (US)"
+msgstr ""
+
+msgid "Calculate Ageing With"
+msgstr "คำนวณอายุด้วย"
+
+msgid "Calculate Based On"
+msgstr "คำนวณตาม"
+
+msgid "Calculate Depreciation"
+msgstr "คำนวณค่าเสื่อมราคา"
+
+msgid "Calculate Estimated Arrival Times"
+msgstr "คำนวณเวลามาถึงโดยประมาณ"
+
+msgid "Calculate Product Bundle Price based on Child Items' Rates"
+msgstr "คำนวณราคาชุดผลิตภัณฑ์ตามอัตราของรายการย่อย"
+
+msgid "Calculate daily depreciation using total days in depreciation period"
+msgstr "คำนวณค่าเสื่อมรายวันโดยใช้จำนวนวันทั้งหมดในช่วงค่าเสื่อม"
+
+msgid "Calculated Bank Statement balance"
+msgstr "ยอดคงเหลือในใบแจ้งยอดธนาคารที่คำนวณแล้ว"
+
+msgid "Calculated Discount Mismatch"
+msgstr ""
+
+msgid "Calculations"
+msgstr "การคำนวณ"
+
+msgid "Calendar Event"
+msgstr "เหตุการณ์ในปฏิทิน"
+
+msgid "Calibration"
+msgstr "การสอบเทียบ"
+
+msgid "Calibre"
+msgstr ""
+
+msgid "Call Again"
+msgstr "โทรอีกครั้ง"
+
+msgid "Call Connected"
+msgstr "โทรเชื่อมต่อแล้ว"
+
+msgid "Call Details"
+msgstr "รายละเอียดการโทร"
+
+msgid "Call Duration in seconds"
+msgstr "ระยะเวลาการโทรเป็นวินาที"
+
+msgid "Call Ended"
+msgstr "การโทรสิ้นสุด"
+
+msgid "Call Handling Schedule"
+msgstr "ตารางการจัดการการโทร"
+
+msgid "Call Log"
+msgstr "บันทึกการโทร"
+
+msgid "Call Missed"
+msgstr "พลาดการโทร"
+
+msgid "Call Received By"
+msgstr "การโทรได้รับโดย"
+
+msgid "Call Receiving Device"
+msgstr "อุปกรณ์รับสาย"
+
+msgid "Call Routing"
+msgstr "การกำหนดเส้นทางการโทร"
+
+msgid "Call Schedule Row {0}: To time slot should always be ahead of From time slot."
+msgstr "แถวตารางการโทร {0}: ช่วงเวลาถึงควรอยู่หลังช่วงเวลาจากเสมอ"
+
+msgid "Call Summary"
+msgstr "สรุปการโทร"
+
+msgid "Call Summary Saved"
+msgstr "บันทึกสรุปการโทรแล้ว"
+
+msgid "Call Type"
+msgstr "ประเภทการโทร"
+
+msgid "Callback"
+msgstr "การเรียกกลับ"
+
+msgid "Calorie (Food)"
+msgstr ""
+
+msgid "Calorie (It)"
+msgstr ""
+
+msgid "Calorie (Mean)"
+msgstr ""
+
+msgid "Calorie (Th)"
+msgstr ""
+
+msgid "Calorie/Seconds"
+msgstr ""
+
+msgid "Campaign"
+msgstr "แคมเปญ"
+
+msgid "Campaign Efficiency"
+msgstr "ประสิทธิภาพของแคมเปญ"
+
+msgid "Campaign Email Schedule"
+msgstr "ตารางอีเมลแคมเปญ"
+
+msgid "Campaign Item"
+msgstr "รายการแคมเปญ"
+
+msgid "Campaign Name"
+msgstr "ชื่อแคมเปญ"
+
+msgid "Campaign Naming By"
+msgstr "การตั้งชื่อแคมเปญโดย"
+
+msgid "Campaign Schedules"
+msgstr "ตารางแคมเปญ"
+
+msgid "Can be approved by {0}"
+msgstr ""
+
+msgid "Can not close Work Order. Since {0} Job Cards are in Work In Progress state."
+msgstr ""
+
+msgid "Can not filter based on Cashier, if grouped by Cashier"
+msgstr ""
+
+msgid "Can not filter based on Child Account, if grouped by Account"
+msgstr ""
+
+msgid "Can not filter based on Customer, if grouped by Customer"
+msgstr ""
+
+msgid "Can not filter based on POS Profile, if grouped by POS Profile"
+msgstr ""
+
+msgid "Can not filter based on Payment Method, if grouped by Payment Method"
+msgstr ""
+
+msgid "Can not filter based on Voucher No, if grouped by Voucher"
+msgstr ""
+
+msgid "Can only make payment against unbilled {0}"
+msgstr ""
+
+msgid "Can refer row only if the charge type is 'On Previous Row Amount' or 'Previous Row Total'"
+msgstr ""
+
+msgid "Can't change the valuation method, as there are transactions against some items which do not have its own valuation method"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Cancel At End Of Period"
+msgstr ""
+
+msgid "Cancel Material Visit {0} before cancelling this Warranty Claim"
+msgstr ""
+
+msgid "Cancel Material Visits {0} before cancelling this Maintenance Visit"
+msgstr ""
+
+msgid "Cancel Subscription"
+msgstr ""
+
+msgid "Cancel Subscription After Grace Period"
+msgstr ""
+
+msgid "Cancelation Date"
+msgstr ""
+
+msgid "Canceled"
+msgstr ""
+
+msgid "Cancelled"
+msgstr ""
+
+msgid "Cannot Assign Cashier"
+msgstr ""
+
+msgid "Cannot Calculate Arrival Time as Driver Address is Missing."
+msgstr ""
+
+msgid "Cannot Create Return"
+msgstr ""
+
+msgid "Cannot Merge"
+msgstr ""
+
+msgid "Cannot Optimize Route as Driver Address is Missing."
+msgstr ""
+
+msgid "Cannot Relieve Employee"

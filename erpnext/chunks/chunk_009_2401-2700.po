@@ -1,0 +1,300 @@
+﻿msgstr "ชื่อหมวดหมู่สินทรัพย์"
+
+msgid "Asset Category is mandatory for Fixed Asset item"
+msgstr "หมวดหมู่สินทรัพย์เป็นฟิลด์บังคับสำหรับรายการสินทรัพย์ถาวร"
+
+msgid "Asset Depreciation Cost Center"
+msgstr "ศูนย์ต้นทุนค่าเสื่อมราคาสินทรัพย์"
+
+msgid "Asset Depreciation Ledger"
+msgstr "บัญชีแยกประเภทค่าเสื่อมราคาสินทรัพย์"
+
+msgid "Asset Depreciation Schedule"
+msgstr "ตารางค่าเสื่อมราคาสินทรัพย์"
+
+msgid "Asset Depreciation Schedule for Asset {0} and Finance Book {1} is not using shift based depreciation"
+msgstr "ตารางค่าเสื่อมราคาสินทรัพย์สำหรับสินทรัพย์ {0} และสมุดการเงิน {1} ไม่ได้ใช้ค่าเสื่อมราคาตามกะ"
+
+msgid "Asset Depreciation Schedule not found for Asset {0} and Finance Book {1}"
+msgstr "ไม่พบตารางค่าเสื่อมราคาสินทรัพย์สำหรับสินทรัพย์ {0} และสมุดการเงิน {1}"
+
+msgid "Asset Depreciation Schedule {0} for Asset {1} already exists."
+msgstr "ตารางค่าเสื่อมราคาสินทรัพย์ {0} สำหรับสินทรัพย์ {1} มีอยู่แล้ว"
+
+msgid "Asset Depreciation Schedule {0} for Asset {1} and Finance Book {2} already exists."
+msgstr "ตารางค่าเสื่อมราคาสินทรัพย์ {0} สำหรับสินทรัพย์ {1} และสมุดการเงิน {2} มีอยู่แล้ว"
+
+msgid "Asset Depreciation Schedules created/updated:<br>{0}<br><br>Please check, edit if needed, and submit the Asset."
+msgstr "ตารางค่าเสื่อมราคาสินทรัพย์ที่สร้าง/อัปเดต:<br>{0}<br><br>โปรดตรวจสอบ แก้ไขหากจำเป็น และส่งสินทรัพย์"
+
+msgid "Asset Depreciations and Balances"
+msgstr "ค่าเสื่อมราคาสินทรัพย์และยอดคงเหลือ"
+
+msgid "Asset Details"
+msgstr "รายละเอียดสินทรัพย์"
+
+msgid "Asset Disposal"
+msgstr "การจำหน่ายสินทรัพย์"
+
+msgid "Asset Finance Book"
+msgstr "สมุดการเงินสินทรัพย์"
+
+msgid "Asset ID"
+msgstr "รหัสสินทรัพย์"
+
+msgid "Asset Location"
+msgstr "ตำแหน่งสินทรัพย์"
+
+msgid "Asset Maintenance"
+msgstr "การบำรุงรักษาสินทรัพย์"
+
+msgid "Asset Maintenance Log"
+msgstr "บันทึกการบำรุงรักษาสินทรัพย์"
+
+msgid "Asset Maintenance Task"
+msgstr "งานบำรุงรักษาสินทรัพย์"
+
+msgid "Asset Maintenance Team"
+msgstr "ทีมบำรุงรักษาสินทรัพย์"
+
+msgid "Asset Movement"
+msgstr "การเคลื่อนย้ายสินทรัพย์"
+
+msgid "Asset Movement Item"
+msgstr "รายการการเคลื่อนย้ายสินทรัพย์"
+
+msgid "Asset Movement record {0} created"
+msgstr "สร้างบันทึกการเคลื่อนย้ายสินทรัพย์ {0} แล้ว"
+
+msgid "Asset Name"
+msgstr "ชื่อสินทรัพย์"
+
+msgid "Asset Naming Series"
+msgstr "ชุดการตั้งชื่อสินทรัพย์"
+
+msgid "Asset Owner"
+msgstr "เจ้าของสินทรัพย์"
+
+msgid "Asset Owner Company"
+msgstr "บริษัทเจ้าของสินทรัพย์"
+
+msgid "Asset Quantity"
+msgstr "ปริมาณสินทรัพย์"
+
+msgid "Asset Received But Not Billed"
+msgstr "สินทรัพย์ที่ได้รับแต่ยังไม่ได้เรียกเก็บเงิน"
+
+msgid "Asset Repair"
+msgstr "การซ่อมแซมสินทรัพย์"
+
+msgid "Asset Repair Consumed Item"
+msgstr "รายการที่ใช้ในการซ่อมแซมสินทรัพย์"
+
+msgid "Asset Repair Purchase Invoice"
+msgstr "ใบแจ้งหนี้การซื้อสำหรับการซ่อมแซมสินทรัพย์"
+
+msgid "Asset Settings"
+msgstr "การตั้งค่าสินทรัพย์"
+
+msgid "Asset Shift Allocation"
+msgstr "การจัดสรรกะสินทรัพย์"
+
+msgid "Asset Shift Factor"
+msgstr "ปัจจัยกะสินทรัพย์"
+
+msgid "Asset Shift Factor {0} is set as default currently. Please change it first."
+msgstr "ปัจจัยกะสินทรัพย์ {0} ถูกตั้งเป็นค่าเริ่มต้นในปัจจุบัน โปรดเปลี่ยนก่อน"
+
+msgid "Asset Status"
+msgstr "สถานะสินทรัพย์"
+
+msgid "Asset Value"
+msgstr "มูลค่าสินทรัพย์"
+
+msgid "Asset Value Adjustment"
+msgstr "การปรับมูลค่าสินทรัพย์"
+
+msgid "Asset Value Adjustment cannot be posted before Asset's purchase date <b>{0}</b>."
+msgstr "ไม่สามารถบันทึกการปรับมูลค่าสินทรัพย์ก่อนวันที่ซื้อสินทรัพย์ <b>{0}</b> ได้"
+
+msgid "Asset Value Analytics"
+msgstr "การวิเคราะห์มูลค่าสินทรัพย์"
+
+msgid "Asset cancelled"
+msgstr "สินทรัพย์ถูกยกเลิก"
+
+msgid "Asset cannot be cancelled, as it is already {0}"
+msgstr "ไม่สามารถยกเลิกสินทรัพย์ได้ เนื่องจากมันอยู่ในสถานะ {0} แล้ว"
+
+msgid "Asset cannot be scrapped before the last depreciation entry."
+msgstr "ไม่สามารถทิ้งสินทรัพย์ได้ก่อนการบันทึกค่าเสื่อมราคาครั้งสุดท้าย"
+
+msgid "Asset capitalized after Asset Capitalization {0} was submitted"
+msgstr "สินทรัพย์ถูกเพิ่มมูลค่าหลังจากการส่งการเพิ่มมูลค่าสินทรัพย์ {0}"
+
+msgid "Asset created"
+msgstr "สินทรัพย์ถูกสร้าง"
+
+msgid "Asset created after being split from Asset {0}"
+msgstr "สินทรัพย์ถูกสร้างหลังจากแยกออกจากสินทรัพย์ {0}"
+
+msgid "Asset deleted"
+msgstr "สินทรัพย์ถูกลบ"
+
+msgid "Asset issued to Employee {0}"
+msgstr "สินทรัพย์ถูกออกให้พนักงาน {0}"
+
+msgid "Asset out of order due to Asset Repair {0}"
+msgstr "สินทรัพย์ไม่สามารถใช้งานได้เนื่องจากการซ่อมแซมสินทรัพย์ {0}"
+
+msgid "Asset received at Location {0} and issued to Employee {1}"
+msgstr "สินทรัพย์ได้รับที่ตำแหน่ง {0} และออกให้พนักงาน {1}"
+
+msgid "Asset restored"
+msgstr "สินทรัพย์ถูกกู้คืน"
+
+msgid "Asset restored after Asset Capitalization {0} was cancelled"
+msgstr "สินทรัพย์ถูกกู้คืนหลังจากการยกเลิกการเพิ่มมูลค่าสินทรัพย์ {0}"
+
+msgid "Asset returned"
+msgstr "สินทรัพย์ถูกคืน"
+
+msgid "Asset scrapped"
+msgstr "สินทรัพย์ถูกทิ้ง"
+
+msgid "Asset scrapped via Journal Entry {0}"
+msgstr "สินทรัพย์ถูกทิ้งผ่านรายการบัญชี {0}"
+
+msgid "Asset sold"
+msgstr "สินทรัพย์ถูกขาย"
+
+msgid "Asset submitted"
+msgstr "สินทรัพย์ถูกส่ง"
+
+msgid "Asset transferred to Location {0}"
+msgstr "สินทรัพย์ถูกย้ายไปยังตำแหน่ง {0}"
+
+msgid "Asset updated after being split into Asset {0}"
+msgstr "สินทรัพย์ถูกอัปเดตหลังจากแยกออกเป็นสินทรัพย์ {0}"
+
+msgid "Asset updated due to Asset Repair {0} {1}."
+msgstr "สินทรัพย์ถูกอัปเดตเนื่องจากการซ่อมแซมสินทรัพย์ {0} {1}"
+
+msgid "Asset {0} cannot be scrapped, as it is already {1}"
+msgstr "สินทรัพย์ {0} ไม่สามารถทิ้งได้ เนื่องจากมันอยู่ในสถานะ {1} แล้ว"
+
+msgid "Asset {0} does not belong to Item {1}"
+msgstr "สินทรัพย์ {0} ไม่ได้เป็นของรายการ {1}"
+
+msgid "Asset {0} does not belong to company {1}"
+msgstr "สินทรัพย์ {0} ไม่ได้เป็นของบริษัท {1}"
+
+msgid "Asset {0} does not belongs to the custodian {1}"
+msgstr "สินทรัพย์ {0} ไม่ได้เป็นของผู้ดูแล {1}"
+
+msgid "Asset {0} does not belongs to the location {1}"
+msgstr "สินทรัพย์ {0} ไม่ได้เป็นของตำแหน่ง {1}"
+
+msgid "Asset {0} does not exist"
+msgstr "สินทรัพย์ {0} ไม่มีอยู่"
+
+msgid "Asset {0} has been updated. Please set the depreciation details if any and submit it."
+msgstr "สินทรัพย์ {0} ถูกอัปเดตแล้ว โปรดตั้งค่ารายละเอียดค่าเสื่อมราคาหากมีและส่ง"
+
+msgid "Asset {0} is in {1} status and cannot be repaired."
+msgstr ""
+
+msgid "Asset {0} must be submitted"
+msgstr "สินทรัพย์ {0} ต้องถูกส่ง"
+
+msgid "Asset {assets_link} created for {item_code}"
+msgstr "สินทรัพย์ {assets_link} ถูกสร้างสำหรับ {item_code}"
+
+msgid "Asset's depreciation schedule updated after Asset Shift Allocation {0}"
+msgstr "ตารางค่าเสื่อมราคาสินทรัพย์ถูกอัปเดตหลังจากการจัดสรรกะสินทรัพย์ {0}"
+
+msgid "Asset's value adjusted after cancellation of Asset Value Adjustment {0}"
+msgstr "มูลค่าสินทรัพย์ถูกปรับหลังจากการยกเลิกการปรับมูลค่าสินทรัพย์ {0}"
+
+msgid "Asset's value adjusted after submission of Asset Value Adjustment {0}"
+msgstr "มูลค่าสินทรัพย์ถูกปรับหลังจากการส่งการปรับมูลค่าสินทรัพย์ {0}"
+
+msgid "Assets"
+msgstr "สินทรัพย์"
+
+msgid "Assets not created for {item_code}. You will have to create asset manually."
+msgstr "สินทรัพย์ไม่ได้ถูกสร้างสำหรับ {item_code} คุณจะต้องสร้างสินทรัพย์ด้วยตนเอง"
+
+msgid "Assets {assets_link} created for {item_code}"
+msgstr "สินทรัพย์ {assets_link} ถูกสร้างสำหรับ {item_code}"
+
+msgid "Assign Job to Employee"
+msgstr ""
+
+msgid "Assign To"
+msgstr ""
+
+msgid "Assign to Name"
+msgstr ""
+
+msgid "Assigned To"
+msgstr ""
+
+msgid "Assignment"
+msgstr ""
+
+msgid "Assignment Conditions"
+msgstr ""
+
+msgid "Associate"
+msgstr ""
+
+msgid "At Row #{0}: The picked quantity {1} for the item {2} is greater than available stock {3} for the batch {4} in the warehouse {5}. Please restock the item."
+msgstr ""
+
+msgid "At Row #{0}: The picked quantity {1} for the item {2} is greater than available stock {3} in the warehouse {4}."
+msgstr ""
+
+msgid "At least one account with exchange gain or loss is required"
+msgstr ""
+
+msgid "At least one asset has to be selected."
+msgstr ""
+
+msgid "At least one invoice has to be selected."
+msgstr ""
+
+msgid "At least one item should be entered with negative quantity in return document"
+msgstr ""
+
+msgid "At least one mode of payment is required for POS invoice."
+msgstr ""
+
+msgid "At least one of the Applicable Modules should be selected"
+msgstr ""
+
+msgid "At least one of the Selling or Buying must be selected"
+msgstr ""
+
+msgid "At least one warehouse is mandatory"
+msgstr ""
+
+msgid "At row #{0}: the Difference Account must not be a Stock type account, please change the Account Type for the account {1} or select a different account"
+msgstr ""
+
+msgid "At row #{0}: the sequence id {1} cannot be less than previous row sequence id {2}"
+msgstr ""
+
+msgid "At row #{0}: you have selected the Difference Account {1}, which is a Cost of Goods Sold type account. Please select a different account"
+msgstr ""
+
+msgid "At row {0}: Batch No is mandatory for Item {1}"
+msgstr ""
+
+msgid "At row {0}: Parent Row No cannot be set for item {1}"
+msgstr ""
+
+msgid "At row {0}: Qty is mandatory for the batch {1}"
+msgstr ""
+
+msgid "At row {0}: Serial No is mandatory for Item {1}"

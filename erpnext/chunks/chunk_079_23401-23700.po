@@ -1,0 +1,300 @@
+﻿msgid "Terms"
+msgstr "เงื่อนไข"
+
+msgid "Terms & Conditions"
+msgstr "ข้อกำหนดและเงื่อนไข"
+
+msgid "Terms Template"
+msgstr "แม่แบบเงื่อนไข"
+
+msgid "Terms and Conditions"
+msgstr "ข้อกำหนดและเงื่อนไข"
+
+msgid "Terms and Conditions Content"
+msgstr "เนื้อหาข้อกำหนดและเงื่อนไข"
+
+msgid "Terms and Conditions Details"
+msgstr "รายละเอียดข้อกำหนดและเงื่อนไข"
+
+msgid "Terms and Conditions Help"
+msgstr "ช่วยเหลือข้อกำหนดและเงื่อนไข"
+
+msgid "Terms and Conditions Template"
+msgstr ""
+
+msgid "Territory"
+msgstr "เขตแดน"
+
+msgid "Territory Item"
+msgstr "รายการเขตแดน"
+
+msgid "Territory Manager"
+msgstr "ผู้จัดการเขตแดน"
+
+msgid "Territory Name"
+msgstr "ชื่อเขตแดน"
+
+msgid "Territory Target Variance Based On Item Group"
+msgstr "ความแปรปรวนเป้าหมายเขตแดนตามกลุ่มรายการ"
+
+msgid "Territory Targets"
+msgstr "เป้าหมายเขตแดน"
+
+msgid "Territory Wise Sales"
+msgstr ""
+
+msgid "Territory-wise Sales"
+msgstr "การขายตามเขตแดน"
+
+msgid "Tesla"
+msgstr ""
+
+msgid "The 'From Package No.' field must neither be empty nor it's value less than 1."
+msgstr ""
+
+msgid "The Access to Request for Quotation From Portal is Disabled. To Allow Access, Enable it in Portal Settings."
+msgstr ""
+
+msgid "The BOM which will be replaced"
+msgstr ""
+
+msgid "The Batch {0} has negative quantity {1} in warehouse {2}. Please correct the quantity."
+msgstr ""
+
+msgid "The Campaign '{0}' already exists for the {1} '{2}'"
+msgstr ""
+
+msgid "The Condition '{0}' is invalid"
+msgstr ""
+
+msgid "The Document Type {0} must have a Status field to configure Service Level Agreement"
+msgstr ""
+
+msgid "The GL Entries and closing balances will be processed in the background, it can take a few minutes."
+msgstr ""
+
+msgid "The GL Entries will be cancelled in the background, it can take a few minutes."
+msgstr ""
+
+msgid "The Loyalty Program isn't valid for the selected company"
+msgstr ""
+
+msgid "The Payment Request {0} is already paid, cannot process payment twice"
+msgstr ""
+
+msgid "The Payment Term at row {0} is possibly a duplicate."
+msgstr ""
+
+msgid "The Pick List having Stock Reservation Entries cannot be updated. If you need to make changes, we recommend canceling the existing Stock Reservation Entries before updating the Pick List."
+msgstr ""
+
+msgid "The Process Loss Qty has reset as per job cards Process Loss Qty"
+msgstr ""
+
+msgid "The Sales Person is linked with {0}"
+msgstr ""
+
+msgid "The Serial No at Row #{0}: {1} is not available in warehouse {2}."
+msgstr ""
+
+msgid "The Serial No {0} is reserved against the {1} {2} and cannot be used for any other transaction."
+msgstr ""
+
+msgid "The Serial and Batch Bundle {0} is not valid for this transaction. The 'Type of Transaction' should be 'Outward' instead of 'Inward' in Serial and Batch Bundle {0}"
+msgstr ""
+
+msgid "The Stock Entry of type 'Manufacture' is known as backflush. Raw materials being consumed to manufacture finished goods is known as backflushing. <br><br> When creating Manufacture Entry, raw-material items are backflushed based on BOM of production item. If you want raw-material items to be backflushed based on Material Transfer entry made against that Work Order instead, then you can set it under this field."
+msgstr ""
+
+msgid "The Work Order is mandatory for Disassembly Order"
+msgstr ""
+
+msgid "The account head under Liability or Equity, in which Profit/Loss will be booked"
+msgstr ""
+
+msgid "The allocated amount is greater than the outstanding amount of Payment Request {0}"
+msgstr ""
+
+msgid "The amount of {0} set in this payment request is different from the calculated amount of all payment plans: {1}. Make sure this is correct before submitting the document."
+msgstr ""
+
+msgid "The currency of invoice {} ({}) is different from the currency of this dunning ({})."
+msgstr "สกุลเงินของใบแจ้งหนี้ {} ({}) แตกต่างจากสกุลเงินของการแจ้งเตือนนี้ ({})"
+
+msgid "The current POS opening entry is outdated. Please close it and create a new one."
+msgstr ""
+
+msgid "The default BOM for that item will be fetched by the system. You can also change the BOM."
+msgstr "ระบบจะดึง BOM เริ่มต้นสำหรับรายการนั้น คุณสามารถเปลี่ยน BOM ได้"
+
+msgid "The difference between from time and To Time must be a multiple of Appointment"
+msgstr "ความแตกต่างระหว่างเวลาจากและเวลาถึงต้องเป็นผลคูณของการนัดหมาย"
+
+msgid "The field Asset Account cannot be blank"
+msgstr "ฟิลด์บัญชีสินทรัพย์ต้องไม่ว่างเปล่า"
+
+msgid "The field Equity/Liability Account cannot be blank"
+msgstr "ฟิลด์บัญชีทุน/หนี้สินต้องไม่ว่างเปล่า"
+
+msgid "The field From Shareholder cannot be blank"
+msgstr "ฟิลด์จากผู้ถือหุ้นต้องไม่ว่างเปล่า"
+
+msgid "The field To Shareholder cannot be blank"
+msgstr "ฟิลด์ถึงผู้ถือหุ้นต้องไม่ว่างเปล่า"
+
+msgid "The field {0} in row {1} is not set"
+msgstr "ฟิลด์ {0} ในแถว {1} ไม่ได้ตั้งค่า"
+
+msgid "The fields From Shareholder and To Shareholder cannot be blank"
+msgstr "ฟิลด์จากผู้ถือหุ้นและถึงผู้ถือหุ้นต้องไม่ว่างเปล่า"
+
+msgid "The folio numbers are not matching"
+msgstr "หมายเลขโฟลิโอไม่ตรงกัน"
+
+msgid "The following Items, having Putaway Rules, could not be accomodated:"
+msgstr "รายการต่อไปนี้ที่มีข้อกำหนดการจัดเก็บไม่สามารถรองรับได้:"
+
+msgid "The following assets have failed to automatically post depreciation entries: {0}"
+msgstr "สินทรัพย์ต่อไปนี้ล้มเหลวในการโพสต์รายการค่าเสื่อมราคาโดยอัตโนมัติ: {0}"
+
+msgid "The following batches are expired, please restock them: <br> {0}"
+msgstr "แบทช์ต่อไปนี้หมดอายุแล้ว โปรดเติมสต็อกใหม่: <br> {0}"
+
+msgid "The following deleted attributes exist in Variants but not in the Template. You can either delete the Variants or keep the attribute(s) in template."
+msgstr "คุณลักษณะที่ถูกลบต่อไปนี้มีอยู่ในตัวแปรแต่ไม่อยู่ในแม่แบบ คุณสามารถลบตัวแปรหรือเก็บคุณลักษณะไว้ในแม่แบบ"
+
+msgid "The following employees are currently still reporting to {0}:"
+msgstr "พนักงานต่อไปนี้ยังคงรายงานต่อ {0}:"
+
+msgid "The following invalid Pricing Rules are deleted:"
+msgstr "กฎการกำหนดราคาที่ไม่ถูกต้องต่อไปนี้ถูกลบ:"
+
+msgid "The following {0} were created: {1}"
+msgstr "{0} ต่อไปนี้ถูกสร้างขึ้น: {1}"
+
+msgid "The gross weight of the package. Usually net weight + packaging material weight. (for print)"
+msgstr "น้ำหนักรวมของแพ็คเกจ โดยปกติคือน้ำหนักสุทธิ + น้ำหนักวัสดุบรรจุภัณฑ์ (สำหรับการพิมพ์)"
+
+msgid "The holiday on {0} is not between From Date and To Date"
+msgstr "วันหยุดใน {0} ไม่อยู่ระหว่างวันที่เริ่มต้นและวันที่สิ้นสุด"
+
+msgid "The item {item} is not marked as {type_of} item. You can enable it as {type_of} item from its Item master."
+msgstr "รายการ {item} ไม่ได้ถูกทำเครื่องหมายเป็นรายการ {type_of} คุณสามารถเปิดใช้งานเป็นรายการ {type_of} ได้จากมาสเตอร์รายการ"
+
+msgid "The items {0} and {1} are present in the following {2} :"
+msgstr "รายการ {0} และ {1} มีอยู่ใน {2} ต่อไปนี้:"
+
+msgid "The items {items} are not marked as {type_of} item. You can enable them as {type_of} item from their Item masters."
+msgstr "รายการ {items} ไม่ได้ถูกทำเครื่องหมายเป็นรายการ {type_of} คุณสามารถเปิดใช้งานเป็นรายการ {type_of} ได้จากมาสเตอร์รายการของพวกเขา"
+
+msgid "The job card {0} is in {1} state and you cannot complete."
+msgstr "การ์ดงาน {0} อยู่ในสถานะ {1} และคุณไม่สามารถทำให้เสร็จได้"
+
+msgid "The job card {0} is in {1} state and you cannot start it again."
+msgstr "การ์ดงาน {0} อยู่ในสถานะ {1} และคุณไม่สามารถเริ่มต้นใหม่ได้"
+
+msgid "The lowest tier must have a minimum spent amount of 0. Customers need to be part of a tier as soon as they are enrolled in the program."
+msgstr "ระดับต่ำสุดต้องมีจำนวนเงินที่ใช้จ่ายขั้นต่ำ 0 ลูกค้าจำเป็นต้องเป็นส่วนหนึ่งของระดับทันทีที่พวกเขาลงทะเบียนในโปรแกรม"
+
+msgid "The net weight of this package. (calculated automatically as sum of net weight of items)"
+msgstr "น้ำหนักสุทธิของแพ็คเกจนี้ (คำนวณโดยอัตโนมัติเป็นผลรวมของน้ำหนักสุทธิของรายการ)"
+
+msgid "The new BOM after replacement"
+msgstr "BOM ใหม่หลังจากการเปลี่ยน"
+
+msgid "The number of shares and the share numbers are inconsistent"
+msgstr "จำนวนหุ้นและหมายเลขหุ้นไม่สอดคล้องกัน"
+
+msgid "The operation {0} can not add multiple times"
+msgstr "การดำเนินการ {0} ไม่สามารถเพิ่มหลายครั้งได้"
+
+msgid "The operation {0} can not be the sub operation"
+msgstr "การดำเนินการ {0} ไม่สามารถเป็นการดำเนินการย่อยได้"
+
+msgid "The original invoice should be consolidated before or along with the return invoice."
+msgstr "ใบแจ้งหนี้ต้นฉบับควรถูกรวมก่อนหรือพร้อมกับใบแจ้งหนี้คืน"
+
+msgid "The parent account {0} does not exists in the uploaded template"
+msgstr "บัญชีแม่ {0} ไม่มีในเทมเพลตที่อัปโหลด"
+
+msgid "The payment gateway account in plan {0} is different from the payment gateway account in this payment request"
+msgstr "บัญชีเกตเวย์การชำระเงินในแผน {0} แตกต่างจากบัญชีเกตเวย์การชำระเงินในคำขอชำระเงินนี้"
+
+msgid "The percentage you are allowed to bill more against the amount ordered. For example, if the order value is $100 for an item and tolerance is set as 10%, then you are allowed to bill up to $110 "
+msgstr ""
+
+msgid "The percentage you are allowed to pick more items in the pick list than the ordered quantity."
+msgstr "เปอร์เซ็นต์ที่คุณได้รับอนุญาตให้เลือกสินค้ามากกว่าจำนวนที่สั่งในรายการเลือก"
+
+msgid "The percentage you are allowed to receive or deliver more against the quantity ordered. For example, if you have ordered 100 units, and your Allowance is 10%, then you are allowed to receive 110 units."
+msgstr ""
+
+msgid "The percentage you are allowed to transfer more against the quantity ordered. For example, if you have ordered 100 units, and your Allowance is 10%, then you are allowed transfer 110 units."
+msgstr ""
+
+msgid "The reserved stock will be released when you update items. Are you certain you wish to proceed?"
+msgstr "สต็อกที่จองไว้จะถูกปล่อยเมื่อคุณอัปเดตรายการ คุณแน่ใจหรือไม่ว่าต้องการดำเนินการต่อ?"
+
+msgid "The reserved stock will be released. Are you certain you wish to proceed?"
+msgstr "สต็อกที่จองไว้จะถูกปล่อย คุณแน่ใจหรือไม่ว่าต้องการดำเนินการต่อ?"
+
+msgid "The root account {0} must be a group"
+msgstr "บัญชีราก {0} ต้องเป็นกลุ่ม"
+
+msgid "The selected BOMs are not for the same item"
+msgstr "BOM ที่เลือกไม่ใช่สำหรับรายการเดียวกัน"
+
+msgid "The selected change account {} doesn't belongs to Company {}."
+msgstr "บัญชีเปลี่ยนแปลงที่เลือก {} ไม่ได้เป็นของบริษัท {}"
+
+msgid "The selected item cannot have Batch"
+msgstr "รายการที่เลือกไม่สามารถมีแบทช์ได้"
+
+msgid "The seller and the buyer cannot be the same"
+msgstr "ผู้ขายและผู้ซื้อไม่สามารถเป็นคนเดียวกันได้"
+
+msgid "The serial and batch bundle {0} not linked to {1} {2}"
+msgstr "ชุดซีเรียลและแบทช์ {0} ไม่ได้เชื่อมโยงกับ {1} {2}"
+
+msgid "The serial no {0} does not belong to item {1}"
+msgstr "หมายเลขซีเรียล {0} ไม่ได้เป็นของรายการ {1}"
+
+msgid "The shareholder does not belong to this company"
+msgstr "ผู้ถือหุ้นไม่ได้เป็นของบริษัทนี้"
+
+msgid "The shares already exist"
+msgstr "หุ้นมีอยู่แล้ว"
+
+msgid "The shares don't exist with the {0}"
+msgstr "หุ้นไม่มีอยู่กับ {0}"
+
+msgid "The stock for the item {0} in the {1} warehouse was negative on the {2}. You should create a positive entry {3} before the date {4} and time {5} to post the correct valuation rate. For more details, please read the <a href='https://docs.erpnext.com/docs/user/manual/en/stock-adjustment-cogs-with-negative-stock'>documentation<a>."
+msgstr "สต็อกสำหรับรายการ {0} ในคลังสินค้า {1} เป็นลบเมื่อวันที่ {2} คุณควรสร้างรายการบวก {3} ก่อนวันที่ {4} และเวลา {5} เพื่อโพสต์อัตราการประเมินมูลค่าที่ถูกต้อง สำหรับรายละเอียดเพิ่มเติม โปรดอ่าน <a href='https://docs.erpnext.com/docs/user/manual/en/stock-adjustment-cogs-with-negative-stock'>เอกสาร<a>."
+
+msgid "The stock has been reserved for the following Items and Warehouses, un-reserve the same to {0} the Stock Reconciliation: <br /><br /> {1}"
+msgstr "สต็อกถูกจองไว้สำหรับรายการและคลังสินค้าต่อไปนี้ ยกเลิกการจองเพื่อ {0} การกระทบยอดสต็อก: <br /><br /> {1}"
+
+msgid "The sync has started in the background, please check the {0} list for new records."
+msgstr "การซิงค์ได้เริ่มต้นในพื้นหลัง โปรดตรวจสอบรายการ {0} สำหรับระเบียนใหม่"
+
+msgid "The system will create a Sales Invoice or a POS Invoice from the POS interface based on this setting. For high-volume transactions, it is recommended to use POS Invoice."
+msgstr ""
+
+msgid "The task has been enqueued as a background job."
+msgstr "งานถูกจัดคิวเป็นงานพื้นหลัง"
+
+msgid "The task has been enqueued as a background job. In case there is any issue on processing in background, the system will add a comment about the error on this Stock Reconciliation and revert to the Draft stage"
+msgstr "งานถูกจัดคิวเป็นงานพื้นหลัง หากมีปัญหาในการประมวลผลในพื้นหลัง ระบบจะเพิ่มความคิดเห็นเกี่ยวกับข้อผิดพลาดในกระทบยอดสต็อกนี้และเปลี่ยนกลับไปยังสถานะร่าง"
+
+msgid "The task has been enqueued as a background job. In case there is any issue on processing in background, the system will add a comment about the error on this Stock Reconciliation and revert to the Submitted stage"
+msgstr "งานถูกจัดคิวเป็นงานพื้นหลัง หากมีปัญหาในการประมวลผลในพื้นหลัง ระบบจะเพิ่มความคิดเห็นเกี่ยวกับข้อผิดพลาดในกระทบยอดสต็อกนี้และเปลี่ยนกลับไปยังสถานะที่ส่งแล้ว"
+
+msgid "The total Issue / Transfer quantity {0} in Material Request {1}  cannot be greater than allowed requested quantity {2} for Item {3}"
+msgstr "ปริมาณการออก / โอนทั้งหมด {0} ในคำขอวัสดุ {1} ไม่สามารถมากกว่าปริมาณที่ร้องขอที่อนุญาต {2} สำหรับรายการ {3}"
+
+msgid "The total Issue / Transfer quantity {0} in Material Request {1} cannot be greater than requested quantity {2} for Item {3}"
+msgstr "ปริมาณการออก / โอนทั้งหมด {0} ในคำขอวัสดุ {1} ไม่สามารถมากกว่าปริมาณที่ร้องขอ {2} สำหรับรายการ {3}"
+
+msgid "The uploaded file does not appear to be in valid MT940 format."
+msgstr ""
+

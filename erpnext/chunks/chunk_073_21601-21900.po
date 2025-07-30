@@ -1,0 +1,300 @@
+﻿msgstr "การจัดส่ง"
+
+msgid "Shipping Account"
+msgstr "บัญชีการขนส่ง"
+
+msgid "Shipping Address"
+msgstr "ที่อยู่การขนส่ง"
+
+msgid "Shipping Address Details"
+msgstr "รายละเอียดที่อยู่การขนส่ง"
+
+msgid "Shipping Address Name"
+msgstr "ชื่อที่อยู่การขนส่ง"
+
+msgid "Shipping Address Template"
+msgstr "แม่แบบที่อยู่การขนส่ง"
+
+msgid "Shipping Address does not belong to the {0}"
+msgstr "ที่อยู่การขนส่งไม่เป็นของ {0}"
+
+msgid "Shipping Address does not have country, which is required for this Shipping Rule"
+msgstr "ที่อยู่การขนส่งไม่มีประเทศ ซึ่งจำเป็นสำหรับกฎการขนส่งนี้"
+
+msgid "Shipping Amount"
+msgstr "จำนวนเงินการขนส่ง"
+
+msgid "Shipping City"
+msgstr "เมืองการขนส่ง"
+
+msgid "Shipping Country"
+msgstr "ประเทศการขนส่ง"
+
+msgid "Shipping County"
+msgstr "เขตการขนส่ง"
+
+msgid "Shipping Rule"
+msgstr "กฎการขนส่ง"
+
+msgid "Shipping Rule Condition"
+msgstr "เงื่อนไขกฎการขนส่ง"
+
+msgid "Shipping Rule Conditions"
+msgstr "เงื่อนไขกฎการขนส่ง"
+
+msgid "Shipping Rule Country"
+msgstr "ประเทศกฎการขนส่ง"
+
+msgid "Shipping Rule Label"
+msgstr "ป้ายกำกับกฎการขนส่ง"
+
+msgid "Shipping Rule Type"
+msgstr "ประเภทกฎการขนส่ง"
+
+msgid "Shipping State"
+msgstr "รัฐการขนส่ง"
+
+msgid "Shipping Zipcode"
+msgstr "รหัสไปรษณีย์การขนส่ง"
+
+msgid "Shipping rule not applicable for country {0} in Shipping Address"
+msgstr "กฎการขนส่งไม่สามารถใช้ได้สำหรับประเทศ {0} ในที่อยู่การขนส่ง"
+
+msgid "Shipping rule only applicable for Buying"
+msgstr "กฎการขนส่งใช้ได้เฉพาะสำหรับการซื้อ"
+
+msgid "Shipping rule only applicable for Selling"
+msgstr "กฎการขนส่งใช้ได้เฉพาะสำหรับการขาย"
+
+msgid "Shopping Cart"
+msgstr "ตะกร้าสินค้า"
+
+msgid "Short Name"
+msgstr "ชื่อย่อ"
+
+msgid "Short Term Loan Account"
+msgstr "บัญชีเงินกู้ระยะสั้น"
+
+msgid "Short biography for website and other publications."
+msgstr "ชีวประวัติย่อสำหรับเว็บไซต์และสิ่งพิมพ์อื่น ๆ"
+
+msgid "Shortage Qty"
+msgstr "ปริมาณขาดแคลน"
+
+msgid "Show Aggregate Value from Subsidiary Companies"
+msgstr "แสดงค่ารวมจากบริษัทในเครือ"
+
+msgid "Show Balances in Chart Of Accounts"
+msgstr "แสดงยอดคงเหลือในผังบัญชี"
+
+msgid "Show Barcode Field in Stock Transactions"
+msgstr "แสดงฟิลด์บาร์โค้ดในธุรกรรมสต็อก"
+
+msgid "Show Cancelled Entries"
+msgstr "แสดงรายการที่ถูกยกเลิก"
+
+msgid "Show Completed"
+msgstr "แสดงที่เสร็จสมบูรณ์"
+
+msgid "Show Cumulative Amount"
+msgstr "แสดงจำนวนเงินสะสม"
+
+msgid "Show Dimension Wise Stock"
+msgstr "แสดงสต็อกตามมิติ"
+
+msgid "Show Disabled Warehouses"
+msgstr "แสดงคลังสินค้าที่ปิดใช้งาน"
+
+msgid "Show Failed Logs"
+msgstr "แสดงบันทึกที่ล้มเหลว"
+
+msgid "Show Future Payments"
+msgstr "แสดงการชำระเงินในอนาคต"
+
+msgid "Show GL Balance"
+msgstr "แสดงยอดคงเหลือ GL"
+
+msgid "Show Group Accounts"
+msgstr ""
+
+msgid "Show In Website"
+msgstr "แสดงในเว็บไซต์"
+
+msgid "Show Inclusive Tax in Print"
+msgstr "แสดงภาษีรวมในพิมพ์"
+
+msgid "Show Item Name"
+msgstr "แสดงชื่อรายการ"
+
+msgid "Show Items"
+msgstr "แสดงรายการ"
+
+msgid "Show Latest Forum Posts"
+msgstr "แสดงโพสต์ฟอรัมล่าสุด"
+
+msgid "Show Ledger View"
+msgstr "แสดงมุมมองบัญชีแยกประเภท"
+
+msgid "Show Linked Delivery Notes"
+msgstr "แสดงใบส่งของที่เชื่อมโยง"
+
+msgid "Show Net Values in Party Account"
+msgstr "แสดงมูลค่าสุทธิในบัญชีคู่สัญญา"
+
+msgid "Show Open"
+msgstr "แสดงที่เปิดอยู่"
+
+msgid "Show Opening Entries"
+msgstr "แสดงรายการเปิด"
+
+msgid "Show Operations"
+msgstr "แสดงการดำเนินการ"
+
+msgid "Show Pay Button in Purchase Order Portal"
+msgstr "แสดงปุ่มชำระเงินในพอร์ทัลคำสั่งซื้อ"
+
+msgid "Show Payment Details"
+msgstr "แสดงรายละเอียดการชำระเงิน"
+
+msgid "Show Payment Schedule in Print"
+msgstr "แสดงตารางการชำระเงินในพิมพ์"
+
+msgid "Show Preview"
+msgstr "แสดงตัวอย่าง"
+
+msgid "Show Remarks"
+msgstr "แสดงข้อสังเกต"
+
+msgid "Show Return Entries"
+msgstr "แสดงรายการคืน"
+
+msgid "Show Sales Person"
+msgstr "แสดงพนักงานขาย"
+
+msgid "Show Stock Ageing Data"
+msgstr "แสดงข้อมูลอายุสต็อก"
+
+msgid "Show Taxes as Table in Print"
+msgstr "แสดงภาษีเป็นตารางในพิมพ์"
+
+msgid "Show Traceback"
+msgstr "แสดงการติดตามข้อผิดพลาด"
+
+msgid "Show Variant Attributes"
+msgstr "แสดงคุณลักษณะตัวแปร"
+
+msgid "Show Variants"
+msgstr "แสดงตัวแปร"
+
+msgid "Show Warehouse-wise Stock"
+msgstr "แสดงสต็อกตามคลังสินค้า"
+
+msgid "Show exploded view"
+msgstr "แสดงมุมมองแบบขยาย"
+
+msgid "Show in Website"
+msgstr "แสดงในเว็บไซต์"
+
+msgid "Show net values in opening and closing columns"
+msgstr "แสดงมูลค่าสุทธิในคอลัมน์เปิดและปิด"
+
+msgid "Show only POS"
+msgstr "แสดงเฉพาะ POS"
+
+msgid "Show only the Immediate Upcoming Term"
+msgstr "แสดงเฉพาะเงื่อนไขที่กำลังจะมาถึงทันที"
+
+msgid "Show pending entries"
+msgstr "แสดงรายการที่ค้างอยู่"
+
+msgid "Show unclosed fiscal year's P&L balances"
+msgstr "แสดงยอดคงเหลือกำไรขาดทุนของปีงบประมาณที่ยังไม่ปิด"
+
+msgid "Show with upcoming revenue/expense"
+msgstr "แสดงพร้อมรายได้/ค่าใช้จ่ายที่กำลังจะมาถึง"
+
+msgid "Show zero values"
+msgstr "แสดงค่าศูนย์"
+
+msgid "Show {0}"
+msgstr "แสดง {0}"
+
+msgid "Signatory Position"
+msgstr ""
+
+msgid "Signed"
+msgstr ""
+
+msgid "Signed By (Company)"
+msgstr ""
+
+msgid "Signed On"
+msgstr ""
+
+msgid "Signee"
+msgstr ""
+
+msgid "Signee (Company)"
+msgstr ""
+
+msgid "Signee Details"
+msgstr ""
+
+msgid "Simple Python Expression, Example: doc.status == 'Open' and doc.issue_type == 'Bug'"
+msgstr ""
+
+msgid "Simple Python Expression, Example: territory != 'All Territories'"
+msgstr ""
+
+msgid "Simple Python formula applied on Reading fields.<br> Numeric eg. 1: <b>reading_1 &gt; 0.2 and reading_1 &lt; 0.5</b><br>\n"
+"Numeric eg. 2: <b>mean &gt; 3.5</b> (mean of populated fields)<br>\n"
+"Value based eg.:  <b>reading_value in (\"A\", \"B\", \"C\")</b>"
+msgstr ""
+
+msgid "Simultaneous"
+msgstr "พร้อมกัน"
+
+msgid "Since there is a process loss of {0} units for the finished good {1}, you should reduce the quantity by {0} units for the finished good {1} in the Items Table."
+msgstr "เนื่องจากมีการสูญเสียกระบวนการ {0} หน่วยสำหรับสินค้าสำเร็จรูป {1} คุณควรลดปริมาณลง {0} หน่วยสำหรับสินค้าสำเร็จรูป {1} ในตารางรายการ"
+
+msgid "Single"
+msgstr "เดี่ยว"
+
+msgid "Single Tier Program"
+msgstr "โปรแกรมระดับเดียว"
+
+msgid "Single Transaction Threshold"
+msgstr "เกณฑ์ธุรกรรมเดี่ยว"
+
+msgid "Single Variant"
+msgstr "ตัวแปรเดี่ยว"
+
+msgid "Size"
+msgstr "ขนาด"
+
+msgid "Skip Delivery Note"
+msgstr "ข้ามใบส่งของ"
+
+msgid "Skip Material Transfer"
+msgstr "ข้ามการโอนวัสดุ"
+
+msgid "Skip Material Transfer to WIP"
+msgstr "ข้ามการโอนวัสดุไปยัง WIP"
+
+msgid "Skip Material Transfer to WIP Warehouse"
+msgstr "ข้ามการโอนวัสดุไปยังคลังสินค้า WIP"
+
+msgid "Skipped"
+msgstr "ข้ามแล้ว"
+
+msgid "Skipping Tax Withholding Category {0} as there is no associated account set for Company {1} in it."
+msgstr "ข้ามหมวดหมู่การหักภาษี ณ ที่จ่าย {0} เนื่องจากไม่มีการตั้งค่าบัญชีที่เกี่ยวข้องสำหรับบริษัท {1} ในหมวดหมู่นี้"
+
+msgid "Skipping {0} of {1}, {2}"
+msgstr "ข้าม {0} จาก {1}, {2}"
+
+msgid "Skype ID"
+msgstr "รหัส Skype"
+
+msgid "Slug"
+msgstr ""

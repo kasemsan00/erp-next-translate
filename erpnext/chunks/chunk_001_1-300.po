@@ -1,0 +1,300 @@
+﻿msgid ""
+msgstr ""
+
+msgid "  "
+msgstr "  "
+
+msgid " Address"
+msgstr " ที่อยู่"
+
+msgid " Amount"
+msgstr " จำนวน"
+
+msgid " BOM"
+msgstr " รายการวัตถุดิบในการผลิต"
+
+msgid " Is Child Table"
+msgstr " เป็นตารางลูก"
+
+msgid " Is Subcontracted"
+msgstr " เป็นงานเหมาช่วง"
+
+msgid " Item"
+msgstr " รายการสินค้า"
+
+msgid " Name"
+msgstr " ชื่อ"
+
+msgid " Rate"
+msgstr " อัตรา/ราคา"
+
+msgid " Raw Material"
+msgstr " วัตถุดิบ"
+
+msgid " Reserve Stock"
+msgstr " สต๊อกสำรอง"
+
+msgid " Skip Material Transfer"
+msgstr " ข้ามขั้นตอนการย้ายวัสดุ"
+
+msgid " Sub Assembly"
+msgstr " ส่วนประกอบย่อย"
+
+msgid " Summary"
+msgstr " สรุป"
+
+msgid "\"Customer Provided Item\" cannot be Purchase Item also"
+msgstr "\"สินค้าที่ลูกค้าจัดเตรียมให้\" ไม่สามารถเป็นสินค้าที่ซื้อได้เช่นกัน"
+
+msgid "\"Customer Provided Item\" cannot have Valuation Rate"
+msgstr "\"รายการที่ลูกค้าจัดเตรียมไว้\" ไม่สามารถมีอัตราการประเมินค่าได้"
+
+msgid "\"Is Fixed Asset\" cannot be unchecked, as Asset record exists against the item"
+msgstr "ไม่สามารถยกเลิกการเลือก \"เป็นสินทรัพย์ถาวร\" ได้ เนื่องจากมีบันทึกสินทรัพย์อยู่ในรายการ"
+
+msgid "\"SN-01::10\" for \"SN-01\" to \"SN-10\""
+msgstr "“SN-01::10” ตั้งแต่ “SN-01” ถึง “SN-10”"
+
+msgid "# In Stock"
+msgstr "# มีสินค้าในสต๊อก"
+
+msgid "# Req'd Items"
+msgstr "# รายการที่ต้องการ"
+
+msgid "%  Delivered"
+msgstr "% จัดส่งแล้ว"
+
+msgid "% Amount Billed"
+msgstr "% จำนวนเงินที่เรียกเก็บ"
+
+msgid "% Billed"
+msgstr "% เรียกเก็บเงินแล้ว"
+
+msgid "% Complete Method"
+msgstr "% เสร็จสมบูรณ์"
+
+msgid "% Completed"
+msgstr "% สมบูรณ์"
+
+msgid "% Delivered"
+msgstr "% จัดส่งแล้ว"
+
+msgid "% Finished Item Quantity"
+msgstr "% จำนวนสินค้าที่ทำสำเร็จ"
+
+msgid "% Installed"
+msgstr "% ติดตั้งแล้ว"
+
+msgid "% Occupied"
+msgstr "% ไม่ว่าง"
+
+msgid "% Of Grand Total"
+msgstr "% ของยอดรวมทั้งหมด"
+
+msgid "% Ordered"
+msgstr "% สั่งแล้ว"
+
+msgid "% Picked"
+msgstr "% เลือกแล้ว"
+
+msgid "% Process Loss"
+msgstr "% การสูญเสียจากกระบวนการ"
+
+msgid "% Progress"
+msgstr "% ความคืบหน้า"
+
+msgid "% Received"
+msgstr "% ได้รับ"
+
+msgid "% Returned"
+msgstr "% ส่งคืน"
+
+msgid "% of materials billed against this Sales Order"
+msgstr "% ของวัสดุที่ถูกเรียกเก็บเงินตามใบสั่งขายนี้"
+
+msgid "% of materials delivered against this Pick List"
+msgstr "% ของวัสดุที่จัดส่งตามรายการเลือกนี้"
+
+msgid "% of materials delivered against this Sales Order"
+msgstr "% ของวัสดุที่ถูกเรียกเก็บเงินตามใบสั่งขายนี้"
+
+msgid "'Account' in the Accounting section of Customer {0}"
+msgstr "'บัญชี' ในส่วนบัญชีของลูกค้า"
+
+msgid "'Allow Multiple Sales Orders Against a Customer's Purchase Order'"
+msgstr "'ยอมให้มีใบสั่งซื้อหลายใบที่อ้างอิงใบสั่งซื้อเดียวกันของลูกค้า'"
+
+msgid "'Based On' and 'Group By' can not be same"
+msgstr "'Based On' กับ 'Group By' ไม่ต้องเหมือนกัน"
+
+msgid "'Days Since Last Order' must be greater than or equal to zero"
+msgstr "จำนวนวันตั้งแต่คำสั่งซื้อครั้งล่าสุด ต้องมากกว่าหรือเท่ากับศูนย์"
+
+msgid "'Default {0} Account' in Company {1}"
+msgstr "บัญชี {0} เริ่มต้น ในบริษัท {1}"
+
+msgid "'Entries' cannot be empty"
+msgstr "รายการ ไม่สามารถว่างเปล่าได้"
+
+msgid "'From Date' is required"
+msgstr "กรุณากรอก 'ตั้งแต่วันที่'"
+
+msgid "'From Date' must be after 'To Date'"
+msgstr "จากวันที่ ต้องอยู่หลัง ถึงวันที่"
+
+msgid "'Has Serial No' can not be 'Yes' for non-stock item"
+msgstr "มีหมายเลขซีเรียล ไม่สามารถเป็น ใช่ สำหรับสินค้าที่ไม่ใช่สต็อก"
+
+msgid "'Inspection Required before Delivery' has disabled for the item {0}, no need to create the QI"
+msgstr "ต้องการการตรวจสอบก่อนการส่งมอบ ถูกปิดใช้งานสำหรับสินค้า {0}, ไม่จำเป็นต้องสร้าง QI"
+
+msgid "'Inspection Required before Purchase' has disabled for the item {0}, no need to create the QI"
+msgstr "ต้องการการตรวจสอบก่อนการซื้อ ถูกปิดใช้งานสำหรับสินค้า {0}, ไม่จำเป็นต้องสร้าง QI"
+
+msgid "'Opening'"
+msgstr "เปิด"
+
+msgid "'To Date' is required"
+msgstr "กรุณากรอก 'ถึงวันที่'"
+
+msgid "'To Package No.' cannot be less than 'From Package No.'"
+msgstr "ถึงหมายเลขแพ็คเกจ ไม่สามารถน้อยกว่า จากหมายเลขแพ็คเกจ"
+
+msgid "'Update Stock' can not be checked because items are not delivered via {0}"
+msgstr "อัปเดตสต็อก ไม่สามารถเลือกได้เพราะสินค้าไม่ได้ส่งผ่าน {0}"
+
+msgid "'Update Stock' cannot be checked for fixed asset sale"
+msgstr "อัปเดตสต็อก ไม่สามารถเลือกได้สำหรับการขายสินทรัพย์ถาวร"
+
+msgid "'{0}' account is already used by {1}. Use another account."
+msgstr "บัญชี '{0}' ถูกใช้โดย {1} แล้ว ใช้บัญชีอื่น"
+
+msgid "'{0}' has been already added."
+msgstr "'{0}' ถูกเพิ่มแล้ว"
+
+msgid "'{0}' should be in company currency {1}."
+msgstr "'{0}' ควรอยู่ในสกุลเงินของบริษัท {1}"
+
+msgid "(A) Qty After Transaction"
+msgstr "(A) ปริมาณหลังการทำธุรกรรม"
+
+msgid "(B) Expected Qty After Transaction"
+msgstr "(B) ปริมาณที่คาดหวังหลังการทำธุรกรรม"
+
+msgid "(C) Total Qty in Queue"
+msgstr "(C) ปริมาณรวมในคิว"
+
+msgid "(C) Total qty in queue"
+msgstr "(C) ปริมาณรวมในคิว"
+
+msgid "(D) Balance Stock Value"
+msgstr "(D) มูลค่าสต็อกคงเหลือ"
+
+msgid "(E) Balance Stock Value in Queue"
+msgstr "(E) มูลค่าสต็อกคงเหลือในคิว"
+
+msgid "(F) Change in Stock Value"
+msgstr "(F) การเปลี่ยนแปลงในมูลค่าสต็อก"
+
+msgid "(Forecast)"
+msgstr "(การพยากรณ์)"
+
+msgid "(G) Sum of Change in Stock Value"
+msgstr "(G) ผลรวมของการเปลี่ยนแปลงในมูลค่าสต็อก"
+
+msgid "(H) Change in Stock Value (FIFO Queue)"
+msgstr "(H) การเปลี่ยนแปลงในมูลค่าสต็อก (คิว FIFO)"
+
+msgid "(H) Valuation Rate"
+msgstr "(H) อัตราการประเมินค่า"
+
+msgid "(Hour Rate / 60) * Actual Operation Time"
+msgstr "(อัตราชั่วโมง / 60) * เวลาดำเนินการจริง"
+
+msgid "(I) Valuation Rate"
+msgstr "(I) อัตราการประเมินค่า"
+
+msgid "(J) Valuation Rate as per FIFO"
+msgstr "(J) อัตราการประเมินค่าตาม FIFO"
+
+msgid "(K) Valuation = Value (D) ÷ Qty (A)"
+msgstr "(K) การประเมินค่า = มูลค่า (D) ÷ ปริมาณ (A)"
+
+msgid "(Purchase Order + Material Request + Actual Expense)"
+msgstr "(คำสั่งซื้อ + คำขอวัสดุ + ค่าใช้จ่ายจริง)"
+
+msgid "(including)"
+msgstr "(รวมถึง)"
+
+msgid "* Will be calculated in the transaction."
+msgstr "* จะถูกคำนวณในธุรกรรม"
+
+msgid "0 - 30 Days"
+msgstr "0 - 30 วัน"
+
+msgid "0-30"
+msgstr "0-30"
+
+msgid "0-30 Days"
+msgstr "0-30 วัน"
+
+msgid "1 Loyalty Points = How much base currency?"
+msgstr "1 คะแนนสะสม = เท่าไหร่ในสกุลเงินฐาน?"
+
+msgid "1 hr"
+msgstr "1 ชม."
+
+msgid "1-10"
+msgstr "1-10"
+
+msgid "1000+"
+msgstr "1000+"
+
+msgid "11-50"
+msgstr "11-50"
+
+msgid "1{0}"
+msgstr "1{0}"
+
+msgid "2 Yearly"
+msgstr "ทุก 2 ปี"
+
+msgid "201-500"
+msgstr "201-500"
+
+msgid "3 Yearly"
+msgstr "ทุก 3 ปี"
+
+msgid "30 - 60 Days"
+msgstr "30 - 60 วัน"
+
+msgid "30 mins"
+msgstr "30 นาที"
+
+msgid "30-60"
+msgstr "30-60"
+
+msgid "30-60 Days"
+msgstr "30-60 วัน"
+
+msgid "501-1000"
+msgstr "501-1000"
+
+msgid "51-200"
+msgstr "51-200"
+
+msgid "6 hrs"
+msgstr "6 ชั่วโมง"
+
+msgid "60 - 90 Days"
+msgstr "60 - 90 วัน"
+
+msgid "60-90"
+msgstr "60-90"
+
+msgid "60-90 Days"
+msgstr "60-90 วัน"
+
+msgid "90 - 120 Days"
+msgstr "90 - 120 วัน"
+

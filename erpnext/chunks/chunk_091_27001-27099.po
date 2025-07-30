@@ -1,0 +1,99 @@
+﻿msgid "{0} {1}: Cost Center {2} is a group cost center and group cost centers cannot be used in transactions"
+msgstr "{0} {1}: ศูนย์ต้นทุน {2} เป็นศูนย์ต้นทุนกลุ่มและไม่สามารถใช้ศูนย์ต้นทุนกลุ่มในธุรกรรมได้"
+
+msgid "{0} {1}: Customer is required against Receivable account {2}"
+msgstr "{0} {1}: ต้องการลูกค้าสำหรับบัญชีลูกหนี้ {2}"
+
+msgid "{0} {1}: Either debit or credit amount is required for {2}"
+msgstr "{0} {1}: ต้องการจำนวนเงินเดบิตหรือเครดิตสำหรับ {2}"
+
+msgid "{0} {1}: Supplier is required against Payable account {2}"
+msgstr "{0} {1}: ต้องการผู้จัดจำหน่ายสำหรับบัญชีเจ้าหนี้ {2}"
+
+msgid "{0}%"
+msgstr ""
+
+msgid "{0}% Billed"
+msgstr ""
+
+msgid "{0}% Delivered"
+msgstr ""
+
+msgid "{0}% of total invoice value will be given as discount."
+msgstr ""
+
+msgid "{0}'s {1} cannot be after {2}'s Expected End Date."
+msgstr "{1} ของ {0} ไม่สามารถอยู่หลังวันที่สิ้นสุดที่คาดไว้ของ {2}"
+
+msgid "{0}, complete the operation {1} before the operation {2}."
+msgstr "{0}, โปรดทำการดำเนินการ {1} ให้เสร็จก่อนการดำเนินการ {2}"
+
+msgid "{0}: {1} does not belong to the Company: {2}"
+msgstr "{0}: {1} ไม่ได้เป็นของบริษัท: {2}"
+
+msgid "{0}: {1} does not exists"
+msgstr "{0}: {1} ไม่มีอยู่"
+
+msgid "{0}: {1} must be less than {2}"
+msgstr "{0}: {1} ต้องน้อยกว่า {2}"
+
+msgid "{count} Assets created for {item_code}"
+msgstr "สร้างสินทรัพย์ {count} สำหรับ {item_code}"
+
+msgid "{doctype} {name} is cancelled or closed."
+msgstr "{doctype} {name} ถูกยกเลิกหรือปิดแล้ว"
+
+msgid "{field_label} is mandatory for sub-contracted {doctype}."
+msgstr "{field_label} เป็นสิ่งจำเป็นสำหรับ {doctype} ที่จ้างช่วง"
+
+msgid "{item_name}'s Sample Size ({sample_size}) cannot be greater than the Accepted Quantity ({accepted_quantity})"
+msgstr "ขนาดตัวอย่าง ({sample_size}) ของ {item_name} ต้องไม่เกินปริมาณที่ยอมรับได้ ({accepted_quantity})"
+
+msgid "{ref_doctype} {ref_name} is {status}."
+msgstr "{ref_doctype} {ref_name} มีสถานะ {status}"
+
+msgid "{}"
+msgstr ""
+
+msgid "{}  Available"
+msgstr ""
+
+msgid "{}  To Deliver"
+msgstr ""
+
+msgid "{}  To Receive"
+msgstr ""
+
+msgid "{} Assigned"
+msgstr ""
+
+msgid "{} Available"
+msgstr ""
+
+msgid "{} Open"
+msgstr ""
+
+msgid "{} Pending"
+msgstr ""
+
+msgid "{} To Bill"
+msgstr ""
+
+msgid "{} can't be cancelled since the Loyalty Points earned has been redeemed. First cancel the {} No {}"
+msgstr "{} ไม่สามารถยกเลิกได้เนื่องจากคะแนนสะสมที่ได้รับถูกแลกไปแล้ว โปรดยกเลิก {} หมายเลข {} ก่อน"
+
+msgid "{} has submitted assets linked to it. You need to cancel the assets to create purchase return."
+msgstr "{} ได้ส่งสินทรัพย์ที่เชื่อมโยงกับมันแล้ว คุณต้องยกเลิกสินทรัพย์เพื่อสร้างการคืนสินค้า"
+
+msgid "{} is a child company."
+msgstr "{} เป็นบริษัทลูก."
+
+msgid "{} {} is already linked with another {}"
+msgstr "{} {} ถูกเชื่อมโยงกับ {} อื่นแล้ว"
+
+msgid "{} {} is already linked with {} {}"
+msgstr "{} {} ถูกเชื่อมโยงกับ {} {} แล้ว"
+
+msgid "{} {} is not affecting bank account {}"
+msgstr "{} {} ไม่ส่งผลต่อบัญชีธนาคาร {}"
+

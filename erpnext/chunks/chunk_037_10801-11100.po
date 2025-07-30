@@ -1,0 +1,300 @@
+﻿
+msgid "Insurance End Date"
+msgstr "วันที่สิ้นสุดประกันภัย"
+
+msgid "Insurance Start Date"
+msgstr "วันที่เริ่มต้นประกันภัย"
+
+msgid "Insurance Start date should be less than Insurance End date"
+msgstr "วันที่เริ่มต้นประกันภัยควรน้อยกว่าวันที่สิ้นสุดประกันภัย"
+
+msgid "Insured value"
+msgstr "มูลค่าประกัน"
+
+msgid "Insurer"
+msgstr "ผู้ประกัน"
+
+msgid "Integration Details"
+msgstr "รายละเอียดการรวม"
+
+msgid "Integration ID"
+msgstr "รหัสการรวม"
+
+msgid "Inter Company Invoice Reference"
+msgstr "การอ้างอิงใบแจ้งหนี้ระหว่างบริษัท"
+
+msgid "Inter Company Journal Entry"
+msgstr "รายการบัญชีระหว่างบริษัท"
+
+msgid "Inter Company Journal Entry Reference"
+msgstr "การอ้างอิงรายการบัญชีระหว่างบริษัท"
+
+msgid "Inter Company Order Reference"
+msgstr "การอ้างอิงคำสั่งซื้อระหว่างบริษัท"
+
+msgid "Inter Company Reference"
+msgstr "การอ้างอิงระหว่างบริษัท"
+
+msgid "Inter Transfer Reference"
+msgstr "การอ้างอิงการโอนระหว่าง"
+
+msgid "Inter Warehouse Transfer Settings"
+msgstr "การตั้งค่าการโอนระหว่างคลังสินค้า"
+
+msgid "Interest"
+msgstr "ดอกเบี้ย"
+
+msgid "Interest and/or dunning fee"
+msgstr "ดอกเบี้ยและ/หรือค่าธรรมเนียมการทวงถาม"
+
+msgid "Interested"
+msgstr "สนใจ"
+
+msgid "Internal"
+msgstr "ภายใน"
+
+msgid "Internal Customer"
+msgstr "ลูกค้าภายใน"
+
+msgid "Internal Customer for company {0} already exists"
+msgstr "ลูกค้าภายในสำหรับบริษัท {0} มีอยู่แล้ว"
+
+msgid "Internal Sale or Delivery Reference missing."
+msgstr "การอ้างอิงการขายหรือการจัดส่งภายในหายไป"
+
+msgid "Internal Sales Reference Missing"
+msgstr "การอ้างอิงการขายภายในหายไป"
+
+msgid "Internal Supplier"
+msgstr "ผู้จัดจำหน่ายภายใน"
+
+msgid "Internal Supplier for company {0} already exists"
+msgstr "ผู้จัดจำหน่ายภายในสำหรับบริษัท {0} มีอยู่แล้ว"
+
+msgid "Internal Transfer"
+msgstr "การโอนภายใน"
+
+msgid "Internal Transfer Reference Missing"
+msgstr "การอ้างอิงการโอนภายในหายไป"
+
+msgid "Internal Transfers"
+msgstr "การโอนภายใน"
+
+msgid "Internal Work History"
+msgstr "ประวัติการทำงานภายใน"
+
+msgid "Internal transfers can only be done in company's default currency"
+msgstr "การโอนภายในสามารถทำได้เฉพาะในสกุลเงินเริ่มต้นของบริษัทเท่านั้น"
+
+msgid "Internet Publishing"
+msgstr ""
+
+msgid "Interval should be between 1 to 59 MInutes"
+msgstr "ช่วงเวลาควรอยู่ระหว่าง 1 ถึง 59 นาที"
+
+msgid "Introduction"
+msgstr "การแนะนำ"
+
+msgid "Invalid"
+msgstr "ไม่ถูกต้อง"
+
+msgid "Invalid Account"
+msgstr "บัญชีไม่ถูกต้อง"
+
+msgid "Invalid Allocated Amount"
+msgstr "จำนวนเงินที่จัดสรรไม่ถูกต้อง"
+
+msgid "Invalid Amount"
+msgstr "จำนวนเงินไม่ถูกต้อง"
+
+msgid "Invalid Attribute"
+msgstr "แอตทริบิวต์ไม่ถูกต้อง"
+
+msgid "Invalid Auto Repeat Date"
+msgstr "วันที่ทำซ้ำอัตโนมัติไม่ถูกต้อง"
+
+msgid "Invalid Barcode. There is no Item attached to this barcode."
+msgstr "บาร์โค้ดไม่ถูกต้อง ไม่มีรายการที่แนบมากับบาร์โค้ดนี้"
+
+msgid "Invalid Blanket Order for the selected Customer and Item"
+msgstr "คำสั่งซื้อแบบครอบคลุมไม่ถูกต้องสำหรับลูกค้าและรายการที่เลือก"
+
+msgid "Invalid Child Procedure"
+msgstr "กระบวนการย่อยไม่ถูกต้อง"
+
+msgid "Invalid Company for Inter Company Transaction."
+msgstr "บริษัทไม่ถูกต้องสำหรับธุรกรรมระหว่างบริษัท"
+
+msgid "Invalid Cost Center"
+msgstr "ศูนย์ต้นทุนไม่ถูกต้อง"
+
+msgid "Invalid Credentials"
+msgstr "ข้อมูลประจำตัวไม่ถูกต้อง"
+
+msgid "Invalid Delivery Date"
+msgstr "วันที่จัดส่งไม่ถูกต้อง"
+
+msgid "Invalid Discount"
+msgstr "ส่วนลดไม่ถูกต้อง"
+
+msgid "Invalid Document"
+msgstr "เอกสารไม่ถูกต้อง"
+
+msgid "Invalid Document Type"
+msgstr "ประเภทเอกสารไม่ถูกต้อง"
+
+msgid "Invalid Formula"
+msgstr "สูตรไม่ถูกต้อง"
+
+msgid "Invalid Gross Purchase Amount"
+msgstr "จำนวนเงินซื้อรวมไม่ถูกต้อง"
+
+msgid "Invalid Group By"
+msgstr "จัดกลุ่มตามไม่ถูกต้อง"
+
+msgid "Invalid Item"
+msgstr "รายการไม่ถูกต้อง"
+
+msgid "Invalid Item Defaults"
+msgstr "ค่าเริ่มต้นของรายการไม่ถูกต้อง"
+
+msgid "Invalid Ledger Entries"
+msgstr "รายการบัญชีแยกประเภทไม่ถูกต้อง"
+
+msgid "Invalid Opening Entry"
+msgstr "รายการเปิดไม่ถูกต้อง"
+
+msgid "Invalid POS Invoices"
+msgstr "ใบแจ้งหนี้ POS ไม่ถูกต้อง"
+
+msgid "Invalid Parent Account"
+msgstr "บัญชีหลักไม่ถูกต้อง"
+
+msgid "Invalid Part Number"
+msgstr "หมายเลขชิ้นส่วนไม่ถูกต้อง"
+
+msgid "Invalid Posting Time"
+msgstr "เวลาการโพสต์ไม่ถูกต้อง"
+
+msgid "Invalid Primary Role"
+msgstr "บทบาทหลักไม่ถูกต้อง"
+
+msgid "Invalid Priority"
+msgstr "ลำดับความสำคัญไม่ถูกต้อง"
+
+msgid "Invalid Process Loss Configuration"
+msgstr "การกำหนดค่าการสูญเสียกระบวนการไม่ถูกต้อง"
+
+msgid "Invalid Purchase Invoice"
+msgstr "ใบแจ้งหนี้ซื้อไม่ถูกต้อง"
+
+msgid "Invalid Qty"
+msgstr "ปริมาณไม่ถูกต้อง"
+
+msgid "Invalid Quantity"
+msgstr "ปริมาณไม่ถูกต้อง"
+
+msgid "Invalid Return"
+msgstr "การคืนไม่ถูกต้อง"
+
+msgid "Invalid Sales Invoices"
+msgstr "ใบแจ้งหนี้ขายไม่ถูกต้อง"
+
+msgid "Invalid Schedule"
+msgstr "ตารางเวลาไม่ถูกต้อง"
+
+msgid "Invalid Selling Price"
+msgstr "ราคาขายไม่ถูกต้อง"
+
+msgid "Invalid Serial and Batch Bundle"
+msgstr "ชุดหมายเลขซีเรียลและแบทช์ไม่ถูกต้อง"
+
+msgid "Invalid URL"
+msgstr "URL ไม่ถูกต้อง"
+
+msgid "Invalid Value"
+msgstr "ค่าไม่ถูกต้อง"
+
+msgid "Invalid Warehouse"
+msgstr "คลังสินค้าไม่ถูกต้อง"
+
+msgid "Invalid amount in accounting entries of {} {} for Account {}: {}"
+msgstr "จำนวนเงินไม่ถูกต้องในรายการบัญชีของ {} {} สำหรับบัญชี {}: {}"
+
+msgid "Invalid condition expression"
+msgstr "นิพจน์เงื่อนไขไม่ถูกต้อง"
+
+msgid "Invalid lost reason {0}, please create a new lost reason"
+msgstr "เหตุผลที่สูญหายไม่ถูกต้อง {0} โปรดสร้างเหตุผลที่สูญหายใหม่"
+
+msgid "Invalid naming series (. missing) for {0}"
+msgstr "ชุดการตั้งชื่อไม่ถูกต้อง (. หายไป) สำหรับ {0}"
+
+msgid "Invalid reference {0} {1}"
+msgstr "การอ้างอิงไม่ถูกต้อง {0} {1}"
+
+msgid "Invalid result key. Response:"
+msgstr "คีย์ผลลัพธ์ไม่ถูกต้อง การตอบกลับ:"
+
+msgid "Invalid value {0} for {1} against account {2}"
+msgstr "ค่า {0} ไม่ถูกต้องสำหรับ {1} กับบัญชี {2}"
+
+msgid "Invalid {0}"
+msgstr "{0} ไม่ถูกต้อง"
+
+msgid "Invalid {0} for Inter Company Transaction."
+msgstr "{0} ไม่ถูกต้องสำหรับธุรกรรมระหว่างบริษัท"
+
+msgid "Invalid {0}: {1}"
+msgstr ""
+
+msgid "Inventory"
+msgstr ""
+
+msgid "Inventory Dimension"
+msgstr ""
+
+msgid "Inventory Dimension Negative Stock"
+msgstr ""
+
+msgid "Inventory Dimension key"
+msgstr ""
+
+msgid "Inventory Settings"
+msgstr ""
+
+msgid "Investment Banking"
+msgstr ""
+
+msgid "Investments"
+msgstr "การลงทุน"
+
+msgid "Invoice"
+msgstr ""
+
+msgid "Invoice Cancellation"
+msgstr ""
+
+msgid "Invoice Date"
+msgstr ""
+
+msgid "Invoice Discounting"
+msgstr ""
+
+msgid "Invoice Document Type Selection Error"
+msgstr ""
+
+msgid "Invoice Grand Total"
+msgstr ""
+
+msgid "Invoice ID"
+msgstr ""
+
+msgid "Invoice Limit"
+msgstr ""
+
+msgid "Invoice Number"
+msgstr ""
+
+msgid "Invoice Paid"
+msgstr ""

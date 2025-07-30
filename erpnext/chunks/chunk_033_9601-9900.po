@@ -1,0 +1,300 @@
+﻿msgid "Gift Card"
+msgstr ""
+
+msgid "Give free item for every N quantity"
+msgstr ""
+
+msgid "Global Defaults"
+msgstr ""
+
+msgid "Go back"
+msgstr ""
+
+msgid "Go to {0} List"
+msgstr ""
+
+msgid "Goal"
+msgstr ""
+
+msgid "Goal and Procedure"
+msgstr ""
+
+msgid "Goals"
+msgstr "เป้าหมาย"
+
+msgid "Goods"
+msgstr ""
+
+msgid "Goods In Transit"
+msgstr ""
+
+msgid "Goods Transferred"
+msgstr ""
+
+msgid "Goods are already received against the outward entry {0}"
+msgstr ""
+
+msgid "Government"
+msgstr "รัฐบาล"
+
+msgid "Grace Period"
+msgstr "ระยะเวลาผ่อนผัน"
+
+msgid "Graduate"
+msgstr "บัณฑิต"
+
+msgid "Grain"
+msgstr ""
+
+msgid "Grain/Cubic Foot"
+msgstr ""
+
+msgid "Grain/Gallon (UK)"
+msgstr ""
+
+msgid "Grain/Gallon (US)"
+msgstr ""
+
+msgid "Gram"
+msgstr ""
+
+msgid "Gram-Force"
+msgstr ""
+
+msgid "Gram/Cubic Centimeter"
+msgstr ""
+
+msgid "Gram/Cubic Meter"
+msgstr ""
+
+msgid "Gram/Cubic Millimeter"
+msgstr ""
+
+msgid "Gram/Litre"
+msgstr ""
+
+msgid "Grand Total"
+msgstr "ยอดรวมทั้งหมด"
+
+msgid "Grand Total (Company Currency)"
+msgstr "ยอดรวมทั้งหมด (สกุลเงินบริษัท)"
+
+msgid "Grant Commission"
+msgstr "มอบค่าคอมมิชชั่น"
+
+msgid "Greater Than Amount"
+msgstr "จำนวนที่มากกว่า"
+
+msgid "Green"
+msgstr "สีเขียว"
+
+msgid "Greeting Message"
+msgstr "ข้อความทักทาย"
+
+msgid "Greeting Subtitle"
+msgstr "คำบรรยายข้อความทักทาย"
+
+msgid "Greeting Title"
+msgstr "หัวข้อข้อความทักทาย"
+
+msgid "Greetings Section"
+msgstr "ส่วนข้อความทักทาย"
+
+msgid "Grocery"
+msgstr ""
+
+msgid "Gross Margin"
+msgstr "กำไรขั้นต้น"
+
+msgid "Gross Margin %"
+msgstr ""
+
+msgid "Gross Profit"
+msgstr "กำไรขั้นต้น"
+
+msgid "Gross Profit / Loss"
+msgstr "กำไร/ขาดทุนขั้นต้น"
+
+msgid "Gross Profit Percent"
+msgstr "เปอร์เซ็นต์กำไรขั้นต้น"
+
+msgid "Gross Purchase Amount"
+msgstr "จำนวนเงินซื้อรวม"
+
+msgid "Gross Purchase Amount is mandatory"
+msgstr "จำนวนเงินซื้อรวมเป็นสิ่งจำเป็น"
+
+msgid "Gross Purchase Amount should be <b>equal</b> to purchase amount of one single Asset."
+msgstr "จำนวนเงินซื้อรวมควร <b>เท่ากับ</b> จำนวนเงินซื้อของสินทรัพย์เดียว"
+
+msgid "Gross Purchase Amount {0} cannot be depreciated over {1} cycles."
+msgstr "จำนวนเงินซื้อรวม {0} ไม่สามารถคิดค่าเสื่อมราคามากกว่า {1} รอบได้"
+
+msgid "Gross Weight"
+msgstr "น้ำหนักรวม"
+
+msgid "Gross Weight UOM"
+msgstr "หน่วยน้ำหนักรวม"
+
+msgid "Gross and Net Profit Report"
+msgstr "รายงานกำไรขั้นต้นและกำไรสุทธิ"
+
+msgid "Group"
+msgstr "กลุ่ม"
+
+msgid "Group By"
+msgstr "จัดกลุ่มตาม"
+
+msgid "Group By Customer"
+msgstr "จัดกลุ่มตามลูกค้า"
+
+msgid "Group By Supplier"
+msgstr "จัดกลุ่มตามผู้จัดจำหน่าย"
+
+msgid "Group Node"
+msgstr "โหนดกลุ่ม"
+
+msgid "Group Same Items"
+msgstr "จัดกลุ่มรายการเดียวกัน"
+
+msgid "Group Warehouses cannot be used in transactions. Please change the value of {0}"
+msgstr "ไม่สามารถใช้คลังสินค้ากลุ่มในธุรกรรมได้ โปรดเปลี่ยนค่าของ {0}"
+
+msgid "Group by"
+msgstr "จัดกลุ่มตาม"
+
+msgid "Group by Material Request"
+msgstr "จัดกลุ่มตามคำขอวัสดุ"
+
+msgid "Group by Party"
+msgstr "จัดกลุ่มตามฝ่าย"
+
+msgid "Group by Purchase Order"
+msgstr "จัดกลุ่มตามใบสั่งซื้อ"
+
+msgid "Group by Sales Order"
+msgstr "จัดกลุ่มตามใบสั่งขาย"
+
+msgid "Group by Voucher"
+msgstr "จัดกลุ่มตามใบสำคัญ"
+
+msgid "Group node warehouse is not allowed to select for transactions"
+msgstr "ไม่อนุญาตให้เลือกคลังสินค้าโหนดกลุ่มสำหรับธุรกรรม"
+
+msgid "Group same items"
+msgstr "จัดกลุ่มรายการเดียวกัน"
+
+msgid "Groups"
+msgstr "กลุ่ม"
+
+msgid "Growth View"
+msgstr "มุมมองการเติบโต"
+
+msgid "H - F"
+msgstr ""
+
+msgid "HR Manager"
+msgstr ""
+
+msgid "HR User"
+msgstr ""
+
+msgid "Half Yearly"
+msgstr "ครึ่งปี"
+
+msgid "Half-Yearly"
+msgstr "ครึ่งปี"
+
+msgid "Half-yearly"
+msgstr "ครึ่งปี"
+
+msgid "Hand"
+msgstr ""
+
+msgid "Handle Employee Advances"
+msgstr "จัดการเงินล่วงหน้าของพนักงาน"
+
+msgid "Hardware"
+msgstr "ฮาร์ดแวร์"
+
+msgid "Has Alternative Item"
+msgstr "มีรายการทางเลือก"
+
+msgid "Has Batch No"
+msgstr "มีหมายเลขแบทช์"
+
+msgid "Has Certificate "
+msgstr ""
+
+msgid "Has Corrective Cost"
+msgstr "มีค่าใช้จ่ายแก้ไข"
+
+msgid "Has Expiry Date"
+msgstr "มีวันหมดอายุ"
+
+msgid "Has Item Scanned"
+msgstr "มีการสแกนรายการ"
+
+msgid "Has Print Format"
+msgstr "มีรูปแบบการพิมพ์"
+
+msgid "Has Priority"
+msgstr "มีลำดับความสำคัญ"
+
+msgid "Has Serial No"
+msgstr "มีหมายเลขซีเรียล"
+
+msgid "Has Unit Price Items"
+msgstr "มีรายการราคาต่อหน่วย"
+
+msgid "Has Variants"
+msgstr "มีตัวเลือก"
+
+msgid "Have Default Naming Series for Batch ID?"
+msgstr "มีชุดการตั้งชื่อเริ่มต้นสำหรับ Batch ID หรือไม่?"
+
+msgid "Head of Marketing and Sales"
+msgstr ""
+
+msgid "Heads (or groups) against which Accounting Entries are made and balances are maintained."
+msgstr "หัวข้อ (หรือกลุ่ม) ที่ใช้ในการทำรายการบัญชีและรักษายอดคงเหลือ"
+
+msgid "Health Care"
+msgstr ""
+
+msgid "Health Details"
+msgstr "รายละเอียดสุขภาพ"
+
+msgid "Heatmap"
+msgstr "แผนที่ความร้อน"
+
+msgid "Hectare"
+msgstr ""
+
+msgid "Hectogram/Litre"
+msgstr ""
+
+msgid "Hectometer"
+msgstr ""
+
+msgid "Hectopascal"
+msgstr ""
+
+msgid "Height (cm)"
+msgstr "ความสูง (ซม.)"
+
+msgid "Hello,"
+msgstr "สวัสดี,"
+
+msgid "Help"
+msgstr "ช่วยเหลือ"
+
+msgid "Help Article"
+msgstr "บทความช่วยเหลือ"
+
+msgid "Help Articles"
+msgstr "บทความช่วยเหลือ"
+
+msgid "Help Results for"
+msgstr "ผลลัพธ์ช่วยเหลือสำหรับ"
+

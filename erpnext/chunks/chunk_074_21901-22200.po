@@ -1,0 +1,300 @@
+﻿
+msgid "Slug/Cubic Foot"
+msgstr ""
+
+msgid "Small"
+msgstr "เล็ก"
+
+msgid "Smoothing Constant"
+msgstr "ค่าคงที่การทำให้เรียบ"
+
+msgid "Soap & Detergent"
+msgstr ""
+
+msgid "Software"
+msgstr "ซอฟต์แวร์"
+
+msgid "Software Developer"
+msgstr ""
+
+msgid "Sold"
+msgstr ""
+
+msgid "Sold by"
+msgstr ""
+
+msgid "Something went wrong please try again"
+msgstr ""
+
+msgid "Sorry, this coupon code is no longer valid"
+msgstr ""
+
+msgid "Sorry, this coupon code's validity has expired"
+msgstr ""
+
+msgid "Sorry, this coupon code's validity has not started"
+msgstr ""
+
+msgid "Source"
+msgstr ""
+
+msgid "Source DocType"
+msgstr ""
+
+msgid "Source Document Name"
+msgstr "ชื่อเอกสารต้นทาง"
+
+msgid "Source Document Type"
+msgstr "ประเภทเอกสารต้นทาง"
+
+msgid "Source Exchange Rate"
+msgstr "อัตราแลกเปลี่ยนต้นทาง"
+
+msgid "Source Fieldname"
+msgstr "ชื่อฟิลด์ต้นทาง"
+
+msgid "Source Location"
+msgstr "ตำแหน่งต้นทาง"
+
+msgid "Source Name"
+msgstr "ชื่อต้นทาง"
+
+msgid "Source Type"
+msgstr "ประเภทต้นทาง"
+
+msgid "Source Warehouse"
+msgstr "คลังสินค้าต้นทาง"
+
+msgid "Source Warehouse Address"
+msgstr "ที่อยู่คลังสินค้าต้นทาง"
+
+msgid "Source Warehouse Address Link"
+msgstr "ลิงก์ที่อยู่คลังสินค้าต้นทาง"
+
+msgid "Source Warehouse is mandatory for the Item {0}."
+msgstr "คลังสินค้าต้นทางเป็นสิ่งจำเป็นสำหรับรายการ {0}"
+
+msgid "Source and Target Location cannot be same"
+msgstr "ตำแหน่งต้นทางและเป้าหมายไม่สามารถเหมือนกันได้"
+
+msgid "Source and target warehouse cannot be same for row {0}"
+msgstr "คลังสินค้าต้นทางและเป้าหมายไม่สามารถเหมือนกันสำหรับแถว {0}"
+
+msgid "Source and target warehouse must be different"
+msgstr "คลังสินค้าต้นทางและเป้าหมายต้องแตกต่างกัน"
+
+msgid "Source of Funds (Liabilities)"
+msgstr "แหล่งเงินทุน (หนี้สิน)"
+
+msgid "Source warehouse is mandatory for row {0}"
+msgstr "คลังสินค้าต้นทางเป็นสิ่งจำเป็นสำหรับแถว {0}"
+
+msgid "Sourced by Supplier"
+msgstr "จัดหาจากผู้จัดจำหน่าย"
+
+msgid "South Africa VAT Account"
+msgstr "บัญชี VAT แอฟริกาใต้"
+
+msgid "South Africa VAT Settings"
+msgstr "การตั้งค่า VAT แอฟริกาใต้"
+
+msgid "Spacer"
+msgstr "ตัวเว้นวรรค"
+
+msgid "Specify Exchange Rate to convert one currency into another"
+msgstr "ระบุอัตราแลกเปลี่ยนเพื่อแปลงสกุลเงินหนึ่งเป็นอีกสกุลเงินหนึ่ง"
+
+msgid "Specify conditions to calculate shipping amount"
+msgstr "ระบุเงื่อนไขในการคำนวณจำนวนเงินการจัดส่ง"
+
+msgid "Split"
+msgstr "แยก"
+
+msgid "Split Asset"
+msgstr "แยกสินทรัพย์"
+
+msgid "Split Batch"
+msgstr "แยกแบทช์"
+
+msgid "Split Early Payment Discount Loss into Income and Tax Loss"
+msgstr "แยกการสูญเสียส่วนลดการชำระเงินล่วงหน้าเป็นรายได้และการสูญเสียภาษี"
+
+msgid "Split From"
+msgstr "แยกจาก"
+
+msgid "Split Issue"
+msgstr "แยกปัญหา"
+
+msgid "Split Qty"
+msgstr "แยกปริมาณ"
+
+msgid "Split Quantity must be less than Asset Quantity"
+msgstr "ปริมาณที่แยกต้องน้อยกว่าปริมาณสินทรัพย์"
+
+msgid "Splitting {0} {1} into {2} rows as per Payment Terms"
+msgstr "กำลังแยก {0} {1} เป็น {2} แถวตามเงื่อนไขการชำระเงิน"
+
+msgid "Sports"
+msgstr ""
+
+msgid "Square Centimeter"
+msgstr ""
+
+msgid "Square Foot"
+msgstr ""
+
+msgid "Square Inch"
+msgstr ""
+
+msgid "Square Kilometer"
+msgstr ""
+
+msgid "Square Meter"
+msgstr ""
+
+msgid "Square Mile"
+msgstr ""
+
+msgid "Square Yard"
+msgstr ""
+
+msgid "Sr"
+msgstr "ลำดับ"
+
+msgid "Stage"
+msgstr "ขั้นตอน"
+
+msgid "Stage Name"
+msgstr "ชื่อขั้นตอน"
+
+msgid "Stale Days"
+msgstr "วันที่หมดอายุ"
+
+msgid "Stale Days should start from 1."
+msgstr "วันที่หมดอายุควรเริ่มจาก 1"
+
+msgid "Standard Buying"
+msgstr "การซื้อมาตรฐาน"
+
+msgid "Standard Description"
+msgstr "คำอธิบายมาตรฐาน"
+
+msgid "Standard Rated Expenses"
+msgstr "ค่าใช้จ่ายที่มีอัตรามาตรฐาน"
+
+msgid "Standard Selling"
+msgstr "การขายมาตรฐาน"
+
+msgid "Standard Selling Rate"
+msgstr "อัตราการขายมาตรฐาน"
+
+msgid "Standard Template"
+msgstr "เทมเพลตมาตรฐาน"
+
+msgid "Standard Terms and Conditions that can be added to Sales and Purchases. Examples: Validity of the offer, Payment Terms, Safety and Usage, etc."
+msgstr "ข้อกำหนดและเงื่อนไขมาตรฐานที่สามารถเพิ่มในการขายและการซื้อ ตัวอย่าง: ความถูกต้องของข้อเสนอ เงื่อนไขการชำระเงิน ความปลอดภัยและการใช้งาน เป็นต้น"
+
+msgid "Standard rated supplies in {0}"
+msgstr "อุปกรณ์ที่มีอัตรามาตรฐานใน {0}"
+
+msgid "Standard tax template that can be applied to all Purchase Transactions. This template can contain a list of tax heads and also other expense heads like \"Shipping\", \"Insurance\", \"Handling\", etc."
+msgstr ""
+
+msgid "Standard tax template that can be applied to all Sales Transactions. This template can contain a list of tax heads and also other expense/income heads like \"Shipping\", \"Insurance\", \"Handling\" etc."
+msgstr ""
+
+msgid "Standing Name"
+msgstr ""
+
+msgid "Start"
+msgstr ""
+
+msgid "Start / Resume"
+msgstr ""
+
+msgid "Start Date"
+msgstr ""
+
+msgid "Start Date cannot be before the current date"
+msgstr ""
+
+msgid "Start Date should be lower than End Date"
+msgstr ""
+
+msgid "Start Deletion"
+msgstr ""
+
+msgid "Start Import"
+msgstr ""
+
+msgid "Start Job"
+msgstr ""
+
+msgid "Start Merge"
+msgstr ""
+
+msgid "Start Reposting"
+msgstr ""
+
+msgid "Start Time"
+msgstr "เวลาเริ่มต้น"
+
+msgid "Start Time can't be greater than or equal to End Time for {0}."
+msgstr ""
+
+msgid "Start Timer"
+msgstr ""
+
+msgid "Start Year"
+msgstr ""
+
+msgid "Start Year and End Year are mandatory"
+msgstr ""
+
+msgid "Start and End Dates"
+msgstr ""
+
+msgid "Start date of current invoice's period"
+msgstr ""
+
+msgid "Start date should be less than end date for Item {0}"
+msgstr ""
+
+msgid "Start date should be less than end date for task {0}"
+msgstr ""
+
+msgid "Started"
+msgstr ""
+
+msgid "Started Time"
+msgstr ""
+
+msgid "Started a background job to create {1} {0}"
+msgstr ""
+
+msgid "Starting location from left edge"
+msgstr ""
+
+msgid "Starting position from top edge"
+msgstr ""
+
+msgid "State/Province"
+msgstr ""
+
+msgid "Status"
+msgstr "สถานะ"
+
+msgid "Status Details"
+msgstr ""
+
+msgid "Status Illustration"
+msgstr ""
+
+msgid "Status must be Cancelled or Completed"
+msgstr ""
+
+msgid "Status must be one of {0}"
+msgstr ""
+
+msgid "Status set to rejected as there are one or more rejected readings."
+msgstr ""

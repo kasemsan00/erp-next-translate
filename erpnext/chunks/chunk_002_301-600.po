@@ -1,0 +1,309 @@
+﻿msgid "90 Above"
+msgstr "90 ขึ้นไป"
+
+msgid "<b>From Time</b> cannot be later than <b>To Time</b> for {0}"
+msgstr "<b>จากเวลา</b> ไม่สามารถเกิน <b>ถึงเวลา</b> สำหรับ {0}"
+
+msgid "<br>\n"
+"<h4>Note</h4>\n"
+"<ul>\n"
+"<li>\n"
+"You can use <a href=\"https://jinja.palletsprojects.com/en/2.11.x/\" target=\"_blank\">Jinja tags</a> in <b>Subject</b> and <b>Body</b> fields for dynamic values.\n"
+"</li><li>\n"
+"    All fields in this doctype are available under the <b>doc</b> object and all fields for the customer to whom the mail will go to is available under the  <b>customer</b> object.\n"
+"</li></ul>\n"
+"<h4> Examples</h4>\n"
+"<!-- {% raw %} -->\n"
+"<ul>\n"
+"    <li><b>Subject</b>:<br><br><pre><code>Statement Of Accounts for {{ customer.customer_name }}</code></pre><br></li>\n"
+"    <li><b>Body</b>: <br><br>\n"
+"<pre><code>Hello {{ customer.customer_name }},<br>PFA your Statement Of Accounts from {{ doc.from_date }} to {{ doc.to_date }}.</code> </pre></li>\n"
+"</ul>\n"
+"<!-- {% endraw %} -->"
+msgstr ""
+
+msgid "<div class=\"columnHeading\">Other Details</div>"
+msgstr "<div class=\"columnHeading\">รายละเอียดอื่นๆ</div>"
+
+msgid "<div class=\"text-muted text-center\">No Matching Bank Transactions Found</div>"
+msgstr "<div class=\"text-muted text-center\">ไม่พบธุรกรรมธนาคารที่ตรงกัน</div>"
+
+msgid "<div class=\"text-muted text-center\">{0}</div>"
+msgstr "<div class=\"text-muted text-center\">{0}</div>"
+
+msgid "<div>\n"
+"<h3> All dimensions in centimeter only </h3>\n"
+"</div>"
+msgstr "<div>\n"
+"<h3> ขนาดทั้งหมดเป็นเซนติเมตรเท่านั้น </h3>\n"
+"</div>"
+
+msgid "<h3>About Product Bundle</h3>\n\n"
+"<p>Aggregate group of <b>Items</b> into another <b>Item</b>. This is useful if you are bundling a certain <b>Items</b> into a package and you maintain stock of the packed <b>Items</b> and not the aggregate <b>Item</b>.</p>\n"
+"<p>The package <b>Item</b> will have <code>Is Stock Item</code> as <b>No</b> and <code>Is Sales Item</code> as <b>Yes</b>.</p>\n"
+"<h4>Example:</h4>\n"
+"<p>If you are selling Laptops and Backpacks separately and have a special price if the customer buys both, then the Laptop + Backpack will be a new Product Bundle Item.</p>"
+msgstr "<h3>เกี่ยวกับชุดผลิตภัณฑ์</h3>\n\n"
+"<p>การรวมกลุ่มของ <b>รายการสินค้า</b> เข้าด้วยกันเป็น <b>รายการสินค้า</b> อีกชิ้นหนึ่ง ซึ่งมีประโยชน์หากคุณกำลังรวม <b>รายการสินค้า</b> บางชิ้นเข้าด้วยกันเป็นแพ็คเกจ และคุณจัดการสต็อกของ <b>รายการสินค้า</b> ที่บรรจุแล้ว ไม่ใช่ <b>รายการสินค้า</b> ที่รวมกัน</p>\n"
+"<p><b>รายการสินค้า</b> แพ็คเกจจะมี <code>เป็นสินค้าสต็อก</code> เป็น <b>ไม่</b> และ <code>เป็นสินค้าขาย</code> เป็น <b>ใช่</b></p>\n"
+"<h4>ตัวอย่าง:</h4>\n"
+"<p>หากคุณขายแล็ปท็อปและกระเป๋าเป้แยกกัน และมีราคาพิเศษหากลูกค้าซื้อทั้งสองชิ้น แล้วแล็ปท็อป + กระเป๋าเป้จะเป็นชุดผลิตภัณฑ์ใหม่</p>"
+
+msgid "<h3>Currency Exchange Settings Help</h3>\n"
+"<p>There are 3 variables that could be used within the endpoint, result key and in values of the parameter.</p>\n"
+"<p>Exchange rate between {from_currency} and {to_currency} on {transaction_date} is fetched by the API.</p>\n"
+"<p>Example: If your endpoint is exchange.com/2021-08-01, then, you will have to input exchange.com/{transaction_date}</p>"
+msgstr "<h3>ความช่วยเหลือการตั้งค่าอัตราแลกเปลี่ยนสกุลเงิน</h3>\n"
+"<p>มีตัวแปร 3 ตัวที่สามารถใช้ได้ภายใน endpoint, result key และในค่าของพารามิเตอร์</p>\n"
+"<p>อัตราแลกเปลี่ยนระหว่าง {from_currency} และ {to_currency} ในวันที่ {transaction_date} จะถูกดึงข้อมูลโดย API</p>\n"
+"<p>ตัวอย่าง: หาก endpoint ของคุณคือ exchange.com/2021-08-01 คุณจะต้องป้อน exchange.com/{transaction_date}</p>"
+
+msgid "<h4>Body Text and Closing Text Example</h4>\n\n"
+"<div>We have noticed that you have not yet paid invoice {{sales_invoice}} for {{frappe.db.get_value(\"Currency\", currency, \"symbol\")}} {{outstanding_amount}}. This is a friendly reminder that the invoice was due on {{due_date}}. Please pay the amount due immediately to avoid any further dunning cost.</div>\n\n"
+"<h4>How to get fieldnames</h4>\n\n"
+"<p>The fieldnames you can use in your template are the fields in the document. You can find out the fields of any documents via Setup &gt; Customize Form View and selecting the document type (e.g. Sales Invoice)</p>\n\n"
+"<h4>Templating</h4>\n\n"
+"<p>Templates are compiled using the Jinja Templating Language. To learn more about Jinja, <a class=\"strong\" href=\"http://jinja.pocoo.org/docs/dev/templates/\">read this documentation.</a></p>"
+msgstr ""
+
+msgid "<h4>Contract Template Example</h4>\n\n"
+"<pre>Contract for Customer {{ party_name }}\n\n"
+"-Valid From : {{ start_date }} \n"
+"-Valid To : {{ end_date }}\n"
+"</pre>\n\n"
+"<h4>How to get fieldnames</h4>\n\n"
+"<p>The field names you can use in your Contract Template are the fields in the Contract for which you are creating the template. You can find out the fields of any documents via Setup &gt; Customize Form View and selecting the document type (e.g. Contract)</p>\n\n"
+"<h4>Templating</h4>\n\n"
+"<p>Templates are compiled using the Jinja Templating Language. To learn more about Jinja, <a class=\"strong\" href=\"http://jinja.pocoo.org/docs/dev/templates/\">read this documentation.</a></p>"
+msgstr ""
+
+msgid "<h4>Standard Terms and Conditions Example</h4>\n\n"
+"<pre>Delivery Terms for Order number {{ name }}\n\n"
+"-Order Date : {{ transaction_date }} \n"
+"-Expected Delivery Date : {{ delivery_date }}\n"
+"</pre>\n\n"
+"<h4>How to get fieldnames</h4>\n\n"
+"<p>The fieldnames you can use in your email template are the fields in the document from which you are sending the email. You can find out the fields of any documents via Setup &gt; Customize Form View and selecting the document type (e.g. Sales Invoice)</p>\n\n"
+"<h4>Templating</h4>\n\n"
+"<p>Templates are compiled using the Jinja Templating Language. To learn more about Jinja, <a class=\"strong\" href=\"http://jinja.pocoo.org/docs/dev/templates/\">read this documentation.</a></p>"
+msgstr ""
+
+msgid "<h5 class=\"text-muted uppercase\">Or</h5>"
+msgstr "<h5 class=\"text-muted uppercase\">หรือ</h5>"
+
+msgid "<label class=\"control-label\" style=\"margin-bottom: 0px;\">Account Number Settings</label>"
+msgstr "<label class=\"control-label\" style=\"margin-bottom: 0px;\">การตั้งค่าเลขที่บัญชี</label>"
+
+msgid "<label class=\"control-label\" style=\"margin-bottom: 0px;\">Amount In Words</label>"
+msgstr "<label class=\"control-label\" style=\"margin-bottom: 0px;\">จำนวนเงินเป็นตัวอักษร</label>"
+
+msgid "<label class=\"control-label\" style=\"margin-bottom: 0px;\">Date Settings</label>"
+msgstr "<label class=\"control-label\" style=\"margin-bottom: 0px;\">การตั้งค่าวันที่</label>"
+
+msgid "<li>Clearance date must be after cheque date for row(s): {0}</li>"
+msgstr "<li>วันที่เคลียร์ต้องอยู่หลังวันที่เช็คสำหรับแถว: {0}</li>"
+
+msgid "<li>Item {0} in row(s) {1} billed more than {2}</li>"
+msgstr "<li>รายการสินค้า {0} ในแถว {1} เรียกเก็บเงินเกิน {2}</li>"
+
+msgid "<li>Payment document required for row(s): {0}</li>"
+msgstr "<li>ต้องการเอกสารการชำระเงินสำหรับแถว: {0}</li>"
+
+msgid "<li>{}</li>"
+msgstr "<li>{}</li>"
+
+msgid "<p>Cannot overbill for the following Items:</p>"
+msgstr "<p>ไม่สามารถเรียกเก็บเงินเกินสำหรับรายการสินค้าต่อไปนี้:</p>"
+
+msgid "<p>Following {0}s doesn't belong to Company {1} :</p>"
+msgstr "<p>{0} ต่อไปนี้ไม่ได้อยู่ในบริษัท {1}:</p>"
+
+msgid "<p>In your <b>Email Template</b>, you can use the following special variables:\n"
+"</p>\n"
+"<ul>\n"
+"        <li>\n"
+"            <code>{{ update_password_link }}</code>: A link where your supplier can set a new password to log into your portal.\n"
+"        </li>\n"
+"        <li>\n"
+"            <code>{{ portal_link }}</code>: A link to this RFQ in your supplier portal.\n"
+"        </li>\n"
+"        <li>\n"
+"            <code>{{ supplier_name }}</code>: The company name of your supplier.\n"
+"        </li>\n"
+"        <li>\n"
+"            <code>{{ contact.salutation }} {{ contact.last_name }}</code>: The contact person of your supplier.\n"
+"        </li><li>\n"
+"            <code>{{ user_fullname }}</code>: Your full name.\n"
+"        </li>\n"
+"    </ul>\n"
+"<p></p>\n"
+"<p>Apart from these, you can access all values in this RFQ, like <code>{{ message_for_supplier }}</code> or <code>{{ terms }}</code>.</p>"
+msgstr ""
+
+msgid "<p>Please correct the following row(s):</p><ul>"
+msgstr ""
+
+msgid "<p>Posting Date {0} cannot be before Purchase Order date for the following:</p><ul>"
+msgstr ""
+
+msgid "<p>Price List Rate has not been set as editable in Selling Settings. In this scenario, setting <strong>Update Price List Based On</strong> to <strong>Price List Rate</strong> will prevent auto-updation of Item Price.</p>Are you sure you want to continue?"
+msgstr ""
+
+msgid "<p>To allow over-billing, please set allowance in Accounts Settings.</p>"
+msgstr ""
+
+msgid "<pre><h5>Message Example</h5>\n\n"
+"&lt;p&gt; Thank You for being a part of {{ doc.company }}! We hope you are enjoying the service.&lt;/p&gt;\n\n"
+"&lt;p&gt; Please find enclosed the E Bill statement. The outstanding amount is {{ doc.grand_total }}.&lt;/p&gt;\n\n"
+"&lt;p&gt; We don't want you to be spending time running around in order to pay for your Bill.<br>After all, life is beautiful and the time you have in hand should be spent to enjoy it!<br>So here are our little ways to help you get more time for life! &lt;/p&gt;\n\n"
+"&lt;a href=\"{{ payment_url }}\"&gt; click here to pay &lt;/a&gt;\n\n"
+"</pre>\n"
+msgstr ""
+
+msgid "<pre><h5>Message Example</h5>\n\n"
+"&lt;p&gt;Dear {{ doc.contact_person }},&lt;/p&gt;\n\n"
+"&lt;p&gt;Requesting payment for {{ doc.doctype }}, {{ doc.name }} for {{ doc.grand_total }}.&lt;/p&gt;\n\n"
+"&lt;a href=\"{{ payment_url }}\"&gt; click here to pay &lt;/a&gt;\n\n"
+"</pre>\n"
+msgstr ""
+
+msgid "<span class=\"h4\"><b>Masters &amp; Reports</b></span>"
+msgstr "<span class=\"h4\"><b>Masters &amp; Reports</b></span>"
+
+msgid "<span class=\"h4\"><b>Quick Access</b></span>"
+msgstr ""
+
+msgid "<span class=\"h4\"><b>Reports & Masters</b></span>"
+msgstr ""
+
+msgid "<span class=\"h4\"><b>Reports &amp; Masters</b></span>"
+msgstr ""
+
+msgid "<span class=\"h4\"><b>Settings</b></span>"
+msgstr ""
+
+msgid "<span class=\"h4\"><b>Shortcuts</b></span>"
+msgstr ""
+
+msgid "<span class=\"h4\"><b>Your Shortcuts\n"
+"\t\t\t\n"
+"\t\t\n"
+"\t\t\t\n"
+"\t\t\n"
+"\t\t\t\n"
+"\t\t</b></span>"
+msgstr ""
+
+msgid "<span class=\"h4\"><b>Your Shortcuts</b></span>"
+msgstr ""
+
+msgid "<strong>Grand Total:</strong> {0}"
+msgstr ""
+
+msgid "<strong>Outstanding Amount:</strong> {0}"
+msgstr ""
+
+msgid "<table class=\"table table-bordered table-condensed\">\n"
+"<thead>\n"
+"  <tr>\n"
+"         <th class=\"table-sr\" style=\"width: 50%;\">Child Document</th>\n"
+"         <th class=\"table-sr\" style=\"width: 50%;\">Non Child Document</th>\n"
+"   </tr>\n"
+"</thead>\n"
+"<tbody>\n"
+"<tr>\n"
+"         <td>\n"
+"                  <p> To access parent document field use parent.fieldname and to access child table document field use doc.fieldname </p>\n\n"
+"         </td>\n"
+"         <td>\n"
+"                    <p>To access document field use doc.fieldname </p>\n"
+"         </td>\n"
+"</tr>\n"
+"<tr>\n"
+"        <td>\n"
+"                   <p><b>Example: </b> parent.doctype == \"Stock Entry\" and doc.item_code == \"Test\" </p>\n\n"
+"        </td>\n"
+"         <td>\n"
+"                   <p><b>Example: </b> doc.doctype == \"Stock Entry\" and doc.purpose == \"Manufacture\"</p>    \n"
+"          </td>\n"
+"</tr>\n\n"
+"</tbody>\n"
+"</table>\n\n\n\n\n\n\n"
+msgstr ""
+
+msgid "A - B"
+msgstr ""
+
+msgid "A - C"
+msgstr ""
+
+msgid "A Customer Group exists with same name please change the Customer name or rename the Customer Group"
+msgstr ""
+
+msgid "A Holiday List can be added to exclude counting these days for the Workstation."
+msgstr ""
+
+msgid "A Lead requires either a person's name or an organization's name"
+msgstr ""
+
+msgid "A Packing Slip can only be created for Draft Delivery Note."
+msgstr ""
+
+msgid "A Price List is a collection of Item Prices either Selling, Buying, or both"
+msgstr ""
+
+msgid "A Product or a Service that is bought, sold or kept in stock."
+msgstr ""
+
+msgid "A Reconciliation Job {0} is running for the same filters. Cannot reconcile now"
+msgstr ""
+
+msgid "A Transaction Deletion Document: {0} is triggered for {0}"
+msgstr ""
+
+msgid "A condition for a Shipping Rule"
+msgstr ""
+
+msgid "A customer must have primary contact email."
+msgstr ""
+
+msgid "A driver must be set to submit."
+msgstr ""
+
+msgid "A logical Warehouse against which stock entries are made."
+msgstr ""
+
+msgid "A new appointment has been created for you with {0}"
+msgstr ""
+
+msgid "A template with tax category {0} already exists. Only one template is allowed with each tax category"
+msgstr ""
+
+msgid "A third party distributor / dealer / commission agent / affiliate / reseller who sells the companies products for a commission."
+msgstr ""
+
+msgid "A+"
+msgstr ""
+
+msgid "A-"
+msgstr ""
+
+msgid "A4"
+msgstr ""
+
+msgid "AB+"
+msgstr ""
+
+msgid "AB-"
+msgstr ""
+
+msgid "ACC-PINV-.YYYY.-"
+msgstr ""
+
+msgid "AMC Expiry Date"
+msgstr ""
+
+msgid "API"
+msgstr ""
+
+msgid "API Details"

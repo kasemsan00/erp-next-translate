@@ -1,0 +1,300 @@
+﻿msgstr "รายการพันธมิตรการขาย"
+
+msgid "Sales Partner Name"
+msgstr "ชื่อพันธมิตรการขาย"
+
+msgid "Sales Partner Target"
+msgstr "เป้าหมายพันธมิตรการขาย"
+
+msgid "Sales Partner Target Variance Based On Item Group"
+msgstr ""
+
+msgid "Sales Partner Target Variance based on Item Group"
+msgstr "ความแปรปรวนเป้าหมายพันธมิตรการขายตามกลุ่มรายการ"
+
+msgid "Sales Partner Transaction Summary"
+msgstr "สรุปธุรกรรมพันธมิตรการขาย"
+
+msgid "Sales Partner Type"
+msgstr "ประเภทพันธมิตรการขาย"
+
+msgid "Sales Partners Commission"
+msgstr "ค่าคอมมิชชั่นพันธมิตรการขาย"
+
+msgid "Sales Payment Summary"
+msgstr "สรุปการชำระเงินการขาย"
+
+msgid "Sales Person"
+msgstr "พนักงานขาย"
+
+msgid "Sales Person <b>{0}</b> is disabled."
+msgstr "พนักงานขาย <b>{0}</b> ถูกปิดใช้งาน"
+
+msgid "Sales Person Commission Summary"
+msgstr "สรุปค่าคอมมิชชั่นพนักงานขาย"
+
+msgid "Sales Person Name"
+msgstr "ชื่อพนักงานขาย"
+
+msgid "Sales Person Target Variance Based On Item Group"
+msgstr "ความแปรปรวนเป้าหมายพนักงานขายตามกลุ่มรายการ"
+
+msgid "Sales Person Targets"
+msgstr "เป้าหมายพนักงานขาย"
+
+msgid "Sales Person-wise Transaction Summary"
+msgstr "สรุปธุรกรรมตามพนักงานขาย"
+
+msgid "Sales Pipeline"
+msgstr "กระบวนการขาย"
+
+msgid "Sales Pipeline Analytics"
+msgstr "การวิเคราะห์กระบวนการขาย"
+
+msgid "Sales Pipeline by Stage"
+msgstr "กระบวนการขายตามขั้นตอน"
+
+msgid "Sales Price List"
+msgstr "รายการราคาขาย"
+
+msgid "Sales Register"
+msgstr "ทะเบียนการขาย"
+
+msgid "Sales Representative"
+msgstr ""
+
+msgid "Sales Return"
+msgstr "การคืนสินค้า"
+
+msgid "Sales Stage"
+msgstr "ขั้นตอนการขาย"
+
+msgid "Sales Summary"
+msgstr "สรุปการขาย"
+
+msgid "Sales Tax Template"
+msgstr "แม่แบบภาษีการขาย"
+
+msgid "Sales Taxes and Charges"
+msgstr "ภาษีและค่าใช้จ่ายการขาย"
+
+msgid "Sales Taxes and Charges Template"
+msgstr "แม่แบบภาษีและค่าใช้จ่ายการขาย"
+
+msgid "Sales Team"
+msgstr "ทีมขาย"
+
+msgid "Sales Update Frequency in Company and Project"
+msgstr "ความถี่ในการอัปเดตการขายในบริษัทและโครงการ"
+
+msgid "Sales User"
+msgstr "ผู้ใช้การขาย"
+
+msgid "Sales Value"
+msgstr "มูลค่าการขาย"
+
+msgid "Sales and Returns"
+msgstr "การขายและการคืนสินค้า"
+
+msgid "Sales orders are not available for production"
+msgstr "คำสั่งขายไม่พร้อมสำหรับการผลิต"
+
+msgid "Salutation"
+msgstr "คำทักทาย"
+
+msgid "Salvage Value"
+msgstr "มูลค่าซาก"
+
+msgid "Salvage Value Percentage"
+msgstr "เปอร์เซ็นต์มูลค่าซาก"
+
+msgid "Same Company is entered more than once"
+msgstr "บริษัทเดียวกันถูกป้อนมากกว่าหนึ่งครั้ง"
+
+msgid "Same Item"
+msgstr "รายการเดียวกัน"
+
+msgid "Same item and warehouse combination already entered."
+msgstr "การรวมกันของรายการและคลังสินค้าเดียวกันถูกป้อนแล้ว"
+
+msgid "Same item cannot be entered multiple times."
+msgstr "ไม่สามารถป้อนรายการเดียวกันหลายครั้งได้"
+
+msgid "Same supplier has been entered multiple times"
+msgstr "ผู้จัดจำหน่ายเดียวกันถูกป้อนหลายครั้ง"
+
+msgid "Sample Quantity"
+msgstr "ปริมาณตัวอย่าง"
+
+msgid "Sample Retention Warehouse"
+msgstr "คลังสินค้าที่เก็บตัวอย่าง"
+
+msgid "Sample Size"
+msgstr "ขนาดตัวอย่าง"
+
+msgid "Sample quantity {0} cannot be more than received quantity {1}"
+msgstr "ปริมาณตัวอย่าง {0} ไม่สามารถมากกว่าปริมาณที่ได้รับ {1}"
+
+msgid "Sanctioned"
+msgstr "ได้รับอนุมัติ"
+
+msgid "Saturday"
+msgstr "วันเสาร์"
+
+msgid "Save"
+msgstr "บันทึก"
+
+msgid "Save Changes and Load New Invoice"
+msgstr "บันทึกการเปลี่ยนแปลงและโหลดใบแจ้งหนี้ใหม่"
+
+msgid "Savings"
+msgstr ""
+
+msgid "Sazhen"
+msgstr ""
+
+msgid "Scan Barcode"
+msgstr ""
+
+msgid "Scan Batch No"
+msgstr ""
+
+msgid "Scan Job Card Qrcode"
+msgstr ""
+
+msgid "Scan Mode"
+msgstr ""
+
+msgid "Scan Serial No"
+msgstr ""
+
+msgid "Scan barcode for item {0}"
+msgstr ""
+
+msgid "Scan mode enabled, existing quantity will not be fetched."
+msgstr ""
+
+msgid "Scanned Cheque"
+msgstr ""
+
+msgid "Scanned Quantity"
+msgstr ""
+
+msgid "Schedule"
+msgstr ""
+
+msgid "Schedule Date"
+msgstr ""
+
+msgid "Scheduled"
+msgstr ""
+
+msgid "Scheduled Date"
+msgstr ""
+
+msgid "Scheduled Time"
+msgstr ""
+
+msgid "Scheduled Time Logs"
+msgstr ""
+
+msgid "Scheduler Inactive"
+msgstr ""
+
+msgid "Scheduler is Inactive. Can't trigger job now."
+msgstr ""
+
+msgid "Scheduler is Inactive. Can't trigger jobs now."
+msgstr ""
+
+msgid "Scheduler is inactive. Cannot enqueue job."
+msgstr ""
+
+msgid "Scheduler is inactive. Cannot import data."
+msgstr ""
+
+msgid "Scheduler is inactive. Cannot merge accounts."
+msgstr ""
+
+msgid "Schedules"
+msgstr ""
+
+msgid "Scheduling"
+msgstr ""
+
+msgid "Scheduling..."
+msgstr ""
+
+msgid "School/University"
+msgstr ""
+
+msgid "Score"
+msgstr ""
+
+msgid "Scorecard Actions"
+msgstr ""
+
+msgid "Scorecard variables can be used, as well as:\n"
+"{total_score} (the total score from that period),\n"
+"{period_number} (the number of periods to present day)\n"
+msgstr ""
+
+msgid "Scorecards"
+msgstr ""
+
+msgid "Scoring Criteria"
+msgstr ""
+
+msgid "Scoring Setup"
+msgstr ""
+
+msgid "Scoring Standings"
+msgstr ""
+
+msgid "Scrap & Process Loss"
+msgstr ""
+
+msgid "Scrap Asset"
+msgstr ""
+
+msgid "Scrap Cost Per Qty"
+msgstr ""
+
+msgid "Scrap Item Code"
+msgstr ""
+
+msgid "Scrap Item Name"
+msgstr ""
+
+msgid "Scrap Items"
+msgstr ""
+
+msgid "Scrap Material Cost"
+msgstr ""
+
+msgid "Scrap Material Cost(Company Currency)"
+msgstr ""
+
+msgid "Scrap Warehouse"
+msgstr ""
+
+msgid "Scrap date cannot be before purchase date"
+msgstr ""
+
+msgid "Scrapped"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Search APIs"
+msgstr ""
+
+msgid "Search Sub Assemblies"
+msgstr ""
+
+msgid "Search Term Param Name"
+msgstr ""
+
+msgid "Search by customer name, phone, email."
+msgstr ""

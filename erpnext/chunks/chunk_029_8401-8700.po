@@ -1,0 +1,300 @@
+﻿
+msgid "Expected Start Date"
+msgstr "วันที่เริ่มต้นที่คาดหวัง"
+
+msgid "Expected Stock Value"
+msgstr "มูลค่าสต็อกที่คาดหวัง"
+
+msgid "Expected Time (in hours)"
+msgstr "เวลาที่คาดหวัง (เป็นชั่วโมง)"
+
+msgid "Expected Time Required (In Mins)"
+msgstr "เวลาที่ต้องการที่คาดหวัง (เป็นนาที)"
+
+msgid "Expected Value After Useful Life"
+msgstr "มูลค่าที่คาดหวังหลังจากอายุการใช้งาน"
+
+msgid "Expense"
+msgstr "ค่าใช้จ่าย"
+
+msgid "Expense / Difference account ({0}) must be a 'Profit or Loss' account"
+msgstr "บัญชีค่าใช้จ่าย/ความแตกต่าง ({0}) ต้องเป็นบัญชี 'กำไรหรือขาดทุน'"
+
+msgid "Expense Account"
+msgstr "บัญชีค่าใช้จ่าย"
+
+msgid "Expense Account Missing"
+msgstr "บัญชีค่าใช้จ่ายหายไป"
+
+msgid "Expense Claim"
+msgstr "การเรียกร้องค่าใช้จ่าย"
+
+msgid "Expense Head"
+msgstr "หัวข้อค่าใช้จ่าย"
+
+msgid "Expense Head Changed"
+msgstr "หัวข้อค่าใช้จ่ายเปลี่ยนแปลง"
+
+msgid "Expense account is mandatory for item {0}"
+msgstr "บัญชีค่าใช้จ่ายเป็นสิ่งจำเป็นสำหรับรายการ {0}"
+
+msgid "Expense account {0} not present in Purchase Invoice {1}"
+msgstr "บัญชีค่าใช้จ่าย {0} ไม่มีในใบแจ้งหนี้ซื้อ {1}"
+
+msgid "Expenses"
+msgstr "ค่าใช้จ่าย"
+
+msgid "Expenses Included In Asset Valuation"
+msgstr "ค่าใช้จ่ายรวมทั้งการประเมินมูลค่าสินทรัพย์"
+
+msgid "Expenses Included In Valuation"
+msgstr "ค่าใช้จ่ายที่รวมอยู่ในการประเมินมูลค่า"
+
+msgid "Experimental"
+msgstr "การทดลอง"
+
+msgid "Expired"
+msgstr "หมดอายุ"
+
+msgid "Expired Batches"
+msgstr "แบทช์ที่หมดอายุ"
+
+msgid "Expires On"
+msgstr "หมดอายุเมื่อ"
+
+msgid "Expiry"
+msgstr "วันหมดอายุ"
+
+msgid "Expiry (In Days)"
+msgstr "วันหมดอายุ (เป็นวัน)"
+
+msgid "Expiry Date"
+msgstr "วันหมดอายุ"
+
+msgid "Expiry Date Mandatory"
+msgstr "วันหมดอายุเป็นสิ่งจำเป็น"
+
+msgid "Expiry Duration (in days)"
+msgstr "ระยะเวลาหมดอายุ (เป็นวัน)"
+
+msgid "Exploded Items"
+msgstr "รายการที่ระเบิดออก"
+
+msgid "Exponential Smoothing Forecasting"
+msgstr "การพยากรณ์แบบการทำให้เรียบแบบเอ็กซ์โพเนนเชียล"
+
+msgid "Export Data"
+msgstr "ส่งออกข้อมูล"
+
+msgid "Export E-Invoices"
+msgstr "ส่งออกใบแจ้งหนี้อิเล็กทรอนิกส์"
+
+msgid "Export Errored Rows"
+msgstr "ส่งออกแถวที่มีข้อผิดพลาด"
+
+msgid "Export Import Log"
+msgstr "ส่งออกบันทึกการนำเข้า"
+
+msgid "External"
+msgstr "ภายนอก"
+
+msgid "External Work History"
+msgstr "ประวัติการทำงานภายนอก"
+
+msgid "Extra Consumed Qty"
+msgstr "ปริมาณที่ใช้เกิน"
+
+msgid "Extra Job Card Quantity"
+msgstr "ปริมาณบัตรงานเพิ่มเติม"
+
+msgid "Extra Large"
+msgstr "ใหญ่มาก"
+
+msgid "Extra Small"
+msgstr "เล็กมาก"
+
+msgid "FIFO"
+msgstr ""
+
+msgid "FIFO Queue"
+msgstr ""
+
+msgid "FIFO Queue vs Qty After Transaction Comparison"
+msgstr ""
+
+msgid "FIFO Stock Queue (qty, rate)"
+msgstr ""
+
+msgid "FIFO/LIFO Queue"
+msgstr ""
+
+msgid "Fahrenheit"
+msgstr ""
+
+msgid "Failed"
+msgstr ""
+
+msgid "Failed Entries"
+msgstr ""
+
+msgid "Failed to Authenticate the API key."
+msgstr ""
+
+msgid "Failed to erase demo data, please delete the demo company manually."
+msgstr ""
+
+msgid "Failed to install presets"
+msgstr "ล้มเหลวในการติดตั้งค่าที่ตั้งไว้ล่วงหน้า"
+
+msgid "Failed to login"
+msgstr "ล้มเหลวในการเข้าสู่ระบบ"
+
+msgid "Failed to parse MT940 format. Error: {0}"
+msgstr ""
+
+msgid "Failed to post depreciation entries"
+msgstr "ล้มเหลวในการโพสต์รายการค่าเสื่อมราคา"
+
+msgid "Failed to setup company"
+msgstr "ล้มเหลวในการตั้งค่าบริษัท"
+
+msgid "Failed to setup defaults"
+msgstr "ล้มเหลวในการตั้งค่าค่าเริ่มต้น"
+
+msgid "Failed to setup defaults for country {0}. Please contact support."
+msgstr "ล้มเหลวในการตั้งค่าค่าเริ่มต้นสำหรับประเทศ {0} โปรดติดต่อฝ่ายสนับสนุน"
+
+msgid "Failure"
+msgstr "ความล้มเหลว"
+
+msgid "Failure Date"
+msgstr "วันที่ล้มเหลว"
+
+msgid "Failure Description"
+msgstr "คำอธิบายความล้มเหลว"
+
+msgid "Failure: {0}"
+msgstr "ความล้มเหลว: {0}"
+
+msgid "Family Background"
+msgstr "ภูมิหลังครอบครัว"
+
+msgid "Faraday"
+msgstr ""
+
+msgid "Fathom"
+msgstr ""
+
+msgid "Fax"
+msgstr "แฟกซ์"
+
+msgid "Feedback"
+msgstr "ข้อเสนอแนะ"
+
+msgid "Feedback By"
+msgstr "ข้อเสนอแนะโดย"
+
+msgid "Fees"
+msgstr "ค่าธรรมเนียม"
+
+msgid "Fetch Based On"
+msgstr "ดึงข้อมูลตาม"
+
+msgid "Fetch Customers"
+msgstr "ดึงข้อมูลลูกค้า"
+
+msgid "Fetch Items from Warehouse"
+msgstr "ดึงรายการจากคลังสินค้า"
+
+msgid "Fetch Latest Exchange Rate"
+msgstr "ดึงอัตราแลกเปลี่ยนล่าสุด"
+
+msgid "Fetch Overdue Payments"
+msgstr "ดึงการชำระเงินที่เกินกำหนด"
+
+msgid "Fetch Subscription Updates"
+msgstr "ดึงการอัปเดตการสมัครสมาชิก"
+
+msgid "Fetch Timesheet"
+msgstr "ดึงตารางเวลางาน"
+
+msgid "Fetch Timesheet in Sales Invoice"
+msgstr "ดึงตารางเวลางานในใบแจ้งหนี้ขาย"
+
+msgid "Fetch Value From"
+msgstr "ดึงค่าจาก"
+
+msgid "Fetch exploded BOM (including sub-assemblies)"
+msgstr "ดึง BOM ที่ระเบิดออก (รวมถึงชุดย่อย)"
+
+msgid "Fetch items based on Default Supplier."
+msgstr "ดึงรายการตามผู้จัดจำหน่ายเริ่มต้น"
+
+msgid "Fetched only {0} available serial numbers."
+msgstr "ดึงหมายเลขซีเรียลที่มีอยู่เพียง {0} หมายเลข"
+
+msgid "Fetching Error"
+msgstr "ข้อผิดพลาดในการดึงข้อมูล"
+
+msgid "Fetching exchange rates ..."
+msgstr "กำลังดึงอัตราแลกเปลี่ยน ..."
+
+msgid "Fetching..."
+msgstr "กำลังดึงข้อมูล..."
+
+msgid "Field"
+msgstr ""
+
+msgid "Field Mapping"
+msgstr ""
+
+msgid "Field Name"
+msgstr "ชื่อฟิลด์"
+
+msgid "Field in Bank Transaction"
+msgstr ""
+
+msgid "Fieldname"
+msgstr ""
+
+msgid "Fields"
+msgstr ""
+
+msgid "Fields will be copied over only at time of creation."
+msgstr ""
+
+msgid "Fieldtype"
+msgstr ""
+
+msgid "File to Rename"
+msgstr ""
+
+msgid "Filter"
+msgstr ""
+
+msgid "Filter Based On"
+msgstr ""
+
+msgid "Filter Duration (Months)"
+msgstr ""
+
+msgid "Filter Total Zero Qty"
+msgstr ""
+
+msgid "Filter by Reference Date"
+msgstr ""
+
+msgid "Filter by invoice status"
+msgstr ""
+
+msgid "Filter on Invoice"
+msgstr ""
+
+msgid "Filter on Payment"
+msgstr ""
+
+msgid "Filters"
+msgstr ""
+
+msgid "Filters missing"
+msgstr ""

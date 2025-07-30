@@ -1,0 +1,300 @@
+﻿
+msgid "Quantity to Manufacture"
+msgstr "ปริมาณที่จะผลิต"
+
+msgid "Quantity to Manufacture can not be zero for the operation {0}"
+msgstr "ปริมาณที่จะผลิตไม่สามารถเป็นศูนย์สำหรับการดำเนินการ {0}"
+
+msgid "Quantity to Manufacture must be greater than 0."
+msgstr "ปริมาณที่จะผลิตต้องมากกว่า 0"
+
+msgid "Quantity to Produce"
+msgstr "ปริมาณที่จะผลิต"
+
+msgid "Quantity to Produce should be greater than zero."
+msgstr "ปริมาณที่จะผลิตควรมากกว่าศูนย์"
+
+msgid "Quantity to Scan"
+msgstr "ปริมาณที่จะสแกน"
+
+msgid "Quart (UK)"
+msgstr ""
+
+msgid "Quart Dry (US)"
+msgstr ""
+
+msgid "Quart Liquid (US)"
+msgstr ""
+
+msgid "Quarter {0} {1}"
+msgstr "ไตรมาส {0} {1}"
+
+msgid "Quarterly"
+msgstr "รายไตรมาส"
+
+msgid "Query Options"
+msgstr "ตัวเลือกการค้นหา"
+
+msgid "Query Route String"
+msgstr "สตริงเส้นทางการค้นหา"
+
+msgid "Queue Size should be between 5 and 100"
+msgstr "ขนาดคิวควรอยู่ระหว่าง 5 ถึง 100"
+
+msgid "Queued"
+msgstr "อยู่ในคิว"
+
+msgid "Quick Entry"
+msgstr "การป้อนข้อมูลอย่างรวดเร็ว"
+
+msgid "Quick Journal Entry"
+msgstr "การป้อนข้อมูลในสมุดรายวันอย่างรวดเร็ว"
+
+msgid "Quick Stock Balance"
+msgstr "ยอดคงเหลือสต็อกด่วน"
+
+msgid "Quintal"
+msgstr ""
+
+msgid "Quot Count"
+msgstr "จำนวนใบเสนอราคา"
+
+msgid "Quot/Lead %"
+msgstr ""
+
+msgid "Quotation"
+msgstr "ใบเสนอราคา"
+
+msgid "Quotation Amount"
+msgstr "จำนวนเงินใบเสนอราคา"
+
+msgid "Quotation Item"
+msgstr "รายการใบเสนอราคา"
+
+msgid "Quotation Lost Reason"
+msgstr "เหตุผลที่ใบเสนอราคาสูญหาย"
+
+msgid "Quotation Lost Reason Detail"
+msgstr "รายละเอียดเหตุผลที่ใบเสนอราคาสูญหาย"
+
+msgid "Quotation Number"
+msgstr "หมายเลขใบเสนอราคา"
+
+msgid "Quotation To"
+msgstr "ใบเสนอราคาถึง"
+
+msgid "Quotation Trends"
+msgstr "แนวโน้มใบเสนอราคา"
+
+msgid "Quotation {0} is cancelled"
+msgstr "ใบเสนอราคา {0} ถูกยกเลิก"
+
+msgid "Quotation {0} not of type {1}"
+msgstr "ใบเสนอราคา {0} ไม่ใช่ประเภท {1}"
+
+msgid "Quotations"
+msgstr "ใบเสนอราคา"
+
+msgid "Quotations are proposals, bids you have sent to your customers"
+msgstr "ใบเสนอราคาคือข้อเสนอหรือการประมูลที่คุณส่งให้ลูกค้าของคุณ"
+
+msgid "Quotations: "
+msgstr ""
+
+msgid "Quote Status"
+msgstr "สถานะใบเสนอราคา"
+
+msgid "Quoted Amount"
+msgstr "จำนวนเงินที่เสนอราคา"
+
+msgid "RFQs are not allowed for {0} due to a scorecard standing of {1}"
+msgstr ""
+
+msgid "Raise Material Request When Stock Reaches Re-order Level"
+msgstr ""
+
+msgid "Raised By"
+msgstr "ร้องขอโดย"
+
+msgid "Raised By (Email)"
+msgstr ""
+
+msgid "Random"
+msgstr ""
+
+msgid "Range"
+msgstr ""
+
+msgid "Rate"
+msgstr ""
+
+msgid "Rate & Amount"
+msgstr ""
+
+msgid "Rate (Company Currency)"
+msgstr ""
+
+msgid "Rate Of Materials Based On"
+msgstr ""
+
+msgid "Rate Of TDS As Per Certificate"
+msgstr ""
+
+msgid "Rate Section"
+msgstr ""
+
+msgid "Rate With Margin"
+msgstr ""
+
+msgid "Rate With Margin (Company Currency)"
+msgstr ""
+
+msgid "Rate and Amount"
+msgstr ""
+
+msgid "Rate at which Customer Currency is converted to customer's base currency"
+msgstr ""
+
+msgid "Rate at which Price list currency is converted to company's base currency"
+msgstr ""
+
+msgid "Rate at which Price list currency is converted to customer's base currency"
+msgstr ""
+
+msgid "Rate at which customer's currency is converted to company's base currency"
+msgstr ""
+
+msgid "Rate at which supplier's currency is converted to company's base currency"
+msgstr ""
+
+msgid "Rate at which this tax is applied"
+msgstr ""
+
+msgid "Rate of Depreciation"
+msgstr ""
+
+msgid "Rate of Depreciation (%)"
+msgstr ""
+
+msgid "Rate of Interest (%) Yearly"
+msgstr ""
+
+msgid "Rate of Stock UOM"
+msgstr ""
+
+msgid "Rate or Discount"
+msgstr ""
+
+msgid "Rate or Discount is required for the price discount."
+msgstr ""
+
+msgid "Rates"
+msgstr ""
+
+msgid "Rating"
+msgstr "การให้คะแนน"
+
+msgid "Ratios"
+msgstr ""
+
+msgid "Raw Material"
+msgstr ""
+
+msgid "Raw Material Code"
+msgstr ""
+
+msgid "Raw Material Cost"
+msgstr ""
+
+msgid "Raw Material Cost (Company Currency)"
+msgstr ""
+
+msgid "Raw Material Cost Per Qty"
+msgstr ""
+
+msgid "Raw Material Item"
+msgstr ""
+
+msgid "Raw Material Item Code"
+msgstr ""
+
+msgid "Raw Material Name"
+msgstr ""
+
+msgid "Raw Material Value"
+msgstr ""
+
+msgid "Raw Material Warehouse"
+msgstr ""
+
+msgid "Raw Materials"
+msgstr ""
+
+msgid "Raw Materials Actions"
+msgstr ""
+
+msgid "Raw Materials Consumed"
+msgstr ""
+
+msgid "Raw Materials Consumption"
+msgstr ""
+
+msgid "Raw Materials Supplied"
+msgstr ""
+
+msgid "Raw Materials Supplied Cost"
+msgstr ""
+
+msgid "Raw Materials cannot be blank."
+msgstr ""
+
+msgid "Raw SQL"
+msgstr ""
+
+msgid "Re-open"
+msgstr ""
+
+msgid "Re-order Level"
+msgstr ""
+
+msgid "Re-order Qty"
+msgstr ""
+
+msgid "Reached Root"
+msgstr ""
+
+msgid "Read Only"
+msgstr ""
+
+msgid "Reading 1"
+msgstr ""
+
+msgid "Reading 10"
+msgstr ""
+
+msgid "Reading 2"
+msgstr "การอ่าน 2"
+
+msgid "Reading 3"
+msgstr "การอ่าน 3"
+
+msgid "Reading 4"
+msgstr "การอ่าน 4"
+
+msgid "Reading 5"
+msgstr "การอ่าน 5"
+
+msgid "Reading 6"
+msgstr "การอ่าน 6"
+
+msgid "Reading 7"
+msgstr "การอ่าน 7"
+
+msgid "Reading 8"
+msgstr "การอ่าน 8"
+
+msgid "Reading 9"
+msgstr "การอ่าน 9"
+
+msgid "Reading Value"
+msgstr "ค่าการอ่าน"

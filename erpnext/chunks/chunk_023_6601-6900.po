@@ -1,0 +1,300 @@
+﻿msgid "Default Costing Rate"
+msgstr ""
+
+msgid "Default Currency"
+msgstr ""
+
+msgid "Default Customer Group"
+msgstr ""
+
+msgid "Default Deferred Expense Account"
+msgstr ""
+
+msgid "Default Deferred Revenue Account"
+msgstr ""
+
+msgid "Default Dimension"
+msgstr ""
+
+msgid "Default Discount Account"
+msgstr ""
+
+msgid "Default Distance Unit"
+msgstr ""
+
+msgid "Default Expense Account"
+msgstr ""
+
+msgid "Default Finance Book"
+msgstr ""
+
+msgid "Default Finished Goods Warehouse"
+msgstr ""
+
+msgid "Default Holiday List"
+msgstr ""
+
+msgid "Default In-Transit Warehouse"
+msgstr ""
+
+msgid "Default Income Account"
+msgstr ""
+
+msgid "Default Inventory Account"
+msgstr ""
+
+msgid "Default Item Group"
+msgstr ""
+
+msgid "Default Item Manufacturer"
+msgstr ""
+
+msgid "Default Letter Head"
+msgstr ""
+
+msgid "Default Manufacturer Part No"
+msgstr ""
+
+msgid "Default Material Request Type"
+msgstr ""
+
+msgid "Default Operating Cost Account"
+msgstr ""
+
+msgid "Default Payable Account"
+msgstr ""
+
+msgid "Default Payment Discount Account"
+msgstr ""
+
+msgid "Default Payment Request Message"
+msgstr ""
+
+msgid "Default Payment Terms Template"
+msgstr ""
+
+msgid "Default Price List"
+msgstr ""
+
+msgid "Default Priority"
+msgstr ""
+
+msgid "Default Provisional Account"
+msgstr ""
+
+msgid "Default Purchase Unit of Measure"
+msgstr ""
+
+msgid "Default Quotation Validity Days"
+msgstr ""
+
+msgid "Default Receivable Account"
+msgstr ""
+
+msgid "Default Sales Unit of Measure"
+msgstr ""
+
+msgid "Default Scrap Warehouse"
+msgstr ""
+
+msgid "Default Selling Cost Center"
+msgstr ""
+
+msgid "Default Selling Terms"
+msgstr ""
+
+msgid "Default Service Level Agreement"
+msgstr ""
+
+msgid "Default Service Level Agreement for {0} already exists."
+msgstr ""
+
+msgid "Default Source Warehouse"
+msgstr ""
+
+msgid "Default Stock UOM"
+msgstr ""
+
+msgid "Default Supplier"
+msgstr ""
+
+msgid "Default Supplier Group"
+msgstr ""
+
+msgid "Default Target Warehouse"
+msgstr ""
+
+msgid "Default Territory"
+msgstr ""
+
+msgid "Default Unit of Measure"
+msgstr ""
+
+msgid "Default Unit of Measure for Item {0} cannot be changed directly because you have already made some transaction(s) with another UOM. You need to either cancel the linked documents or create a new Item."
+msgstr ""
+
+msgid "Default Unit of Measure for Item {0} cannot be changed directly because you have already made some transaction(s) with another UOM. You will need to create a new Item to use a different Default UOM."
+msgstr ""
+
+msgid "Default Unit of Measure for Variant '{0}' must be same as in Template '{1}'"
+msgstr ""
+
+msgid "Default Valuation Method"
+msgstr ""
+
+msgid "Default Value"
+msgstr ""
+
+msgid "Default Warehouse"
+msgstr "คลังสินค้าเริ่มต้น"
+
+msgid "Default Warehouse for Sales Return"
+msgstr "คลังสินค้าเริ่มต้นสำหรับการคืนสินค้า"
+
+msgid "Default Warehouses for Production"
+msgstr "คลังสินค้าเริ่มต้นสำหรับการผลิต"
+
+msgid "Default Work In Progress Warehouse"
+msgstr "คลังสินค้าสำหรับงานระหว่างทำเริ่มต้น"
+
+msgid "Default Workstation"
+msgstr "สถานีงานเริ่มต้น"
+
+msgid "Default account will be automatically updated in POS Invoice when this mode is selected."
+msgstr "บัญชีเริ่มต้นจะถูกอัปเดตอัตโนมัติในใบแจ้งหนี้ POS เมื่อเลือกโหมดนี้"
+
+msgid "Default settings for your stock-related transactions"
+msgstr "การตั้งค่าเริ่มต้นสำหรับธุรกรรมที่เกี่ยวข้องกับสต็อกของคุณ"
+
+msgid "Default tax templates for sales, purchase and items are created."
+msgstr "สร้างแม่แบบภาษีเริ่มต้นสำหรับการขาย การซื้อ และรายการแล้ว"
+
+msgid "Default: 10 mins"
+msgstr "ค่าเริ่มต้น: 10 นาที"
+
+msgid "Defaults"
+msgstr "ค่าเริ่มต้น"
+
+msgid "Defense"
+msgstr ""
+
+msgid "Deferred Accounting"
+msgstr "การบัญชีรอตัดบัญชี"
+
+msgid "Deferred Accounting Defaults"
+msgstr "ค่าเริ่มต้นการบัญชีรอตัดบัญชี"
+
+msgid "Deferred Accounting Settings"
+msgstr "การตั้งค่าการบัญชีรอตัดบัญชี"
+
+msgid "Deferred Expense"
+msgstr "ค่าใช้จ่ายรอตัดบัญชี"
+
+msgid "Deferred Expense Account"
+msgstr "บัญชีค่าใช้จ่ายรอตัดบัญชี"
+
+msgid "Deferred Revenue"
+msgstr "รายได้รอตัดบัญชี"
+
+msgid "Deferred Revenue Account"
+msgstr "บัญชีรายได้รอตัดบัญชี"
+
+msgid "Deferred Revenue and Expense"
+msgstr "รายได้และค่าใช้จ่ายรอตัดบัญชี"
+
+msgid "Deferred accounting failed for some invoices:"
+msgstr "การบัญชีรอตัดบัญชีล้มเหลวสำหรับใบแจ้งหนี้บางรายการ:"
+
+msgid "Define Project type."
+msgstr "กำหนดประเภทโครงการ"
+
+msgid "Dekagram/Litre"
+msgstr ""
+
+msgid "Delay (In Days)"
+msgstr "ความล่าช้า (เป็นวัน)"
+
+msgid "Delay (in Days)"
+msgstr "ความล่าช้า (เป็นวัน)"
+
+msgid "Delay between Delivery Stops"
+msgstr "ความล่าช้าระหว่างจุดหยุดการจัดส่ง"
+
+msgid "Delay in payment (Days)"
+msgstr "ความล่าช้าในการชำระเงิน (วัน)"
+
+msgid "Delayed"
+msgstr "ล่าช้า"
+
+msgid "Delayed Days"
+msgstr "วันที่ล่าช้า"
+
+msgid "Delayed Item Report"
+msgstr "รายงานรายการที่ล่าช้า"
+
+msgid "Delayed Order Report"
+msgstr "รายงานคำสั่งซื้อที่ล่าช้า"
+
+msgid "Delayed Tasks Summary"
+msgstr "สรุปงานที่ล่าช้า"
+
+msgid "Delete"
+msgstr "ลบ"
+
+msgid "Delete Accounting and Stock Ledger Entries on deletion of Transaction"
+msgstr "ลบรายการบัญชีและบัญชีแยกประเภทสต็อกเมื่อทำการลบธุรกรรม"
+
+msgid "Delete Bins"
+msgstr "ลบถัง"
+
+msgid "Delete Cancelled Ledger Entries"
+msgstr "ลบรายการบัญชีแยกประเภทที่ถูกยกเลิก"
+
+msgid "Delete Dimension"
+msgstr "ลบมิติ"
+
+msgid "Delete Leads and Addresses"
+msgstr "ลบลีดและที่อยู่"
+
+msgid "Delete Transactions"
+msgstr "ลบธุรกรรม"
+
+msgid "Delete all the Transactions for this Company"
+msgstr "ลบธุรกรรมทั้งหมดสำหรับบริษัทนี้"
+
+msgid "Deleted Documents"
+msgstr ""
+
+msgid "Deleting {0} and all associated Common Code documents..."
+msgstr "กำลังลบ {0} และเอกสาร Common Code ที่เกี่ยวข้องทั้งหมด..."
+
+msgid "Deletion in Progress!"
+msgstr "กำลังดำเนินการลบ!"
+
+msgid "Deletion is not permitted for country {0}"
+msgstr "ไม่อนุญาตให้ลบสำหรับประเทศ {0}"
+
+msgid "Delimiter options"
+msgstr "ตัวเลือกตัวคั่น"
+
+msgid "Delivered"
+msgstr "จัดส่งแล้ว"
+
+msgid "Delivered Amount"
+msgstr "จำนวนที่จัดส่งแล้ว"
+
+msgid "Delivered At Place"
+msgstr ""
+
+msgid "Delivered At Place Unloaded"
+msgstr ""
+
+msgid "Delivered By Supplier"
+msgstr "จัดส่งโดยผู้จัดจำหน่าย"
+
+msgid "Delivered Duty Paid"
+msgstr ""
+
+msgid "Delivered Items To Be Billed"
+msgstr "รายการที่จัดส่งที่ต้องเรียกเก็บเงิน"
+

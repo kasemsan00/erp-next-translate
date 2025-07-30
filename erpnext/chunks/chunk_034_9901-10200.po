@@ -1,0 +1,300 @@
+﻿msgid "Help Section"
+msgstr "ส่วนช่วยเหลือ"
+
+msgid "Help Text"
+msgstr "ข้อความช่วยเหลือ"
+
+msgid "Helps you distribute the Budget/Target across months if you have seasonality in your business."
+msgstr "ช่วยให้คุณกระจายงบประมาณ/เป้าหมายในแต่ละเดือนหากธุรกิจของคุณมีฤดูกาล"
+
+msgid "Here are the error logs for the aforementioned failed depreciation entries: {0}"
+msgstr "นี่คือบันทึกข้อผิดพลาดสำหรับรายการค่าเสื่อมราคาที่ล้มเหลวที่กล่าวถึงข้างต้น: {0}"
+
+msgid "Here are the options to proceed:"
+msgstr "นี่คือตัวเลือกในการดำเนินการต่อ:"
+
+msgid "Here you can maintain family details like name and occupation of parent, spouse and children"
+msgstr "ที่นี่คุณสามารถเก็บรายละเอียดครอบครัว เช่น ชื่อและอาชีพของพ่อแม่ คู่สมรส และลูก"
+
+msgid "Here you can maintain height, weight, allergies, medical concerns etc"
+msgstr "ที่นี่คุณสามารถเก็บข้อมูลความสูง น้ำหนัก ภูมิแพ้ ปัญหาทางการแพทย์ ฯลฯ"
+
+msgid "Here, you can select a senior of this Employee. Based on this, Organization Chart will be populated."
+msgstr "ที่นี่คุณสามารถเลือกผู้บังคับบัญชาของพนักงานคนนี้ได้ โดยอิงจากนี้ แผนผังองค์กรจะถูกเติมเต็ม"
+
+msgid "Here, your weekly offs are pre-populated based on the previous selections. You can add more rows to also add public and national holidays individually."
+msgstr "ที่นี่ วันหยุดประจำสัปดาห์ของคุณจะถูกเติมล่วงหน้าตามการเลือกก่อนหน้า คุณสามารถเพิ่มแถวเพิ่มเติมเพื่อเพิ่มวันหยุดสาธารณะและวันหยุดประจำชาติได้เป็นรายบุคคล"
+
+msgid "Hertz"
+msgstr ""
+
+msgid "Hi,"
+msgstr "สวัสดี,"
+
+msgid "Hidden list maintaining the list of contacts linked to Shareholder"
+msgstr "รายการที่ซ่อนอยู่ที่เก็บรายชื่อผู้ติดต่อที่เชื่อมโยงกับผู้ถือหุ้น"
+
+msgid "Hide Currency Symbol"
+msgstr "ซ่อนสัญลักษณ์สกุลเงิน"
+
+msgid "Hide Customer's Tax ID from Sales Transactions"
+msgstr "ซ่อนเลขประจำตัวผู้เสียภาษีของลูกค้าจากธุรกรรมการขาย"
+
+msgid "Hide Images"
+msgstr "ซ่อนภาพ"
+
+msgid "Hide Recent Orders"
+msgstr "ซ่อนคำสั่งซื้อล่าสุด"
+
+msgid "Hide Unavailable Items"
+msgstr "ซ่อนรายการที่ไม่พร้อมใช้งาน"
+
+msgid "Hide timesheets"
+msgstr "ซ่อนตารางเวลางาน"
+
+msgid "High"
+msgstr "สูง"
+
+msgid "Higher the number, higher the priority"
+msgstr "ยิ่งตัวเลขสูง ลำดับความสำคัญยิ่งสูง"
+
+msgid "History In Company"
+msgstr "ประวัติในบริษัท"
+
+msgid "Hold"
+msgstr "ระงับ"
+
+msgid "Hold Invoice"
+msgstr "ระงับใบแจ้งหนี้"
+
+msgid "Hold Type"
+msgstr "ประเภทการระงับ"
+
+msgid "Holiday"
+msgstr "วันหยุด"
+
+msgid "Holiday Date {0} added multiple times"
+msgstr "วันที่วันหยุด {0} ถูกเพิ่มหลายครั้ง"
+
+msgid "Holiday List"
+msgstr "รายการวันหยุด"
+
+msgid "Holiday List Name"
+msgstr "ชื่อรายการวันหยุด"
+
+msgid "Holidays"
+msgstr "วันหยุด"
+
+msgid "Home"
+msgstr "หน้าแรก"
+
+msgid "Horsepower"
+msgstr ""
+
+msgid "Horsepower-Hours"
+msgstr ""
+
+msgid "Hour"
+msgstr ""
+
+msgid "Hour Rate"
+msgstr "อัตราต่อชั่วโมง"
+
+msgid "Hourly"
+msgstr "รายชั่วโมง"
+
+msgid "Hours"
+msgstr "ชั่วโมง"
+
+msgid "Hours Spent"
+msgstr "ชั่วโมงที่ใช้ไป"
+
+msgid "How frequently?"
+msgstr "บ่อยแค่ไหน?"
+
+msgid "How often should Project and Company be updated based on Sales Transactions?"
+msgstr "ควรอัปเดตโครงการและบริษัทบ่อยแค่ไหนตามธุรกรรมการขาย?"
+
+msgid "How often should Project be updated of Total Purchase Cost ?"
+msgstr "ควรอัปเดตโครงการบ่อยแค่ไหนเกี่ยวกับต้นทุนการซื้อรวม?"
+
+msgid "Hrs"
+msgstr "ชั่วโมง"
+
+msgid "Human Resources"
+msgstr "ทรัพยากรบุคคล"
+
+msgid "Hundredweight (UK)"
+msgstr ""
+
+msgid "Hundredweight (US)"
+msgstr ""
+
+msgid "I - J"
+msgstr ""
+
+msgid "I - K"
+msgstr ""
+
+msgid "IBAN"
+msgstr ""
+
+msgid "IBAN is not valid"
+msgstr "IBAN ไม่ถูกต้อง"
+
+msgid "ID"
+msgstr "รหัส"
+
+msgid "IP Address"
+msgstr "ที่อยู่ IP"
+
+msgid "IRS 1099"
+msgstr ""
+
+msgid "ISBN"
+msgstr ""
+
+msgid "ISBN-10"
+msgstr ""
+
+msgid "ISBN-13"
+msgstr ""
+
+msgid "ISSN"
+msgstr ""
+
+msgid "Iches Of Water"
+msgstr ""
+
+msgid "Id"
+msgstr "รหัส"
+
+msgid "Identification of the package for the delivery (for print)"
+msgstr "การระบุแพ็คเกจสำหรับการจัดส่ง (สำหรับการพิมพ์)"
+
+msgid "Identifying Decision Makers"
+msgstr "การระบุผู้ตัดสินใจ"
+
+msgid "Idle"
+msgstr "ว่าง"
+
+msgid "If \"Months\" is selected, a fixed amount will be booked as deferred revenue or expense for each month irrespective of the number of days in a month. It will be prorated if deferred revenue or expense is not booked for an entire month"
+msgstr ""
+
+msgid "If <b>Enabled</b> - Reconciliation happens on the <b>Advance Payment posting date</b><br>\n"
+"If <b>Disabled</b> - Reconciliation happens on oldest of 2 Dates: <b>Invoice Date</b> or the <b>Advance Payment posting date</b><br>\n"
+msgstr ""
+
+msgid "If Auto Opt In is checked, then the customers will be automatically linked with the concerned Loyalty Program (on save)"
+msgstr "หากเลือก Auto Opt In ลูกค้าจะถูกเชื่อมโยงกับโปรแกรมสะสมคะแนนที่เกี่ยวข้องโดยอัตโนมัติ (เมื่อบันทึก)"
+
+msgid "If Income or Expense"
+msgstr "หากเป็นรายได้หรือค่าใช้จ่าย"
+
+msgid "If an operation is divided into sub operations, they can be added here."
+msgstr "หากการดำเนินการถูกแบ่งออกเป็นการดำเนินการย่อย สามารถเพิ่มได้ที่นี่"
+
+msgid "If blank, parent Warehouse Account or company default will be considered in transactions"
+msgstr "หากว่างเปล่า จะพิจารณาบัญชีคลังสินค้าหลักหรือค่าเริ่มต้นของบริษัทในธุรกรรม"
+
+msgid "If checked, Rejected Quantity will be included while making Purchase Invoice from Purchase Receipt."
+msgstr "หากเลือก ปริมาณที่ถูกปฏิเสธจะถูกรวมไว้ขณะสร้างใบแจ้งหนี้ซื้อจากใบรับซื้อ"
+
+msgid "If checked, Stock will be reserved on <b>Submit</b>"
+msgstr "หากเลือก สต็อกจะถูกสำรองไว้เมื่อ <b>ส่ง</b>"
+
+msgid "If checked, picked qty won't automatically be fulfilled on submit of pick list."
+msgstr "หากเลือก ปริมาณที่เลือกจะไม่ถูกเติมเต็มโดยอัตโนมัติเมื่อส่งรายการเลือก"
+
+msgid "If checked, the tax amount will be considered as already included in the Paid Amount in Payment Entry"
+msgstr "หากเลือก จำนวนภาษีจะถือว่ารวมอยู่ในจำนวนเงินที่ชำระแล้วในรายการชำระเงิน"
+
+msgid "If checked, the tax amount will be considered as already included in the Print Rate / Print Amount"
+msgstr "หากเลือก จำนวนภาษีจะถือว่ารวมอยู่ในอัตราการพิมพ์ / จำนวนเงินพิมพ์แล้ว"
+
+msgid "If checked, we will create demo data for you to explore the system. This demo data can be erased later."
+msgstr "หากเลือก เราจะสร้างข้อมูลตัวอย่างเพื่อให้คุณสำรวจระบบ ข้อมูลตัวอย่างนี้สามารถลบได้ในภายหลัง"
+
+msgid "If different than customer address"
+msgstr "หากแตกต่างจากที่อยู่ลูกค้า"
+
+msgid "If disable, 'In Words' field will not be visible in any transaction"
+msgstr "หากปิดใช้งาน ฟิลด์ 'In Words' จะไม่ปรากฏในธุรกรรมใด ๆ"
+
+msgid "If disable, 'Rounded Total' field will not be visible in any transaction"
+msgstr "หากปิดใช้งาน ฟิลด์ 'Rounded Total' จะไม่ปรากฏในธุรกรรมใด ๆ"
+
+msgid "If enabled then system won't apply the pricing rule on the delivery note which will be create from the pick list"
+msgstr "หากเปิดใช้งาน ระบบจะไม่ใช้กฎการตั้งราคากับใบส่งของที่จะสร้างจากรายการเลือก"
+
+msgid "If enabled then system won't override the picked qty / batches / serial numbers."
+msgstr "หากเปิดใช้งาน ระบบจะไม่เขียนทับปริมาณ / แบทช์ / หมายเลขซีเรียลที่เลือก"
+
+msgid "If enabled, a print of this document will be attached to each email"
+msgstr "หากเปิดใช้งาน การพิมพ์เอกสารนี้จะถูกแนบไปกับอีเมลแต่ละฉบับ"
+
+msgid "If enabled, additional ledger entries will be made for discounts in a separate Discount Account"
+msgstr "หากเปิดใช้งาน จะมีการสร้างรายการบัญชีเพิ่มเติมสำหรับส่วนลดในบัญชีส่วนลดแยกต่างหาก"
+
+msgid "If enabled, all files attached to this document will be attached to each email"
+msgstr "หากเปิดใช้งาน ไฟล์ทั้งหมดที่แนบมากับเอกสารนี้จะถูกแนบไปกับอีเมลแต่ละฉบับ"
+
+msgid "If enabled, do not update serial / batch values in the stock transactions on creation of auto Serial \n"
+" / Batch Bundle. "
+msgstr ""
+
+msgid "If enabled, formula for <b>Qty to Order</b>: <br>\n"
+"Required Qty (BOM) - <a href=\"https://docs.frappe.io/erpnext/user/manual/en/projected-quantity\">Projected Qty</a>. <br> This helps avoid over-ordering."
+msgstr ""
+
+msgid "If enabled, formula for <b>Required Qty</b>: <br>\n"
+"Required Qty (BOM) - <a href=\"https://docs.frappe.io/erpnext/user/manual/en/projected-quantity\">Projected Qty</a>. <br> This helps avoid over-ordering."
+msgstr ""
+
+msgid "If enabled, ledger entries will be posted for change amount in POS transactions"
+msgstr "หากเปิดใช้งาน รายการบัญชีจะถูกโพสต์สำหรับจำนวนเงินเปลี่ยนแปลงในธุรกรรม POS"
+
+msgid "If enabled, the consolidated invoices will have rounded total disabled"
+msgstr "หากเปิดใช้งาน ใบแจ้งหนี้รวมจะปิดใช้งานยอดรวมปัดเศษ"
+
+msgid "If enabled, the item rate won't adjust to the valuation rate during internal transfers, but accounting will still use the valuation rate."
+msgstr "หากเปิดใช้งาน อัตรารายการจะไม่ปรับตามอัตราการประเมินมูลค่าระหว่างการโอนภายใน แต่การบัญชีจะยังคงใช้อัตราการประเมินมูลค่า"
+
+msgid "If enabled, the system will allow selecting UOMs in sales and purchase transactions only if the conversion rate is set in the item master."
+msgstr "หากเปิดใช้งาน ระบบจะอนุญาตให้เลือกหน่วยวัดในธุรกรรมการขายและการซื้อได้เฉพาะเมื่อมีการตั้งค่าอัตราการแปลงในมาสเตอร์รายการ"
+
+msgid "If enabled, the system will generate an accounting entry for materials rejected in the Purchase Receipt."
+msgstr "หากเปิดใช้งาน ระบบจะสร้างรายการบัญชีสำหรับวัสดุที่ถูกปฏิเสธในใบรับซื้อ"
+
+msgid "If enabled, the system will use the moving average valuation method to calculate the valuation rate for the batched items and will not consider the individual batch-wise incoming rate."
+msgstr "หากเปิดใช้งาน ระบบจะใช้วิธีการประเมินมูลค่าแบบค่าเฉลี่ยเคลื่อนที่ในการคำนวณอัตราการประเมินมูลค่าสำหรับรายการที่จัดเป็นแบทช์ และจะไม่พิจารณาอัตราขาเข้าตามแบทช์แต่ละรายการ"
+
+msgid "If enabled, then system will only validate the pricing rule and not apply automatically. User has to manually set the discount percentage / margin / free items to validate the pricing rule"
+msgstr "หากเปิดใช้งาน ระบบจะตรวจสอบกฎการตั้งราคาเท่านั้นและจะไม่ใช้โดยอัตโนมัติ ผู้ใช้ต้องตั้งค่าร้อยละส่วนลด / กำไร / รายการฟรีด้วยตนเองเพื่อยืนยันกฎการตั้งราคา"
+
+msgid "If enabled, user will be alerted before resetting posting date to current date in relevant transactions"
+msgstr ""
+
+msgid "If item is a variant of another item then description, image, pricing, taxes etc will be set from the template unless explicitly specified"
+msgstr "หากรายการเป็นตัวเลือกของรายการอื่น คำอธิบาย รูปภาพ การตั้งราคา ภาษี ฯลฯ จะถูกตั้งค่าจากแม่แบบเว้นแต่จะระบุไว้โดยชัดเจน"
+
+msgid "If items in stock, proceed with Material Transfer or Purchase."
+msgstr "หากมีรายการในสต็อก ให้ดำเนินการโอนวัสดุหรือซื้อ"
+
+msgid "If mentioned, the system will allow only the users with this Role to create or modify any stock transaction earlier than the latest stock transaction for a specific item and warehouse. If set as blank, it allows all users to create/edit back-dated transactions."
+msgstr "หากระบุไว้ ระบบจะอนุญาตเฉพาะผู้ใช้ที่มีบทบาทนี้ในการสร้างหรือแก้ไขธุรกรรมสต็อกใด ๆ ก่อนหน้าธุรกรรมสต็อกล่าสุดสำหรับรายการและคลังสินค้าที่ระบุ หากตั้งค่าเป็นว่างเปล่า จะอนุญาตให้ผู้ใช้ทั้งหมดสร้าง/แก้ไขธุรกรรมย้อนหลังได้"
+
+msgid "If more than one package of the same type (for print)"
+msgstr "หากมีมากกว่าหนึ่งแพ็คเกจของประเภทเดียวกัน (สำหรับการพิมพ์)"
+
+msgid "If no taxes are set, and Taxes and Charges Template is selected, the system will automatically apply the taxes from the chosen template."
+msgstr ""
+
+msgid "If not, you can Cancel / Submit this entry"
+msgstr "หากไม่ใช่ คุณสามารถยกเลิก / ส่งรายการนี้"
+
+msgid "If rate is zero then item will be treated as \"Free Item\""
+msgstr ""
+
+msgid "If subcontracted to a vendor"
+msgstr "หากจ้างช่วงให้กับผู้ขาย"

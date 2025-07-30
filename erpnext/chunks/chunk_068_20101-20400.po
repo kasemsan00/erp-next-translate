@@ -1,0 +1,300 @@
+﻿msgstr "แถว {0}: ไม่สามารถเปลี่ยนกะได้เนื่องจากการหักค่าเสื่อมราคาได้ถูกประมวลผลแล้ว"
+
+msgid "Row {0}: Subcontracted Item is mandatory for the raw material {1}"
+msgstr "แถว {0}: รายการจ้างช่วงเป็นสิ่งจำเป็นสำหรับวัตถุดิบ {1}"
+
+msgid "Row {0}: Target Warehouse is mandatory for internal transfers"
+msgstr "แถว {0}: คลังสินค้าเป้าหมายเป็นสิ่งจำเป็นสำหรับการโอนภายใน"
+
+msgid "Row {0}: Task {1} does not belong to Project {2}"
+msgstr "แถว {0}: งาน {1} ไม่ได้เป็นของโครงการ {2}"
+
+msgid "Row {0}: The item {1}, quantity must be positive number"
+msgstr "แถว {0}: รายการ {1} ปริมาณต้องเป็นตัวเลขบวก"
+
+msgid "Row {0}: The {3} Account {1} does not belong to the company {2}"
+msgstr "แถว {0}: บัญชี {3} {1} ไม่ได้เป็นของบริษัท {2}"
+
+msgid "Row {0}: To set {1} periodicity, difference between from and to date must be greater than or equal to {2}"
+msgstr "แถว {0}: ในการตั้งค่าความถี่ {1} ความแตกต่างระหว่างวันที่เริ่มต้นและสิ้นสุดต้องมากกว่าหรือเท่ากับ {2}"
+
+msgid "Row {0}: UOM Conversion Factor is mandatory"
+msgstr "แถว {0}: ปัจจัยการแปลงหน่วยวัดเป็นสิ่งจำเป็น"
+
+msgid "Row {0}: Workstation or Workstation Type is mandatory for an operation {1}"
+msgstr "แถว {0}: สถานีงานหรือประเภทสถานีงานเป็นสิ่งจำเป็นสำหรับการดำเนินการ {1}"
+
+msgid "Row {0}: user has not applied the rule {1} on the item {2}"
+msgstr "แถว {0}: ผู้ใช้ไม่ได้ใช้กฎ {1} กับรายการ {2}"
+
+msgid "Row {0}: {1} account already applied for Accounting Dimension {2}"
+msgstr "แถว {0}: บัญชี {1} ถูกใช้แล้วสำหรับมิติการบัญชี {2}"
+
+msgid "Row {0}: {1} must be greater than 0"
+msgstr "แถว {0}: {1} ต้องมากกว่า 0"
+
+msgid "Row {0}: {1} {2} cannot be same as {3} (Party Account) {4}"
+msgstr "แถว {0}: {1} {2} ไม่สามารถเหมือนกับ {3} (บัญชีคู่สัญญา) {4}"
+
+msgid "Row {0}: {1} {2} does not match with {3}"
+msgstr "แถว {0}: {1} {2} ไม่ตรงกับ {3}"
+
+msgid "Row {0}: {2} Item {1} does not exist in {2} {3}"
+msgstr "แถว {0}: รายการ {2} {1} ไม่มีอยู่ใน {2} {3}"
+
+msgid "Row {1}: Quantity ({0}) cannot be a fraction. To allow this, disable '{2}' in UOM {3}."
+msgstr "แถว {1}: ปริมาณ ({0}) ไม่สามารถเป็นเศษส่วนได้ หากต้องการอนุญาต ให้ปิดใช้งาน '{2}' ในหน่วยวัด {3}"
+
+msgid "Row {idx}: Asset Naming Series is mandatory for the auto creation of assets for item {item_code}."
+msgstr "แถว {idx}: ชุดการตั้งชื่อสินทรัพย์เป็นสิ่งจำเป็นสำหรับการสร้างสินทรัพย์อัตโนมัติสำหรับรายการ {item_code}"
+
+msgid "Row({0}): Outstanding Amount cannot be greater than actual Outstanding Amount {1} in {2}"
+msgstr "แถว ({0}): จำนวนเงินค้างชำระไม่สามารถมากกว่าจำนวนเงินค้างชำระจริง {1} ใน {2}"
+
+msgid "Row({0}): {1} is already discounted in {2}"
+msgstr "แถว ({0}): {1} ได้รับส่วนลดแล้วใน {2}"
+
+msgid "Rows Added in {0}"
+msgstr ""
+
+msgid "Rows Removed in {0}"
+msgstr ""
+
+msgid "Rows with Same Account heads will be merged on Ledger"
+msgstr ""
+
+msgid "Rows with duplicate due dates in other rows were found: {0}"
+msgstr ""
+
+msgid "Rows: {0} have 'Payment Entry' as reference_type. This should not be set manually."
+msgstr ""
+
+msgid "Rows: {0} in {1} section are Invalid. Reference Name should point to a valid Payment Entry or Journal Entry."
+msgstr ""
+
+msgid "Rule Applied"
+msgstr ""
+
+msgid "Rule Description"
+msgstr ""
+
+msgid "Run parallel job cards in a workstation"
+msgstr ""
+
+msgid "Running"
+msgstr ""
+
+msgid "S.O. No."
+msgstr ""
+
+msgid "SCO Supplied Item"
+msgstr "รายการที่จัดหาโดย SCO"
+
+msgid "SLA Fulfilled On"
+msgstr "SLA สำเร็จเมื่อ"
+
+msgid "SLA Fulfilled On Status"
+msgstr "สถานะ SLA สำเร็จเมื่อ"
+
+msgid "SLA Paused On"
+msgstr "SLA หยุดชั่วคราวเมื่อ"
+
+msgid "SLA is on hold since {0}"
+msgstr "SLA ถูกพักไว้ตั้งแต่ {0}"
+
+msgid "SLA will be applied if {1} is set as {2}{3}"
+msgstr "SLA จะถูกใช้หาก {1} ถูกตั้งค่าเป็น {2}{3}"
+
+msgid "SLA will be applied on every {0}"
+msgstr "SLA จะถูกใช้ในทุก {0}"
+
+msgid "SMS Center"
+msgstr "ศูนย์ SMS"
+
+msgid "SMS Log"
+msgstr "บันทึก SMS"
+
+msgid "SMS Settings"
+msgstr "การตั้งค่า SMS"
+
+msgid "SO Qty"
+msgstr "ปริมาณ SO"
+
+msgid "SO Total Qty"
+msgstr "ปริมาณรวม SO"
+
+msgid "STATEMENT OF ACCOUNTS"
+msgstr "งบแสดงบัญชี"
+
+msgid "SWIFT Number"
+msgstr "หมายเลข SWIFT"
+
+msgid "SWIFT number"
+msgstr "หมายเลข SWIFT"
+
+msgid "Safety Stock"
+msgstr "สต็อกปลอดภัย"
+
+msgid "Salary"
+msgstr "เงินเดือน"
+
+msgid "Salary Currency"
+msgstr "สกุลเงินเงินเดือน"
+
+msgid "Salary Mode"
+msgstr "โหมดเงินเดือน"
+
+msgid "Sales"
+msgstr "การขายสินค้า"
+
+msgid "Sales Account"
+msgstr "บัญชีขาย"
+
+msgid "Sales Analytics"
+msgstr "การวิเคราะห์การขาย"
+
+msgid "Sales Contributions and Incentives"
+msgstr "การสนับสนุนและแรงจูงใจการขาย"
+
+msgid "Sales Defaults"
+msgstr "ค่าเริ่มต้นการขาย"
+
+msgid "Sales Expenses"
+msgstr "ค่าใช้จ่ายในการขายสินค้า"
+
+msgid "Sales Funnel"
+msgstr "กรวยการขาย"
+
+msgid "Sales Incoming Rate"
+msgstr "อัตราการขายที่เข้ามา"
+
+msgid "Sales Invoice"
+msgstr "ใบแจ้งหนี้ขาย"
+
+msgid "Sales Invoice Advance"
+msgstr "การชำระเงินล่วงหน้าใบแจ้งหนี้ขาย"
+
+msgid "Sales Invoice Item"
+msgstr "รายการใบแจ้งหนี้ขาย"
+
+msgid "Sales Invoice No"
+msgstr "หมายเลขใบแจ้งหนี้ขาย"
+
+msgid "Sales Invoice Payment"
+msgstr "การชำระเงินใบแจ้งหนี้ขาย"
+
+msgid "Sales Invoice Reference"
+msgstr "การอ้างอิงใบแจ้งหนี้ขาย"
+
+msgid "Sales Invoice Timesheet"
+msgstr "ตารางเวลาใบแจ้งหนี้ขาย"
+
+msgid "Sales Invoice Transactions"
+msgstr "ธุรกรรมใบแจ้งหนี้ขาย"
+
+msgid "Sales Invoice Trends"
+msgstr "แนวโน้มใบแจ้งหนี้ขาย"
+
+msgid "Sales Invoice does not have Payments"
+msgstr "ใบแจ้งหนี้ขายไม่มีการชำระเงิน"
+
+msgid "Sales Invoice is already consolidated"
+msgstr "ใบแจ้งหนี้ขายถูกรวมแล้ว"
+
+msgid "Sales Invoice is not created using POS"
+msgstr "ใบแจ้งหนี้ขายไม่ได้ถูกสร้างโดยใช้ POS"
+
+msgid "Sales Invoice is not submitted"
+msgstr "ใบแจ้งหนี้ขายยังไม่ได้ส่ง"
+
+msgid "Sales Invoice isn't created by user {}"
+msgstr "ใบแจ้งหนี้ขายไม่ได้ถูกสร้างโดยผู้ใช้ {}"
+
+msgid "Sales Invoice mode is activated in POS. Please create Sales Invoice instead."
+msgstr "โหมดใบแจ้งหนี้ขายถูกเปิดใช้งานใน POS โปรดสร้างใบแจ้งหนี้ขายแทน"
+
+msgid "Sales Invoice {0} has already been submitted"
+msgstr "ใบแจ้งหนี้ขาย {0} ถูกส่งแล้ว"
+
+msgid "Sales Invoice {0} must be deleted before cancelling this Sales Order"
+msgstr "ใบแจ้งหนี้ขาย {0} ต้องถูกลบก่อนที่จะยกเลิกคำสั่งขายนี้"
+
+msgid "Sales Manager"
+msgstr "ผู้จัดการฝ่ายขาย"
+
+msgid "Sales Master Manager"
+msgstr "ผู้จัดการมาสเตอร์ฝ่ายขาย"
+
+msgid "Sales Monthly History"
+msgstr "ประวัติการขายรายเดือน"
+
+msgid "Sales Opportunities by Campaign"
+msgstr "โอกาสการขายตามแคมเปญ"
+
+msgid "Sales Opportunities by Medium"
+msgstr "โอกาสการขายตามสื่อ"
+
+msgid "Sales Opportunities by Source"
+msgstr "โอกาสการขายตามแหล่งที่มา"
+
+msgid "Sales Order"
+msgstr "คำสั่งขาย"
+
+msgid "Sales Order Analysis"
+msgstr "การวิเคราะห์คำสั่งขาย"
+
+msgid "Sales Order Date"
+msgstr "วันที่คำสั่งขาย"
+
+msgid "Sales Order Item"
+msgstr "รายการคำสั่งขาย"
+
+msgid "Sales Order Packed Item"
+msgstr "รายการคำสั่งขายที่บรรจุแล้ว"
+
+msgid "Sales Order Reference"
+msgstr "การอ้างอิงคำสั่งขาย"
+
+msgid "Sales Order Status"
+msgstr "สถานะคำสั่งขาย"
+
+msgid "Sales Order Trends"
+msgstr "แนวโน้มคำสั่งขาย"
+
+msgid "Sales Order required for Item {0}"
+msgstr "ต้องการคำสั่งขายสำหรับรายการ {0}"
+
+msgid "Sales Order {0} already exists against Customer's Purchase Order {1}. To allow multiple Sales Orders, Enable {2} in {3}"
+msgstr "คำสั่งขาย {0} มีอยู่แล้วสำหรับคำสั่งซื้อของลูกค้า {1} หากต้องการอนุญาตคำสั่งขายหลายรายการ ให้เปิดใช้งาน {2} ใน {3}"
+
+msgid "Sales Order {0} is not submitted"
+msgstr "คำสั่งขาย {0} ยังไม่ได้ส่ง"
+
+msgid "Sales Order {0} is not valid"
+msgstr "คำสั่งขาย {0} ไม่ถูกต้อง"
+
+msgid "Sales Order {0} is {1}"
+msgstr "คำสั่งขาย {0} คือ {1}"
+
+msgid "Sales Orders"
+msgstr "คำสั่งขาย"
+
+msgid "Sales Orders Required"
+msgstr "ต้องการคำสั่งขาย"
+
+msgid "Sales Orders to Bill"
+msgstr "คำสั่งขายที่ต้องเรียกเก็บเงิน"
+
+msgid "Sales Orders to Deliver"
+msgstr "คำสั่งขายที่จะส่งมอบ"
+
+msgid "Sales Partner"
+msgstr "พันธมิตรการขาย"
+
+msgid "Sales Partner "
+msgstr ""
+
+msgid "Sales Partner Commission Summary"
+msgstr "สรุปค่าคอมมิชชั่นพันธมิตรการขาย"
+
+msgid "Sales Partner Item"

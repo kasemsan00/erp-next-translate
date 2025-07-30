@@ -1,0 +1,300 @@
+﻿msgid "Ordered Qty"
+msgstr "ปริมาณที่สั่งซื้อ"
+
+msgid "Ordered Qty: Quantity ordered for purchase, but not received."
+msgstr "ปริมาณที่สั่งซื้อ: ปริมาณที่สั่งซื้อเพื่อการซื้อ แต่ยังไม่ได้รับ"
+
+msgid "Ordered Quantity"
+msgstr "ปริมาณที่สั่งซื้อ"
+
+msgid "Orders"
+msgstr "คำสั่งซื้อ"
+
+msgid "Organization"
+msgstr "องค์กร"
+
+msgid "Organization Name"
+msgstr "ชื่อองค์กร"
+
+msgid "Orientation"
+msgstr "การวางแนว"
+
+msgid "Original Item"
+msgstr "รายการต้นฉบับ"
+
+msgid "Other"
+msgstr "อื่นๆ"
+
+msgid "Other Details"
+msgstr "รายละเอียดอื่นๆ"
+
+msgid "Other Info"
+msgstr "ข้อมูลอื่นๆ"
+
+msgid "Other Reports"
+msgstr ""
+
+msgid "Other Settings"
+msgstr "การตั้งค่าอื่นๆ"
+
+msgid "Ounce"
+msgstr ""
+
+msgid "Ounce-Force"
+msgstr ""
+
+msgid "Ounce/Cubic Foot"
+msgstr ""
+
+msgid "Ounce/Cubic Inch"
+msgstr ""
+
+msgid "Ounce/Gallon (UK)"
+msgstr ""
+
+msgid "Ounce/Gallon (US)"
+msgstr ""
+
+msgid "Out Qty"
+msgstr "ปริมาณออก"
+
+msgid "Out Value"
+msgstr "มูลค่าออก"
+
+msgid "Out of AMC"
+msgstr "นอก AMC"
+
+msgid "Out of Order"
+msgstr "เสีย"
+
+msgid "Out of Stock"
+msgstr "สินค้าหมด"
+
+msgid "Out of Warranty"
+msgstr "หมดประกัน"
+
+msgid "Out of stock"
+msgstr "สินค้าหมด"
+
+msgid "Outdated POS Opening Entry"
+msgstr ""
+
+msgid "Outgoing"
+msgstr "ขาออก"
+
+msgid "Outgoing Rate"
+msgstr "อัตราขาออก"
+
+msgid "Outstanding"
+msgstr "ค้างชำระ"
+
+msgid "Outstanding (Company Currency)"
+msgstr "ค้างชำระ (สกุลเงินบริษัท)"
+
+msgid "Outstanding Amount"
+msgstr "จำนวนเงินค้างชำระ"
+
+msgid "Outstanding Amt"
+msgstr "จำนวนเงินค้างชำระ"
+
+msgid "Outstanding Cheques and Deposits to clear"
+msgstr "เช็คและเงินฝากค้างชำระที่ต้องเคลียร์"
+
+msgid "Outstanding for {0} cannot be less than zero ({1})"
+msgstr "ค้างชำระสำหรับ {0} ต้องไม่ต่ำกว่าศูนย์ ({1})"
+
+msgid "Outward"
+msgstr "ขาออก"
+
+msgid "Over Billing Allowance (%)"
+msgstr ""
+
+msgid "Over Billing Allowance exceeded for Purchase Receipt Item {0} ({1}) by {2}%"
+msgstr ""
+
+msgid "Over Delivery/Receipt Allowance (%)"
+msgstr ""
+
+msgid "Over Picking Allowance"
+msgstr "ค่าเผื่อการหยิบเกิน"
+
+msgid "Over Receipt"
+msgstr "การรับเกิน"
+
+msgid "Over Receipt/Delivery of {0} {1} ignored for item {2} because you have {3} role."
+msgstr "การรับ/ส่งมอบเกิน {0} {1} ถูกละเว้นสำหรับรายการ {2} เนื่องจากคุณมีบทบาท {3}"
+
+msgid "Over Transfer Allowance"
+msgstr "ค่าเผื่อการโอนเกิน"
+
+msgid "Over Transfer Allowance (%)"
+msgstr ""
+
+msgid "Overbilling of {0} {1} ignored for item {2} because you have {3} role."
+msgstr "การเรียกเก็บเงินเกิน {0} {1} ถูกละเว้นสำหรับรายการ {2} เนื่องจากคุณมีบทบาท {3}"
+
+msgid "Overbilling of {} ignored because you have {} role."
+msgstr "การเรียกเก็บเงินเกิน {} ถูกละเว้นเนื่องจากคุณมีบทบาท {}"
+
+msgid "Overdue"
+msgstr "เกินกำหนด"
+
+msgid "Overdue Days"
+msgstr "วันที่เกินกำหนด"
+
+msgid "Overdue Payment"
+msgstr "การชำระเงินเกินกำหนด"
+
+msgid "Overdue Payments"
+msgstr "การชำระเงินที่เกินกำหนด"
+
+msgid "Overdue Tasks"
+msgstr "งานที่เกินกำหนด"
+
+msgid "Overdue and Discounted"
+msgstr "เกินกำหนดและลดราคา"
+
+msgid "Overlap in scoring between {0} and {1}"
+msgstr "คะแนนทับซ้อนระหว่าง {0} และ {1}"
+
+msgid "Overlapping conditions found between:"
+msgstr "พบเงื่อนไขที่ทับซ้อนระหว่าง:"
+
+msgid "Overproduction Percentage For Sales Order"
+msgstr "เปอร์เซ็นต์การผลิตเกินสำหรับคำสั่งขาย"
+
+msgid "Overproduction Percentage For Work Order"
+msgstr "เปอร์เซ็นต์การผลิตเกินสำหรับคำสั่งงาน"
+
+msgid "Overproduction for Sales and Work Order"
+msgstr "การผลิตเกินสำหรับคำสั่งขายและคำสั่งงาน"
+
+msgid "Overview"
+msgstr "ภาพรวม"
+
+msgid "Owned"
+msgstr "เป็นเจ้าของ"
+
+msgid "Owner"
+msgstr "เจ้าของ"
+
+msgid "PAN No"
+msgstr "หมายเลข PAN"
+
+msgid "PDF Name"
+msgstr "ชื่อ PDF"
+
+msgid "PIN"
+msgstr ""
+
+msgid "PO Supplied Item"
+msgstr "รายการที่จัดหาโดย PO"
+
+msgid "POS"
+msgstr ""
+
+msgid "POS Additional Fields"
+msgstr ""
+
+msgid "POS Closed"
+msgstr "ปิด POS"
+
+msgid "POS Closing Entry"
+msgstr "รายการปิด POS"
+
+msgid "POS Closing Entry Detail"
+msgstr "รายละเอียดรายการปิด POS"
+
+msgid "POS Closing Entry Taxes"
+msgstr "ภาษีรายการปิด POS"
+
+msgid "POS Closing Failed"
+msgstr "การปิด POS ล้มเหลว"
+
+msgid "POS Closing failed while running in a background process. You can resolve the {0} and retry the process again."
+msgstr "การปิด POS ล้มเหลวขณะทำงานในกระบวนการเบื้องหลัง คุณสามารถแก้ไข {0} และลองกระบวนการอีกครั้ง"
+
+msgid "POS Customer Group"
+msgstr "กลุ่มลูกค้า POS"
+
+msgid "POS Field"
+msgstr "ฟิลด์ POS"
+
+msgid "POS Invoice"
+msgstr "ใบแจ้งหนี้ POS"
+
+msgid "POS Invoice Item"
+msgstr "รายการใบแจ้งหนี้ POS"
+
+msgid "POS Invoice Merge Log"
+msgstr "บันทึกการรวมใบแจ้งหนี้ POS"
+
+msgid "POS Invoice Reference"
+msgstr "อ้างอิงใบแจ้งหนี้ POS"
+
+msgid "POS Invoice is already consolidated"
+msgstr "ใบแจ้งหนี้ POS ได้ถูกรวมแล้ว"
+
+msgid "POS Invoice is not submitted"
+msgstr "ใบแจ้งหนี้ POS ยังไม่ได้ส่ง"
+
+msgid "POS Invoice isn't created by user {}"
+msgstr "ใบแจ้งหนี้ POS ไม่ได้สร้างโดยผู้ใช้ {}"
+
+msgid "POS Invoice should have the field {0} checked."
+msgstr "ใบแจ้งหนี้ POS ควรมีฟิลด์ {0} ที่ถูกเลือก"
+
+msgid "POS Invoices"
+msgstr "ใบแจ้งหนี้ POS"
+
+msgid "POS Invoices can't be added when Sales Invoice is enabled"
+msgstr "ไม่สามารถเพิ่มใบแจ้งหนี้ POS ได้เมื่อเปิดใช้งานใบแจ้งหนี้ขาย"
+
+msgid "POS Invoices will be consolidated in a background process"
+msgstr "ใบแจ้งหนี้ POS จะถูกรวมในกระบวนการเบื้องหลัง"
+
+msgid "POS Invoices will be unconsolidated in a background process"
+msgstr "ใบแจ้งหนี้ POS จะถูกแยกในกระบวนการเบื้องหลัง"
+
+msgid "POS Item Group"
+msgstr "กลุ่มรายการ POS"
+
+msgid "POS Opening Entry"
+msgstr "รายการเปิด POS"
+
+msgid "POS Opening Entry - {0} is outdated. Please close the POS and create a new POS Opening Entry."
+msgstr ""
+
+msgid "POS Opening Entry Cancellation Error"
+msgstr ""
+
+msgid "POS Opening Entry Cancelled"
+msgstr ""
+
+msgid "POS Opening Entry Detail"
+msgstr "รายละเอียดรายการเปิด POS"
+
+msgid "POS Opening Entry Exists"
+msgstr ""
+
+msgid "POS Opening Entry Missing"
+msgstr "ไม่มีรายการเปิด POS"
+
+msgid "POS Opening Entry cannot be cancelled as unconsolidated Invoices exists."
+msgstr ""
+
+msgid "POS Opening Entry has been cancelled. Please refresh the page."
+msgstr ""
+
+msgid "POS Payment Method"
+msgstr "วิธีการชำระเงิน POS"
+
+msgid "POS Profile"
+msgstr "โปรไฟล์ POS"
+
+msgid "POS Profile - {0} has multiple open POS Opening Entries. Please close or cancel the existing entries before proceeding."
+msgstr ""
+
+msgid "POS Profile - {0} is currently open. Please close the POS or cancel the existing POS Opening Entry before cancelling this POS Closing Entry."
+msgstr ""
+
