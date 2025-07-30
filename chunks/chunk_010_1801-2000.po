@@ -1,0 +1,493 @@
+msgid ""
+
+#. Label of the consider_unmarked_attendance_as (Select) field in DocType
+
+#. 'Payroll Settings'
+
+#: hrms/payroll/doctype/payroll_settings/payroll_settings.json
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.js:282
+
+msgid "Consider Unmarked Attendance As"
+msgstr ""
+
+
+#: hrms/hr/report/employee_leave_balance/employee_leave_balance.js:53
+
+msgid "Consolidate Leave Types"
+msgstr ""
+
+
+#. Label of the prefered_email (Data) field in DocType 'Travel Request'
+
+#: hrms/hr/doctype/travel_request/travel_request.json
+
+msgid "Contact Email"
+msgstr ""
+
+
+#: frontend/src/views/Profile.vue:190
+
+msgid "Contact Information"
+msgstr ""
+
+
+#. Label of the contact_no (Data) field in DocType 'Employee Referral'
+
+#: hrms/hr/doctype/employee_referral/employee_referral.json
+
+msgid "Contact No."
+msgstr ""
+
+
+#. Label of the contact_number (Data) field in DocType 'Training Event'
+
+#. Label of the contact_number (Data) field in DocType 'Training Program'
+
+#. Label of the cell_number (Data) field in DocType 'Travel Request'
+
+#: hrms/hr/doctype/training_event/training_event.json
+
+#: hrms/hr/doctype/training_program/training_program.json
+
+#: hrms/hr/doctype/travel_request/travel_request.json
+
+msgid "Contact Number"
+msgstr ""
+
+
+#: hrms/payroll/doctype/bulk_salary_structure_assignment/bulk_salary_structure_assignment.js:277
+
+msgid "Continue"
+msgstr ""
+
+
+#: hrms/setup.py:385
+
+msgid "Contract"
+msgstr ""
+
+
+#. Label of the travel_proof (Attach) field in DocType 'Travel Request'
+
+#: hrms/hr/doctype/travel_request/travel_request.json
+
+msgid "Copy of Invitation/Announcement"
+msgstr ""
+
+
+#. Label of the cost (Currency) field in DocType 'Full and Final Asset'
+
+#: hrms/hr/doctype/full_and_final_asset/full_and_final_asset.json
+
+#: hrms/hr/report/project_profitability/project_profitability.py:176
+
+msgid "Cost"
+msgstr "ต้นทุน"
+
+
+#. Label of the cost_center (Link) field in DocType 'Expense Claim'
+
+#. Label of the cost_center (Link) field in DocType 'Expense Claim Detail'
+
+#. Label of the cost_center (Link) field in DocType 'Expense Taxes and Charges'
+
+#. Label of the cost_center (Link) field in DocType 'Leave Encashment'
+
+#. Label of the cost_center (Link) field in DocType 'Travel Request'
+
+#. Label of the cost_center (Link) field in DocType 'Employee Cost Center'
+
+#. Label of the cost_center (Link) field in DocType 'Gratuity'
+
+#. Label of the cost_center (Link) field in DocType 'Payroll Entry'
+
+#: hrms/hr/doctype/expense_claim/expense_claim.json
+
+#: hrms/hr/doctype/expense_claim/expense_claim.py:286
+
+#: hrms/hr/doctype/expense_claim_detail/expense_claim_detail.json
+
+#: hrms/hr/doctype/expense_taxes_and_charges/expense_taxes_and_charges.json
+
+#: hrms/hr/doctype/leave_encashment/leave_encashment.json
+
+#: hrms/hr/doctype/travel_request/travel_request.json
+
+#: hrms/payroll/doctype/employee_cost_center/employee_cost_center.json
+
+#: hrms/payroll/doctype/gratuity/gratuity.json
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.json
+
+msgid "Cost Center"
+msgstr "ศูนย์ต้นทุน"
+
+
+#. Label of the payroll_cost_centers (Table) field in DocType 'Salary Structure
+
+#. Assignment'
+
+#: hrms/payroll/doctype/salary_structure_assignment/salary_structure_assignment.json
+
+msgid "Cost Centers"
+msgstr "ศูนย์ต้นทุน"
+
+
+#. Label of the costings (Table) field in DocType 'Travel Request'
+
+#: hrms/hr/doctype/travel_request/travel_request.json
+
+msgid "Costing"
+msgstr "การคำนวณต้นทุน"
+
+
+#. Label of the costing_details (Section Break) field in DocType 'Travel
+
+#. Request'
+
+#: hrms/hr/doctype/travel_request/travel_request.json
+
+msgid "Costing Details"
+msgstr "รายละเอียดการคำนวณต้นทุน"
+
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.py:1489
+
+msgid "Could not submit some Salary Slips: {}"
+msgstr ""
+
+
+#: hrms/hr/doctype/goal/goal_tree.js:292
+
+msgid "Could not update Goal"
+msgstr ""
+
+
+#: hrms/hr/doctype/goal/goal_list.js:133
+
+msgid "Could not update goals"
+msgstr ""
+
+
+#. Label of the country (Link) field in DocType 'Job Applicant'
+
+#: hrms/hr/doctype/job_applicant/job_applicant.json
+
+msgid "Country"
+msgstr ""
+
+
+#: hrms/overrides/company.py:38
+
+msgid "Country Fixture Deletion Failed"
+msgstr ""
+
+
+#: hrms/overrides/company.py:51
+
+msgid "Country Setup failed"
+msgstr ""
+
+
+#. Label of the course (Data) field in DocType 'Training Event'
+
+#. Label of the course (Data) field in DocType 'Training Feedback'
+
+#: hrms/hr/doctype/training_event/training_event.json
+
+#: hrms/hr/doctype/training_feedback/training_feedback.json
+
+msgid "Course"
+msgstr ""
+
+
+#. Label of the cover_letter (Text) field in DocType 'Job Applicant'
+
+#: hrms/hr/doctype/job_applicant/job_applicant.json
+
+msgid "Cover Letter"
+msgstr ""
+
+
+#: hrms/hr/doctype/employee_advance/employee_advance.js:54
+
+#: hrms/hr/doctype/employee_advance/employee_advance.js:66
+
+#: hrms/hr/doctype/employee_advance/employee_advance.js:83
+
+#: hrms/hr/doctype/employee_advance/employee_advance.js:94
+
+#: hrms/hr/doctype/employee_onboarding/employee_onboarding.js:59
+
+#: hrms/hr/doctype/employee_onboarding/employee_onboarding.js:61
+
+#: hrms/hr/doctype/expense_claim/expense_claim.js:109
+
+#: hrms/hr/doctype/job_applicant/job_applicant.js:29
+
+#: hrms/hr/doctype/job_applicant/job_applicant.js:57
+
+#: hrms/hr/doctype/leave_encashment/leave_encashment.js:62
+
+#: hrms/hr/doctype/vehicle_log/vehicle_log.js:21
+
+#: hrms/hr/doctype/vehicle_log/vehicle_log.js:23
+
+#: hrms/payroll/doctype/income_tax_slab/income_tax_slab.js:16
+
+#: hrms/payroll/doctype/income_tax_slab/income_tax_slab.js:18
+
+#: hrms/payroll/doctype/salary_component/salary_component.js:35
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.js:127
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.js:138
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.js:149
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.js:152
+
+#: hrms/payroll/doctype/salary_structure_assignment/salary_structure_assignment.js:68
+
+#: hrms/payroll/doctype/salary_structure_assignment/salary_structure_assignment.js:70
+
+#: hrms/public/js/erpnext/delivery_trip.js:15
+
+msgid "Create"
+msgstr ""
+
+
+#: hrms/hr/doctype/employee_referral/employee_referral.js:40
+
+msgid "Create Additional Salary"
+msgstr ""
+
+
+#: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.js:34
+
+#: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.js:38
+
+msgid "Create Appraisals"
+msgstr ""
+
+
+#: hrms/hr/doctype/job_offer/job_offer.js:45
+
+msgid "Create Employee"
+msgstr ""
+
+
+#: hrms/hr/doctype/interview_round/interview_round.js:7
+
+#: hrms/hr/doctype/job_applicant/job_applicant.js:95
+
+msgid "Create Interview"
+msgstr ""
+
+
+#: hrms/hr/doctype/employee_referral/employee_referral.js:21
+
+msgid "Create Job Applicant"
+msgstr ""
+
+
+#: hrms/hr/doctype/job_requisition/job_requisition.js:39
+
+msgid "Create Job Opening"
+msgstr ""
+
+
+#: hrms/hr/doctype/full_and_final_statement/full_and_final_statement.js:10
+
+msgid "Create Journal Entry"
+msgstr ""
+
+
+#. Label of the create_new_employee_id (Check) field in DocType 'Employee
+
+#. Transfer'
+
+#: hrms/hr/doctype/employee_transfer/employee_transfer.json
+
+msgid "Create New Employee Id"
+msgstr ""
+
+
+#: hrms/payroll/doctype/gratuity/gratuity.js:36
+
+msgid "Create Payment Entry"
+msgstr ""
+
+
+#: hrms/public/js/erpnext/timesheet.js:8
+
+msgid "Create Salary Slip"
+msgstr ""
+
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.js:72
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.js:79
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.js:154
+
+msgid "Create Salary Slips"
+msgstr ""
+
+
+#. Label of the create_separate_payment_entry_against_benefit_claim (Check)
+
+#. field in DocType 'Salary Component'
+
+#: hrms/payroll/doctype/salary_component/salary_component.json
+
+msgid "Create Separate Payment Entry Against Benefit Claim"
+msgstr ""
+
+
+#. Label of the create_shifts_after (Date) field in DocType 'Shift Schedule
+
+#. Assignment'
+
+#: hrms/hr/doctype/shift_schedule_assignment/shift_schedule_assignment.json
+
+msgid "Create Shifts After"
+msgstr ""
+
+
+#: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.py:192
+
+msgid "Creating Appraisals"
+msgstr ""
+
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.js:437
+
+msgid "Creating Payment Entries......"
+msgstr ""
+
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.py:1449
+
+msgid "Creating Salary Slips..."
+msgstr ""
+
+
+#: hrms/hr/doctype/shift_assignment_tool/shift_assignment_tool.py:240
+
+msgid "Creating {0}..."
+msgstr ""
+
+
+#: hrms/hr/report/leave_ledger/leave_ledger.py:41
+
+msgid "Creation Date"
+msgstr ""
+
+
+#: hrms/hr/utils.py:864
+
+msgid "Creation Failed"
+msgstr ""
+
+
+#: hrms/payroll/doctype/bulk_salary_structure_assignment/bulk_salary_structure_assignment.py:73
+
+msgid "Creation of Salary Structure Assignments has been queued. It may take a few minutes."
+msgstr ""
+
+
+#: hrms/hr/doctype/shift_assignment_tool/shift_assignment_tool.py:194
+
+msgid "Creation of {0} has been queued. It may take a few minutes."
+msgstr ""
+
+
+#. Label of the criteria (Data) field in DocType 'Employee Feedback Criteria'
+
+#. Label of the criteria (Link) field in DocType 'Employee Feedback Rating'
+
+#: hrms/hr/doctype/employee_feedback_criteria/employee_feedback_criteria.json
+
+#: hrms/hr/doctype/employee_feedback_rating/employee_feedback_rating.json
+
+msgid "Criteria"
+msgstr ""
+
+
+#. Description of the 'Rating Criteria' (Table) field in DocType 'Appraisal
+
+#. Template'
+
+#: hrms/hr/doctype/appraisal_template/appraisal_template.json
+
+msgid "Criteria based on which employee should be rated in Performance Feedback and Self Appraisal"
+msgstr ""
+
+
+#. Label of the currency (Link) field in DocType 'Employee Advance'
+
+#. Label of the currency (Link) field in DocType 'Employee Grade'
+
+#. Label of the currency (Link) field in DocType 'Job Applicant'
+
+#. Label of the currency (Link) field in DocType 'Job Opening'
+
+#. Label of the currency (Link) field in DocType 'Leave Encashment'
+
+#. Label of the currency (Link) field in DocType 'Additional Salary'
+
+#. Label of the currency (Link) field in DocType 'Bulk Salary Structure
+
+#. Assignment'
+
+#. Label of the currency (Link) field in DocType 'Employee Benefit Application'
+
+#. Label of the currency (Link) field in DocType 'Employee Benefit Claim'
+
+#. Label of the currency (Link) field in DocType 'Employee Incentive'
+
+#. Label of the currency (Link) field in DocType 'Employee Tax Exemption
+
+#. Declaration'
+
+#. Label of the currency (Link) field in DocType 'Employee Tax Exemption Proof
+
+#. Submission'
+
+#. Label of the currency (Link) field in DocType 'Income Tax Slab'
+
+#. Label of the currency (Link) field in DocType 'Payroll Entry'
+
+#. Label of the currency (Link) field in DocType 'Retention Bonus'
+
+#. Label of the currency (Link) field in DocType 'Salary Slip'
+
+#. Label of the currency (Link) field in DocType 'Salary Structure'
+
+#. Label of the currency (Link) field in DocType 'Salary Structure Assignment'
+
+#. Label of a Link in the Salary Payout Workspace
+
+#: hrms/hr/doctype/employee_advance/employee_advance.json
+
+#: hrms/hr/doctype/employee_grade/employee_grade.json
+
+#: hrms/hr/doctype/job_applicant/job_applicant.json
+
+#: hrms/hr/doctype/job_opening/job_opening.json
+
+#: hrms/hr/doctype/leave_encashment/leave_encashment.json
+
+#: hrms/hr/report/project_profitability/project_profitability.py:204
+
+#: hrms/payroll/doctype/additional_salary/additional_salary.json
+
+#: hrms/payroll/doctype/bulk_salary_structure_assignment/bulk_salary_structure_assignment.json
+
+#: hrms/payroll/doctype/employee_benefit_application/employee_benefit_application.json
+
+#: hrms/payroll/doctype/employee_benefit_claim/employee_benefit_claim.json
+
+#: hrms/payroll/doctype/employee_incentive/employee_incentive.json

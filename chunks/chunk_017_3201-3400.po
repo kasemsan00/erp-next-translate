@@ -1,0 +1,455 @@
+msgid ""
+
+#. Employee'
+
+#. Label of the employee_name (Read Only) field in DocType 'Training Feedback'
+
+#. Label of the employee_name (Read Only) field in DocType 'Training Result
+
+#. Employee'
+
+#. Label of the employee_name (Data) field in DocType 'Travel Request'
+
+#. Label of the employee_name (Data) field in DocType 'Additional Salary'
+
+#. Label of the employee_name (Data) field in DocType 'Employee Benefit
+
+#. Application'
+
+#. Label of the employee_name (Data) field in DocType 'Employee Benefit Claim'
+
+#. Label of the employee_name (Data) field in DocType 'Employee Incentive'
+
+#. Label of the employee_name (Data) field in DocType 'Employee Other Income'
+
+#. Label of the employee_name (Data) field in DocType 'Employee Tax Exemption
+
+#. Declaration'
+
+#. Label of the employee_name (Data) field in DocType 'Employee Tax Exemption
+
+#. Proof Submission'
+
+#. Label of the employee_name (Data) field in DocType 'Gratuity'
+
+#. Label of the employee_name (Data) field in DocType 'Payroll Employee Detail'
+
+#. Label of the employee_name (Data) field in DocType 'Retention Bonus'
+
+#. Label of the employee_name (Read Only) field in DocType 'Salary Slip'
+
+#. Label of the employee_name (Data) field in DocType 'Salary Structure
+
+#. Assignment'
+
+#. Label of the employee_name (Data) field in DocType 'Salary Withholding'
+
+#: hrms/hr/doctype/appraisal/appraisal.json
+
+#: hrms/hr/doctype/appraisee/appraisee.json
+
+#: hrms/hr/doctype/attendance/attendance.json
+
+#: hrms/hr/doctype/attendance_request/attendance_request.json
+
+#: hrms/hr/doctype/compensatory_leave_request/compensatory_leave_request.json
+
+#: hrms/hr/doctype/employee_advance/employee_advance.json
+
+#: hrms/hr/doctype/employee_checkin/employee_checkin.json
+
+#: hrms/hr/doctype/employee_grievance/employee_grievance.json
+
+#: hrms/hr/doctype/employee_onboarding/employee_onboarding.json
+
+#: hrms/hr/doctype/employee_performance_feedback/employee_performance_feedback.json
+
+#: hrms/hr/doctype/employee_promotion/employee_promotion.json
+
+#: hrms/hr/doctype/employee_separation/employee_separation.json
+
+#: hrms/hr/doctype/employee_skill_map/employee_skill_map.json
+
+#: hrms/hr/doctype/employee_transfer/employee_transfer.json
+
+#: hrms/hr/doctype/exit_interview/exit_interview.json
+
+#: hrms/hr/doctype/expense_claim/expense_claim.json
+
+#: hrms/hr/doctype/full_and_final_statement/full_and_final_statement.json
+
+#: hrms/hr/doctype/goal/goal.json
+
+#: hrms/hr/doctype/leave_allocation/leave_allocation.json
+
+#: hrms/hr/doctype/leave_application/leave_application.json
+
+#: hrms/hr/doctype/leave_encashment/leave_encashment.json
+
+#: hrms/hr/doctype/leave_ledger_entry/leave_ledger_entry.json
+
+#: hrms/hr/doctype/shift_assignment/shift_assignment.json
+
+#: hrms/hr/doctype/shift_assignment_tool/shift_assignment_tool.js:189
+
+#: hrms/hr/doctype/shift_request/shift_request.json
+
+#: hrms/hr/doctype/shift_schedule_assignment/shift_schedule_assignment.json
+
+#: hrms/hr/doctype/training_event_employee/training_event_employee.json
+
+#: hrms/hr/doctype/training_feedback/training_feedback.json
+
+#: hrms/hr/doctype/training_result_employee/training_result_employee.json
+
+#: hrms/hr/doctype/travel_request/travel_request.json
+
+#: hrms/hr/report/appraisal_overview/appraisal_overview.py:26
+
+#: hrms/hr/report/employee_exits/employee_exits.py:30
+
+#: hrms/hr/report/employee_leave_balance/employee_leave_balance.py:47
+
+#: hrms/hr/report/employee_leave_balance_summary/employee_leave_balance_summary.py:23
+
+#: hrms/hr/report/employees_working_on_a_holiday/employees_working_on_a_holiday.py:30
+
+#: hrms/hr/report/leave_ledger/leave_ledger.py:35
+
+#: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.py:107
+
+#: hrms/hr/report/project_profitability/project_profitability.py:145
+
+#: hrms/hr/report/shift_attendance/shift_attendance.py:31
+
+#: hrms/hr/report/unpaid_expense_claim/unpaid_expense_claim.py:19
+
+#: hrms/payroll/doctype/additional_salary/additional_salary.json
+
+#: hrms/payroll/doctype/employee_benefit_application/employee_benefit_application.json
+
+#: hrms/payroll/doctype/employee_benefit_claim/employee_benefit_claim.json
+
+#: hrms/payroll/doctype/employee_incentive/employee_incentive.json
+
+#: hrms/payroll/doctype/employee_other_income/employee_other_income.json
+
+#: hrms/payroll/doctype/employee_tax_exemption_declaration/employee_tax_exemption_declaration.json
+
+#: hrms/payroll/doctype/employee_tax_exemption_proof_submission/employee_tax_exemption_proof_submission.json
+
+#: hrms/payroll/doctype/gratuity/gratuity.json
+
+#: hrms/payroll/doctype/payroll_employee_detail/payroll_employee_detail.json
+
+#: hrms/payroll/doctype/retention_bonus/retention_bonus.json
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+#: hrms/payroll/doctype/salary_structure_assignment/salary_structure_assignment.json
+
+#: hrms/payroll/doctype/salary_withholding/salary_withholding.json
+
+#: hrms/payroll/report/bank_remittance/bank_remittance.py:32
+
+#: hrms/payroll/report/income_tax_computation/income_tax_computation.py:594
+
+#: hrms/payroll/report/income_tax_deductions/income_tax_deductions.py:32
+
+#: hrms/payroll/report/professional_tax_deductions/professional_tax_deductions.py:28
+
+#: hrms/payroll/report/provident_fund_deductions/provident_fund_deductions.py:27
+
+#: hrms/payroll/report/salary_payments_via_ecs/salary_payments_via_ecs.py:28
+
+#: hrms/payroll/report/salary_register/salary_register.py:122
+
+#: hrms/public/js/templates/employees_with_unmarked_attendance.html:18
+
+msgid "Employee Name"
+msgstr "ชื่อพนักงาน"
+
+
+#. Label of the emp_created_by (Select) field in DocType 'HR Settings'
+
+#: hrms/hr/doctype/hr_settings/hr_settings.json
+
+msgid "Employee Naming By"
+msgstr ""
+
+
+#. Option for the 'Employee Naming By' (Select) field in DocType 'HR Settings'
+
+#: hrms/hr/doctype/hr_settings/hr_settings.json
+
+msgid "Employee Number"
+msgstr "หมายเลขพนักงาน"
+
+
+#. Name of a DocType
+
+#. Label of a Link in the Employee Lifecycle Workspace
+
+#. Label of a shortcut in the Employee Lifecycle Workspace
+
+#: hrms/hr/doctype/employee_onboarding/employee_onboarding.json
+
+#: hrms/hr/workspace/employee_lifecycle/employee_lifecycle.json
+
+msgid "Employee Onboarding"
+msgstr ""
+
+
+#. Label of the employee_onboarding_template (Link) field in DocType 'Employee
+
+#. Onboarding'
+
+#. Name of a DocType
+
+#. Label of a Link in the Employee Lifecycle Workspace
+
+#: hrms/hr/doctype/employee_onboarding/employee_onboarding.json
+
+#: hrms/hr/doctype/employee_onboarding_template/employee_onboarding_template.json
+
+#: hrms/hr/workspace/employee_lifecycle/employee_lifecycle.json
+
+msgid "Employee Onboarding Template"
+msgstr ""
+
+
+#: hrms/hr/doctype/employee_onboarding/employee_onboarding.py:32
+
+msgid "Employee Onboarding: {0} already exists for Job Applicant: {1}"
+msgstr ""
+
+
+#. Name of a DocType
+
+#: hrms/payroll/doctype/employee_other_income/employee_other_income.json
+
+msgid "Employee Other Income"
+msgstr ""
+
+
+#. Name of a DocType
+
+#. Label of a Link in the Performance Workspace
+
+#. Label of a shortcut in the Performance Workspace
+
+#: hrms/hr/doctype/employee_performance_feedback/employee_performance_feedback.json
+
+#: hrms/hr/workspace/performance/performance.json
+
+msgid "Employee Performance Feedback"
+msgstr ""
+
+
+#. Name of a DocType
+
+#. Label of a Link in the Employee Lifecycle Workspace
+
+#. Label of a Link in the Performance Workspace
+
+#: hrms/hr/doctype/employee_promotion/employee_promotion.json
+
+#: hrms/hr/workspace/employee_lifecycle/employee_lifecycle.json
+
+#: hrms/hr/workspace/performance/performance.json
+
+msgid "Employee Promotion"
+msgstr ""
+
+
+#. Label of the details_section (Section Break) field in DocType 'Employee
+
+#. Promotion'
+
+#: hrms/hr/doctype/employee_promotion/employee_promotion.json
+
+msgid "Employee Promotion Details"
+msgstr ""
+
+
+#: hrms/hr/doctype/employee_promotion/employee_promotion.py:20
+
+msgid "Employee Promotion cannot be submitted before Promotion Date"
+msgstr ""
+
+
+#. Name of a DocType
+
+#: hrms/hr/doctype/employee_property_history/employee_property_history.json
+
+msgid "Employee Property History"
+msgstr ""
+
+
+#. Name of a DocType
+
+#. Label of the employee_referral (Link) field in DocType 'Job Applicant'
+
+#. Label of a Link in the Recruitment Workspace
+
+#: hrms/hr/doctype/employee_referral/employee_referral.json
+
+#: hrms/hr/doctype/job_applicant/job_applicant.json
+
+#: hrms/hr/doctype/job_requisition/job_requisition.js:18
+
+#: hrms/hr/workspace/recruitment/recruitment.json hrms/setup.py:393
+
+msgid "Employee Referral"
+msgstr ""
+
+
+#: hrms/payroll/doctype/additional_salary/additional_salary.py:107
+
+msgid "Employee Referral {0} is not applicable for referral bonus."
+msgstr ""
+
+
+#: hrms/hr/doctype/job_requisition/job_requisition.js:15
+
+msgid "Employee Referrals"
+msgstr ""
+
+
+#. Label of the employee_responsible (Link) field in DocType 'Employee
+
+#. Grievance'
+
+#: hrms/hr/doctype/employee_grievance/employee_grievance.json
+
+msgid "Employee Responsible "
+msgstr ""
+
+
+#. Option for the 'Final Decision' (Select) field in DocType 'Exit Interview'
+
+#: hrms/hr/doctype/exit_interview/exit_interview.json
+
+msgid "Employee Retained"
+msgstr ""
+
+
+#. Name of a DocType
+
+#. Label of a Link in the Employee Lifecycle Workspace
+
+#. Label of a shortcut in the Employee Lifecycle Workspace
+
+#: hrms/hr/doctype/employee_separation/employee_separation.json
+
+#: hrms/hr/workspace/employee_lifecycle/employee_lifecycle.json
+
+msgid "Employee Separation"
+msgstr ""
+
+
+#. Label of the employee_separation_template (Link) field in DocType 'Employee
+
+#. Separation'
+
+#. Name of a DocType
+
+#. Label of a Link in the Employee Lifecycle Workspace
+
+#: hrms/hr/doctype/employee_separation/employee_separation.json
+
+#: hrms/hr/doctype/employee_separation_template/employee_separation_template.json
+
+#: hrms/hr/workspace/employee_lifecycle/employee_lifecycle.json
+
+msgid "Employee Separation Template"
+msgstr ""
+
+
+#. Label of the employee_settings (Section Break) field in DocType 'HR
+
+#. Settings'
+
+#: hrms/hr/doctype/hr_settings/hr_settings.json
+
+msgid "Employee Settings"
+msgstr ""
+
+
+#. Name of a DocType
+
+#: hrms/hr/doctype/employee_skill/employee_skill.json
+
+msgid "Employee Skill"
+msgstr ""
+
+
+#. Name of a DocType
+
+#. Label of a Link in the Employee Lifecycle Workspace
+
+#: hrms/hr/doctype/employee_skill_map/employee_skill_map.json
+
+#: hrms/hr/workspace/employee_lifecycle/employee_lifecycle.json
+
+msgid "Employee Skill Map"
+msgstr ""
+
+
+#. Label of the employee_skills (Table) field in DocType 'Employee Skill Map'
+
+#: hrms/hr/doctype/employee_skill_map/employee_skill_map.json
+
+msgid "Employee Skills"
+msgstr ""
+
+
+#: hrms/hr/report/employee_exits/employee_exits.py:194
+
+#: hrms/hr/report/employee_leave_balance/employee_leave_balance.js:40
+
+#: hrms/hr/report/employee_leave_balance_summary/employee_leave_balance_summary.js:36
+
+#: hrms/hr/report/leave_ledger/leave_ledger.js:34
+
+#: hrms/payroll/report/income_tax_computation/income_tax_computation.js:41
+
+msgid "Employee Status"
+msgstr ""
+
+
+#. Name of a DocType
+
+#: hrms/payroll/doctype/employee_tax_exemption_category/employee_tax_exemption_category.json
+
+msgid "Employee Tax Exemption Category"
+msgstr ""
+
+
+#. Name of a DocType
+
+#. Label of a Link in the Tax & Benefits Workspace
+
+#. Label of a shortcut in the Tax & Benefits Workspace
+
+#: hrms/payroll/doctype/employee_tax_exemption_declaration/employee_tax_exemption_declaration.json
+
+#: hrms/payroll/workspace/tax_&_benefits/tax_&_benefits.json
+
+msgid "Employee Tax Exemption Declaration"
+msgstr ""
+
+
+#. Name of a DocType
+
+#. Label of a Link in the Tax & Benefits Workspace
+
+#: hrms/payroll/doctype/employee_tax_exemption_declaration_category/employee_tax_exemption_declaration_category.json
+
+#: hrms/payroll/workspace/tax_&_benefits/tax_&_benefits.json
+
+msgid "Employee Tax Exemption Declaration Category"
+msgstr ""
+
+
+#. Name of a DocType

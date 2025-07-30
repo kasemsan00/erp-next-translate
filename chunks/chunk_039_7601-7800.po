@@ -1,0 +1,513 @@
+msgid ""
+
+#: hrms/hr/doctype/leave_encashment/leave_encashment.py:273
+
+msgid "Row {0}# Paid Amount cannot be greater than Encashment amount"
+msgstr ""
+
+
+#: hrms/payroll/doctype/gratuity/gratuity.py:135
+
+msgid "Row {0}# Paid Amount cannot be greater than Total amount"
+msgstr ""
+
+
+#: hrms/hr/doctype/employee_advance/employee_advance.py:130
+
+msgid "Row {0}# Paid Amount cannot be greater than requested advance amount"
+msgstr "แถว {0}# จำนวนเงินที่จ่ายไม่สามารถมากกว่าจำนวนเงินล่วงหน้าที่ร้องขอได้"
+
+
+#: hrms/payroll/doctype/salary_structure_assignment/salary_structure_assignment.py:139
+
+msgid "Row {0}: Cost Center {1} does not belong to Company {2}"
+msgstr "แถว {0}: ศูนย์ต้นทุน {1} ไม่ได้เป็นของบริษัท {2}"
+
+
+#: hrms/payroll/doctype/gratuity_rule/gratuity_rule.py:15
+
+msgid "Row {0}: From (Year) can not be greater than To (Year)"
+msgstr ""
+
+
+#: hrms/hr/doctype/appraisal/appraisal.py:135
+
+msgid "Row {0}: Goal Score cannot be greater than 5"
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_slip/salary_slip_loan_utils.py:58
+
+msgid "Row {0}: Paid amount {1} is greater than pending accrued amount {2} against loan {3}"
+msgstr ""
+
+
+#: hrms/hr/doctype/full_and_final_statement/full_and_final_statement.py:61
+
+msgid "Row {0}: {1}"
+msgstr ""
+
+
+#: hrms/hr/doctype/expense_claim/expense_claim.py:285
+
+msgid "Row {0}: {1} is required in the expenses table to book an expense claim."
+msgstr ""
+
+
+#. Label of the gratuity_rules_section (Section Break) field in DocType
+
+#. 'Gratuity Rule'
+
+#: hrms/payroll/doctype/gratuity_rule/gratuity_rule.json
+
+msgid "Rules"
+msgstr ""
+
+
+#. Label of the salary_details_section (Section Break) field in DocType
+
+#. 'Additional Salary'
+
+#: frontend/src/components/BottomTabs.vue:63
+
+#: hrms/payroll/doctype/additional_salary/additional_salary.json
+
+msgid "Salary"
+msgstr "เงินเดือน"
+
+
+#. Label of the salary_component (Link) field in DocType 'Additional Salary'
+
+#. Label of the salary_component (Link) field in DocType 'Employee Incentive'
+
+#. Label of the salary_component (Link) field in DocType 'Gratuity'
+
+#. Label of the salary_component (Link) field in DocType 'Retention Bonus'
+
+#. Name of a DocType
+
+#. Label of the salary_component (Link) field in DocType 'Salary Structure'
+
+#. Label of a Link in the Salary Payout Workspace
+
+#: hrms/payroll/doctype/additional_salary/additional_salary.json
+
+#: hrms/payroll/doctype/employee_incentive/employee_incentive.json
+
+#: hrms/payroll/doctype/gratuity/gratuity.json
+
+#: hrms/payroll/doctype/retention_bonus/retention_bonus.json
+
+#: hrms/payroll/doctype/salary_component/salary_component.json
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.json
+
+#: hrms/payroll/workspace/salary_payout/salary_payout.json
+
+#: hrms/public/js/utils/payroll_utils.js:23
+
+msgid "Salary Component"
+msgstr ""
+
+
+#. Label of the salary_component (Link) field in DocType 'Gratuity Applicable
+
+#. Component'
+
+#: hrms/payroll/doctype/gratuity_applicable_component/gratuity_applicable_component.json
+
+msgid "Salary Component "
+msgstr ""
+
+
+#. Name of a DocType
+
+#: hrms/payroll/doctype/salary_component_account/salary_component_account.json
+
+msgid "Salary Component Account"
+msgstr ""
+
+
+#. Label of the type (Data) field in DocType 'Additional Salary'
+
+#: hrms/payroll/doctype/additional_salary/additional_salary.json
+
+msgid "Salary Component Type"
+msgstr ""
+
+
+#. Description of the 'Salary Component' (Link) field in DocType 'Salary
+
+#. Structure'
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.json
+
+msgid "Salary Component for timesheet based payroll."
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_component/salary_component.js:97
+
+msgid "Salary Component {0} is currently not used in any Salary Structure."
+msgstr ""
+
+
+#. Label of the salary_currency (Link) field in DocType 'Employee Promotion'
+
+#: hrms/hr/doctype/employee_promotion/employee_promotion.json
+
+msgid "Salary Currency"
+msgstr "สกุลเงินเงินเดือน"
+
+
+#. Name of a DocType
+
+#: hrms/payroll/doctype/salary_detail/salary_detail.json
+
+msgid "Salary Detail"
+msgstr ""
+
+
+#. Label of the salary_details_section (Section Break) field in DocType
+
+#. 'Employee Promotion'
+
+#: hrms/hr/doctype/employee_promotion/employee_promotion.json
+
+msgid "Salary Details"
+msgstr ""
+
+
+#. Label of the section_break_16 (Section Break) field in DocType 'Job
+
+#. Applicant'
+
+#: hrms/hr/doctype/job_applicant/job_applicant.json
+
+msgid "Salary Expectation"
+msgstr ""
+
+
+#: frontend/src/views/Profile.vue:200
+
+msgid "Salary Information"
+msgstr ""
+
+
+#. Label of the salary_per (Select) field in DocType 'Job Opening'
+
+#: hrms/hr/doctype/job_opening/job_opening.json
+
+msgid "Salary Paid Per"
+msgstr ""
+
+
+#. Name of a report
+
+#. Label of a Link in the Salary Payout Workspace
+
+#: hrms/payroll/report/salary_payments_based_on_payment_mode/salary_payments_based_on_payment_mode.json
+
+#: hrms/payroll/workspace/salary_payout/salary_payout.json
+
+msgid "Salary Payments Based On Payment Mode"
+msgstr ""
+
+
+#. Name of a report
+
+#. Label of a Link in the Salary Payout Workspace
+
+#: hrms/payroll/report/salary_payments_via_ecs/salary_payments_via_ecs.json
+
+#: hrms/payroll/workspace/salary_payout/salary_payout.json
+
+msgid "Salary Payments via ECS"
+msgstr ""
+
+
+#. Name of a Workspace
+
+#: hrms/payroll/workspace/salary_payout/salary_payout.json
+
+msgid "Salary Payout"
+msgstr ""
+
+
+#: hrms/templates/generators/job_opening.html:108
+
+msgid "Salary Range"
+msgstr ""
+
+
+#. Name of a report
+
+#. Label of a Link in the Salary Payout Workspace
+
+#. Label of a shortcut in the Salary Payout Workspace
+
+#: hrms/payroll/report/salary_register/salary_register.json
+
+#: hrms/payroll/workspace/salary_payout/salary_payout.json
+
+msgid "Salary Register"
+msgstr ""
+
+
+#. Label of the salary_slip (Link) field in DocType 'Leave Application'
+
+#. Label of the salary_slip (Link) field in DocType 'Employee Benefit Claim'
+
+#. Label of the column_break_rnoq (Section Break) field in DocType 'Payroll
+
+#. Settings'
+
+#. Name of a DocType
+
+#. Label of a Link in the Salary Payout Workspace
+
+#. Label of a shortcut in the Salary Payout Workspace
+
+#: hrms/hr/doctype/leave_application/leave_application.json
+
+#: hrms/payroll/doctype/employee_benefit_claim/employee_benefit_claim.json
+
+#: hrms/payroll/doctype/payroll_settings/payroll_settings.json
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+#: hrms/payroll/workspace/salary_payout/salary_payout.json hrms/setup.py:302
+
+msgid "Salary Slip"
+msgstr ""
+
+
+#. Label of the salary_slip_based_on_timesheet (Check) field in DocType
+
+#. 'Payroll Entry'
+
+#. Label of the salary_slip_based_on_timesheet (Check) field in DocType 'Salary
+
+#. Slip'
+
+#. Label of the salary_slip_based_on_timesheet (Check) field in DocType 'Salary
+
+#. Structure'
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.json
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.json
+
+msgid "Salary Slip Based on Timesheet"
+msgstr ""
+
+
+#: hrms/payroll/report/salary_register/salary_register.py:108
+
+msgid "Salary Slip ID"
+msgstr ""
+
+
+#. Name of a DocType
+
+#: hrms/payroll/doctype/salary_slip_leave/salary_slip_leave.json
+
+msgid "Salary Slip Leave"
+msgstr ""
+
+
+#. Name of a DocType
+
+#: hrms/payroll/doctype/salary_slip_loan/salary_slip_loan.json
+
+msgid "Salary Slip Loan"
+msgstr ""
+
+
+#. Label of the timesheets (Table) field in DocType 'Salary Slip'
+
+#. Name of a DocType
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+#: hrms/payroll/doctype/salary_slip_timesheet/salary_slip_timesheet.json
+
+msgid "Salary Slip Timesheet"
+msgstr ""
+
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.py:87
+
+msgid "Salary Slip already exists for {0} for the given dates"
+msgstr ""
+
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.py:251
+
+msgid "Salary Slip creation is queued. It may take a few minutes"
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.py:307
+
+msgid "Salary Slip of employee {0} already created for this period"
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.py:313
+
+msgid "Salary Slip of employee {0} already created for time sheet {1}"
+msgstr ""
+
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.py:296
+
+msgid "Salary Slip submission is queued. It may take a few minutes"
+msgstr ""
+
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.py:1414
+
+msgid "Salary Slip {0} failed for Payroll Entry {1}"
+msgstr ""
+
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.js:95
+
+msgid "Salary Slip {0} failed. You can resolve the {1} and retry {0}."
+msgstr ""
+
+
+#: frontend/src/views/salary_slip/Dashboard.vue:2
+
+msgid "Salary Slips"
+msgstr ""
+
+
+#. Label of the salary_slips_created (Check) field in DocType 'Payroll Entry'
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.json
+
+msgid "Salary Slips Created"
+msgstr ""
+
+
+#. Label of the salary_slips_submitted (Check) field in DocType 'Payroll Entry'
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.json
+
+msgid "Salary Slips Submitted"
+msgstr ""
+
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.py:1456
+
+msgid "Salary Slips already exist for employees {}, and will not be processed by this payroll."
+msgstr ""
+
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.py:1481
+
+msgid "Salary Slips submitted for period from {0} to {1}"
+msgstr ""
+
+
+#. Label of the salary_structure (Link) field in DocType 'Bulk Salary Structure
+
+#. Assignment'
+
+#. Label of the salary_structure (Link) field in DocType 'Salary Slip'
+
+#. Name of a DocType
+
+#. Label of the salary_structure (Link) field in DocType 'Salary Structure
+
+#. Assignment'
+
+#. Label of a Link in the Salary Payout Workspace
+
+#: hrms/payroll/doctype/bulk_salary_structure_assignment/bulk_salary_structure_assignment.json
+
+#: hrms/payroll/doctype/salary_component/salary_component.js:31
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.json
+
+#: hrms/payroll/doctype/salary_structure_assignment/salary_structure_assignment.json
+
+#: hrms/payroll/workspace/salary_payout/salary_payout.json
+
+msgid "Salary Structure"
+msgstr ""
+
+
+#. Name of a DocType
+
+#. Label of a Link in the Salary Payout Workspace
+
+#: hrms/payroll/doctype/income_tax_slab/income_tax_slab.js:8
+
+#: hrms/payroll/doctype/salary_structure_assignment/salary_structure_assignment.json
+
+#: hrms/payroll/workspace/salary_payout/salary_payout.json
+
+msgid "Salary Structure Assignment"
+msgstr ""
+
+
+#: hrms/public/js/utils/payroll_utils.js:31
+
+msgid "Salary Structure Assignment field"
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_structure_assignment/salary_structure_assignment.py:44
+
+msgid "Salary Structure Assignment for Employee already exists"
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.py:409
+
+msgid "Salary Structure Missing"
+msgstr ""
+
+
+#: hrms/regional/india/utils.py:29
+
+msgid "Salary Structure must be submitted before submission of {0}"
+msgstr ""
+
+
+#: hrms/payroll/doctype/employee_benefit_application/employee_benefit_application.py:350
+
+msgid "Salary Structure not found for employee {0} and date {1}"
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.py:176
+
+msgid "Salary Structure should have flexible benefit component(s) to dispense benefit amount"
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_structure_assignment/salary_structure_assignment.py:68
+
+msgid "Salary Structure {0} does not belong to company {1}"
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_component/salary_component.js:134
+
+msgid "Salary Structures updated successfully"
+msgstr ""
+
+
+#. Label of the salary_withholding (Link) field in DocType 'Salary Slip'
+
+#. Name of a DocType
+
+#. Label of a Link in the Salary Payout Workspace

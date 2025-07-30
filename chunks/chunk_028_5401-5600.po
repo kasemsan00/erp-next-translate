@@ -1,0 +1,483 @@
+msgid ""
+
+#: hrms/payroll/doctype/payroll_settings/payroll_settings.json
+
+msgid "Leave"
+msgstr ""
+
+
+#. Label of the leave_allocation (Link) field in DocType 'Compensatory Leave
+
+#. Request'
+
+#. Name of a DocType
+
+#. Label of the leave_allocation (Link) field in DocType 'Leave Encashment'
+
+#. Label of a Link in the Leaves Workspace
+
+#. Label of a shortcut in the Leaves Workspace
+
+#: hrms/hr/doctype/compensatory_leave_request/compensatory_leave_request.json
+
+#: hrms/hr/doctype/leave_allocation/leave_allocation.json
+
+#: hrms/hr/doctype/leave_encashment/leave_encashment.json
+
+#: hrms/hr/workspace/leaves/leaves.json
+
+msgid "Leave Allocation"
+msgstr ""
+
+
+#. Label of the leave_allocations_section (Section Break) field in DocType
+
+#. 'Leave Policy'
+
+#: hrms/hr/doctype/leave_policy/leave_policy.json
+
+msgid "Leave Allocations"
+msgstr ""
+
+
+#. Label of the leave_application (Link) field in DocType 'Attendance'
+
+#. Name of a DocType
+
+#. Label of a Link in the Leaves Workspace
+
+#. Label of a shortcut in the Leaves Workspace
+
+#. Label of a Link in the Overview Workspace
+
+#: hrms/hr/doctype/attendance/attendance.json
+
+#: hrms/hr/doctype/leave_application/leave_application.json
+
+#: hrms/hr/workspace/leaves/leaves.json
+
+#: hrms/hr/workspace/overview/overview.json
+
+msgid "Leave Application"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_application/leave_application.py:754
+
+msgid "Leave Application period cannot be across two non-consecutive leave allocations {0} and {1}."
+msgstr ""
+
+
+#: hrms/setup.py:425 hrms/setup.py:427 hrms/setup.py:487
+
+msgid "Leave Approval Notification"
+msgstr ""
+
+
+#. Label of the leave_approval_notification_template (Link) field in DocType
+
+#. 'HR Settings'
+
+#: hrms/hr/doctype/hr_settings/hr_settings.json
+
+msgid "Leave Approval Notification Template"
+msgstr ""
+
+
+#. Label of the leave_approver (Link) field in DocType 'Leave Application'
+
+#. Name of a role
+
+#: hrms/hr/doctype/leave_application/leave_application.json hrms/setup.py:146
+
+#: hrms/setup.py:248
+
+msgid "Leave Approver"
+msgstr ""
+
+
+#. Label of the leave_approver_mandatory_in_leave_application (Check) field in
+
+#. DocType 'HR Settings'
+
+#: hrms/hr/doctype/hr_settings/hr_settings.json
+
+msgid "Leave Approver Mandatory In Leave Application"
+msgstr ""
+
+
+#. Label of the leave_approver_name (Data) field in DocType 'Leave Application'
+
+#: hrms/hr/doctype/leave_application/leave_application.json
+
+msgid "Leave Approver Name"
+msgstr ""
+
+
+#. Label of the leave_balance (Float) field in DocType 'Leave Encashment'
+
+#: frontend/src/components/LeaveBalance.vue:4
+
+#: hrms/hr/doctype/leave_encashment/leave_encashment.json
+
+msgid "Leave Balance"
+msgstr ""
+
+
+#. Label of the leave_balance (Float) field in DocType 'Leave Application'
+
+#: hrms/hr/doctype/leave_application/leave_application.json
+
+msgid "Leave Balance Before Application"
+msgstr ""
+
+
+#. Name of a DocType
+
+#. Label of a Link in the Leaves Workspace
+
+#: hrms/hr/doctype/leave_block_list/leave_block_list.json
+
+#: hrms/hr/workspace/leaves/leaves.json hrms/setup.py:125
+
+msgid "Leave Block List"
+msgstr ""
+
+
+#. Name of a DocType
+
+#: hrms/hr/doctype/leave_block_list_allow/leave_block_list_allow.json
+
+msgid "Leave Block List Allow"
+msgstr ""
+
+
+#. Label of the leave_block_list_allowed (Table) field in DocType 'Leave Block
+
+#. List'
+
+#: hrms/hr/doctype/leave_block_list/leave_block_list.json
+
+msgid "Leave Block List Allowed"
+msgstr ""
+
+
+#. Name of a DocType
+
+#: hrms/hr/doctype/leave_block_list_date/leave_block_list_date.json
+
+msgid "Leave Block List Date"
+msgstr ""
+
+
+#. Label of the leave_block_list_dates (Table) field in DocType 'Leave Block
+
+#. List'
+
+#: hrms/hr/doctype/leave_block_list/leave_block_list.json
+
+msgid "Leave Block List Dates"
+msgstr ""
+
+
+#. Label of the leave_block_list_name (Data) field in DocType 'Leave Block
+
+#. List'
+
+#: hrms/hr/doctype/leave_block_list/leave_block_list.json
+
+msgid "Leave Block List Name"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_application/leave_application.py:1324
+
+msgid "Leave Blocked"
+msgstr ""
+
+
+#. Name of a DocType
+
+#. Label of a Link in the Leaves Workspace
+
+#: hrms/hr/doctype/leave_control_panel/leave_control_panel.json
+
+#: hrms/hr/workspace/leaves/leaves.json
+
+msgid "Leave Control Panel"
+msgstr ""
+
+
+#. Label of the leave_details (Table) field in DocType 'Salary Slip'
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+msgid "Leave Details"
+msgstr ""
+
+
+#. Name of a DocType
+
+#. Label of a Link in the Leaves Workspace
+
+#: hrms/hr/doctype/leave_encashment/leave_encashment.json
+
+#: hrms/hr/workspace/leaves/leaves.json
+
+msgid "Leave Encashment"
+msgstr ""
+
+
+#. Label of the leave_encashment_amount_per_day (Currency) field in DocType
+
+#. 'Salary Structure'
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.json
+
+msgid "Leave Encashment Amount Per Day"
+msgstr ""
+
+
+#: frontend/src/views/leave/List.vue:5
+
+msgid "Leave History"
+msgstr ""
+
+
+#. Name of a report
+
+#: hrms/hr/report/leave_ledger/leave_ledger.json
+
+msgid "Leave Ledger"
+msgstr ""
+
+
+#. Name of a DocType
+
+#: hrms/hr/doctype/leave_ledger_entry/leave_ledger_entry.json
+
+#: hrms/hr/report/leave_ledger/leave_ledger.py:21
+
+msgid "Leave Ledger Entry"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_ledger_entry/leave_ledger_entry.py:18
+
+msgid "Leave Ledger Entry's To date needs to be after From date. Currently, From Date is {0} and To Date is {1}"
+msgstr ""
+
+
+#. Label of the leave_period (Link) field in DocType 'Leave Allocation'
+
+#. Option for the 'Dates Based On' (Select) field in DocType 'Leave Control
+
+#. Panel'
+
+#. Label of the leave_period (Link) field in DocType 'Leave Control Panel'
+
+#. Label of the leave_period (Link) field in DocType 'Leave Encashment'
+
+#. Name of a DocType
+
+#. Option for the 'Assignment based on' (Select) field in DocType 'Leave Policy
+
+#. Assignment'
+
+#. Label of the leave_period (Link) field in DocType 'Leave Policy Assignment'
+
+#. Label of a Link in the Leaves Workspace
+
+#: hrms/hr/doctype/leave_allocation/leave_allocation.json
+
+#: hrms/hr/doctype/leave_control_panel/leave_control_panel.json
+
+#: hrms/hr/doctype/leave_encashment/leave_encashment.json
+
+#: hrms/hr/doctype/leave_period/leave_period.json
+
+#: hrms/hr/doctype/leave_policy_assignment/leave_policy_assignment.json
+
+#: hrms/hr/workspace/leaves/leaves.json
+
+msgid "Leave Period"
+msgstr ""
+
+
+#. Label of the leave_policy (Link) field in DocType 'Leave Allocation'
+
+#. Label of the leave_policy (Link) field in DocType 'Leave Control Panel'
+
+#. Name of a DocType
+
+#. Label of the leave_policy (Link) field in DocType 'Leave Policy Assignment'
+
+#. Label of a Link in the Leaves Workspace
+
+#: hrms/hr/doctype/leave_allocation/leave_allocation.json
+
+#: hrms/hr/doctype/leave_control_panel/leave_control_panel.json
+
+#: hrms/hr/doctype/leave_policy/leave_policy.json
+
+#: hrms/hr/doctype/leave_policy_assignment/leave_policy_assignment.json
+
+#: hrms/hr/workspace/leaves/leaves.json
+
+msgid "Leave Policy"
+msgstr ""
+
+
+#. Label of the leave_policy_assignment (Link) field in DocType 'Leave
+
+#. Allocation'
+
+#. Name of a DocType
+
+#. Label of a Link in the Leaves Workspace
+
+#: hrms/hr/doctype/leave_allocation/leave_allocation.json
+
+#: hrms/hr/doctype/leave_policy_assignment/leave_policy_assignment.json
+
+#: hrms/hr/workspace/leaves/leaves.json
+
+msgid "Leave Policy Assignment"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_policy_assignment/leave_policy_assignment.py:65
+
+msgid "Leave Policy Assignment Overlap"
+msgstr ""
+
+
+#. Name of a DocType
+
+#: hrms/hr/doctype/leave_policy_detail/leave_policy_detail.json
+
+msgid "Leave Policy Detail"
+msgstr ""
+
+
+#. Label of the leave_policy_details (Table) field in DocType 'Leave Policy'
+
+#: hrms/hr/doctype/leave_policy/leave_policy.json
+
+msgid "Leave Policy Details"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_policy_assignment/leave_policy_assignment.py:59
+
+msgid "Leave Policy: {0} already assigned for Employee {1} for period {2} to {3}"
+msgstr ""
+
+
+#: hrms/setup.py:434 hrms/setup.py:436 hrms/setup.py:488
+
+msgid "Leave Status Notification"
+msgstr ""
+
+
+#. Label of the leave_status_notification_template (Link) field in DocType 'HR
+
+#. Settings'
+
+#: hrms/hr/doctype/hr_settings/hr_settings.json
+
+msgid "Leave Status Notification Template"
+msgstr ""
+
+
+#. Label of the leave_type (Link) field in DocType 'Attendance'
+
+#. Label of the leave_type (Link) field in DocType 'Compensatory Leave Request'
+
+#. Label of the leave_type (Link) field in DocType 'Leave Allocation'
+
+#. Label of the leave_type (Link) field in DocType 'Leave Application'
+
+#. Label of the leave_type (Link) field in DocType 'Leave Block List'
+
+#. Label of the leave_type (Link) field in DocType 'Leave Control Panel'
+
+#. Label of the leave_type (Link) field in DocType 'Leave Encashment'
+
+#. Label of the leave_type (Link) field in DocType 'Leave Ledger Entry'
+
+#. Label of the leave_type (Link) field in DocType 'Leave Policy Detail'
+
+#. Name of a DocType
+
+#. Label of a Link in the Leaves Workspace
+
+#. Label of the leave_type (Link) field in DocType 'Salary Slip Leave'
+
+#: frontend/src/views/leave/List.vue:41
+
+#: hrms/hr/doctype/attendance/attendance.json
+
+#: hrms/hr/doctype/compensatory_leave_request/compensatory_leave_request.json
+
+#: hrms/hr/doctype/employee_attendance_tool/employee_attendance_tool.js:177
+
+#: hrms/hr/doctype/leave_allocation/leave_allocation.json
+
+#: hrms/hr/doctype/leave_application/leave_application.json
+
+#: hrms/hr/doctype/leave_application/leave_application_dashboard.html:6
+
+#: hrms/hr/doctype/leave_block_list/leave_block_list.json
+
+#: hrms/hr/doctype/leave_control_panel/leave_control_panel.json
+
+#: hrms/hr/doctype/leave_encashment/leave_encashment.json
+
+#: hrms/hr/doctype/leave_ledger_entry/leave_ledger_entry.json
+
+#: hrms/hr/doctype/leave_policy_detail/leave_policy_detail.json
+
+#: hrms/hr/doctype/leave_type/leave_type.json
+
+#: hrms/hr/report/employee_leave_balance/employee_leave_balance.py:33
+
+#: hrms/hr/report/leave_ledger/leave_ledger.js:22
+
+#: hrms/hr/report/leave_ledger/leave_ledger.py:65
+
+#: hrms/hr/workspace/leaves/leaves.json
+
+#: hrms/payroll/doctype/salary_slip_leave/salary_slip_leave.json
+
+msgid "Leave Type"
+msgstr ""
+
+
+#. Label of the leave_type_name (Data) field in DocType 'Leave Type'
+
+#: hrms/hr/doctype/leave_type/leave_type.json
+
+msgid "Leave Type Name"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_type/leave_type.py:33
+
+msgid "Leave Type can either be compensatory or earned leave."
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_type/leave_type.py:45
+
+msgid "Leave Type can either be without pay or partial pay"
+msgstr ""
+
+
+#: hrms/hr/doctype/compensatory_leave_request/compensatory_leave_request.py:34
+
+msgid "Leave Type is mandatory"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_allocation/leave_allocation.py:185

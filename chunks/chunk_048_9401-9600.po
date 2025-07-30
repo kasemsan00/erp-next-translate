@@ -1,0 +1,511 @@
+msgid ""
+
+msgid "Update Expense"
+msgstr ""
+
+
+#: hrms/hr/doctype/interview/interview.py:71
+
+msgid "Update Job Applicant"
+msgstr ""
+
+
+#: hrms/hr/doctype/goal/goal_tree.js:232 hrms/hr/doctype/goal/goal_tree.js:238
+
+msgid "Update Progress"
+msgstr ""
+
+
+#: hrms/templates/emails/training_event.html:11
+
+msgid "Update Response"
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_component/salary_component.js:104
+
+msgid "Update Salary Structures"
+msgstr ""
+
+
+#: hrms/hr/doctype/goal/goal_list.js:35
+
+msgid "Update Status"
+msgstr ""
+
+
+#: frontend/src/components/ExpenseTaxesTable.vue:118
+
+msgid "Update Tax"
+msgstr ""
+
+
+#: hrms/hr/doctype/attendance_request/attendance_request.py:108
+
+msgid "Updated status from {0} to {1} for date {2} in the attendance record {3}"
+msgstr ""
+
+
+#: hrms/hr/doctype/interview/interview.py:198
+
+msgid "Updated the Job Applicant status to {0}"
+msgstr ""
+
+
+#: hrms/overrides/employee_master.py:77
+
+msgid "Updated the status of Job Offer {0} for the linked Job Applicant {1} to {2}"
+msgstr ""
+
+
+#: hrms/overrides/employee_master.py:63
+
+msgid "Updated the status of linked Job Applicant {0} to {1}"
+msgstr ""
+
+
+#. Name of a DocType
+
+#. Label of a Link in the Shift & Attendance Workspace
+
+#: hrms/hr/doctype/upload_attendance/upload_attendance.json
+
+#: hrms/hr/workspace/shift_&_attendance/shift_&_attendance.json
+
+msgid "Upload Attendance"
+msgstr ""
+
+
+#. Label of the upload_html (HTML) field in DocType 'Upload Attendance'
+
+#: hrms/hr/doctype/upload_attendance/upload_attendance.json
+
+msgid "Upload HTML"
+msgstr ""
+
+
+#: frontend/src/components/FileUploaderView.vue:11
+
+msgid "Upload images or documents"
+msgstr ""
+
+
+#: frontend/src/components/FormView.vue:119
+
+#: frontend/src/components/FormView.vue:158
+
+msgid "Uploading..."
+msgstr ""
+
+
+#. Label of the upper_range (Currency) field in DocType 'Job Applicant'
+
+#. Label of the upper_range (Currency) field in DocType 'Job Opening'
+
+#: hrms/hr/doctype/job_applicant/job_applicant.json
+
+#: hrms/hr/doctype/job_opening/job_opening.json
+
+msgid "Upper Range"
+msgstr ""
+
+
+#. Label of the used_leaves (Float) field in DocType 'Salary Slip Leave'
+
+#: hrms/payroll/doctype/salary_slip_leave/salary_slip_leave.json
+
+msgid "Used Leave(s)"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_application/leave_application_dashboard.html:9
+
+msgid "Used Leaves"
+msgstr ""
+
+
+#. Label of the user (Link) field in DocType 'Daily Work Summary Group User'
+
+#. Label of the user (Link) field in DocType 'Employee Boarding Activity'
+
+#. Label of the user (Link) field in DocType 'Employee Performance Feedback'
+
+#. Label of the user (Data) field in DocType 'Goal'
+
+#. Label of the user (Link) field in DocType 'Interviewer'
+
+#: hrms/hr/doctype/daily_work_summary_group_user/daily_work_summary_group_user.json
+
+#: hrms/hr/doctype/employee_boarding_activity/employee_boarding_activity.json
+
+#: hrms/hr/doctype/employee_performance_feedback/employee_performance_feedback.json
+
+#: hrms/hr/doctype/goal/goal.json hrms/hr/doctype/interviewer/interviewer.json
+
+#: hrms/hr/report/daily_work_summary_replies/daily_work_summary_replies.py:20
+
+msgid "User"
+msgstr "ผู้ใช้"
+
+
+#. Label of the users (Table) field in DocType 'Daily Work Summary Group'
+
+#: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
+
+msgid "Users"
+msgstr "ผู้ใช้"
+
+
+#: hrms/hr/report/project_profitability/project_profitability.py:188
+
+msgid "Utilization"
+msgstr "การใช้งาน"
+
+
+#. Label of the vacancies (Int) field in DocType 'Job Opening'
+
+#. Label of the vacancies (Int) field in DocType 'Staffing Plan Detail'
+
+#: hrms/hr/doctype/job_opening/job_opening.json
+
+#: hrms/hr/doctype/staffing_plan_detail/staffing_plan_detail.json
+
+msgid "Vacancies"
+msgstr ""
+
+
+#: hrms/hr/doctype/staffing_plan/staffing_plan.js:81
+
+msgid "Vacancies cannot be lower than the current openings"
+msgstr ""
+
+
+#: hrms/hr/doctype/job_opening/job_opening.py:88
+
+msgid "Vacancies fulfilled"
+msgstr ""
+
+
+#. Label of the validate_attendance (Check) field in DocType 'Payroll Entry'
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.json
+
+msgid "Validate Attendance"
+msgstr ""
+
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.js:383
+
+msgid "Validating Employee Attendance..."
+msgstr ""
+
+
+#. Label of the value (Small Text) field in DocType 'Job Offer Term'
+
+#: hrms/hr/doctype/job_offer_term/job_offer_term.json
+
+msgid "Value / Description"
+msgstr ""
+
+
+#: hrms/hr/employee_property_update.js:196
+
+msgid "Value missing"
+msgstr ""
+
+
+#. Label of the variable (Currency) field in DocType 'Salary Structure
+
+#. Assignment'
+
+#: hrms/payroll/doctype/bulk_salary_structure_assignment/bulk_salary_structure_assignment.js:185
+
+#: hrms/payroll/doctype/salary_structure_assignment/salary_structure_assignment.json
+
+msgid "Variable"
+msgstr ""
+
+
+#. Label of the variable_based_on_taxable_salary (Check) field in DocType
+
+#. 'Salary Component'
+
+#. Label of the variable_based_on_taxable_salary (Check) field in DocType
+
+#. 'Salary Detail'
+
+#: hrms/payroll/doctype/additional_salary/additional_salary.py:176
+
+#: hrms/payroll/doctype/salary_component/salary_component.json
+
+#: hrms/payroll/doctype/salary_detail/salary_detail.json
+
+msgid "Variable Based On Taxable Salary"
+msgstr ""
+
+
+#. Option for the 'Meal Preference' (Select) field in DocType 'Travel
+
+#. Itinerary'
+
+#: hrms/hr/doctype/travel_itinerary/travel_itinerary.json
+
+msgid "Vegetarian"
+msgstr ""
+
+
+#. Label of a Link in the Expense Claims Workspace
+
+#: hrms/hr/report/vehicle_expenses/vehicle_expenses.js:51
+
+#: hrms/hr/report/vehicle_expenses/vehicle_expenses.py:27
+
+#: hrms/hr/workspace/expense_claims/expense_claims.json
+
+msgid "Vehicle"
+msgstr "ยานพาหนะ"
+
+
+#. Name of a report
+
+#. Label of a Link in the Expense Claims Workspace
+
+#: hrms/hr/doctype/vehicle_log/vehicle_log.py:51
+
+#: hrms/hr/report/vehicle_expenses/vehicle_expenses.json
+
+#: hrms/hr/workspace/expense_claims/expense_claims.json
+
+msgid "Vehicle Expenses"
+msgstr ""
+
+
+#. Label of the vehicle_log (Link) field in DocType 'Expense Claim'
+
+#. Name of a DocType
+
+#. Label of a Link in the Expense Claims Workspace
+
+#: hrms/hr/doctype/expense_claim/expense_claim.json
+
+#: hrms/hr/doctype/vehicle_log/vehicle_log.json
+
+#: hrms/hr/report/vehicle_expenses/vehicle_expenses.py:37
+
+#: hrms/hr/workspace/expense_claims/expense_claims.json
+
+msgid "Vehicle Log"
+msgstr ""
+
+
+#. Name of a DocType
+
+#: hrms/hr/doctype/vehicle_service/vehicle_service.json
+
+msgid "Vehicle Service"
+msgstr ""
+
+
+#. Name of a DocType
+
+#. Label of a Link in the Expense Claims Workspace
+
+#: hrms/hr/doctype/vehicle_service_item/vehicle_service_item.json
+
+#: hrms/hr/workspace/expense_claims/expense_claims.json
+
+msgid "Vehicle Service Item"
+msgstr ""
+
+
+#: frontend/src/views/Login.vue:98
+
+msgid "Verify"
+msgstr "ตรวจสอบ"
+
+
+#: hrms/hr/doctype/employee_onboarding/employee_onboarding.js:31
+
+#: hrms/hr/doctype/employee_onboarding/employee_onboarding.js:40
+
+#: hrms/hr/doctype/employee_onboarding/employee_onboarding.js:47
+
+#: hrms/hr/doctype/employee_separation/employee_separation.js:19
+
+#: hrms/hr/doctype/employee_separation/employee_separation.js:28
+
+#: hrms/hr/doctype/employee_separation/employee_separation.js:35
+
+#: hrms/hr/doctype/expense_claim/expense_claim.js:133
+
+#: hrms/hr/doctype/expense_claim/expense_claim.js:164
+
+#: hrms/hr/doctype/job_applicant/job_applicant.js:42
+
+msgid "View"
+msgstr "ดู"
+
+
+#: frontend/src/components/Holidays.vue:10
+
+msgid "View All"
+msgstr "ดูทั้งหมด"
+
+
+#: hrms/hr/doctype/appraisal/appraisal.js:56
+
+#: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.js:22
+
+msgid "View Goals"
+msgstr ""
+
+
+#: frontend/src/components/LeaveBalance.vue:14
+
+msgid "View Leave History"
+msgstr ""
+
+
+#: hrms/public/js/utils/leave_utils.js:5
+
+msgid "View Ledger"
+msgstr "ดูบัญชีแยกประเภท"
+
+
+#: frontend/src/components/RequestList.vue:27
+
+#: frontend/src/views/expense_claim/Dashboard.vue:41
+
+msgid "View List"
+msgstr "ดูรายการ"
+
+
+#: frontend/src/views/Home.vue:57
+
+msgid "View Salary Slips"
+msgstr ""
+
+
+#. Option for the 'Roster Color' (Select) field in DocType 'Shift Type'
+
+#: hrms/hr/doctype/shift_type/shift_type.json
+
+msgid "Violet"
+msgstr ""
+
+
+#: hrms/patches/v15_0/notify_about_loan_app_separation.py:16
+
+msgid "WARNING: Loan Management module has been separated from ERPNext."
+msgstr ""
+
+
+#: hrms/setup.py:392
+
+msgid "Walk In"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_application/leave_application.py:427
+
+#: hrms/payroll/doctype/additional_salary/additional_salary.py:170
+
+#: hrms/payroll/doctype/salary_component/salary_component.py:56
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.js:321
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.py:52
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.py:132
+
+msgid "Warning"
+msgstr "คำเตือน"
+
+
+#: hrms/hr/doctype/leave_application/leave_application.py:415
+
+msgid "Warning: Insufficient leave balance for Leave Type {0} in this allocation."
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_application/leave_application.py:423
+
+msgid "Warning: Insufficient leave balance for Leave Type {0}."
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_application/leave_application.py:361
+
+msgid "Warning: Leave application contains following block dates"
+msgstr ""
+
+
+#: hrms/hr/doctype/shift_assignment/shift_assignment.py:91
+
+msgid "Warning: {0} already has an active Shift Assignment {1} for some/all of these dates."
+msgstr ""
+
+
+#: hrms/setup.py:391
+
+msgid "Website Listing"
+msgstr ""
+
+
+#: frontend/src/components/AttendanceCalendar.vue:115
+
+#: hrms/hr/doctype/leave_block_list/leave_block_list.js:47
+
+msgid "Wednesday"
+msgstr "วันพุธ"
+
+
+#. Option for the 'Set the frequency for holiday reminders' (Select) field in
+
+#. DocType 'HR Settings'
+
+#. Option for the 'Payroll Frequency' (Select) field in DocType 'Payroll Entry'
+
+#. Option for the 'Payroll Frequency' (Select) field in DocType 'Salary Slip'
+
+#. Option for the 'Payroll Frequency' (Select) field in DocType 'Salary
+
+#. Structure'
+
+#. Option for the 'Payroll Frequency' (Select) field in DocType 'Salary
+
+#. Withholding'
+
+#: hrms/hr/doctype/hr_settings/hr_settings.json
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.json
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.json
+
+#: hrms/payroll/doctype/salary_withholding/salary_withholding.json
+
+msgid "Weekly"
+msgstr "รายสัปดาห์"
+
+
+#. Label of the per_weightage (Float) field in DocType 'Appraisal Goal'
+
+#. Label of the per_weightage (Percent) field in DocType 'Appraisal KRA'
+
+#. Label of the per_weightage (Percent) field in DocType 'Appraisal Template
+
+#. Goal'
+
+#. Label of the per_weightage (Percent) field in DocType 'Employee Feedback
+
+#. Rating'
+
+#: hrms/hr/doctype/appraisal_goal/appraisal_goal.json
+
+#: hrms/hr/doctype/appraisal_kra/appraisal_kra.json
+
+#: hrms/hr/doctype/appraisal_template_goal/appraisal_template_goal.json
+
+#: hrms/hr/doctype/employee_feedback_rating/employee_feedback_rating.json

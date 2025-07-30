@@ -1,0 +1,517 @@
+msgid ""
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.py:201
+
+msgid "End date: {0}"
+msgstr ""
+
+
+#: hrms/hr/doctype/training_event/training_event.py:26
+
+msgid "End time cannot be before start time"
+msgstr ""
+
+
+#. Label of a Link in the Performance Workspace
+
+#: hrms/hr/workspace/performance/performance.json
+
+msgid "Energy Point Log"
+msgstr ""
+
+
+#. Label of a Link in the Performance Workspace
+
+#: hrms/hr/workspace/performance/performance.json
+
+msgid "Energy Point Rule"
+msgstr ""
+
+
+#. Label of a Link in the Performance Workspace
+
+#: hrms/hr/workspace/performance/performance.json
+
+msgid "Energy Point Settings"
+msgstr ""
+
+
+#. Label of a Card Break in the Performance Workspace
+
+#: hrms/hr/workspace/performance/performance.json
+
+msgid "Energy Points"
+msgstr ""
+
+
+#: hrms/hr/doctype/hr_settings/hr_settings.js:34
+
+msgid "Enter the Standard Working Hours for a normal work day. These hours will be used in calculations of reports such as Employee Hours Utilization and Project Profitability analysis."
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_allocation/leave_allocation.js:222
+
+msgid "Enter the number of leaves you want to allocate for the period."
+msgstr ""
+
+
+#: frontend/src/components/FormField.vue:42
+
+msgid "Enter {0}"
+msgstr ""
+
+
+#: frontend/src/components/CheckInPanel.vue:185
+
+#: frontend/src/components/FormView.vue:530
+
+#: frontend/src/components/FormView.vue:557
+
+#: frontend/src/components/FormView.vue:579
+
+#: frontend/src/components/RequestActionSheet.vue:318
+
+#: frontend/src/views/AppSettings.vue:104
+
+#: frontend/src/views/AppSettings.vue:127
+
+#: frontend/src/views/AppSettings.vue:138 hrms/hr/doctype/goal/goal_list.js:100
+
+#: hrms/hr/doctype/goal/goal_list.js:108 hrms/overrides/company.py:37
+
+#: hrms/overrides/company.py:50
+
+#: hrms/payroll/doctype/additional_salary/additional_salary.py:276
+
+#: hrms/payroll/doctype/salary_withholding/salary_withholding.py:119
+
+msgid "Error"
+msgstr "ข้อผิดพลาด"
+
+
+#: hrms/hr/doctype/leave_policy_assignment/leave_policy_assignment.py:337
+
+#: hrms/hr/utils.py:857
+
+msgid "Error Log"
+msgstr "บันทึกข้อผิดพลาด"
+
+
+#. Label of the error_message (Small Text) field in DocType 'Payroll Entry'
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.json
+
+msgid "Error Message"
+msgstr "ข้อความข้อผิดพลาด"
+
+
+#: frontend/src/components/FormView.vue:531
+
+msgid "Error creating {0}"
+msgstr ""
+
+
+#: frontend/src/components/FormView.vue:580
+
+msgid "Error deleting {0}"
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.py:1275
+
+msgid "Error in formula or condition"
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.py:2256
+
+msgid "Error in formula or condition: {0} in Income Tax Slab"
+msgstr ""
+
+
+#: hrms/hr/doctype/upload_attendance/upload_attendance.js:57
+
+msgid "Error in some rows"
+msgstr ""
+
+
+#: frontend/src/components/FormView.vue:558
+
+msgid "Error updating {0}"
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.py:2335
+
+msgid "Error while evaluating the {doctype} {doclink} at row {row_id}. <br><br> <b>Error:</b> {error} <br><br> <b>Hint:</b> {description}"
+msgstr ""
+
+
+#. Label of the estimated_cost_per_position (Currency) field in DocType
+
+#. 'Staffing Plan Detail'
+
+#: hrms/hr/doctype/staffing_plan_detail/staffing_plan_detail.json
+
+msgid "Estimated Cost Per Position"
+msgstr ""
+
+
+#: hrms/overrides/dashboard_overrides.py:52
+
+msgid "Evaluation"
+msgstr ""
+
+
+#. Label of the evaluation_date (Date) field in DocType 'Employee Skill'
+
+#: hrms/hr/doctype/employee_skill/employee_skill.json
+
+msgid "Evaluation Date"
+msgstr ""
+
+
+#: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.py:25
+
+msgid "Evaluation Method cannot be changed as there are existing appraisals created for this cycle"
+msgstr ""
+
+
+#. Label of the event_details (Section Break) field in DocType 'Travel Request'
+
+#: hrms/hr/doctype/travel_request/travel_request.json
+
+msgid "Event Details"
+msgstr ""
+
+
+#: hrms/hr/notification/training_scheduled/training_scheduled.html:37
+
+msgid "Event Link"
+msgstr ""
+
+
+#: hrms/hr/notification/training_scheduled/training_scheduled.html:23
+
+#: hrms/templates/emails/training_event.html:6
+
+msgid "Event Location"
+msgstr ""
+
+
+#. Label of the event_name (Data) field in DocType 'Training Event'
+
+#. Label of the event_name (Data) field in DocType 'Training Feedback'
+
+#: hrms/hr/doctype/training_event/training_event.json
+
+#: hrms/hr/doctype/training_feedback/training_feedback.json
+
+#: hrms/templates/emails/training_event.html:5
+
+msgid "Event Name"
+msgstr ""
+
+
+#. Label of the event_status (Select) field in DocType 'Training Event'
+
+#: hrms/hr/doctype/training_event/training_event.json
+
+msgid "Event Status"
+msgstr ""
+
+
+#. Option for the 'Frequency' (Select) field in DocType 'Shift Schedule'
+
+#: hrms/hr/doctype/shift_schedule/shift_schedule.json
+
+msgid "Every 2 Weeks"
+msgstr ""
+
+
+#. Option for the 'Frequency' (Select) field in DocType 'Shift Schedule'
+
+#: hrms/hr/doctype/shift_schedule/shift_schedule.json
+
+msgid "Every 3 Weeks"
+msgstr ""
+
+
+#. Option for the 'Frequency' (Select) field in DocType 'Shift Schedule'
+
+#: hrms/hr/doctype/shift_schedule/shift_schedule.json
+
+msgid "Every 4 Weeks"
+msgstr ""
+
+
+#. Option for the 'Working Hours Calculation Based On' (Select) field in
+
+#. DocType 'Shift Type'
+
+#: hrms/hr/doctype/shift_type/shift_type.json
+
+msgid "Every Valid Check-in and Check-out"
+msgstr ""
+
+
+#. Option for the 'Frequency' (Select) field in DocType 'Shift Schedule'
+
+#: hrms/hr/doctype/shift_schedule/shift_schedule.json
+
+msgid "Every Week"
+msgstr ""
+
+
+#: hrms/controllers/employee_reminders.py:218
+
+msgid "Everyone, let’s congratulate them on their work anniversary!"
+msgstr ""
+
+
+#: hrms/controllers/employee_reminders.py:125
+
+msgid "Everyone, let’s congratulate {0} on their birthday."
+msgstr ""
+
+
+#. Option for the 'Type' (Select) field in DocType 'Training Event'
+
+#: hrms/hr/doctype/training_event/training_event.json
+
+msgid "Exam"
+msgstr ""
+
+
+#. Label of the exchange_rate (Float) field in DocType 'Employee Advance'
+
+#. Label of the exchange_rate (Float) field in DocType 'Payroll Entry'
+
+#. Label of the exchange_rate (Float) field in DocType 'Salary Slip'
+
+#: hrms/hr/doctype/employee_advance/employee_advance.json
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.json
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+msgid "Exchange Rate"
+msgstr "อัตราแลกเปลี่ยน"
+
+
+#: hrms/hr/doctype/employee_advance/employee_advance.py:51
+
+msgid "Exchange Rate cannot be zero."
+msgstr ""
+
+
+#: hrms/hr/doctype/attendance/attendance_list.js:78
+
+msgid "Exclude Holidays"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_encashment/leave_encashment.py:106
+
+msgid "Excluded {0} Non-Encashable Leaves for {1}"
+msgstr ""
+
+
+#. Label of the exempted_from_income_tax (Check) field in DocType 'Salary
+
+#. Component'
+
+#. Label of the exempted_from_income_tax (Check) field in DocType 'Salary
+
+#. Detail'
+
+#: hrms/payroll/doctype/salary_component/salary_component.json
+
+#: hrms/payroll/doctype/salary_detail/salary_detail.json
+
+msgid "Exempted from Income Tax"
+msgstr ""
+
+
+#. Label of a Card Break in the Tax & Benefits Workspace
+
+#: hrms/payroll/workspace/tax_&_benefits/tax_&_benefits.json
+
+msgid "Exemption"
+msgstr ""
+
+
+#. Label of the exemption_category (Link) field in DocType 'Employee Tax
+
+#. Exemption Declaration Category'
+
+#. Label of the exemption_category (Read Only) field in DocType 'Employee Tax
+
+#. Exemption Proof Submission Detail'
+
+#: hrms/payroll/doctype/employee_tax_exemption_declaration_category/employee_tax_exemption_declaration_category.json
+
+#: hrms/payroll/doctype/employee_tax_exemption_proof_submission_detail/employee_tax_exemption_proof_submission_detail.json
+
+msgid "Exemption Category"
+msgstr ""
+
+
+#. Label of the exemption_proofs_details_tab (Tab Break) field in DocType
+
+#. 'Employee Tax Exemption Proof Submission'
+
+#: hrms/payroll/doctype/employee_tax_exemption_proof_submission/employee_tax_exemption_proof_submission.json
+
+msgid "Exemption Proofs"
+msgstr ""
+
+
+#. Label of the exemption_sub_category (Link) field in DocType 'Employee Tax
+
+#. Exemption Declaration Category'
+
+#. Label of the exemption_sub_category (Link) field in DocType 'Employee Tax
+
+#. Exemption Proof Submission Detail'
+
+#: hrms/payroll/doctype/employee_tax_exemption_declaration_category/employee_tax_exemption_declaration_category.json
+
+#: hrms/payroll/doctype/employee_tax_exemption_proof_submission_detail/employee_tax_exemption_proof_submission_detail.json
+
+msgid "Exemption Sub Category"
+msgstr ""
+
+
+#: hrms/hr/doctype/attendance_request/attendance_warnings.html:10
+
+msgid "Existing Record"
+msgstr ""
+
+
+#. Option for the 'Final Decision' (Select) field in DocType 'Exit Interview'
+
+#: hrms/hr/doctype/exit_interview/exit_interview.json
+
+#: hrms/hr/report/employee_exits/employee_exits.py:193
+
+msgid "Exit Confirmed"
+msgstr ""
+
+
+#. Label of the exit_details_section (Section Break) field in DocType 'Salary
+
+#. Withholding'
+
+#: hrms/payroll/doctype/salary_withholding/salary_withholding.json
+
+msgid "Exit Details"
+msgstr ""
+
+
+#. Name of a DocType
+
+#. Label of a Link in the Employee Lifecycle Workspace
+
+#: hrms/hr/doctype/exit_interview/exit_interview.json
+
+#: hrms/hr/report/employee_exits/employee_exits.py:39
+
+#: hrms/hr/workspace/employee_lifecycle/employee_lifecycle.json
+
+msgid "Exit Interview"
+msgstr ""
+
+
+#: hrms/hr/report/employee_exits/employee_exits.js:63
+
+msgid "Exit Interview Pending"
+msgstr ""
+
+
+#. Label of the exit_interview (Text Editor) field in DocType 'Employee
+
+#. Separation'
+
+#: hrms/hr/doctype/employee_separation/employee_separation.json
+
+msgid "Exit Interview Summary"
+msgstr ""
+
+
+#: hrms/hr/doctype/exit_interview/exit_interview.py:33
+
+msgid "Exit Interview {0} already exists for Employee: {1}"
+msgstr ""
+
+
+#. Label of the exit_questionnaire_section (Section Break) field in DocType
+
+#. 'Exit Interview'
+
+#: hrms/hr/doctype/exit_interview/exit_interview.json
+
+#: hrms/hr/doctype/exit_interview/exit_interview.py:140
+
+msgid "Exit Questionnaire"
+msgstr ""
+
+
+#: hrms/hr/doctype/exit_interview/test_exit_interview.py:108
+
+#: hrms/hr/doctype/exit_interview/test_exit_interview.py:118
+
+#: hrms/hr/doctype/exit_interview/test_exit_interview.py:120 hrms/setup.py:474
+
+#: hrms/setup.py:476 hrms/setup.py:497
+
+msgid "Exit Questionnaire Notification"
+msgstr ""
+
+
+#. Label of the exit_questionnaire_notification_template (Link) field in
+
+#. DocType 'HR Settings'
+
+#: hrms/hr/doctype/hr_settings/hr_settings.json
+
+msgid "Exit Questionnaire Notification Template"
+msgstr ""
+
+
+#: hrms/hr/report/employee_exits/employee_exits.js:68
+
+msgid "Exit Questionnaire Pending"
+msgstr ""
+
+
+#. Label of the exit_questionnaire_web_form (Link) field in DocType 'HR
+
+#. Settings'
+
+#: hrms/hr/doctype/exit_interview/exit_interview.py:121
+
+#: hrms/hr/doctype/hr_settings/hr_settings.json
+
+msgid "Exit Questionnaire Web Form"
+msgstr ""
+
+
+#: hrms/public/js/hierarchy_chart/hierarchy_chart_desktop.js:120
+
+#: hrms/public/js/hierarchy_chart/hierarchy_chart_desktop.js:124
+
+msgid "Expand All"
+msgstr "ขยายทั้งหมด"
+
+
+#. Label of the expected_average_rating (Rating) field in DocType 'Interview'
+
+#. Label of the expected_average_rating (Rating) field in DocType 'Interview
+
+#. Round'
+
+#: hrms/hr/doctype/interview/interview.json
+
+#: hrms/hr/doctype/interview_round/interview_round.json

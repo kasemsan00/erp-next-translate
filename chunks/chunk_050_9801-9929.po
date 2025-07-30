@@ -1,0 +1,362 @@
+msgid ""
+
+msgid "via Salary Component sync"
+msgstr ""
+
+
+#: hrms/controllers/employee_reminders.py:120
+
+#: hrms/controllers/employee_reminders.py:253
+
+#: hrms/controllers/employee_reminders.py:258
+
+msgid "{0} & {1}"
+msgstr ""
+
+
+#: frontend/src/components/ExpenseClaimItem.vue:84
+
+msgid "{0} & {1} more"
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.py:2250
+
+msgid "{0} <br> This error can be due to missing or deleted field."
+msgstr ""
+
+
+#: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.py:155
+
+msgid "{0} Appraisal(s) are not submitted yet"
+msgstr ""
+
+
+#: hrms/public/js/utils/index.js:229
+
+msgid "{0} Field"
+msgstr ""
+
+
+#: hrms/hr/doctype/department_approver/department_approver.py:92
+
+msgid "{0} Missing"
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.py:44
+
+msgid "{0} Row #{1}: Formula is set but {2} is disabled for the Salary Component {3}."
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.js:319
+
+msgid "{0} Row #{1}: {2} needs to be enabled for the formula to be considered."
+msgstr ""
+
+
+#: frontend/src/views/Notifications.vue:27
+
+msgid "{0} Unread"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_allocation/leave_allocation.py:203
+
+msgid "{0} already allocated for Employee {1} for period {2} to {3}"
+msgstr ""
+
+
+#: hrms/hr/utils.py:258
+
+msgid "{0} already exists for employee {1} and period {2}"
+msgstr ""
+
+
+#: hrms/hr/doctype/shift_assignment/shift_assignment.py:99
+
+msgid "{0} already has an active Shift Assignment {1} for some/all of these dates."
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_application/leave_application.py:152
+
+msgid "{0} applicable after {1} working days"
+msgstr ""
+
+
+#: frontend/src/components/LeaveBalance.vue:37
+msgctxt "Leave Type"
+
+msgid "{0} balance"
+msgstr ""
+
+
+#: hrms/controllers/employee_reminders.py:253
+
+msgid "{0} completed {1} year(s)"
+msgstr ""
+
+
+#: frontend/src/components/FormView.vue:516
+
+msgid "{0} created successfully!"
+msgstr ""
+
+
+#: frontend/src/components/FormView.vue:571
+
+msgid "{0} deleted successfully!"
+msgstr ""
+
+
+#: frontend/src/components/CheckInPanel.vue:186
+
+#: frontend/src/components/RequestActionSheet.vue:290
+
+msgid "{0} failed!"
+msgstr ""
+
+
+#: hrms/payroll/doctype/additional_salary/additional_salary.py:174
+
+msgid "{0} has {1} enabled"
+msgstr ""
+
+
+#: hrms/hr/report/employee_analytics/employee_analytics.py:14
+
+msgid "{0} is mandatory"
+msgstr "{0} เป็นสิ่งจำเป็น"
+
+
+#: hrms/hr/doctype/compensatory_leave_request/compensatory_leave_request.py:70
+
+msgid "{0} is not a holiday."
+msgstr ""
+
+
+#: hrms/hr/doctype/interview_feedback/interview_feedback.py:29
+
+msgid "{0} is not allowed to submit Interview Feedback for the Interview: {1}"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_application/leave_application.py:615
+
+msgid "{0} is not in Optional Holiday List"
+msgstr ""
+
+
+#: hrms/payroll/doctype/employee_benefit_claim/employee_benefit_claim.py:31
+
+msgid "{0} is not in a valid Payroll Period"
+msgstr ""
+
+
+#: hrms/hr/utils.py:836
+
+msgid "{0} is required"
+msgstr "{0} เป็นสิ่งจำเป็น"
+
+
+#: hrms/hr/doctype/leave_allocation/leave_allocation.py:361
+
+msgid "{0} leaves allocated successfully"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_allocation/leave_allocation.py:488
+
+msgid "{0} leaves from allocation for {1} leave type have expired and will be processed during the next scheduled job. It is recommended to expire them now before creating new leave policy assignments."
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_allocation/leave_allocation.py:356
+
+msgid "{0} leaves were manually allocated by {1} on {2}"
+msgstr ""
+
+
+#: hrms/hr/doctype/training_feedback/training_feedback.py:14
+
+#: hrms/hr/doctype/training_result/training_result.py:16
+
+msgid "{0} must be submitted"
+msgstr ""
+
+
+#: hrms/hr/doctype/goal/goal.py:194
+
+msgid "{0} of {1} Completed"
+msgstr ""
+
+
+#: frontend/src/components/CheckInPanel.vue:174
+
+msgid "{0} successful!"
+msgstr ""
+
+
+#: frontend/src/components/RequestActionSheet.vue:280
+
+msgid "{0} successfully!"
+msgstr ""
+
+
+#: hrms/hr/doctype/shift_assignment_tool/shift_assignment_tool.js:261
+
+msgid "{0} to {1} employee(s)?"
+msgstr ""
+
+
+#: frontend/src/components/FormView.vue:549
+
+msgid "{0} updated successfully!"
+msgstr ""
+
+
+#: hrms/hr/doctype/staffing_plan/staffing_plan.py:129
+
+msgid "{0} vacancies and {1} budget for {2} already planned for subsidiary companies of {3}. You can only plan for upto {4} vacancies and and budget {5} as per staffing plan {6} for parent company {3}."
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_component/salary_component.js:114
+
+msgid "{0} will be updated for the following Salary Structures: {1}."
+msgstr ""
+
+
+#: hrms/hr/doctype/goal/goal_list.js:70
+
+msgid "{0} {1} {2}?"
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.py:1950
+
+msgid "{0}: Employee email not found, hence email not sent"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_application/leave_application.py:70
+
+msgid "{0}: From {0} of type {1}"
+msgstr ""
+
+
+#: hrms/overrides/company.py:37 hrms/overrides/company.py:50
+
+msgid "{0}: {1}"
+msgstr ""
+
+
+#: frontend/src/components/AttendanceRequestItem.vue:17
+
+#: frontend/src/components/LeaveRequestItem.vue:16
+
+#: frontend/src/components/ShiftAssignmentItem.vue:12
+
+#: frontend/src/components/ShiftRequestItem.vue:17
+
+msgid "{0}d"
+msgstr ""
+
+
+#. Count format of shortcut in the Shift & Attendance Workspace
+
+#: hrms/hr/workspace/shift_&_attendance/shift_&_attendance.json
+
+msgid "{} "
+msgstr ""
+
+
+#. Count format of shortcut in the Recruitment Workspace
+
+#: hrms/hr/workspace/recruitment/recruitment.json
+
+msgid "{} Accepted"
+msgstr ""
+
+
+#. Count format of shortcut in the Overview Workspace
+
+#: hrms/hr/workspace/overview/overview.json
+
+msgid "{} Active"
+msgstr ""
+
+
+#. Count format of shortcut in the Salary Payout Workspace
+
+#. Count format of shortcut in the Tax & Benefits Workspace
+
+#: hrms/payroll/workspace/salary_payout/salary_payout.json
+
+#: hrms/payroll/workspace/tax_&_benefits/tax_&_benefits.json
+
+msgid "{} Draft"
+msgstr ""
+
+
+#. Count format of shortcut in the Employee Lifecycle Workspace
+
+#. Count format of shortcut in the Leaves Workspace
+
+#. Count format of shortcut in the Overview Workspace
+
+#. Count format of shortcut in the Recruitment Workspace
+
+#: hrms/hr/workspace/employee_lifecycle/employee_lifecycle.json
+
+#: hrms/hr/workspace/leaves/leaves.json
+
+#: hrms/hr/workspace/overview/overview.json
+
+#: hrms/hr/workspace/recruitment/recruitment.json
+
+msgid "{} Open"
+msgstr ""
+
+
+#. Count format of shortcut in the Employee Lifecycle Workspace
+
+#. Count format of shortcut in the Expense Claims Workspace
+
+#. Count format of shortcut in the Performance Workspace
+
+#. Count format of shortcut in the Shift & Attendance Workspace
+
+#: hrms/hr/workspace/employee_lifecycle/employee_lifecycle.json
+
+#: hrms/hr/workspace/expense_claims/expense_claims.json
+
+#: hrms/hr/workspace/performance/performance.json
+
+#: hrms/hr/workspace/shift_&_attendance/shift_&_attendance.json
+
+msgid "{} Pending"
+msgstr ""
+
+
+#. Count format of shortcut in the Expense Claims Workspace
+
+#: hrms/hr/workspace/expense_claims/expense_claims.json
+
+msgid "{} Unclaimed"
+msgstr ""
+
+
+#: hrms/hr/doctype/employee_checkin/employee_checkin.py:271
+
+msgid "{} is an invalid Attendance Status."
+msgstr ""
+
+
+#: hrms/hr/doctype/job_requisition/job_requisition.js:22
+
+msgid "{} {} open for this position."
+msgstr ""
+

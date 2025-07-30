@@ -1,0 +1,515 @@
+msgid ""
+
+#. Label of the half_day (Check) field in DocType 'Compensatory Leave Request'
+
+#. Option for the 'Status' (Select) field in DocType 'Employee Attendance Tool'
+
+#. Label of the half_day (Check) field in DocType 'Leave Application'
+
+#: frontend/src/components/AttendanceCalendar.vue:80
+
+#: hrms/hr/doctype/attendance/attendance.json
+
+#: hrms/hr/doctype/attendance_request/attendance_request.json
+
+#: hrms/hr/doctype/compensatory_leave_request/compensatory_leave_request.json
+
+#: hrms/hr/doctype/employee_attendance_tool/employee_attendance_tool.json
+
+#: hrms/hr/doctype/leave_application/leave_application.json
+
+msgid "Half Day"
+msgstr "ครึ่งวัน"
+
+
+#. Label of the half_day_date (Date) field in DocType 'Attendance Request'
+
+#. Label of the half_day_date (Date) field in DocType 'Compensatory Leave
+
+#. Request'
+
+#. Label of the half_day_date (Date) field in DocType 'Leave Application'
+
+#: hrms/hr/doctype/attendance_request/attendance_request.json
+
+#: hrms/hr/doctype/compensatory_leave_request/compensatory_leave_request.json
+
+#: hrms/hr/doctype/leave_application/leave_application.json
+
+msgid "Half Day Date"
+msgstr ""
+
+
+#: hrms/hr/doctype/compensatory_leave_request/compensatory_leave_request.py:27
+
+msgid "Half Day Date is mandatory"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_application/leave_application.py:191
+
+msgid "Half Day Date should be between From Date and To Date"
+msgstr ""
+
+
+#: hrms/hr/doctype/compensatory_leave_request/compensatory_leave_request.py:29
+
+msgid "Half Day Date should be in between Work From Date and Work End Date"
+msgstr ""
+
+
+#. Label of the half_day_marked_employee_header (HTML) field in DocType
+
+#. 'Employee Attendance Tool'
+
+#: hrms/hr/doctype/employee_attendance_tool/employee_attendance_tool.json
+
+msgid "Half Day Marked Employee Header"
+msgstr ""
+
+
+#: hrms/hr/report/shift_attendance/shift_attendance.py:168
+
+msgid "Half Day Records"
+msgstr ""
+
+
+#. Option for the 'Frequency' (Select) field in DocType 'Vehicle Service'
+
+#: hrms/hr/doctype/vehicle_service/vehicle_service.json
+
+msgid "Half Yearly"
+msgstr "ครึ่งปี"
+
+
+#: hrms/hr/doctype/attendance_request/attendance_request.py:30
+
+msgid "Half day date should be in between from date and to date"
+msgstr ""
+
+
+#. Option for the 'Earned Leave Frequency' (Select) field in DocType 'Leave
+
+#. Type'
+
+#: hrms/hr/doctype/leave_type/leave_type.json
+
+msgid "Half-Yearly"
+msgstr "ครึ่งปี"
+
+
+#. Label of the has_certificate (Check) field in DocType 'Training Event'
+
+#: hrms/hr/doctype/training_event/training_event.json
+
+msgid "Has Certificate"
+msgstr "มีใบรับรอง"
+
+
+#: hrms/setup.py:215
+
+msgid "Health Insurance"
+msgstr ""
+
+
+#. Label of the health_insurance_name (Data) field in DocType 'Employee Health
+
+#. Insurance'
+
+#: hrms/hr/doctype/employee_health_insurance/employee_health_insurance.json
+
+msgid "Health Insurance Name"
+msgstr ""
+
+
+#: hrms/setup.py:229
+
+msgid "Health Insurance No"
+msgstr ""
+
+
+#: hrms/setup.py:221
+
+msgid "Health Insurance Provider"
+msgstr ""
+
+
+#: hrms/hr/notification/training_feedback/training_feedback.html:1
+
+msgid "Hello"
+msgstr "สวัสดี"
+
+
+#. Label of the help (HTML) field in DocType 'Salary Component'
+
+#: hrms/payroll/doctype/salary_component/salary_component.json
+
+msgid "Help"
+msgstr "ช่วยเหลือ"
+
+
+#: hrms/controllers/employee_reminders.py:72
+
+msgid "Hey {}! This email is to remind you about the upcoming holidays."
+msgstr ""
+
+
+#: frontend/src/components/CheckInPanel.vue:4
+
+msgid "Hey, {0} 👋"
+msgstr ""
+
+
+#: hrms/hr/dashboard_chart_source/hiring_vs_attrition_count/hiring_vs_attrition_count.py:44
+
+msgid "Hiring Count"
+msgstr ""
+
+
+#. Label of the hiring_settings_section (Section Break) field in DocType 'HR
+
+#. Settings'
+
+#: hrms/hr/doctype/hr_settings/hr_settings.json
+
+msgid "Hiring Settings"
+msgstr ""
+
+
+#. Option for the 'Status' (Select) field in DocType 'Job Applicant'
+
+#: hrms/hr/doctype/job_applicant/job_applicant.json
+
+msgid "Hold"
+msgstr "ระงับ"
+
+
+#: hrms/hr/doctype/attendance/attendance.py:285
+
+#: hrms/hr/doctype/leave_application/leave_application.py:1348
+
+#: hrms/hr/report/employees_working_on_a_holiday/employees_working_on_a_holiday.py:46
+
+msgid "Holiday"
+msgstr "วันหยุด"
+
+
+#. Label of the holiday_list (Link) field in DocType 'Daily Work Summary Group'
+
+#. Label of the holiday_list (Link) field in DocType 'Employee Onboarding'
+
+#. Label of the holiday_list (Link) field in DocType 'Leave Ledger Entry'
+
+#. Label of the holiday_list (Link) field in DocType 'Shift Type'
+
+#. Label of a Link in the Leaves Workspace
+
+#: frontend/src/components/Holidays.vue:44
+
+#: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
+
+#: hrms/hr/doctype/employee_onboarding/employee_onboarding.json
+
+#: hrms/hr/doctype/leave_ledger_entry/leave_ledger_entry.json
+
+#: hrms/hr/doctype/shift_type/shift_type.json
+
+#: hrms/hr/report/employees_working_on_a_holiday/employees_working_on_a_holiday.js:22
+
+#: hrms/hr/report/leave_ledger/leave_ledger.py:110
+
+#: hrms/hr/workspace/leaves/leaves.json
+
+msgid "Holiday List"
+msgstr "รายการวันหยุด"
+
+
+#. Label of the optional_holiday_list (Link) field in DocType 'Leave Period'
+
+#: hrms/hr/doctype/leave_period/leave_period.json
+
+msgid "Holiday List for Optional Leave"
+msgstr ""
+
+
+#. Label of the send_holiday_reminders (Check) field in DocType 'HR Settings'
+
+#: hrms/hr/doctype/hr_settings/hr_settings.json
+
+msgid "Holidays"
+msgstr "วันหยุด"
+
+
+#: hrms/controllers/employee_reminders.py:65
+
+msgid "Holidays this Month."
+msgstr ""
+
+
+#: hrms/controllers/employee_reminders.py:65
+
+msgid "Holidays this Week."
+msgstr ""
+
+
+#: frontend/src/components/BottomTabs.vue:43 hrms/www/jobs/index.py:13
+
+msgid "Home"
+msgstr "หน้าแรก"
+
+
+#. Label of the horizontal_break (HTML) field in DocType 'Employee Attendance
+
+#. Tool'
+
+#: hrms/hr/doctype/employee_attendance_tool/employee_attendance_tool.json
+
+msgid "Horizontal Break"
+msgstr ""
+
+
+#. Label of the hour_rate (Currency) field in DocType 'Salary Slip'
+
+#. Label of the hour_rate (Currency) field in DocType 'Salary Structure'
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.json
+
+msgid "Hour Rate"
+msgstr "อัตราต่อชั่วโมง"
+
+
+#. Label of the base_hour_rate (Currency) field in DocType 'Salary Slip'
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+msgid "Hour Rate (Company Currency)"
+msgstr ""
+
+
+#. Label of the hours (Float) field in DocType 'Training Result Employee'
+
+#: hrms/hr/doctype/training_result_employee/training_result_employee.json
+
+msgid "Hours"
+msgstr "ชั่วโมง"
+
+
+#: hrms/regional/india/utils.py:184
+
+msgid "House rent paid days overlapping with {0}"
+msgstr ""
+
+
+#: hrms/regional/india/utils.py:162
+
+msgid "House rented dates required for exemption calculation"
+msgstr ""
+
+
+#: hrms/regional/india/utils.py:165
+
+msgid "House rented dates should be atleast 15 days apart"
+msgstr ""
+
+
+#: hrms/payroll/report/salary_payments_via_ecs/salary_payments_via_ecs.py:60
+
+msgid "IFSC"
+msgstr ""
+
+
+#: hrms/payroll/report/bank_remittance/bank_remittance.py:48
+
+msgid "IFSC Code"
+msgstr ""
+
+
+#. Option for the 'Log Type' (Select) field in DocType 'Employee Checkin'
+
+#: hrms/hr/doctype/employee_checkin/employee_checkin.json
+
+msgid "IN"
+msgstr ""
+
+
+#. Label of the personal_id_number (Data) field in DocType 'Travel Request'
+
+#: hrms/hr/doctype/travel_request/travel_request.json
+
+msgid "Identification Document Number"
+msgstr ""
+
+
+#. Name of a DocType
+
+#. Label of the identification_document_type (Data) field in DocType
+
+#. 'Identification Document Type'
+
+#. Label of the personal_id_type (Link) field in DocType 'Travel Request'
+
+#: hrms/hr/doctype/identification_document_type/identification_document_type.json
+
+#: hrms/hr/doctype/travel_request/travel_request.json
+
+msgid "Identification Document Type"
+msgstr ""
+
+
+#. Description of the 'Process Payroll Accounting Entry based on Employee'
+
+#. (Check) field in DocType 'Payroll Settings'
+
+#: hrms/payroll/doctype/payroll_settings/payroll_settings.json
+
+msgid "If checked, Payroll Payable will be booked against each employee"
+msgstr ""
+
+
+#. Description of the 'Disable Rounded Total' (Check) field in DocType 'Payroll
+
+#. Settings'
+
+#: hrms/payroll/doctype/payroll_settings/payroll_settings.json
+
+msgid "If checked, hides and disables Rounded Total field in Salary Slips"
+msgstr ""
+
+
+#. Description of the 'Exempted from Income Tax' (Check) field in DocType
+
+#. 'Salary Component'
+
+#: hrms/payroll/doctype/salary_component/salary_component.json
+
+msgid "If checked, the full amount will be deducted from taxable income before calculating income tax without any declaration or proof submission."
+msgstr ""
+
+
+#. Description of the 'Allow Tax Exemption' (Check) field in DocType 'Income
+
+#. Tax Slab'
+
+#: hrms/payroll/doctype/income_tax_slab/income_tax_slab.json
+
+msgid "If enabled, Tax Exemption Declaration will be considered for income tax calculation."
+msgstr ""
+
+
+#. Description of the 'Mark Auto Attendance on Holidays' (Check) field in
+
+#. DocType 'Shift Type'
+
+#: hrms/hr/doctype/shift_type/shift_type.json
+
+msgid "If enabled, auto attendance will be marked on holidays if Employee Checkins exist"
+msgstr ""
+
+
+#. Description of the 'Consider Marked Attendance on Holidays' (Check) field in
+
+#. DocType 'Payroll Settings'
+
+#: hrms/payroll/doctype/payroll_settings/payroll_settings.json
+
+msgid "If enabled, deducts payment days for absent attendance on holidays. By default, holidays are considered as paid"
+msgstr ""
+
+
+#. Description of the 'Variable Based On Taxable Salary' (Check) field in
+
+#. DocType 'Salary Component'
+
+#: hrms/payroll/doctype/salary_component/salary_component.json
+
+msgid "If enabled, the component will be considered as a tax component and the amount will be auto-calculated as per the configured income tax slabs"
+msgstr ""
+
+
+#. Description of the 'Is Income Tax Component' (Check) field in DocType
+
+#. 'Salary Component'
+
+#: hrms/payroll/doctype/salary_component/salary_component.json
+
+msgid "If enabled, the component will be considered in the Income Tax Deductions report"
+msgstr ""
+
+
+#. Description of the 'Remove if Zero Valued' (Check) field in DocType 'Salary
+
+#. Component'
+
+#: hrms/payroll/doctype/salary_component/salary_component.json
+
+msgid "If enabled, the component will not be displayed in the salary slip if the amount is zero"
+msgstr ""
+
+
+#. Description of the 'Publish Applications Received' (Check) field in DocType
+
+#. 'Job Opening'
+
+#: hrms/hr/doctype/job_opening/job_opening.json
+
+msgid "If enabled, the total no. of applications received for this opening will be displayed on the website"
+msgstr ""
+
+
+#. Description of the 'Statistical Component' (Check) field in DocType 'Salary
+
+#. Component'
+
+#: hrms/payroll/doctype/salary_component/salary_component.json
+
+msgid "If enabled, the value specified or calculated in this component will not contribute to the earnings or deductions. However, it's value can be referenced by other components that can be added or deducted. "
+msgstr ""
+
+
+#. Description of the 'Include holidays in Total no. of Working Days' (Check)
+
+#. field in DocType 'Payroll Settings'
+
+#: hrms/payroll/doctype/payroll_settings/payroll_settings.json
+
+msgid "If enabled, total no. of working days will include holidays, and this will reduce the value of Salary Per Day"
+msgstr ""
+
+
+#. Description of the 'Applies to Company' (Check) field in DocType 'Leave
+
+#. Block List'
+
+#: hrms/hr/doctype/leave_block_list/leave_block_list.json
+
+msgid "If not checked, the list will have to be added to each Department where it has to be applied."
+msgstr ""
+
+
+#. Description of the 'Statistical Component' (Check) field in DocType 'Salary
+
+#. Detail'
+
+#: hrms/payroll/doctype/salary_detail/salary_detail.json
+
+msgid "If selected, the value specified or calculated in this component will not contribute to the earnings or deductions. However, it's value can be referenced by other components that can be added or deducted. "
+msgstr ""
+
+
+#. Description of the 'Closes On' (Date) field in DocType 'Job Opening'
+
+#: hrms/hr/doctype/job_opening/job_opening.json
+
+msgid "If set, the job opening will be closed automatically after this date"
+msgstr ""
+
+
+#: hrms/patches/v15_0/notify_about_loan_app_separation.py:17
+
+msgid "If you are using loans in salary slips, please install the {0} app from Frappe Cloud Marketplace or GitHub to continue using loan integration with payroll."
+msgstr ""
+
+
+#. Label of the upload_attendance_data (Section Break) field in DocType 'Upload

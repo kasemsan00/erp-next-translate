@@ -1,0 +1,536 @@
+msgid ""
+
+#. Option for the 'Set the frequency for holiday reminders' (Select) field in
+
+#. DocType 'HR Settings'
+
+#. Option for the 'Earned Leave Frequency' (Select) field in DocType 'Leave
+
+#. Type'
+
+#. Option for the 'Frequency' (Select) field in DocType 'Vehicle Service'
+
+#. Option for the 'Payroll Frequency' (Select) field in DocType 'Payroll Entry'
+
+#. Option for the 'Payroll Frequency' (Select) field in DocType 'Salary Slip'
+
+#. Option for the 'Payroll Frequency' (Select) field in DocType 'Salary
+
+#. Structure'
+
+#. Option for the 'Payroll Frequency' (Select) field in DocType 'Salary
+
+#. Withholding'
+
+#: hrms/hr/doctype/hr_settings/hr_settings.json
+
+#: hrms/hr/doctype/leave_type/leave_type.json
+
+#: hrms/hr/doctype/vehicle_service/vehicle_service.json
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.json
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.json
+
+#: hrms/payroll/doctype/salary_withholding/salary_withholding.json
+
+msgid "Monthly"
+msgstr "รายเดือน"
+
+
+#. Name of a report
+
+#. Label of a Link in the Overview Workspace
+
+#. Label of a Link in the Shift & Attendance Workspace
+
+#: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.json
+
+#: hrms/hr/workspace/overview/overview.json
+
+#: hrms/hr/workspace/shift_&_attendance/shift_&_attendance.json
+
+msgid "Monthly Attendance Sheet"
+msgstr ""
+
+
+#: hrms/hr/page/team_updates/team_updates.js:26
+
+msgid "More"
+msgstr "เพิ่มเติม"
+
+
+#. Label of the more_info_section (Section Break) field in DocType 'Employee
+
+#. Advance'
+
+#. Label of the more_info_tab (Tab Break) field in DocType 'Expense Claim'
+
+#. Label of the section_break_svbb (Section Break) field in DocType 'Leave
+
+#. Encashment'
+
+#: hrms/hr/doctype/employee_advance/employee_advance.json
+
+#: hrms/hr/doctype/expense_claim/expense_claim.json
+
+#: hrms/hr/doctype/leave_encashment/leave_encashment.json
+
+msgid "More Info"
+msgstr "ข้อมูลเพิ่มเติม"
+
+
+#: hrms/hr/utils.py:267
+
+msgid "More than one selection for {0} not allowed"
+msgstr ""
+
+
+#: hrms/payroll/doctype/additional_salary/additional_salary.py:273
+
+msgid "Multiple Additional Salaries with overwrite property exist for Salary Component {0} between {1} and {2}."
+msgstr ""
+
+
+#: hrms/hr/doctype/shift_assignment/shift_assignment.py:110
+
+msgid "Multiple Shift Assignments"
+msgstr ""
+
+
+#: hrms/www/jobs/index.py:15
+
+msgid "My Account"
+msgstr "บัญชีของฉัน"
+
+
+#: frontend/src/views/employee_advance/List.vue:19
+
+msgid "My Advances"
+msgstr ""
+
+
+#: frontend/src/views/expense_claim/List.vue:19
+
+msgid "My Claims"
+msgstr ""
+
+
+#: frontend/src/views/leave/List.vue:19
+
+msgid "My Leaves"
+msgstr ""
+
+
+#: frontend/src/components/RequestPanel.vue:36
+
+msgid "My Requests"
+msgstr ""
+
+
+#. Label of the salary_component (Data) field in DocType 'Salary Component'
+
+#: hrms/hr/doctype/leave_control_panel/leave_control_panel.js:137
+
+#: hrms/hr/report/employee_analytics/employee_analytics.py:31
+
+#: hrms/hr/report/employee_birthday/employee_birthday.py:22
+
+#: hrms/payroll/doctype/bulk_salary_structure_assignment/bulk_salary_structure_assignment.js:166
+
+#: hrms/payroll/doctype/salary_component/salary_component.json
+
+msgid "Name"
+msgstr "ชื่อ"
+
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.py:1261
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.py:2251
+
+msgid "Name error"
+msgstr ""
+
+
+#. Label of the name_of_organizer (Data) field in DocType 'Travel Request'
+
+#: hrms/hr/doctype/travel_request/travel_request.json
+
+msgid "Name of Organizer"
+msgstr ""
+
+
+#. Label of the naming_series (Select) field in DocType 'Exit Interview'
+
+#. Option for the 'Employee Naming By' (Select) field in DocType 'HR Settings'
+
+#. Label of the naming_series (Select) field in DocType 'Job Requisition'
+
+#: hrms/hr/doctype/exit_interview/exit_interview.json
+
+#: hrms/hr/doctype/hr_settings/hr_settings.json
+
+#: hrms/hr/doctype/job_requisition/job_requisition.json
+
+msgid "Naming Series"
+msgstr "ชุดการตั้งชื่อ"
+
+
+#. Label of the net_pay (Currency) field in DocType 'Salary Slip'
+
+#. Label of the net_pay (Currency) field in DocType 'Salary Structure'
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.json
+
+#: hrms/payroll/report/salary_payments_via_ecs/salary_payments_via_ecs.py:49
+
+#: hrms/payroll/report/salary_register/salary_register.py:242
+
+msgid "Net Pay"
+msgstr ""
+
+
+#. Label of the base_net_pay (Currency) field in DocType 'Salary Slip'
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+msgid "Net Pay (Company Currency)"
+msgstr ""
+
+
+#. Label of the net_pay_info (Tab Break) field in DocType 'Salary Slip'
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+msgid "Net Pay Info"
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.py:195
+
+msgid "Net Pay cannot be less than 0"
+msgstr ""
+
+
+#: hrms/payroll/report/bank_remittance/bank_remittance.py:53
+
+msgid "Net Salary Amount"
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.py:93
+
+msgid "Net pay cannot be negative"
+msgstr ""
+
+
+#. Label of the new (Data) field in DocType 'Employee Property History'
+
+#: frontend/src/components/ListView.vue:34
+
+#: hrms/hr/doctype/employee_property_history/employee_property_history.json
+
+#: hrms/hr/employee_property_update.js:114
+
+#: hrms/hr/employee_property_update.js:159
+
+msgid "New"
+msgstr "ใหม่"
+
+
+#. Label of the new_company (Link) field in DocType 'Employee Transfer'
+
+#: hrms/hr/doctype/employee_transfer/employee_transfer.json
+
+msgid "New Company"
+msgstr "บริษัทใหม่"
+
+
+#. Label of the new_employee_id (Link) field in DocType 'Employee Transfer'
+
+#: hrms/hr/doctype/employee_transfer/employee_transfer.json
+
+msgid "New Employee ID"
+msgstr ""
+
+
+#: frontend/src/components/ExpensesTable.vue:213
+
+msgid "New Expense Item"
+msgstr ""
+
+
+#: frontend/src/components/ExpenseTaxesTable.vue:221
+
+msgid "New Expense Tax"
+msgstr ""
+
+
+#: hrms/public/js/templates/performance_feedback.html:26
+
+msgid "New Feedback"
+msgstr ""
+
+
+#: hrms/hr/report/employee_leave_balance/employee_leave_balance.py:60
+
+msgid "New Leave(s) Allocated"
+msgstr ""
+
+
+#. Label of the new_leaves_allocated (Float) field in DocType 'Leave
+
+#. Allocation'
+
+#: hrms/hr/doctype/leave_allocation/leave_allocation.json
+
+msgid "New Leaves Allocated"
+msgstr ""
+
+
+#. Label of the no_of_days (Float) field in DocType 'Leave Control Panel'
+
+#: hrms/hr/doctype/leave_control_panel/leave_control_panel.json
+
+msgid "New Leaves Allocated (In Days)"
+msgstr ""
+
+
+#. Description of the 'Create Shifts After' (Date) field in DocType 'Shift
+
+#. Schedule Assignment'
+
+#: hrms/hr/doctype/shift_schedule_assignment/shift_schedule_assignment.json
+
+msgid "New shift assignments will be created after this date."
+msgstr ""
+
+
+#: frontend/src/components/FormView.vue:53
+
+msgid "New {0}"
+msgstr "{0} ใหม่"
+
+
+#. Option for the 'Is Active' (Select) field in DocType 'Salary Structure'
+
+#. Option for the 'Is Default' (Select) field in DocType 'Salary Structure'
+
+#: frontend/src/components/FormView.vue:267
+
+#: frontend/src/components/FormView.vue:298
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.json
+
+msgid "No"
+msgstr ""
+
+
+#: hrms/hr/doctype/employee_attendance_tool/employee_attendance_tool.js:216
+
+#: hrms/public/js/utils/index.js:80
+
+msgid "No Data"
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.py:243
+
+msgid "No Employee Found"
+msgstr ""
+
+
+#: hrms/hr/doctype/employee_checkin/employee_checkin.py:166
+
+msgid "No Employee found for the given employee field value. '{}': {}"
+msgstr ""
+
+
+#: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.py:111 hrms/hr/utils.py:842
+
+msgid "No Employees Selected"
+msgstr ""
+
+
+#: hrms/hr/doctype/job_applicant/job_applicant_dashboard.html:53
+
+msgid "No Interview has been scheduled."
+msgstr ""
+
+
+#: hrms/hr/doctype/compensatory_leave_request/compensatory_leave_request.py:106
+
+msgid "No Leave Period Found"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_encashment/leave_encashment.py:140
+
+msgid "No Leaves Allocated to Employee: {0} for Leave Type: {1}"
+msgstr ""
+
+
+#: hrms/payroll/doctype/gratuity/gratuity.py:267
+
+msgid "No Salary Slip found for Employee: {0}"
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_withholding/salary_withholding.py:116
+
+msgid "No Salary Structure Assignment found for employee {0} on or before {1}"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_encashment/leave_encashment.py:36
+
+msgid "No Salary Structure assigned to Employee {0} on the given date {1}"
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_component/salary_component.js:99
+
+msgid "No Salary Structures"
+msgstr ""
+
+
+#: hrms/hr/doctype/shift_assignment_tool/shift_assignment_tool.py:255
+
+msgid "No Shift Requests Selected"
+msgstr ""
+
+
+#: hrms/hr/doctype/job_opening/job_opening.js:32
+
+msgid "No Staffing Plans found for this Designation"
+msgstr ""
+
+
+#: frontend/src/views/InvalidEmployee.vue:8
+
+msgid "No active employee found associated with the email ID {0}. Try logging in with your employee email ID or contact your HR manager for access."
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.py:406
+
+msgid "No active or default Salary Structure found for employee {0} for the given dates"
+msgstr ""
+
+
+#: hrms/hr/doctype/vehicle_log/vehicle_log.py:43
+
+msgid "No additional expenses has been added"
+msgstr ""
+
+
+#: frontend/src/components/ExpenseAdvancesTable.vue:63
+
+msgid "No advances found"
+msgstr ""
+
+
+#: hrms/payroll/doctype/gratuity/gratuity.py:283
+
+msgid "No applicable Earning component found in last salary slip for Gratuity Rule: {0}"
+msgstr ""
+
+
+#: hrms/payroll/doctype/gratuity/gratuity.py:296
+
+msgid "No applicable Earning components found for Gratuity Rule: {0}"
+msgstr ""
+
+
+#: hrms/payroll/doctype/gratuity/gratuity.py:256
+
+msgid "No applicable slab found for the calculation of gratuity amount as per the Gratuity Rule: {0}"
+msgstr ""
+
+
+#: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.py:52
+
+msgid "No attendance records found for this criteria."
+msgstr ""
+
+
+#: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.py:45
+
+msgid "No attendance records found."
+msgstr ""
+
+
+#: hrms/hr/doctype/attendance_request/attendance_request.py:39
+
+msgid "No attendance records to create"
+msgstr ""
+
+
+#: hrms/hr/doctype/interview/interview.py:87
+
+msgid "No changes found in timings."
+msgstr ""
+
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.py:202
+
+msgid "No employees found"
+msgstr ""
+
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.py:185
+
+msgid "No employees found for the mentioned criteria:<br>Company: {0}<br> Currency: {1}<br>Payroll Payable Account: {2}"
+msgstr ""
+
+
+#: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.py:67
+
+msgid "No employees found for the selected criteria"
+msgstr ""
+
+
+#: hrms/payroll/report/income_tax_computation/income_tax_computation.py:71
+
+msgid "No employees found with selected filters and active salary structure"
+msgstr ""
+
+
+#: frontend/src/components/ExpensesTable.vue:64
+
+msgid "No expenses added"
+msgstr ""
+
+
+#: hrms/public/js/templates/feedback_history.html:55
+
+msgid "No feedback has been received yet"
+msgstr ""
+
+
+#: hrms/hr/doctype/goal/goal_list.js:94
+
+msgid "No items selected"
+msgstr ""
+
+
+#: hrms/hr/doctype/attendance/attendance.py:196
+
+msgid "No leave record found for employee {0} on {1}"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_application/leave_application_dashboard.html:29
+
+msgid "No leaves have been allocated."
+msgstr ""
+
+
+#: hrms/hr/page/team_updates/team_updates.js:49
+
+msgid "No more updates"
+msgstr ""

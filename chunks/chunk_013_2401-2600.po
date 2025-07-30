@@ -1,0 +1,431 @@
+msgid ""
+
+#: hrms/payroll/doctype/gratuity/gratuity.json
+
+#: hrms/payroll/doctype/payroll_employee_detail/payroll_employee_detail.json
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.json
+
+#: hrms/payroll/doctype/retention_bonus/retention_bonus.json
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+#: hrms/payroll/doctype/salary_structure_assignment/salary_structure_assignment.json
+
+#: hrms/payroll/report/income_tax_computation/income_tax_computation.js:33
+
+#: hrms/payroll/report/income_tax_computation/income_tax_computation.py:600
+
+#: hrms/payroll/report/salary_register/salary_register.js:56
+
+#: hrms/payroll/report/salary_register/salary_register.py:141
+
+#: hrms/public/js/salary_slip_deductions_report_filters.js:42 hrms/setup.py:402
+
+#: hrms/templates/generators/job_opening.html:87
+
+msgid "Department"
+msgstr ""
+
+
+#. Name of a DocType
+
+#: hrms/hr/doctype/department_approver/department_approver.json
+
+msgid "Department Approver"
+msgstr ""
+
+
+#. Label of a chart in the Recruitment Workspace
+
+#: hrms/hr/workspace/recruitment/recruitment.json
+
+msgid "Department Wise Openings"
+msgstr ""
+
+
+#: hrms/hr/doctype/expense_claim/expense_claim.py:96
+
+msgid "Department {0} does not belong to company: {1}"
+msgstr ""
+
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.py:195
+
+msgid "Department: {0}"
+msgstr ""
+
+
+#. Label of the departure_date (Datetime) field in DocType 'Travel Itinerary'
+
+#: hrms/hr/doctype/travel_itinerary/travel_itinerary.json
+
+msgid "Departure Datetime"
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.py:109
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.py:113
+
+msgid "Depends On Payment Days"
+msgstr ""
+
+
+#. Label of the depends_on_payment_days (Check) field in DocType 'Salary
+
+#. Component'
+
+#. Label of the depends_on_payment_days (Check) field in DocType 'Salary
+
+#. Detail'
+
+#: hrms/payroll/doctype/salary_component/salary_component.json
+
+#: hrms/payroll/doctype/salary_detail/salary_detail.json
+
+msgid "Depends on Payment Days"
+msgstr ""
+
+
+#. Label of the description (Long Text) field in DocType 'Appointment Letter
+
+#. content'
+
+#. Label of the section_break_4 (Section Break) field in DocType 'Appraisal
+
+#. Cycle'
+
+#. Label of the section_break_5 (Section Break) field in DocType 'Appraisal
+
+#. Template'
+
+#. Label of the description (Text Editor) field in DocType 'Employee Boarding
+
+#. Activity'
+
+#. Label of the description (Text) field in DocType 'Employee Grievance'
+
+#. Label of the description (Small Text) field in DocType 'Expected Skill Set'
+
+#. Label of the description (Text Editor) field in DocType 'Expense Claim
+
+#. Detail'
+
+#. Label of the description (Small Text) field in DocType 'Expense Claim Type'
+
+#. Label of the description (Small Text) field in DocType 'Expense Taxes and
+
+#. Charges'
+
+#. Label of the description (Small Text) field in DocType 'Full and Final
+
+#. Asset'
+
+#. Label of the section_break_12 (Section Break) field in DocType 'Goal'
+
+#. Label of the description (Text Editor) field in DocType 'Goal'
+
+#. Label of the description (Text) field in DocType 'Grievance Type'
+
+#. Label of the description (Text) field in DocType 'Interview Type'
+
+#. Label of the description (Text Editor) field in DocType 'Job Opening'
+
+#. Label of the description (Small Text) field in DocType 'KRA'
+
+#. Label of the description (Small Text) field in DocType 'Leave Allocation'
+
+#. Label of the description (Text) field in DocType 'Skill'
+
+#. Label of the description (Text Editor) field in DocType 'Training Program'
+
+#. Label of the section_break_4 (Section Break) field in DocType 'Travel
+
+#. Request'
+
+#. Label of the description (Data) field in DocType 'Income Tax Slab Other
+
+#. Charges'
+
+#. Label of the description (Small Text) field in DocType 'Salary Component'
+
+#: hrms/hr/doctype/appointment_letter_content/appointment_letter_content.json
+
+#: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.json
+
+#: hrms/hr/doctype/appraisal_template/appraisal_template.json
+
+#: hrms/hr/doctype/employee_boarding_activity/employee_boarding_activity.json
+
+#: hrms/hr/doctype/employee_grievance/employee_grievance.json
+
+#: hrms/hr/doctype/expected_skill_set/expected_skill_set.json
+
+#: hrms/hr/doctype/expense_claim_detail/expense_claim_detail.json
+
+#: hrms/hr/doctype/expense_claim_type/expense_claim_type.json
+
+#: hrms/hr/doctype/expense_taxes_and_charges/expense_taxes_and_charges.json
+
+#: hrms/hr/doctype/full_and_final_asset/full_and_final_asset.json
+
+#: hrms/hr/doctype/goal/goal.json hrms/hr/doctype/goal/goal_tree.js:154
+
+#: hrms/hr/doctype/grievance_type/grievance_type.json
+
+#: hrms/hr/doctype/interview_type/interview_type.json
+
+#: hrms/hr/doctype/job_opening/job_opening.json hrms/hr/doctype/kra/kra.json
+
+#: hrms/hr/doctype/leave_allocation/leave_allocation.json
+
+#: hrms/hr/doctype/skill/skill.json
+
+#: hrms/hr/doctype/training_program/training_program.json
+
+#: hrms/hr/doctype/travel_request/travel_request.json
+
+#: hrms/payroll/doctype/income_tax_slab_other_charges/income_tax_slab_other_charges.json
+
+#: hrms/payroll/doctype/salary_component/salary_component.json
+
+msgid "Description"
+msgstr ""
+
+
+#. Description of a DocType
+
+#: hrms/hr/doctype/job_opening/job_opening.json
+
+msgid "Description of a Job Opening"
+msgstr ""
+
+
+#. Label of the designation (Link) field in DocType 'Appraisal'
+
+#. Label of the designation (Link) field in DocType 'Appraisal Cycle'
+
+#. Label of the designation (Data) field in DocType 'Appraisee'
+
+#. Label of the designation (Link) field in DocType 'Employee Attendance Tool'
+
+#. Label of the designation (Link) field in DocType 'Employee Grievance'
+
+#. Label of the designation (Link) field in DocType 'Employee Onboarding'
+
+#. Label of the designation (Link) field in DocType 'Employee Onboarding
+
+#. Template'
+
+#. Label of the reviewer_designation (Link) field in DocType 'Employee
+
+#. Performance Feedback'
+
+#. Label of the designation (Link) field in DocType 'Employee Performance
+
+#. Feedback'
+
+#. Label of the designation (Link) field in DocType 'Employee Separation'
+
+#. Label of the designation (Link) field in DocType 'Employee Separation
+
+#. Template'
+
+#. Label of the designation (Read Only) field in DocType 'Employee Skill Map'
+
+#. Label of the designation (Link) field in DocType 'Exit Interview'
+
+#. Label of the designation (Link) field in DocType 'Full and Final Statement'
+
+#. Label of the designation (Link) field in DocType 'Interview'
+
+#. Label of the designation (Link) field in DocType 'Interview Round'
+
+#. Label of the designation (Link) field in DocType 'Job Applicant'
+
+#. Label of the designation (Link) field in DocType 'Job Offer'
+
+#. Label of the designation (Link) field in DocType 'Job Opening'
+
+#. Label of the designation (Link) field in DocType 'Job Requisition'
+
+#. Label of the requested_by_designation (Link) field in DocType 'Job
+
+#. Requisition'
+
+#. Label of the designation (Link) field in DocType 'Leave Control Panel'
+
+#. Label of the designation (Link) field in DocType 'Shift Assignment Tool'
+
+#. Label of the designation (Link) field in DocType 'Staffing Plan Detail'
+
+#. Label of a Link in the Overview Workspace
+
+#. Label of the designation (Link) field in DocType 'Bulk Salary Structure
+
+#. Assignment'
+
+#. Label of the designation (Data) field in DocType 'Gratuity'
+
+#. Label of the designation (Data) field in DocType 'Payroll Employee Detail'
+
+#. Label of the designation (Link) field in DocType 'Payroll Entry'
+
+#. Label of the designation (Link) field in DocType 'Salary Slip'
+
+#. Label of the designation (Link) field in DocType 'Salary Structure
+
+#. Assignment'
+
+#: hrms/hr/doctype/appraisal/appraisal.json
+
+#: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.json
+
+#: hrms/hr/doctype/appraisee/appraisee.json
+
+#: hrms/hr/doctype/employee_attendance_tool/employee_attendance_tool.json
+
+#: hrms/hr/doctype/employee_grievance/employee_grievance.json
+
+#: hrms/hr/doctype/employee_onboarding/employee_onboarding.json
+
+#: hrms/hr/doctype/employee_onboarding_template/employee_onboarding_template.json
+
+#: hrms/hr/doctype/employee_performance_feedback/employee_performance_feedback.json
+
+#: hrms/hr/doctype/employee_separation/employee_separation.json
+
+#: hrms/hr/doctype/employee_separation_template/employee_separation_template.json
+
+#: hrms/hr/doctype/employee_skill_map/employee_skill_map.json
+
+#: hrms/hr/doctype/exit_interview/exit_interview.json
+
+#: hrms/hr/doctype/full_and_final_statement/full_and_final_statement.json
+
+#: hrms/hr/doctype/interview/interview.json
+
+#: hrms/hr/doctype/interview_round/interview_round.json
+
+#: hrms/hr/doctype/job_applicant/job_applicant.json
+
+#: hrms/hr/doctype/job_offer/job_offer.json
+
+#: hrms/hr/doctype/job_opening/job_opening.json
+
+#: hrms/hr/doctype/job_requisition/job_requisition.json
+
+#: hrms/hr/doctype/leave_control_panel/leave_control_panel.json
+
+#: hrms/hr/doctype/shift_assignment_tool/shift_assignment_tool.json
+
+#: hrms/hr/doctype/staffing_plan_detail/staffing_plan_detail.json
+
+#: hrms/hr/report/appraisal_overview/appraisal_overview.js:35
+
+#: hrms/hr/report/appraisal_overview/appraisal_overview.py:30
+
+#: hrms/hr/report/employee_analytics/employee_analytics.py:35
+
+#: hrms/hr/report/employee_birthday/employee_birthday.py:26
+
+#: hrms/hr/report/employee_exits/employee_exits.js:33
+
+#: hrms/hr/report/employee_exits/employee_exits.py:72
+
+#: hrms/hr/report/recruitment_analytics/recruitment_analytics.py:58
+
+#: hrms/hr/workspace/overview/overview.json
+
+#: hrms/payroll/doctype/bulk_salary_structure_assignment/bulk_salary_structure_assignment.json
+
+#: hrms/payroll/doctype/gratuity/gratuity.json
+
+#: hrms/payroll/doctype/payroll_employee_detail/payroll_employee_detail.json
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.json
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+#: hrms/payroll/doctype/salary_structure_assignment/salary_structure_assignment.json
+
+#: hrms/payroll/report/income_tax_computation/income_tax_computation.py:607
+
+#: hrms/payroll/report/salary_register/salary_register.js:70
+
+#: hrms/payroll/report/salary_register/salary_register.py:148
+
+msgid "Designation"
+msgstr ""
+
+
+#. Name of a DocType
+
+#: hrms/hr/doctype/designation_skill/designation_skill.json
+
+msgid "Designation Skill"
+msgstr ""
+
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.py:197
+
+msgid "Designation: {0}"
+msgstr ""
+
+
+#. Label of the details_section (Section Break) field in DocType 'Attendance'
+
+#. Label of the interview_details_section (Section Break) field in DocType
+
+#. 'Interview'
+
+#. Label of the details_section (Section Break) field in DocType 'Interview
+
+#. Feedback'
+
+#. Label of the details_section (Section Break) field in DocType 'Job
+
+#. Applicant'
+
+#. Label of the details (Text Editor) field in DocType 'Job Applicant Source'
+
+#. Label of the staffing_plan_details (Section Break) field in DocType
+
+#. 'Staffing Plan'
+
+#. Label of the employee_and_payroll_tab (Tab Break) field in DocType 'Salary
+
+#. Slip'
+
+#: hrms/hr/doctype/attendance/attendance.json
+
+#: hrms/hr/doctype/interview/interview.json
+
+#: hrms/hr/doctype/interview_feedback/interview_feedback.json
+
+#: hrms/hr/doctype/job_applicant/job_applicant.json
+
+#: hrms/hr/doctype/job_applicant_source/job_applicant_source.json
+
+#: hrms/hr/doctype/staffing_plan/staffing_plan.json
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+#: hrms/templates/emails/training_event.html:4
+
+msgid "Details"
+msgstr ""
+
+
+#. Label of the details_of_sponsor (Data) field in DocType 'Travel Request'
+
+#: hrms/hr/doctype/travel_request/travel_request.json
+
+msgid "Details of Sponsor (Name, Location)"
+msgstr ""
+
+
+#. Label of the determine_check_in_and_check_out (Select) field in DocType
+
+#. 'Shift Type'

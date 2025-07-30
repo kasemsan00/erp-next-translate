@@ -1,0 +1,515 @@
+msgid ""
+
+#: hrms/hr/doctype/shift_type/shift_type.json
+
+msgid "Determine Check-in and Check-out"
+msgstr ""
+
+
+#. Label of the disable (Check) field in DocType 'Gratuity Rule'
+
+#: hrms/payroll/doctype/gratuity_rule/gratuity_rule.json
+
+msgid "Disable"
+msgstr ""
+
+
+#. Label of the disable_rounded_total (Check) field in DocType 'Payroll
+
+#. Settings'
+
+#: hrms/payroll/doctype/payroll_settings/payroll_settings.json
+
+msgid "Disable Rounded Total"
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.py:111
+
+msgid "Disable {0} for the {1} component, to prevent the amount from being deducted twice, as its formula already uses a payment-days-based component."
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_type/leave_type.py:39
+
+msgid "Disable {0} or {1} to proceed."
+msgstr ""
+
+
+#. Label of the disabled (Check) field in DocType 'Additional Salary'
+
+#. Label of the disabled (Check) field in DocType 'Income Tax Slab'
+
+#. Label of the disabled (Check) field in DocType 'Salary Component'
+
+#: hrms/payroll/doctype/additional_salary/additional_salary.json
+
+#: hrms/payroll/doctype/income_tax_slab/income_tax_slab.json
+
+#: hrms/payroll/doctype/salary_component/salary_component.json
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.js:286
+
+msgid "Disabled"
+msgstr ""
+
+
+#: frontend/src/views/AppSettings.vue:40
+
+msgid "Disabling Push Notifications..."
+msgstr ""
+
+
+#: frontend/src/components/WorkflowActionSheet.vue:111
+
+msgid "Dismiss"
+msgstr ""
+
+
+#. Label of the pro_rata_dispensed_amount (Currency) field in DocType 'Employee
+
+#. Benefit Application'
+
+#: hrms/payroll/doctype/employee_benefit_application/employee_benefit_application.json
+
+msgid "Dispensed Amount (Pro-rated)"
+msgstr ""
+
+
+#. Label of the do_not_include_in_total (Check) field in DocType 'Salary
+
+#. Component'
+
+#: hrms/payroll/doctype/salary_component/salary_component.json
+
+msgid "Do Not Include in Total"
+msgstr ""
+
+
+#. Label of the do_not_include_in_total (Check) field in DocType 'Salary
+
+#. Detail'
+
+#: hrms/payroll/doctype/salary_detail/salary_detail.json
+
+msgid "Do not include in total"
+msgstr ""
+
+
+#: hrms/hr/doctype/goal/goal.js:116
+
+msgid "Do you still want to proceed?"
+msgstr ""
+
+
+#: hrms/hr/doctype/interview/interview.py:68
+
+msgid "Do you want to update the Job Applicant {0} as {1} based on this interview result?"
+msgstr ""
+
+
+#: hrms/payroll/report/salary_register/salary_register.js:48
+
+msgid "Document Status"
+msgstr ""
+
+
+#: frontend/src/components/RequestActionSheet.vue:292
+
+msgid "Document {0} failed!"
+msgstr ""
+
+
+#. Option for the 'Travel Type' (Select) field in DocType 'Travel Request'
+
+#: hrms/hr/doctype/travel_request/travel_request.json
+
+msgid "Domestic"
+msgstr ""
+
+
+#: frontend/src/views/salary_slip/Detail.vue:39
+
+msgid "Download PDF"
+msgstr "ดาวน์โหลด PDF"
+
+
+#. Label of the download_template (Section Break) field in DocType 'Upload
+
+#. Attendance'
+
+#: hrms/hr/doctype/upload_attendance/upload_attendance.json
+
+msgid "Download Template"
+msgstr "ดาวน์โหลดเทมเพลต"
+
+
+#. Option for the 'Status' (Select) field in DocType 'Employee Advance'
+
+#. Option for the 'Approval Status' (Select) field in DocType 'Expense Claim'
+
+#. Option for the 'Status' (Select) field in DocType 'Expense Claim'
+
+#. Option for the 'Status' (Select) field in DocType 'Leave Encashment'
+
+#. Option for the 'Status' (Select) field in DocType 'Shift Request'
+
+#. Option for the 'Status' (Select) field in DocType 'Gratuity'
+
+#. Option for the 'Status' (Select) field in DocType 'Payroll Entry'
+
+#. Option for the 'Status' (Select) field in DocType 'Salary Slip'
+
+#. Option for the 'Status' (Select) field in DocType 'Salary Withholding'
+
+#: frontend/src/views/employee_advance/List.vue:42
+
+#: hrms/hr/doctype/employee_advance/employee_advance.json
+
+#: hrms/hr/doctype/expense_claim/expense_claim.json
+
+#: hrms/hr/doctype/leave_encashment/leave_encashment.json
+
+#: hrms/hr/doctype/shift_request/shift_request.json
+
+#: hrms/payroll/doctype/gratuity/gratuity.json
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.json
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+#: hrms/payroll/doctype/salary_withholding/salary_withholding.json
+
+msgid "Draft"
+msgstr "ร่าง"
+
+
+#. Label of a Link in the Expense Claims Workspace
+
+#: hrms/hr/workspace/expense_claims/expense_claims.json
+
+msgid "Driver"
+msgstr "คนขับ"
+
+
+#: hrms/hr/doctype/attendance/attendance.py:76
+
+msgid "Duplicate Attendance"
+msgstr ""
+
+
+#: hrms/hr/doctype/appraisal/appraisal.py:62
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.py:96
+
+msgid "Duplicate Entry"
+msgstr "รายการซ้ำ"
+
+
+#: hrms/hr/doctype/job_requisition/job_requisition.py:35
+
+msgid "Duplicate Job Requisition"
+msgstr ""
+
+
+#: hrms/payroll/doctype/additional_salary/additional_salary.py:157
+
+msgid "Duplicate Overwritten Salary"
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_withholding/salary_withholding.py:43
+
+msgid "Duplicate Salary Withholding"
+msgstr ""
+
+
+#. Label of the duration (Int) field in DocType 'Employee Boarding Activity'
+
+#: hrms/hr/doctype/employee_boarding_activity/employee_boarding_activity.json
+
+msgid "Duration (Days)"
+msgstr "ระยะเวลา (วัน)"
+
+
+#: hrms/public/js/utils/index.js:208
+
+msgid "ERROR({0}): {1}"
+msgstr ""
+
+
+#. Label of the early_exit (Check) field in DocType 'Attendance'
+
+#. Label of the early_exit (Check) field in DocType 'Employee Attendance Tool'
+
+#: hrms/hr/doctype/attendance/attendance.json
+
+#: hrms/hr/doctype/employee_attendance_tool/employee_attendance_tool.json
+
+#: hrms/hr/report/shift_attendance/shift_attendance.js:53
+
+msgid "Early Exit"
+msgstr ""
+
+
+#: hrms/hr/report/shift_attendance/shift_attendance.py:91
+
+msgid "Early Exit By"
+msgstr ""
+
+
+#. Label of the early_exit_grace_period (Int) field in DocType 'Shift Type'
+
+#: hrms/hr/doctype/shift_type/shift_type.json
+
+msgid "Early Exit Grace Period"
+msgstr ""
+
+
+#: hrms/hr/report/shift_attendance/shift_attendance.py:186
+
+msgid "Early Exits"
+msgstr ""
+
+
+#. Label of the earned_leave (Section Break) field in DocType 'Leave Type'
+
+#: hrms/hr/doctype/leave_type/leave_type.json
+
+msgid "Earned Leave"
+msgstr ""
+
+
+#. Label of the earned_leave_frequency (Select) field in DocType 'Leave Type'
+
+#: hrms/hr/doctype/leave_type/leave_type.json
+
+msgid "Earned Leave Frequency"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_allocation/leave_allocation.py:141
+
+msgid "Earned Leaves"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_type/leave_type.py:34
+
+msgid "Earned Leaves are allocated as per the configured frequency via scheduler."
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_allocation/leave_allocation.py:144
+
+msgid "Earned Leaves are auto-allocated via scheduler based on the annual allocation set in the Leave Policy: {0}"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_type/leave_type.js:47
+
+msgid "Earned Leaves are leaves earned by an Employee after working with the company for a certain amount of time. Enabling this will allocate leaves on pro-rata basis by automatically updating Leave Allocation for leaves of this type at intervals set by 'Earned Leave Frequency."
+msgstr ""
+
+
+#. Option for the 'Type' (Select) field in DocType 'Salary Component'
+
+#: hrms/payroll/doctype/salary_component/salary_component.json
+
+#: hrms/payroll/report/salary_register/salary_register.py:85
+
+#: hrms/payroll/report/salary_register/salary_register.py:91
+
+msgid "Earning"
+msgstr ""
+
+
+#. Label of the earning_component (Link) field in DocType 'Leave Type'
+
+#. Label of the earning_component (Link) field in DocType 'Employee Benefit
+
+#. Application Detail'
+
+#: hrms/hr/doctype/leave_type/leave_type.json
+
+#: hrms/payroll/doctype/employee_benefit_application_detail/employee_benefit_application_detail.json
+
+msgid "Earning Component"
+msgstr ""
+
+
+#: hrms/payroll/doctype/additional_salary/additional_salary.py:111
+
+msgid "Earning Salary Component is required for Employee Referral Bonus."
+msgstr ""
+
+
+#. Label of the earnings (Table) field in DocType 'Salary Slip'
+
+#. Label of the earnings (Table) field in DocType 'Salary Structure'
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.json
+
+msgid "Earnings"
+msgstr ""
+
+
+#. Label of the earnings_and_deductions_tab (Tab Break) field in DocType
+
+#. 'Salary Slip'
+
+#. Label of the earning_deduction (Tab Break) field in DocType 'Salary
+
+#. Structure'
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.json
+
+msgid "Earnings & Deductions"
+msgstr ""
+
+
+#: hrms/public/js/templates/node_card.html:17
+
+msgid "Edit"
+msgstr "แก้ไข"
+
+
+#: frontend/src/components/ExpensesTable.vue:213
+
+msgid "Edit Expense Item"
+msgstr ""
+
+
+#: frontend/src/components/ExpenseTaxesTable.vue:221
+
+msgid "Edit Expense Tax"
+msgstr ""
+
+
+#. Label of the effective_from (Date) field in DocType 'Leave Policy
+
+#. Assignment'
+
+#: hrms/hr/doctype/leave_policy_assignment/leave_policy_assignment.json
+
+msgid "Effective From"
+msgstr ""
+
+
+#. Label of the effective_to (Date) field in DocType 'Leave Policy Assignment'
+
+#: hrms/hr/doctype/leave_policy_assignment/leave_policy_assignment.json
+
+msgid "Effective To"
+msgstr ""
+
+
+#. Label of the effective_from (Date) field in DocType 'Income Tax Slab'
+
+#: hrms/payroll/doctype/income_tax_slab/income_tax_slab.json
+
+msgid "Effective from"
+msgstr ""
+
+
+#. Label of the email (Data) field in DocType 'Employee Referral'
+
+#. Label of the email_section (Section Break) field in DocType 'Payroll
+
+#. Settings'
+
+#: frontend/src/views/Login.vue:15
+
+#: hrms/hr/doctype/employee_referral/employee_referral.json
+
+#: hrms/payroll/doctype/payroll_settings/payroll_settings.json
+
+msgid "Email"
+msgstr "อีเมล"
+
+
+#. Label of the email_id (Data) field in DocType 'Job Applicant'
+
+#: hrms/hr/doctype/job_applicant/job_applicant.json
+
+msgid "Email Address"
+msgstr "ที่อยู่อีเมล"
+
+
+#. Label of the email (Data) field in DocType 'Exit Interview'
+
+#: hrms/hr/doctype/exit_interview/exit_interview.json
+
+msgid "Email ID"
+msgstr "รหัสอีเมล"
+
+
+#. Label of the email_salary_slip_to_employee (Check) field in DocType 'Payroll
+
+#. Settings'
+
+#: hrms/payroll/doctype/payroll_settings/payroll_settings.json
+
+msgid "Email Salary Slip to Employee"
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_slip/salary_slip_list.js:13
+
+msgid "Email Salary Slips"
+msgstr ""
+
+
+#. Label of the email_sent_to (Code) field in DocType 'Daily Work Summary'
+
+#: hrms/hr/doctype/daily_work_summary/daily_work_summary.json
+
+msgid "Email Sent To"
+msgstr ""
+
+
+#. Label of the email_template (Link) field in DocType 'Payroll Settings'
+
+#: hrms/payroll/doctype/payroll_settings/payroll_settings.json
+
+msgid "Email Template"
+msgstr "แม่แบบอีเมล"
+
+
+#: hrms/hr/doctype/leave_application/leave_application.py:699
+
+msgid "Email sent to {0}"
+msgstr "ส่งอีเมลถึง {0}"
+
+
+#. Description of the 'Email Salary Slip to Employee' (Check) field in DocType
+
+#. 'Payroll Settings'
+
+#: hrms/payroll/doctype/payroll_settings/payroll_settings.json
+
+msgid "Emails salary slip to employee based on preferred email selected in Employee"
+msgstr ""
+
+
+#. Label of the employee (Link) field in DocType 'Appraisal'
+
+#. Name of a role
+
+#. Label of the employee (Link) field in DocType 'Appraisee'
+
+#. Label of the employee (Link) field in DocType 'Attendance'
+
+#. Label of the employee (Link) field in DocType 'Attendance Request'
+
+#. Label of the employee (Link) field in DocType 'Compensatory Leave Request'
+
+#. Label of the employee (Link) field in DocType 'Employee Advance'
+
+#. Label of the employee (Link) field in DocType 'Employee Checkin'
+
+#. Label of the employee (Link) field in DocType 'Employee Onboarding'

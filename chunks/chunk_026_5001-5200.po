@@ -1,0 +1,501 @@
+msgid ""
+
+#: hrms/setup.py:450 hrms/setup.py:491
+
+msgid "Interview Reminder"
+msgstr ""
+
+
+#. Label of the interview_reminder_template (Link) field in DocType 'HR
+
+#. Settings'
+
+#: hrms/hr/doctype/hr_settings/hr_settings.json
+
+msgid "Interview Reminder Notification Template"
+msgstr ""
+
+
+#: hrms/hr/doctype/interview/interview.py:122
+
+msgid "Interview Rescheduled successfully"
+msgstr ""
+
+
+#. Label of the interview_round (Link) field in DocType 'Interview'
+
+#. Label of the interview_round (Link) field in DocType 'Interview Feedback'
+
+#. Name of a DocType
+
+#. Label of a Link in the Recruitment Workspace
+
+#: hrms/hr/doctype/interview/interview.json
+
+#: hrms/hr/doctype/interview_feedback/interview_feedback.json
+
+#: hrms/hr/doctype/interview_round/interview_round.json
+
+#: hrms/hr/doctype/job_applicant/job_applicant_dashboard.html:8
+
+#: hrms/hr/workspace/recruitment/recruitment.json
+
+msgid "Interview Round"
+msgstr ""
+
+
+#: hrms/hr/doctype/job_applicant/job_applicant.py:72
+
+msgid "Interview Round {0} is only applicable for the Designation {1}"
+msgstr ""
+
+
+#: hrms/hr/doctype/interview/interview.py:52
+
+msgid "Interview Round {0} is only for Designation {1}. Job Applicant has applied for the role {2}"
+msgstr ""
+
+
+#: hrms/hr/doctype/interview_feedback/interview_feedback.py:40
+
+msgid "Interview Scheduled Date"
+msgstr ""
+
+
+#: hrms/hr/report/employee_exits/employee_exits.js:51
+
+#: hrms/hr/report/employee_exits/employee_exits.py:46
+
+msgid "Interview Status"
+msgstr ""
+
+
+#. Label of the interview_summary (Text Editor) field in DocType 'Exit
+
+#. Interview'
+
+#. Label of the section_break_13 (Section Break) field in DocType 'Interview'
+
+#: hrms/hr/doctype/exit_interview/exit_interview.json
+
+#: hrms/hr/doctype/interview/interview.json
+
+#: hrms/hr/doctype/job_applicant/job_applicant.js:77
+
+msgid "Interview Summary"
+msgstr ""
+
+
+#. Label of the interview_type (Link) field in DocType 'Interview Round'
+
+#. Name of a DocType
+
+#. Label of a Link in the Recruitment Workspace
+
+#: hrms/hr/doctype/interview_round/interview_round.json
+
+#: hrms/hr/doctype/interview_type/interview_type.json
+
+#: hrms/hr/workspace/recruitment/recruitment.json
+
+msgid "Interview Type"
+msgstr ""
+
+
+#: hrms/hr/doctype/interview/interview.py:103
+
+msgid "Interview: {0} Rescheduled"
+msgstr ""
+
+
+#. Name of a role
+
+#. Label of the interviewer (Link) field in DocType 'Interview Detail'
+
+#. Label of the interviewer (Link) field in DocType 'Interview Feedback'
+
+#. Name of a DocType
+
+#: hrms/hr/doctype/interview/interview.json
+
+#: hrms/hr/doctype/interview_detail/interview_detail.json
+
+#: hrms/hr/doctype/interview_feedback/interview_feedback.json
+
+#: hrms/hr/doctype/interview_round/interview_round.json
+
+#: hrms/hr/doctype/interviewer/interviewer.json
+
+msgid "Interviewer"
+msgstr ""
+
+
+#. Label of the interviewers (Table MultiSelect) field in DocType 'Exit
+
+#. Interview'
+
+#. Label of the interview_details (Table) field in DocType 'Interview'
+
+#. Label of the interviewers (Table MultiSelect) field in DocType 'Interview
+
+#. Round'
+
+#: hrms/hr/doctype/exit_interview/exit_interview.json
+
+#: hrms/hr/doctype/interview/interview.json
+
+#: hrms/hr/doctype/interview_round/interview_round.json
+
+msgid "Interviewers"
+msgstr ""
+
+
+#. Label of a Card Break in the Recruitment Workspace
+
+#: hrms/hr/workspace/recruitment/recruitment.json
+
+msgid "Interviews"
+msgstr ""
+
+
+#. Label of the introduction (Long Text) field in DocType 'Appointment Letter'
+
+#. Label of the introduction (Long Text) field in DocType 'Appointment Letter
+
+#. Template'
+
+#. Label of the introduction (Text Editor) field in DocType 'Training Event'
+
+#: hrms/hr/doctype/appointment_letter/appointment_letter.json
+
+#: hrms/hr/doctype/appointment_letter_template/appointment_letter_template.json
+
+#: hrms/hr/doctype/training_event/training_event.json
+
+msgid "Introduction"
+msgstr "การแนะนำ"
+
+
+#. Option for the 'Status' (Select) field in DocType 'Employee Grievance'
+
+#: hrms/hr/doctype/employee_grievance/employee_grievance.json
+
+msgid "Invalid"
+msgstr "ไม่ถูกต้อง"
+
+
+#: hrms/hr/doctype/shift_assignment_tool/shift_assignment_tool.py:183
+
+msgid "Invalid Action"
+msgstr "การกระทำไม่ถูกต้อง"
+
+
+#: hrms/payroll/doctype/additional_salary/additional_salary.py:181
+
+msgid "Invalid Additional Salary"
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_structure_assignment/salary_structure_assignment.py:142
+
+msgid "Invalid Cost Center"
+msgstr "ศูนย์ต้นทุนไม่ถูกต้อง"
+
+
+#: hrms/hr/doctype/leave_allocation/leave_allocation.py:326
+
+msgid "Invalid Dates"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_ledger_entry/leave_ledger_entry.py:25
+
+msgid "Invalid Leave Ledger Entry"
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.py:319
+
+msgid "Invalid Payroll Payable Account. The account currency must be {0} or {1}"
+msgstr ""
+
+
+#: hrms/hr/doctype/shift_type/shift_type.py:39
+
+#: hrms/hr/doctype/shift_type/shift_type.py:48
+
+msgid "Invalid Shift Times"
+msgstr ""
+
+
+#: hrms/hr/doctype/expense_claim/expense_claim.py:626
+
+msgid "Invalid parameters provided. Please pass the required arguments."
+msgstr ""
+
+
+#. Option for the 'Status' (Select) field in DocType 'Employee Grievance'
+
+#: hrms/hr/doctype/employee_grievance/employee_grievance.json
+
+msgid "Investigated"
+msgstr ""
+
+
+#. Label of the investigation_details_section (Section Break) field in DocType
+
+#. 'Employee Grievance'
+
+#: hrms/hr/doctype/employee_grievance/employee_grievance.json
+
+msgid "Investigation Details"
+msgstr ""
+
+
+#. Option for the 'Status' (Select) field in DocType 'Training Event Employee'
+
+#: hrms/hr/doctype/training_event_employee/training_event_employee.json
+
+msgid "Invited"
+msgstr ""
+
+
+#. Label of the invoice (Data) field in DocType 'Vehicle Log'
+
+#: hrms/hr/doctype/vehicle_log/vehicle_log.json
+
+msgid "Invoice Ref"
+msgstr ""
+
+
+#. Label of the is_active (Check) field in DocType 'Leave Period'
+
+#. Label of the is_active (Check) field in DocType 'Employee Tax Exemption
+
+#. Category'
+
+#. Label of the is_active (Check) field in DocType 'Employee Tax Exemption Sub
+
+#. Category'
+
+#. Label of the is_active (Select) field in DocType 'Salary Structure'
+
+#: hrms/hr/doctype/leave_period/leave_period.json
+
+#: hrms/payroll/doctype/employee_tax_exemption_category/employee_tax_exemption_category.json
+
+#: hrms/payroll/doctype/employee_tax_exemption_sub_category/employee_tax_exemption_sub_category.json
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.json
+
+msgid "Is Active"
+msgstr ""
+
+
+#. Label of the is_applicable_for_referral_bonus (Check) field in DocType
+
+#. 'Employee Referral'
+
+#: hrms/hr/doctype/employee_referral/employee_referral.json
+
+msgid "Is Applicable for Referral Bonus"
+msgstr ""
+
+
+#. Label of the is_carry_forward (Check) field in DocType 'Leave Ledger Entry'
+
+#. Label of the is_carry_forward (Check) field in DocType 'Leave Type'
+
+#: hrms/hr/doctype/leave_ledger_entry/leave_ledger_entry.json
+
+#: hrms/hr/doctype/leave_type/leave_type.json
+
+#: hrms/hr/report/leave_ledger/leave_ledger.py:85
+
+msgid "Is Carry Forward"
+msgstr ""
+
+
+#. Label of the is_compensatory (Check) field in DocType 'Leave Type'
+
+#: hrms/hr/doctype/leave_type/leave_type.json
+
+msgid "Is Compensatory"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_type/leave_type.py:40
+
+msgid "Is Compensatory Leave"
+msgstr ""
+
+
+#. Label of the is_default (Select) field in DocType 'Salary Structure'
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.json
+
+msgid "Is Default"
+msgstr ""
+
+
+#. Label of the is_earned_leave (Check) field in DocType 'Leave Type'
+
+#: hrms/hr/doctype/leave_type/leave_type.json
+
+#: hrms/hr/doctype/leave_type/leave_type.py:40
+
+msgid "Is Earned Leave"
+msgstr ""
+
+
+#. Label of the is_expired (Check) field in DocType 'Leave Ledger Entry'
+
+#: hrms/hr/doctype/leave_ledger_entry/leave_ledger_entry.json
+
+#: hrms/hr/report/leave_ledger/leave_ledger.py:91
+
+msgid "Is Expired"
+msgstr ""
+
+
+#. Label of the is_flexible_benefit (Check) field in DocType 'Salary Component'
+
+#. Label of the is_flexible_benefit (Check) field in DocType 'Salary Detail'
+
+#: hrms/payroll/doctype/salary_component/salary_component.json
+
+#: hrms/payroll/doctype/salary_detail/salary_detail.json
+
+msgid "Is Flexible Benefit"
+msgstr ""
+
+
+#. Label of the is_group (Check) field in DocType 'Goal'
+
+#: hrms/hr/doctype/goal/goal.json hrms/hr/doctype/goal/goal_tree.js:51
+
+msgid "Is Group"
+msgstr "เป็นกลุ่ม"
+
+
+#. Label of the is_income_tax_component (Check) field in DocType 'Salary
+
+#. Component'
+
+#: hrms/payroll/doctype/salary_component/salary_component.json
+
+msgid "Is Income Tax Component"
+msgstr ""
+
+
+#. Label of the is_lwp (Check) field in DocType 'Leave Ledger Entry'
+
+#. Label of the is_lwp (Check) field in DocType 'Leave Type'
+
+#: hrms/hr/doctype/leave_ledger_entry/leave_ledger_entry.json
+
+#: hrms/hr/doctype/leave_type/leave_type.json
+
+#: hrms/hr/report/leave_ledger/leave_ledger.py:97
+
+msgid "Is Leave Without Pay"
+msgstr ""
+
+
+#. Label of the is_mandatory (Check) field in DocType 'Training Event Employee'
+
+#: hrms/hr/doctype/training_event_employee/training_event_employee.json
+
+msgid "Is Mandatory"
+msgstr "เป็นสิ่งจำเป็น"
+
+
+#. Label of the is_optional_leave (Check) field in DocType 'Leave Type'
+
+#: hrms/hr/doctype/leave_type/leave_type.json
+
+msgid "Is Optional Leave"
+msgstr ""
+
+
+#. Label of the is_paid (Check) field in DocType 'Expense Claim'
+
+#: hrms/hr/doctype/expense_claim/expense_claim.json
+
+msgid "Is Paid"
+msgstr "ชำระแล้ว"
+
+
+#. Label of the is_ppl (Check) field in DocType 'Leave Type'
+
+#: hrms/hr/doctype/leave_type/leave_type.json
+
+msgid "Is Partially Paid Leave"
+msgstr ""
+
+
+#. Label of the is_recurring (Check) field in DocType 'Additional Salary'
+
+#: hrms/payroll/doctype/additional_salary/additional_salary.json
+
+msgid "Is Recurring"
+msgstr ""
+
+
+#. Label of the is_recurring_additional_salary (Check) field in DocType 'Salary
+
+#. Detail'
+
+#: hrms/payroll/doctype/salary_detail/salary_detail.json
+
+msgid "Is Recurring Additional Salary"
+msgstr ""
+
+
+#. Label of the is_salary_released (Check) field in DocType 'Salary Withholding
+
+#. Cycle'
+
+#: hrms/payroll/doctype/salary_withholding_cycle/salary_withholding_cycle.json
+
+msgid "Is Salary Released"
+msgstr ""
+
+
+#. Label of the is_salary_withheld (Check) field in DocType 'Payroll Employee
+
+#. Detail'
+
+#: hrms/payroll/doctype/payroll_employee_detail/payroll_employee_detail.json
+
+msgid "Is Salary Withheld"
+msgstr ""
+
+
+#. Label of the is_tax_applicable (Check) field in DocType 'Salary Component'
+
+#. Label of the is_tax_applicable (Check) field in DocType 'Salary Detail'
+
+#: hrms/payroll/doctype/salary_component/salary_component.json
+
+#: hrms/payroll/doctype/salary_detail/salary_detail.json
+
+msgid "Is Tax Applicable"
+msgstr ""
+
+
+#: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.js:12
+
+#: hrms/public/js/salary_slip_deductions_report_filters.js:19
+
+msgid "Jan"
+msgstr ""
+
+
+#. Label of the job_applicant (Link) field in DocType 'Appointment Letter'
+
+#. Label of the job_applicant (Link) field in DocType 'Employee Onboarding'
+
+#. Label of the job_applicant (Link) field in DocType 'Interview'
+
+#. Label of the job_applicant (Link) field in DocType 'Interview Feedback'

@@ -1,0 +1,517 @@
+msgid ""
+
+msgid "Expected Average Rating"
+msgstr ""
+
+
+#. Label of the expected_by (Date) field in DocType 'Job Requisition'
+
+#: hrms/hr/doctype/job_requisition/job_requisition.json
+
+msgid "Expected By"
+msgstr ""
+
+
+#. Label of the expected_compensation (Currency) field in DocType 'Job
+
+#. Requisition'
+
+#: hrms/hr/doctype/job_requisition/job_requisition.json
+
+msgid "Expected Compensation"
+msgstr ""
+
+
+#. Name of a DocType
+
+#: hrms/hr/doctype/expected_skill_set/expected_skill_set.json
+
+msgid "Expected Skill Set"
+msgstr ""
+
+
+#. Label of the expected_skill_set (Table) field in DocType 'Interview Round'
+
+#: hrms/hr/doctype/interview_round/interview_round.json
+
+msgid "Expected Skillset"
+msgstr ""
+
+
+#. Label of the expense_amount (Currency) field in DocType 'Vehicle Service'
+
+#: hrms/hr/doctype/vehicle_service/vehicle_service.json
+
+#: hrms/overrides/dashboard_overrides.py:34
+
+msgid "Expense"
+msgstr "ค่าใช้จ่าย"
+
+
+#. Label of the expense_account (Link) field in DocType 'Leave Encashment'
+
+#. Label of the expense_account (Link) field in DocType 'Gratuity'
+
+#: hrms/hr/doctype/leave_encashment/leave_encashment.json
+
+#: hrms/payroll/doctype/gratuity/gratuity.json
+
+msgid "Expense Account"
+msgstr "บัญชีค่าใช้จ่าย"
+
+
+#. Name of a role
+
+#. Label of the expense_approver (Link) field in DocType 'Expense Claim'
+
+#: hrms/hr/doctype/employee_advance/employee_advance.json
+
+#: hrms/hr/doctype/expense_claim/expense_claim.json hrms/setup.py:153
+
+#: hrms/setup.py:241
+
+msgid "Expense Approver"
+msgstr ""
+
+
+#. Label of the expense_approver_mandatory_in_expense_claim (Check) field in
+
+#. DocType 'HR Settings'
+
+#: hrms/hr/doctype/hr_settings/hr_settings.json
+
+msgid "Expense Approver Mandatory In Expense Claim"
+msgstr ""
+
+
+#. Name of a DocType
+
+#. Label of a Link in the Expense Claims Workspace
+
+#. Label of a shortcut in the Expense Claims Workspace
+
+#. Label of a Card Break in the Overview Workspace
+
+#. Label of a Link in the Overview Workspace
+
+#: hrms/hr/doctype/employee_advance/employee_advance.js:62
+
+#: hrms/hr/doctype/expense_claim/expense_claim.json
+
+#: hrms/hr/doctype/vehicle_log/vehicle_log.js:17
+
+#: hrms/hr/report/unpaid_expense_claim/unpaid_expense_claim.py:20
+
+#: hrms/hr/workspace/expense_claims/expense_claims.json
+
+#: hrms/hr/workspace/overview/overview.json
+
+#: hrms/public/js/erpnext/delivery_trip.js:8
+
+msgid "Expense Claim"
+msgstr "การเรียกร้องค่าใช้จ่าย"
+
+
+#. Name of a DocType
+
+#: hrms/hr/doctype/expense_claim_account/expense_claim_account.json
+
+msgid "Expense Claim Account"
+msgstr ""
+
+
+#. Name of a DocType
+
+#: hrms/hr/doctype/expense_claim_advance/expense_claim_advance.json
+
+msgid "Expense Claim Advance"
+msgstr ""
+
+
+#. Name of a DocType
+
+#: hrms/hr/doctype/expense_claim_detail/expense_claim_detail.json
+
+msgid "Expense Claim Detail"
+msgstr ""
+
+
+#: frontend/src/components/ExpenseClaimSummary.vue:3
+
+msgid "Expense Claim Summary"
+msgstr ""
+
+
+#. Label of the expense_type (Link) field in DocType 'Expense Claim Detail'
+
+#. Name of a DocType
+
+#. Label of the expense_type (Data) field in DocType 'Expense Claim Type'
+
+#. Label of a Link in the Expense Claims Workspace
+
+#: hrms/hr/doctype/expense_claim/expense_claim.py:500
+
+#: hrms/hr/doctype/expense_claim_detail/expense_claim_detail.json
+
+#: hrms/hr/doctype/expense_claim_type/expense_claim_type.json
+
+#: hrms/hr/workspace/expense_claims/expense_claims.json
+
+msgid "Expense Claim Type"
+msgstr ""
+
+
+#: hrms/hr/doctype/vehicle_log/vehicle_log.py:48
+
+msgid "Expense Claim for Vehicle Log {0}"
+msgstr ""
+
+
+#: hrms/hr/doctype/vehicle_log/vehicle_log.py:36
+
+msgid "Expense Claim {0} already exists for the Vehicle Log"
+msgstr ""
+
+
+#. Name of a Workspace
+
+#. Label of a chart in the Expense Claims Workspace
+
+#: frontend/src/views/expense_claim/Dashboard.vue:2
+
+#: hrms/hr/workspace/expense_claims/expense_claims.json
+
+msgid "Expense Claims"
+msgstr ""
+
+
+#. Label of the expense_date (Date) field in DocType 'Expense Claim Detail'
+
+#: hrms/hr/doctype/expense_claim_detail/expense_claim_detail.json
+
+msgid "Expense Date"
+msgstr ""
+
+
+#: frontend/src/components/ExpensesTable.vue:211
+
+msgid "Expense Item"
+msgstr ""
+
+
+#. Label of the section_break_9 (Section Break) field in DocType 'Employee
+
+#. Benefit Claim'
+
+#: hrms/payroll/doctype/employee_benefit_claim/employee_benefit_claim.json
+
+msgid "Expense Proof"
+msgstr ""
+
+
+#: frontend/src/components/ExpenseTaxesTable.vue:219
+
+msgid "Expense Tax"
+msgstr ""
+
+
+#. Label of the taxes (Table) field in DocType 'Expense Claim'
+
+#. Name of a DocType
+
+#: hrms/hr/doctype/expense_claim/expense_claim.json
+
+#: hrms/hr/doctype/expense_taxes_and_charges/expense_taxes_and_charges.json
+
+msgid "Expense Taxes and Charges"
+msgstr ""
+
+
+#. Label of the expense_type (Link) field in DocType 'Travel Request Costing'
+
+#: hrms/hr/doctype/travel_request_costing/travel_request_costing.json
+
+msgid "Expense Type"
+msgstr ""
+
+
+#. Label of the expenses (Table) field in DocType 'Expense Claim'
+
+#: frontend/src/components/BottomTabs.vue:58
+
+#: frontend/src/components/ExpensesTable.vue:4
+
+#: hrms/hr/doctype/expense_claim/expense_claim.json
+
+msgid "Expenses"
+msgstr "ค่าใช้จ่าย"
+
+
+#. Label of the expenses_and_advances_tab (Tab Break) field in DocType 'Expense
+
+#. Claim'
+
+#: hrms/hr/doctype/expense_claim/expense_claim.json
+
+msgid "Expenses & Advances"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_allocation/leave_allocation.js:39
+
+msgid "Expire Allocation"
+msgstr ""
+
+
+#. Label of the expire_carry_forwarded_leaves_after_days (Int) field in DocType
+
+#. 'Leave Type'
+
+#: hrms/hr/doctype/leave_type/leave_type.json
+
+msgid "Expire Carry Forwarded Leaves (Days)"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_allocation/leave_allocation.py:493
+
+msgid "Expire Leaves"
+msgstr ""
+
+
+#. Label of the expired (Check) field in DocType 'Leave Allocation'
+
+#: hrms/hr/doctype/leave_allocation/leave_allocation.json
+
+#: hrms/hr/doctype/leave_allocation/leave_allocation_list.js:8
+
+msgid "Expired"
+msgstr "หมดอายุ"
+
+
+#. Label of the expired_leaves (Float) field in DocType 'Salary Slip Leave'
+
+#: hrms/payroll/doctype/salary_slip_leave/salary_slip_leave.json
+
+msgid "Expired Leave(s)"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_application/leave_application_dashboard.html:8
+
+msgid "Expired Leaves"
+msgstr ""
+
+
+#. Label of the explanation (Small Text) field in DocType 'Attendance Request'
+
+#: hrms/hr/doctype/attendance_request/attendance_request.json
+
+msgid "Explanation"
+msgstr ""
+
+
+#: hrms/public/js/hierarchy_chart/hierarchy_chart_desktop.js:116
+
+msgid "Export"
+msgstr "ส่งออก"
+
+
+#: hrms/public/js/hierarchy_chart/hierarchy_chart_desktop.js:137
+
+msgid "Exporting..."
+msgstr ""
+
+
+#. Option for the 'Status' (Select) field in DocType 'Payroll Entry'
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.json
+
+msgid "Failed"
+msgstr ""
+
+
+#: hrms/hr/utils.py:852
+
+msgid "Failed to create/submit {0} for employees:"
+msgstr ""
+
+
+#: hrms/overrides/company.py:36
+
+msgid "Failed to delete defaults for country {0}."
+msgstr ""
+
+
+#: hrms/api/__init__.py:765
+
+msgid "Failed to download Salary Slip PDF"
+msgstr ""
+
+
+#: hrms/hr/doctype/interview/interview.py:117
+
+msgid "Failed to send the Interview Reschedule notification. Please configure your email account."
+msgstr ""
+
+
+#: hrms/overrides/company.py:49
+
+msgid "Failed to setup defaults for country {0}."
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_policy_assignment/leave_policy_assignment.py:332
+
+msgid "Failed to submit some leave policy assignments:"
+msgstr ""
+
+
+#: hrms/hr/doctype/interview/interview.py:205
+
+msgid "Failed to update the Job Applicant status"
+msgstr ""
+
+
+#: hrms/public/js/utils/index.js:143
+
+msgid "Failed to {0} {1} for employees:"
+msgstr ""
+
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.py:1492
+
+#: hrms/public/js/utils/index.js:149
+
+msgid "Failure"
+msgstr "ความล้มเหลว"
+
+
+#. Label of the failure_details_section (Tab Break) field in DocType 'Payroll
+
+#. Entry'
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.json
+
+msgid "Failure Details"
+msgstr ""
+
+
+#: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.js:13
+
+#: hrms/public/js/salary_slip_deductions_report_filters.js:20
+
+msgid "Feb"
+msgstr ""
+
+
+#. Label of the feedback_tab (Tab Break) field in DocType 'Appraisal'
+
+#. Label of the feedback_tab (Tab Break) field in DocType 'Employee Performance
+
+#. Feedback'
+
+#. Label of the feedback_tab (Tab Break) field in DocType 'Interview'
+
+#. Label of the section_break_7 (Section Break) field in DocType 'Interview
+
+#. Feedback'
+
+#. Label of the feedback (Text) field in DocType 'Training Feedback'
+
+#: hrms/hr/doctype/appraisal/appraisal.json
+
+#: hrms/hr/doctype/employee_performance_feedback/employee_performance_feedback.json
+
+#: hrms/hr/doctype/interview/interview.js:155
+
+#: hrms/hr/doctype/interview/interview.json
+
+#: hrms/hr/doctype/interview_feedback/interview_feedback.json
+
+#: hrms/hr/doctype/training_feedback/training_feedback.json
+
+msgid "Feedback"
+msgstr "ข้อเสนอแนะ"
+
+
+#: hrms/hr/report/appraisal_overview/appraisal_overview.py:48
+
+msgid "Feedback Count"
+msgstr ""
+
+
+#. Label of the feedback_html (HTML) field in DocType 'Appraisal'
+
+#. Label of the feedback_html (HTML) field in DocType 'Interview'
+
+#: hrms/hr/doctype/appraisal/appraisal.json
+
+#: hrms/hr/doctype/interview/interview.json
+
+msgid "Feedback HTML"
+msgstr ""
+
+
+#. Label of the feedback_ratings (Table) field in DocType 'Employee Performance
+
+#. Feedback'
+
+#: hrms/hr/doctype/employee_performance_feedback/employee_performance_feedback.json
+
+msgid "Feedback Ratings"
+msgstr ""
+
+
+#. Label of the feedback_reminder_notification_template (Link) field in DocType
+
+#. 'HR Settings'
+
+#: hrms/hr/doctype/hr_settings/hr_settings.json
+
+msgid "Feedback Reminder Notification Template"
+msgstr ""
+
+
+#: hrms/hr/report/appraisal_overview/appraisal_overview.py:124
+
+msgid "Feedback Score"
+msgstr ""
+
+
+#. Option for the 'Status' (Select) field in DocType 'Training Event Employee'
+
+#: hrms/hr/doctype/training_event_employee/training_event_employee.json
+
+msgid "Feedback Submitted"
+msgstr ""
+
+
+#: hrms/public/js/templates/interview_feedback.html:14
+
+msgid "Feedback Summary"
+msgstr ""
+
+
+#: hrms/hr/doctype/interview_feedback/interview_feedback.py:52
+
+msgid "Feedback already submitted for the Interview {0}. Please cancel the previous Interview Feedback {1} to continue."
+msgstr ""
+
+
+#: hrms/hr/doctype/training_feedback/training_feedback.py:31
+
+msgid "Feedback cannot be recorded for an absent Employee."
+msgstr ""
+
+
+#: hrms/public/js/performance/performance_feedback.js:120
+
+msgid "Feedback {0} added successfully"
+msgstr ""
+
+
+#. Label of the fetch_geolocation (Button) field in DocType 'Employee Checkin'
+
+#. Label of the fetch_geolocation (Button) field in DocType 'Shift Location'

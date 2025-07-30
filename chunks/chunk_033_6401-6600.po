@@ -1,0 +1,511 @@
+msgid ""
+
+msgid "Open"
+msgstr ""
+
+
+#. Option for the 'Status' (Select) field in DocType 'Job Requisition'
+
+#: hrms/hr/doctype/job_requisition/job_requisition.json
+
+msgid "Open & Approved"
+msgstr ""
+
+
+#: hrms/public/js/templates/feedback_history.html:44
+
+msgid "Open Feedback"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_application/leave_application_email_template.html:30
+
+msgid "Open Now"
+msgstr ""
+
+
+#: hrms/hr/report/employee_leave_balance/employee_leave_balance.py:54
+
+msgid "Opening Balance"
+msgstr ""
+
+
+#. Label of the opening_balances_section (Section Break) field in DocType
+
+#. 'Salary Structure Assignment'
+
+#: hrms/payroll/doctype/salary_structure_assignment/salary_structure_assignment.json
+
+msgid "Opening Balances"
+msgstr ""
+
+
+#: hrms/templates/generators/job_opening.html:38
+
+#: hrms/templates/generators/job_opening.html:218
+
+msgid "Opening closed."
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_application/leave_application.py:607
+
+msgid "Optional Holiday List not set for leave period {0}"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_type/leave_type.js:23
+
+msgid "Optional Leaves are holidays that Employees can choose to avail from a list of holidays published by the company."
+msgstr ""
+
+
+#. Option for the 'Roster Color' (Select) field in DocType 'Shift Type'
+
+#: hrms/hr/doctype/shift_type/shift_type.json
+
+msgid "Orange"
+msgstr "สีส้ม"
+
+
+#: hrms/hr/page/organizational_chart/organizational_chart.js:4
+
+msgid "Organizational Chart"
+msgstr ""
+
+
+#. Label of the sb_other_details (Section Break) field in DocType 'Leave
+
+#. Application'
+
+#. Label of the other_details (Small Text) field in DocType 'Travel Itinerary'
+
+#. Label of the other_details (Text) field in DocType 'Travel Request'
+
+#: hrms/hr/doctype/leave_application/leave_application.json
+
+#: hrms/hr/doctype/travel_itinerary/travel_itinerary.json
+
+#: hrms/hr/doctype/travel_request/travel_request.json
+
+msgid "Other Details"
+msgstr "รายละเอียดอื่นๆ"
+
+
+#. Label of a Card Break in the Overview Workspace
+
+#: hrms/hr/workspace/overview/overview.json
+
+msgid "Other Reports"
+msgstr ""
+
+
+#. Label of the other_settings_section (Section Break) field in DocType
+
+#. 'Payroll Settings'
+
+#: hrms/payroll/doctype/payroll_settings/payroll_settings.json
+
+msgid "Other Settings"
+msgstr "การตั้งค่าอื่นๆ"
+
+
+#. Label of the other_taxes_and_charges (Table) field in DocType 'Income Tax
+
+#. Slab'
+
+#: hrms/payroll/doctype/income_tax_slab/income_tax_slab.json
+
+msgid "Other Taxes and Charges"
+msgstr ""
+
+
+#: hrms/setup.py:328
+
+msgid "Others"
+msgstr ""
+
+
+#. Label of the out_time (Datetime) field in DocType 'Attendance'
+
+#: hrms/hr/doctype/attendance/attendance.json
+
+#: hrms/hr/report/shift_attendance/shift_attendance.py:73
+
+msgid "Out Time"
+msgstr ""
+
+
+#. Description of the 'Total Goal Score' (Float) field in DocType 'Appraisal'
+
+#: hrms/hr/doctype/appraisal/appraisal.json
+
+msgid "Out of 5"
+msgstr ""
+
+
+#. Label of a chart in the Salary Payout Workspace
+
+#: hrms/payroll/workspace/salary_payout/salary_payout.json
+
+msgid "Outgoing Salary"
+msgstr ""
+
+
+#: hrms/hr/report/unpaid_expense_claim/unpaid_expense_claim.py:23
+
+msgid "Outstanding Amount"
+msgstr "จำนวนเงินค้างชำระ"
+
+
+#: hrms/hr/doctype/leave_allocation/leave_allocation.py:292
+
+msgid "Over Allocation"
+msgstr ""
+
+
+#: hrms/public/js/templates/interview_feedback.html:4
+
+msgid "Overall Average Rating"
+msgstr ""
+
+
+#: hrms/hr/doctype/attendance_request/attendance_request.py:71
+
+msgid "Overlapping Attendance Request"
+msgstr ""
+
+
+#: hrms/hr/doctype/attendance/attendance.py:122
+
+msgid "Overlapping Shift Attendance"
+msgstr ""
+
+
+#: hrms/hr/doctype/shift_request/shift_request.py:123
+
+msgid "Overlapping Shift Requests"
+msgstr ""
+
+
+#: hrms/hr/doctype/shift_assignment/shift_assignment.py:147
+
+msgid "Overlapping Shifts"
+msgstr ""
+
+
+#. Label of the employee_details_tab (Tab Break) field in DocType 'Appraisal'
+
+#. Label of the overview_tab (Tab Break) field in DocType 'Appraisal Cycle'
+
+#. Name of a Workspace
+
+#. Label of the select_payroll_period (Tab Break) field in DocType 'Payroll
+
+#. Entry'
+
+#. Label of the overview_tab (Tab Break) field in DocType 'Salary Component'
+
+#: hrms/hr/doctype/appraisal/appraisal.json
+
+#: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.json
+
+#: hrms/hr/workspace/overview/overview.json
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.json
+
+#: hrms/payroll/doctype/salary_component/salary_component.json
+
+msgid "Overview"
+msgstr "ภาพรวม"
+
+
+#. Label of the overwrite_salary_structure_amount (Check) field in DocType
+
+#. 'Additional Salary'
+
+#: hrms/payroll/doctype/additional_salary/additional_salary.json
+
+#: hrms/payroll/doctype/additional_salary/additional_salary.py:152
+
+#: hrms/payroll/doctype/additional_salary/additional_salary.py:180
+
+msgid "Overwrite Salary Structure Amount"
+msgstr ""
+
+
+#. Option for the 'Status' (Select) field in DocType 'Full and Final Asset'
+
+#: hrms/hr/doctype/full_and_final_asset/full_and_final_asset.json
+
+msgid "Owned"
+msgstr "เป็นเจ้าของ"
+
+
+#: hrms/payroll/report/income_tax_deductions/income_tax_deductions.py:41
+
+msgid "PAN Number"
+msgstr ""
+
+
+#: hrms/payroll/report/provident_fund_deductions/provident_fund_deductions.py:31
+
+msgid "PF Account"
+msgstr ""
+
+
+#: hrms/payroll/report/provident_fund_deductions/provident_fund_deductions.py:32
+
+msgid "PF Amount"
+msgstr ""
+
+
+#: hrms/payroll/report/provident_fund_deductions/provident_fund_deductions.py:39
+
+msgid "PF Loan"
+msgstr ""
+
+
+#. Name of a DocType
+
+#: hrms/hr/doctype/pwa_notification/pwa_notification.json
+
+msgid "PWA Notification"
+msgstr ""
+
+
+#. Option for the 'Status' (Select) field in DocType 'Employee Advance'
+
+#. Option for the 'Referral Bonus Payment Status' (Select) field in DocType
+
+#. 'Employee Referral'
+
+#. Option for the 'Status' (Select) field in DocType 'Expense Claim'
+
+#. Option for the 'Status' (Select) field in DocType 'Full and Final Statement'
+
+#. Option for the 'Status' (Select) field in DocType 'Leave Encashment'
+
+#. Option for the 'Status' (Select) field in DocType 'Gratuity'
+
+#: frontend/src/views/employee_advance/List.vue:42
+
+#: hrms/hr/doctype/employee_advance/employee_advance.json
+
+#: hrms/hr/doctype/employee_referral/employee_referral.json
+
+#: hrms/hr/doctype/expense_claim/expense_claim.json
+
+#: hrms/hr/doctype/full_and_final_statement/full_and_final_statement.json
+
+#: hrms/hr/doctype/leave_encashment/leave_encashment.json
+
+#: hrms/payroll/doctype/gratuity/gratuity.json
+
+msgid "Paid"
+msgstr "ชำระแล้ว"
+
+
+#. Label of the paid_amount (Currency) field in DocType 'Employee Advance'
+
+#. Label of the paid_amount (Currency) field in DocType 'Leave Encashment'
+
+#. Label of the paid_amount (Currency) field in DocType 'Gratuity'
+
+#: frontend/src/views/employee_advance/List.vue:68
+
+#: hrms/hr/doctype/employee_advance/employee_advance.json
+
+#: hrms/hr/doctype/leave_encashment/leave_encashment.json
+
+#: hrms/hr/report/employee_advance_summary/employee_advance_summary.py:67
+
+#: hrms/hr/report/unpaid_expense_claim/unpaid_expense_claim.py:22
+
+#: hrms/payroll/doctype/gratuity/gratuity.json
+
+msgid "Paid Amount"
+msgstr "จำนวนเงินที่ชำระแล้ว"
+
+
+#. Label of the paid_via_salary_slip (Check) field in DocType 'Full and Final
+
+#. Outstanding Statement'
+
+#: hrms/hr/doctype/full_and_final_outstanding_statement/full_and_final_outstanding_statement.json
+
+msgid "Paid via Salary Slip"
+msgstr ""
+
+
+#: hrms/hr/report/employee_analytics/employee_analytics.js:17
+
+msgid "Parameter"
+msgstr "พารามิเตอร์"
+
+
+#. Label of the parent_goal (Link) field in DocType 'Goal'
+
+#: hrms/hr/doctype/goal/goal.json
+
+msgid "Parent Goal"
+msgstr ""
+
+
+#: hrms/setup.py:383
+
+msgid "Part-time"
+msgstr ""
+
+
+#: hrms/hr/utils.py:861 hrms/public/js/utils/index.js:154
+
+msgid "Partial Success"
+msgstr "สำเร็จบางส่วน"
+
+
+#. Option for the 'Travel Funding' (Select) field in DocType 'Travel Request'
+
+#: hrms/hr/doctype/travel_request/travel_request.json
+
+msgid "Partially Sponsored, Require Partial Funding"
+msgstr ""
+
+
+#. Option for the 'Status' (Select) field in DocType 'Employee Advance'
+
+#: frontend/src/views/employee_advance/List.vue:42
+
+#: hrms/hr/doctype/employee_advance/employee_advance.json
+
+msgid "Partly Claimed and Returned"
+msgstr ""
+
+
+#. Label of the passport_number (Data) field in DocType 'Travel Request'
+
+#: hrms/hr/doctype/travel_request/travel_request.json
+
+msgid "Passport Number"
+msgstr "หมายเลขหนังสือเดินทาง"
+
+
+#: frontend/src/views/Login.vue:22
+
+msgid "Password"
+msgstr "รหัสผ่าน"
+
+
+#. Label of the password_policy (Data) field in DocType 'Payroll Settings'
+
+#: hrms/payroll/doctype/payroll_settings/payroll_settings.json
+
+msgid "Password Policy"
+msgstr ""
+
+
+#: hrms/payroll/doctype/payroll_settings/payroll_settings.js:25
+
+msgid "Password policy cannot contain spaces or simultaneous hyphens. The format will be restructured automatically"
+msgstr ""
+
+
+#: hrms/payroll/doctype/payroll_settings/payroll_settings.py:22
+
+msgid "Password policy for Salary Slips is not set"
+msgstr ""
+
+
+#. Label of the pay_against_benefit_claim (Check) field in DocType 'Employee
+
+#. Benefit Application Detail'
+
+#. Label of the pay_against_benefit_claim (Check) field in DocType 'Employee
+
+#. Benefit Claim'
+
+#. Label of the pay_against_benefit_claim (Check) field in DocType 'Salary
+
+#. Component'
+
+#: hrms/payroll/doctype/employee_benefit_application_detail/employee_benefit_application_detail.json
+
+#: hrms/payroll/doctype/employee_benefit_claim/employee_benefit_claim.json
+
+#: hrms/payroll/doctype/salary_component/salary_component.json
+
+msgid "Pay Against Benefit Claim"
+msgstr ""
+
+
+#. Label of the pay_via_payment_entry (Check) field in DocType 'Leave
+
+#. Encashment'
+
+#: hrms/hr/doctype/leave_encashment/leave_encashment.json
+
+msgid "Pay Via Payment Entry"
+msgstr ""
+
+
+#. Label of the pay_via_salary_slip (Check) field in DocType 'Gratuity'
+
+#: hrms/payroll/doctype/gratuity/gratuity.json
+
+msgid "Pay via Salary Slip"
+msgstr ""
+
+
+#. Label of the payable_account (Link) field in DocType 'Expense Claim'
+
+#. Label of the payable_account (Link) field in DocType 'Leave Encashment'
+
+#. Label of the payable_account (Link) field in DocType 'Gratuity'
+
+#: hrms/hr/doctype/expense_claim/expense_claim.json
+
+#: hrms/hr/doctype/leave_encashment/leave_encashment.json
+
+#: hrms/payroll/doctype/gratuity/gratuity.json
+
+msgid "Payable Account"
+msgstr "บัญชีเจ้าหนี้"
+
+
+#: hrms/hr/doctype/expense_claim/expense_claim.py:110
+
+msgid "Payable Account is mandatory to submit an Expense Claim"
+msgstr ""
+
+
+#. Label of the section_break_8 (Section Break) field in DocType 'Full and
+
+#. Final Statement'
+
+#: hrms/hr/doctype/full_and_final_statement/full_and_final_statement.json
+
+msgid "Payables"
+msgstr "เจ้าหนี้"
+
+
+#: hrms/hr/doctype/employee_advance/employee_advance.js:50
+
+#: hrms/hr/doctype/expense_claim/expense_claim.js:105
+
+#: hrms/hr/doctype/expense_claim/expense_claim_dashboard.py:9
+
+#: hrms/hr/doctype/leave_encashment/leave_encashment.js:58
+
+#: hrms/payroll/doctype/gratuity/gratuity_dashboard.py:10
+
+msgid "Payment"
+msgstr "การชำระเงิน"
+
+
+#. Label of the payment_account (Link) field in DocType 'Payroll Entry'
+
+#. Label of the payment_account (Link) field in DocType 'Salary Structure'
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.json
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.json

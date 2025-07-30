@@ -1,0 +1,481 @@
+msgid ""
+
+#: hrms/payroll/doctype/employee_tax_exemption_declaration/employee_tax_exemption_declaration.json
+
+#: hrms/payroll/doctype/employee_tax_exemption_proof_submission/employee_tax_exemption_proof_submission.json
+
+#: hrms/payroll/doctype/income_tax_slab/income_tax_slab.json
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.json
+
+#: hrms/payroll/doctype/retention_bonus/retention_bonus.json
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.json
+
+#: hrms/payroll/doctype/salary_structure_assignment/salary_structure_assignment.json
+
+#: hrms/payroll/report/bank_remittance/bank_remittance.py:51
+
+#: hrms/payroll/report/salary_register/salary_register.js:26
+
+#: hrms/payroll/report/salary_register/salary_register.py:249
+
+#: hrms/payroll/workspace/salary_payout/salary_payout.json
+
+msgid "Currency"
+msgstr ""
+
+
+#. Label of the currency_section (Section Break) field in DocType 'Employee
+
+#. Advance'
+
+#: hrms/hr/doctype/employee_advance/employee_advance.json
+
+msgid "Currency "
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_structure_assignment/salary_structure_assignment.py:92
+
+msgid "Currency of selected Income Tax Slab should be {0} instead of {1}"
+msgstr ""
+
+
+#. Label of the current (Data) field in DocType 'Employee Property History'
+
+#: hrms/hr/doctype/employee_property_history/employee_property_history.json
+
+#: hrms/hr/employee_property_update.js:113
+
+msgid "Current"
+msgstr ""
+
+
+#. Label of the current_ctc (Currency) field in DocType 'Employee Promotion'
+
+#: hrms/hr/doctype/employee_promotion/employee_promotion.json
+
+msgid "Current CTC"
+msgstr ""
+
+
+#. Label of the current_count (Int) field in DocType 'Staffing Plan Detail'
+
+#: hrms/hr/doctype/staffing_plan_detail/staffing_plan_detail.json
+
+msgid "Current Count"
+msgstr ""
+
+
+#. Label of the current_employer (Data) field in DocType 'Employee Referral'
+
+#: hrms/hr/doctype/employee_referral/employee_referral.json
+
+msgid "Current Employer "
+msgstr ""
+
+
+#. Label of the current_job_title (Data) field in DocType 'Employee Referral'
+
+#: hrms/hr/doctype/employee_referral/employee_referral.json
+
+msgid "Current Job Title"
+msgstr ""
+
+
+#. Label of the current_month_income_tax (Currency) field in DocType 'Salary
+
+#. Slip'
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+msgid "Current Month Income Tax"
+msgstr ""
+
+
+#: hrms/hr/doctype/vehicle_log/vehicle_log.py:15
+
+msgid "Current Odometer Value should be greater than Last Odometer Value {0}"
+msgstr ""
+
+
+#. Label of the odometer (Int) field in DocType 'Vehicle Log'
+
+#: hrms/hr/doctype/vehicle_log/vehicle_log.json
+
+msgid "Current Odometer value "
+msgstr ""
+
+
+#. Label of the current_openings (Int) field in DocType 'Staffing Plan Detail'
+
+#: hrms/hr/doctype/staffing_plan_detail/staffing_plan_detail.json
+
+msgid "Current Openings"
+msgstr ""
+
+
+#. Option for the 'Calculate Gratuity Amount Based On' (Select) field in
+
+#. DocType 'Gratuity Rule'
+
+#: hrms/payroll/doctype/gratuity_rule/gratuity_rule.json
+
+msgid "Current Slab"
+msgstr ""
+
+
+#. Label of the current_work_experience (Float) field in DocType 'Gratuity'
+
+#. Label of the gratuity_rule_slabs (Table) field in DocType 'Gratuity Rule'
+
+#: hrms/payroll/doctype/gratuity/gratuity.json
+
+#: hrms/payroll/doctype/gratuity_rule/gratuity_rule.json
+
+msgid "Current Work Experience"
+msgstr ""
+
+
+#: hrms/hr/doctype/compensatory_leave_request/compensatory_leave_request.py:99
+
+msgid "Currently, there is no {0} leave period for this date to create/update leave allocation."
+msgstr ""
+
+
+#. Option for the 'Dates Based On' (Select) field in DocType 'Leave Control
+
+#. Panel'
+
+#: hrms/hr/doctype/leave_control_panel/leave_control_panel.json
+
+msgid "Custom Range"
+msgstr ""
+
+
+#: hrms/hr/report/project_profitability/project_profitability.js:31
+
+#: hrms/hr/report/project_profitability/project_profitability.py:133
+
+msgid "Customer"
+msgstr ""
+
+
+#. Option for the 'Roster Color' (Select) field in DocType 'Shift Type'
+
+#: hrms/hr/doctype/shift_type/shift_type.json
+
+msgid "Cyan"
+msgstr ""
+
+
+#. Label of the cycle_name (Data) field in DocType 'Appraisal Cycle'
+
+#: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.json
+
+msgid "Cycle Name"
+msgstr ""
+
+
+#. Label of the cycles (Table) field in DocType 'Salary Withholding'
+
+#: hrms/payroll/doctype/salary_withholding/salary_withholding.json
+
+msgid "Cycles"
+msgstr ""
+
+
+#. Option for the 'Payroll Frequency' (Select) field in DocType 'Payroll Entry'
+
+#. Option for the 'Payroll Frequency' (Select) field in DocType 'Salary Slip'
+
+#. Option for the 'Payroll Frequency' (Select) field in DocType 'Salary
+
+#. Structure'
+
+#. Option for the 'Payroll Frequency' (Select) field in DocType 'Salary
+
+#. Withholding'
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.json
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.json
+
+#: hrms/payroll/doctype/salary_withholding/salary_withholding.json
+
+msgid "Daily"
+msgstr "รายวัน"
+
+
+#. Name of a DocType
+
+#. Label of a Card Break in the Employee Lifecycle Workspace
+
+#. Label of a Link in the Employee Lifecycle Workspace
+
+#: hrms/hr/doctype/daily_work_summary/daily_work_summary.json
+
+#: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.js:7
+
+#: hrms/hr/workspace/employee_lifecycle/employee_lifecycle.json
+
+msgid "Daily Work Summary"
+msgstr ""
+
+
+#. Label of the daily_work_summary_group (Link) field in DocType 'Daily Work
+
+#. Summary'
+
+#. Name of a DocType
+
+#. Label of a Link in the Employee Lifecycle Workspace
+
+#. Label of a Link in the Overview Workspace
+
+#: hrms/hr/doctype/daily_work_summary/daily_work_summary.json
+
+#: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
+
+#: hrms/hr/page/team_updates/team_updates.js:12
+
+#: hrms/hr/workspace/employee_lifecycle/employee_lifecycle.json
+
+#: hrms/hr/workspace/overview/overview.json
+
+msgid "Daily Work Summary Group"
+msgstr ""
+
+
+#. Name of a DocType
+
+#: hrms/hr/doctype/daily_work_summary_group_user/daily_work_summary_group_user.json
+
+msgid "Daily Work Summary Group User"
+msgstr ""
+
+
+#. Name of a report
+
+#. Label of a Link in the Employee Lifecycle Workspace
+
+#. Label of a Link in the Overview Workspace
+
+#: hrms/hr/report/daily_work_summary_replies/daily_work_summary_replies.json
+
+#: hrms/hr/workspace/employee_lifecycle/employee_lifecycle.json
+
+#: hrms/hr/workspace/overview/overview.json
+
+msgid "Daily Work Summary Replies"
+msgstr ""
+
+
+#. Label of the dashboard_tab (Tab Break) field in DocType 'Expense Claim'
+
+#. Label of a shortcut in the Employee Lifecycle Workspace
+
+#. Label of a shortcut in the Expense Claims Workspace
+
+#. Label of a shortcut in the Recruitment Workspace
+
+#. Label of a shortcut in the Shift & Attendance Workspace
+
+#: hrms/hr/doctype/expense_claim/expense_claim.json
+
+#: hrms/hr/workspace/employee_lifecycle/employee_lifecycle.json
+
+#: hrms/hr/workspace/expense_claims/expense_claims.json
+
+#: hrms/hr/workspace/recruitment/recruitment.json
+
+#: hrms/hr/workspace/shift_&_attendance/shift_&_attendance.json
+
+msgid "Dashboard"
+msgstr "แดชบอร์ด"
+
+
+#. Label of the date (Date) field in DocType 'Employee Attendance Tool'
+
+#. Label of the date (Date) field in DocType 'Employee Referral'
+
+#. Label of the date (Date) field in DocType 'Exit Interview'
+
+#. Label of the date (Datetime) field in DocType 'Full and Final Asset'
+
+#. Label of the date (Date) field in DocType 'Vehicle Log'
+
+#. Label of the date (Date) field in DocType 'Employee Benefit Application'
+
+#: hrms/hr/doctype/attendance_request/attendance_warnings.html:7
+
+#: hrms/hr/doctype/employee_attendance_tool/employee_attendance_tool.json
+
+#: hrms/hr/doctype/employee_referral/employee_referral.json
+
+#: hrms/hr/doctype/exit_interview/exit_interview.json
+
+#: hrms/hr/doctype/full_and_final_asset/full_and_final_asset.json
+
+#: hrms/hr/doctype/job_applicant/job_applicant_dashboard.html:9
+
+#: hrms/hr/doctype/vehicle_log/vehicle_log.json
+
+#: hrms/hr/notification/training_scheduled/training_scheduled.html:27
+
+#: hrms/hr/report/employee_leave_balance_summary/employee_leave_balance_summary.js:9
+
+#: hrms/hr/report/employees_working_on_a_holiday/employees_working_on_a_holiday.py:36
+
+#: hrms/hr/report/vehicle_expenses/vehicle_expenses.py:42
+
+#: hrms/payroll/doctype/employee_benefit_application/employee_benefit_application.json
+
+msgid "Date"
+msgstr "วันที่"
+
+
+#. Label of the date (Date) field in DocType 'Employee Grievance'
+
+#: hrms/hr/doctype/employee_grievance/employee_grievance.json
+
+msgid "Date "
+msgstr ""
+
+
+#: hrms/hr/doctype/goal/goal_tree.js:38
+
+#: hrms/hr/report/daily_work_summary_replies/daily_work_summary_replies.js:16
+
+msgid "Date Range"
+msgstr "ช่วงวันที่"
+
+
+#: hrms/hr/doctype/leave_block_list/leave_block_list.py:19
+
+msgid "Date is repeated"
+msgstr ""
+
+
+#. Label of the date_of_birth (Date) field in DocType 'Travel Request'
+
+#: hrms/hr/doctype/travel_request/travel_request.json
+
+#: hrms/hr/report/employee_analytics/employee_analytics.py:32
+
+#: hrms/hr/report/employee_birthday/employee_birthday.py:23
+
+msgid "Date of Birth"
+msgstr "วันเกิด"
+
+
+#. Label of the date_of_joining (Date) field in DocType 'Employee Onboarding'
+
+#. Label of the date_of_joining (Date) field in DocType 'Exit Interview'
+
+#. Label of the date_of_joining (Date) field in DocType 'Full and Final
+
+#. Statement'
+
+#. Option for the 'Allocate on Day' (Select) field in DocType 'Leave Type'
+
+#. Label of the date_of_joining (Data) field in DocType 'Retention Bonus'
+
+#. Label of the date_of_joining (Date) field in DocType 'Salary Withholding'
+
+#: hrms/hr/doctype/employee_onboarding/employee_onboarding.json
+
+#: hrms/hr/doctype/exit_interview/exit_interview.json
+
+#: hrms/hr/doctype/full_and_final_statement/full_and_final_statement.json
+
+#: hrms/hr/doctype/leave_type/leave_type.json
+
+#: hrms/hr/report/employee_exits/employee_exits.py:32
+
+#: hrms/payroll/doctype/retention_bonus/retention_bonus.json
+
+#: hrms/payroll/doctype/salary_withholding/salary_withholding.json
+
+#: hrms/payroll/report/income_tax_computation/income_tax_computation.py:613
+
+#: hrms/payroll/report/salary_register/salary_register.py:128 hrms/setup.py:396
+
+msgid "Date of Joining"
+msgstr "วันที่เข้าร่วม"
+
+
+#. Label of the section_break_5 (Section Break) field in DocType 'Leave
+
+#. Application'
+
+#: hrms/hr/doctype/leave_application/leave_application.json
+
+msgid "Dates & Reason"
+msgstr ""
+
+
+#. Label of the dates_based_on (Select) field in DocType 'Leave Control Panel'
+
+#: hrms/hr/doctype/leave_control_panel/leave_control_panel.json
+
+msgid "Dates Based On"
+msgstr ""
+
+
+#: hrms/setup.py:121
+
+msgid "Days for which Holidays are blocked for this department."
+msgstr ""
+
+
+#: hrms/payroll/report/bank_remittance/bank_remittance.py:19
+
+msgid "Debit A/C Number"
+msgstr ""
+
+
+#: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.js:23
+
+#: hrms/public/js/salary_slip_deductions_report_filters.js:30
+
+msgid "Dec"
+msgstr ""
+
+
+#: hrms/hr/report/employee_exits/employee_exits.py:193
+
+msgid "Decision Pending"
+msgstr ""
+
+
+#. Label of the declarations (Table) field in DocType 'Employee Tax Exemption
+
+#. Declaration'
+
+#: hrms/payroll/doctype/employee_tax_exemption_declaration/employee_tax_exemption_declaration.json
+
+msgid "Declarations"
+msgstr ""
+
+
+#. Label of the amount (Currency) field in DocType 'Employee Tax Exemption
+
+#. Declaration Category'
+
+#: hrms/payroll/doctype/employee_tax_exemption_declaration_category/employee_tax_exemption_declaration_category.json
+
+msgid "Declared Amount"
+msgstr ""
+
+
+#. Label of the deduct_full_tax_on_selected_payroll_date (Check) field in
+
+#. DocType 'Additional Salary'
+
+#. Label of the deduct_full_tax_on_selected_payroll_date (Check) field in

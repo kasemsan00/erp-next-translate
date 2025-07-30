@@ -1,0 +1,497 @@
+msgid ""
+
+#. Name of a DocType
+
+#. Label of the job_applicant (Link) field in DocType 'Job Offer'
+
+#. Label of a Link in the Recruitment Workspace
+
+#. Label of a shortcut in the Recruitment Workspace
+
+#: hrms/hr/doctype/appointment_letter/appointment_letter.json
+
+#: hrms/hr/doctype/employee_onboarding/employee_onboarding.json
+
+#: hrms/hr/doctype/interview/interview.json
+
+#: hrms/hr/doctype/interview_feedback/interview_feedback.json
+
+#: hrms/hr/doctype/job_applicant/job_applicant.json
+
+#: hrms/hr/doctype/job_offer/job_offer.json
+
+#: hrms/hr/report/recruitment_analytics/recruitment_analytics.py:38
+
+#: hrms/hr/workspace/recruitment/recruitment.json hrms/setup.py:193
+
+msgid "Job Applicant"
+msgstr ""
+
+
+#. Name of a DocType
+
+#: hrms/hr/doctype/job_applicant_source/job_applicant_source.json
+
+msgid "Job Applicant Source"
+msgstr ""
+
+
+#: hrms/hr/doctype/employee_referral/employee_referral.py:51
+
+msgid "Job Applicant {0} created successfully."
+msgstr ""
+
+
+#: hrms/hr/doctype/interview/interview.py:39
+
+msgid "Job Applicants are not allowed to appear twice for the same Interview round. Interview {0} already scheduled for Job Applicant {1}"
+msgstr ""
+
+
+#. Label of the job_application_route (Data) field in DocType 'Job Opening'
+
+#: hrms/hr/doctype/job_opening/job_opening.json
+
+msgid "Job Application Route"
+msgstr ""
+
+
+#. Label of the job_description_tab (Tab Break) field in DocType 'Job
+
+#. Requisition'
+
+#. Label of the description (Text Editor) field in DocType 'Job Requisition'
+
+#: hrms/hr/doctype/job_requisition/job_requisition.json hrms/setup.py:403
+
+msgid "Job Description"
+msgstr ""
+
+
+#. Label of the job_offer (Link) field in DocType 'Employee Onboarding'
+
+#. Name of a DocType
+
+#. Label of a Link in the Recruitment Workspace
+
+#. Label of a shortcut in the Recruitment Workspace
+
+#: hrms/hr/doctype/employee_onboarding/employee_onboarding.json
+
+#: hrms/hr/doctype/job_applicant/job_applicant.js:38
+
+#: hrms/hr/doctype/job_applicant/job_applicant.js:48
+
+#: hrms/hr/doctype/job_offer/job_offer.json
+
+#: hrms/hr/report/recruitment_analytics/recruitment_analytics.py:52
+
+#: hrms/hr/workspace/recruitment/recruitment.json
+
+msgid "Job Offer"
+msgstr ""
+
+
+#. Name of a DocType
+
+#: hrms/hr/doctype/job_offer_term/job_offer_term.json
+
+msgid "Job Offer Term"
+msgstr ""
+
+
+#. Label of the job_offer_term_template (Link) field in DocType 'Job Offer'
+
+#. Name of a DocType
+
+#: hrms/hr/doctype/job_offer/job_offer.json
+
+#: hrms/hr/doctype/job_offer_term_template/job_offer_term_template.json
+
+msgid "Job Offer Term Template"
+msgstr ""
+
+
+#. Label of the offer_terms (Table) field in DocType 'Job Offer'
+
+#: hrms/hr/doctype/job_offer/job_offer.json
+
+msgid "Job Offer Terms"
+msgstr ""
+
+
+#: hrms/hr/report/recruitment_analytics/recruitment_analytics.py:61
+
+msgid "Job Offer status"
+msgstr ""
+
+
+#: hrms/hr/doctype/job_offer/job_offer.py:24
+
+msgid "Job Offer: {0} is already for Job Applicant: {1}"
+msgstr ""
+
+
+#. Label of the job_opening (Link) field in DocType 'Interview'
+
+#. Label of the job_title (Link) field in DocType 'Job Applicant'
+
+#. Name of a DocType
+
+#. Label of a Link in the Recruitment Workspace
+
+#. Label of a shortcut in the Recruitment Workspace
+
+#: hrms/hr/doctype/interview/interview.json
+
+#: hrms/hr/doctype/job_applicant/job_applicant.json
+
+#: hrms/hr/doctype/job_opening/job_opening.json
+
+#: hrms/hr/doctype/job_requisition/job_requisition.js:54
+
+#: hrms/hr/report/recruitment_analytics/recruitment_analytics.py:31
+
+#: hrms/hr/workspace/recruitment/recruitment.json
+
+msgid "Job Opening"
+msgstr ""
+
+
+#: hrms/hr/doctype/job_requisition/job_requisition.py:51
+
+msgid "Job Opening Associated"
+msgstr ""
+
+
+#: hrms/www/jobs/index.html:2 hrms/www/jobs/index.html:5
+
+msgid "Job Openings"
+msgstr ""
+
+
+#: hrms/hr/doctype/job_opening/job_opening.py:83
+
+msgid "Job Openings for the designation {0} are already open or the hiring is complete as per the Staffing Plan {1}"
+msgstr ""
+
+
+#. Label of the job_requisition (Link) field in DocType 'Job Opening'
+
+#. Name of a DocType
+
+#. Label of a Link in the Recruitment Workspace
+
+#: hrms/hr/doctype/job_opening/job_opening.json
+
+#: hrms/hr/doctype/job_requisition/job_requisition.json
+
+#: hrms/hr/workspace/recruitment/recruitment.json
+
+msgid "Job Requisition"
+msgstr ""
+
+
+#: hrms/hr/doctype/job_requisition/job_requisition.py:48
+
+msgid "Job Requisition {0} has been associated with Job Opening {1}"
+msgstr ""
+
+
+#. Label of the job_title (Data) field in DocType 'Job Opening'
+
+#: hrms/hr/doctype/job_opening/job_opening.json
+
+msgid "Job Title"
+msgstr ""
+
+
+#. Description of the 'Description' (Text Editor) field in DocType 'Job
+
+#. Opening'
+
+#: hrms/hr/doctype/job_opening/job_opening.json
+
+msgid "Job profile, qualifications required etc."
+msgstr ""
+
+
+#. Label of a Card Break in the Recruitment Workspace
+
+#: hrms/hr/workspace/recruitment/recruitment.json
+
+msgid "Jobs"
+msgstr ""
+
+
+#. Option for the 'Dates Based On' (Select) field in DocType 'Leave Control
+
+#. Panel'
+
+#. Option for the 'Assignment based on' (Select) field in DocType 'Leave Policy
+
+#. Assignment'
+
+#: hrms/hr/doctype/leave_control_panel/leave_control_panel.json
+
+#: hrms/hr/doctype/leave_policy_assignment/leave_policy_assignment.json
+
+msgid "Joining Date"
+msgstr ""
+
+
+#. Label of a Link in the Expense Claims Workspace
+
+#. Label of the journal_entry (Link) field in DocType 'Salary Slip'
+
+#. Label of the journal_entry (Link) field in DocType 'Salary Withholding
+
+#. Cycle'
+
+#. Label of a Link in the Salary Payout Workspace
+
+#: hrms/hr/workspace/expense_claims/expense_claims.json
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+#: hrms/payroll/doctype/salary_withholding_cycle/salary_withholding_cycle.json
+
+#: hrms/payroll/workspace/salary_payout/salary_payout.json
+
+msgid "Journal Entry"
+msgstr ""
+
+
+#: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.js:18
+
+#: hrms/public/js/salary_slip_deductions_report_filters.js:25
+
+msgid "July"
+msgstr ""
+
+
+#: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.js:17
+
+#: hrms/public/js/salary_slip_deductions_report_filters.js:24
+
+msgid "June"
+msgstr ""
+
+
+#. Label of the kra (Link) field in DocType 'Appraisal KRA'
+
+#. Label of the key_result_area (Link) field in DocType 'Appraisal Template
+
+#. Goal'
+
+#. Label of the kra (Link) field in DocType 'Goal'
+
+#. Name of a DocType
+
+#. Label of a Link in the Performance Workspace
+
+#: hrms/hr/doctype/appraisal_kra/appraisal_kra.json
+
+#: hrms/hr/doctype/appraisal_template_goal/appraisal_template_goal.json
+
+#: hrms/hr/doctype/goal/goal.json hrms/hr/doctype/goal/goal_tree.js:134
+
+#: hrms/hr/doctype/kra/kra.json hrms/hr/workspace/performance/performance.json
+
+msgid "KRA"
+msgstr ""
+
+
+#. Label of the kra_evaluation_method (Select) field in DocType 'Appraisal
+
+#. Cycle'
+
+#: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.json
+
+msgid "KRA Evaluation Method"
+msgstr ""
+
+
+#: hrms/hr/doctype/goal/goal.py:99
+
+msgid "KRA updated for all child goals."
+msgstr ""
+
+
+#. Label of the appraisal_kra (Table) field in DocType 'Appraisal'
+
+#: hrms/hr/doctype/appraisal/appraisal.json
+
+msgid "KRA vs Goals"
+msgstr ""
+
+
+#. Label of the kra_tab (Tab Break) field in DocType 'Appraisal'
+
+#. Label of the goals (Table) field in DocType 'Appraisal Template'
+
+#: hrms/hr/doctype/appraisal/appraisal.json
+
+#: hrms/hr/doctype/appraisal/appraisal.py:142
+
+#: hrms/hr/doctype/appraisal_template/appraisal_template.json
+
+msgid "KRAs"
+msgstr ""
+
+
+#. Description of the 'KRA' (Link) field in DocType 'Appraisal KRA'
+
+#: hrms/hr/doctype/appraisal_kra/appraisal_kra.json
+
+msgid "Key Performance Area"
+msgstr ""
+
+
+#. Label of a Card Break in the Overview Workspace
+
+#: hrms/hr/workspace/overview/overview.json
+
+msgid "Key Reports"
+msgstr ""
+
+
+#. Description of the 'Goal' (Small Text) field in DocType 'Appraisal Goal'
+
+#: hrms/hr/doctype/appraisal_goal/appraisal_goal.json
+
+msgid "Key Responsibility Area"
+msgstr ""
+
+
+#. Description of the 'KRA' (Link) field in DocType 'Appraisal Template Goal'
+
+#: hrms/hr/doctype/appraisal_template_goal/appraisal_template_goal.json
+
+msgid "Key Result Area"
+msgstr ""
+
+
+#. Option for the 'Allocate on Day' (Select) field in DocType 'Leave Type'
+
+#: hrms/hr/doctype/leave_type/leave_type.json
+
+msgid "Last Day"
+msgstr ""
+
+
+#. Description of the 'Last Sync of Checkin' (Datetime) field in DocType 'Shift
+
+#. Type'
+
+#: hrms/hr/doctype/shift_type/shift_type.json
+
+msgid "Last Known Successful Sync of Employee Checkin. Reset this only if you are sure that all Logs are synced from all the locations. Please don't modify this if you are unsure."
+msgstr ""
+
+
+#. Label of the last_name (Data) field in DocType 'Employee Referral'
+
+#: hrms/hr/doctype/employee_referral/employee_referral.json
+
+msgid "Last Name"
+msgstr "นามสกุล"
+
+
+#. Label of the last_odometer (Int) field in DocType 'Vehicle Log'
+
+#: hrms/hr/doctype/vehicle_log/vehicle_log.json
+
+msgid "Last Odometer Value "
+msgstr ""
+
+
+#. Label of the last_sync_of_checkin (Datetime) field in DocType 'Shift Type'
+
+#: hrms/hr/doctype/shift_type/shift_type.json
+
+msgid "Last Sync of Checkin"
+msgstr ""
+
+
+#: frontend/src/components/CheckInPanel.vue:9
+
+msgid "Last {0} was at {1}"
+msgstr ""
+
+
+#: hrms/hr/report/shift_attendance/shift_attendance.py:180
+
+msgid "Late Entries"
+msgstr ""
+
+
+#. Label of the late_entry (Check) field in DocType 'Attendance'
+
+#. Label of the late_entry (Check) field in DocType 'Employee Attendance Tool'
+
+#: hrms/hr/doctype/attendance/attendance.json
+
+#: hrms/hr/doctype/employee_attendance_tool/employee_attendance_tool.json
+
+#: hrms/hr/report/shift_attendance/shift_attendance.js:48
+
+msgid "Late Entry"
+msgstr ""
+
+
+#. Label of the grace_period_settings_auto_attendance_section (Section Break)
+
+#. field in DocType 'Shift Type'
+
+#: hrms/hr/doctype/shift_type/shift_type.json
+
+msgid "Late Entry & Early Exit Settings for Auto Attendance"
+msgstr ""
+
+
+#: hrms/hr/report/shift_attendance/shift_attendance.py:85
+
+msgid "Late Entry By"
+msgstr ""
+
+
+#. Label of the late_entry_grace_period (Int) field in DocType 'Shift Type'
+
+#: hrms/hr/doctype/shift_type/shift_type.json
+
+msgid "Late Entry Grace Period"
+msgstr ""
+
+
+#. Label of the latitude (Float) field in DocType 'Employee Checkin'
+
+#. Label of the latitude (Float) field in DocType 'Shift Location'
+
+#: hrms/hr/doctype/employee_checkin/employee_checkin.json
+
+#: hrms/hr/doctype/shift_location/shift_location.json
+
+msgid "Latitude"
+msgstr "ละติจูด"
+
+
+#: hrms/hr/doctype/employee_checkin/employee_checkin.py:98
+
+msgid "Latitude and longitude values are required for checking in."
+msgstr ""
+
+
+#: frontend/src/components/CheckInPanel.vue:131
+
+msgid "Latitude: {0}°"
+msgstr ""
+
+
+#. Option for the 'Calculate Payroll Working Days Based On' (Select) field in
+
+#. DocType 'Payroll Settings'
+
+#: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.py:652
+
+#: hrms/overrides/dashboard_overrides.py:12

@@ -1,0 +1,570 @@
+msgid ""
+
+"Project-Id-Version: frappe\n"
+"Report-Msgid-Bugs-To: contact@frappe.io\n"
+"POT-Creation-Date: 2025-06-08 09:35+0000\n"
+"PO-Revision-Date: 2025-07-30 02:17\n"
+"Last-Translator: contact@frappe.io\n"
+"Language-Team: Thai\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.13.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: frappe\n"
+"X-Crowdin-Project-ID: 639578\n"
+"X-Crowdin-Language: th\n"
+"X-Crowdin-File: /[frappe.hrms] develop/hrms/locale/main.pot\n"
+"X-Crowdin-File-ID: 58\n"
+"Language: th_TH\n"
+
+
+#. Label of the unlink_payment_on_cancellation_of_employee_advance (Check)
+
+#. field in DocType 'HR Settings'
+
+#: hrms/hr/doctype/hr_settings/hr_settings.json
+
+msgid " Unlink Payment on Cancellation of Employee Advance"
+msgstr " ยกเลิกการเชื่อมโยงการชำระเงินเมื่อยกเลิกเงินล่วงหน้าของพนักงาน"
+
+
+#: hrms/hr/report/employee_leave_balance/employee_leave_balance.py:22
+
+msgid "\"From Date\" can not be greater than or equal to \"To Date\""
+msgstr ""ตั้งแต่วันที่" ไม่สามารถมากกว่าหรือเท่ากับ "ถึงวันที่" ได้"
+
+
+#: hrms/hr/report/employee_hours_utilization_based_on_timesheet/employee_hours_utilization_based_on_timesheet.py:86
+
+msgid "% Utilization (B + NB) / T"
+msgstr "% การใช้งาน (B + NB) / T"
+
+
+#: hrms/hr/report/employee_hours_utilization_based_on_timesheet/employee_hours_utilization_based_on_timesheet.py:92
+
+msgid "% Utilization (B / T)"
+msgstr "% การใช้งาน (B / T)"
+
+
+#: hrms/hr/doctype/employee_checkin/employee_checkin.py:154
+
+msgid "'employee_field_value' and 'timestamp' are required."
+msgstr "ต้องระบุ 'employee_field_value' และ 'timestamp'"
+
+
+#: hrms/hr/utils.py:241
+
+#: hrms/payroll/doctype/payroll_period/payroll_period.py:53
+
+msgid ") for {0}"
+msgstr ") สำหรับ {0}"
+
+
+#: hrms/hr/doctype/employee_attendance_tool/employee_attendance_tool.js:52
+
+msgid "...Fetching Employees"
+msgstr "...กำลังดึงข้อมูลพนักงาน"
+
+
+#. Option for the 'Rounding' (Select) field in DocType 'Leave Type'
+
+#: hrms/hr/doctype/leave_type/leave_type.json
+
+msgid "0.25"
+msgstr "0.25"
+
+
+#. Option for the 'Rounding' (Select) field in DocType 'Leave Type'
+
+#: hrms/hr/doctype/leave_type/leave_type.json
+
+msgid "0.5"
+msgstr "0.5"
+
+
+#. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
+
+#. Summary Group'
+
+#: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
+
+msgid "00:00"
+msgstr "00:00"
+
+
+#. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
+
+#. Summary Group'
+
+#: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
+
+msgid "01:00"
+msgstr "01:00"
+
+
+#. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
+
+#. Summary Group'
+
+#: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
+
+msgid "02:00"
+msgstr "02:00"
+
+
+#. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
+
+#. Summary Group'
+
+#: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
+
+msgid "03:00"
+msgstr "03:00"
+
+
+#. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
+
+#. Summary Group'
+
+#: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
+
+msgid "04:00"
+msgstr "04:00"
+
+
+#. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
+
+#. Summary Group'
+
+#: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
+
+msgid "05:00"
+msgstr "05:00"
+
+
+#. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
+
+#. Summary Group'
+
+#: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
+
+msgid "06:00"
+msgstr "06:00"
+
+
+#. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
+
+#. Summary Group'
+
+#: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
+
+msgid "07:00"
+msgstr "07:00"
+
+
+#. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
+
+#. Summary Group'
+
+#: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
+
+msgid "08:00"
+msgstr "08:00"
+
+
+#. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
+
+#. Summary Group'
+
+#: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
+
+msgid "09:00"
+msgstr "09:00"
+
+
+#. Option for the 'Rounding' (Select) field in DocType 'Leave Type'
+
+#: hrms/hr/doctype/leave_type/leave_type.json
+
+msgid "1.0"
+msgstr "1.0"
+
+
+#. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
+
+#. Summary Group'
+
+#: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
+
+msgid "10:00"
+msgstr "10:00"
+
+
+#. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
+
+#. Summary Group'
+
+#: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
+
+msgid "11:00"
+msgstr "11:00"
+
+
+#. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
+
+#. Summary Group'
+
+#: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
+
+msgid "12:00"
+msgstr "12:00"
+
+
+#. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
+
+#. Summary Group'
+
+#: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
+
+msgid "13:00"
+msgstr "13:00"
+
+
+#. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
+
+#. Summary Group'
+
+#: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
+
+msgid "14:00"
+msgstr "14:00"
+
+
+#. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
+
+#. Summary Group'
+
+#: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
+
+msgid "15:00"
+msgstr "15:00"
+
+
+#. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
+
+#. Summary Group'
+
+#: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
+
+msgid "16:00"
+msgstr "16:00"
+
+
+#. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
+
+#. Summary Group'
+
+#: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
+
+msgid "17:00"
+msgstr "17:00"
+
+
+#. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
+
+#. Summary Group'
+
+#: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
+
+msgid "18:00"
+msgstr "18:00"
+
+
+#. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
+
+#. Summary Group'
+
+#: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
+
+msgid "19:00"
+msgstr "19:00"
+
+
+#. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
+
+#. Summary Group'
+
+#: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
+
+msgid "20:00"
+msgstr "20:00"
+
+
+#. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
+
+#. Summary Group'
+
+#: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
+
+msgid "21:00"
+msgstr "21:00"
+
+
+#. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
+
+#. Summary Group'
+
+#: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
+
+msgid "22:00"
+msgstr "22:00"
+
+
+#. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
+
+#. Summary Group'
+
+#: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
+
+msgid "23:00"
+msgstr "23:00"
+
+
+#: hrms/payroll/doctype/bulk_salary_structure_assignment/bulk_salary_structure_assignment.js:272
+
+msgid "<b>Base</b> amount has not been set for the following employee(s): {0}"
+msgstr "จำนวนเงิน<b>พื้นฐาน</b>ยังไม่ได้ตั้งค่าสำหรับพนักงานต่อไปนี้: {0}"
+
+
+#. Description of the 'Password Policy' (Data) field in DocType 'Payroll
+
+#. Settings'
+
+#: hrms/payroll/doctype/payroll_settings/payroll_settings.json
+
+msgid "<b>Example:</b> SAL-{first_name}-{date_of_birth.year} <br>This will generate a password like SAL-Jane-1972"
+msgstr "<b>ตัวอย่าง:</b> SAL-{first_name}-{date_of_birth.year} <br>จะสร้างรหัสผ่านเช่น SAL-Jane-1972"
+
+
+#: hrms/hr/doctype/leave_allocation/leave_allocation.py:280
+
+#: hrms/hr/doctype/leave_allocation/leave_allocation.py:288
+
+msgid "<b>Total Leaves Allocated</b> are more than the number of days in the allocation period"
+msgstr "<b>จำนวนวันลาที่จัดสรรทั้งหมด</b>มากกว่าจำนวนวันในระยะเวลาการจัดสรร"
+
+
+#. Content of the 'Help' (HTML) field in DocType 'Salary Component'
+
+#: hrms/payroll/doctype/salary_component/salary_component.json
+
+msgid "<h3>Help</h3>\n\n"
+"<p>Notes:</p>\n\n"
+"<ol>\n"
+"<li>Use field <code>base</code> for using base salary of the Employee</li>\n"
+"<li>Use Salary Component abbreviations in conditions and formulas. <code>BS = Basic Salary</code></li>\n"
+"<li>Use field name for employee details in conditions and formulas. <code>Employment Type = employment_type</code><code>Branch = branch</code></li>\n"
+"<li>Use field name from Salary Slip in conditions and formulas. <code>Payment Days = payment_days</code><code>Leave without pay = leave_without_pay</code></li>\n"
+"<li>Direct Amount can also be entered based on Condition. See example 3</li></ol>\n\n"
+"<h4>Examples</h4>\n"
+"<ol>\n"
+"<li>Calculating Basic Salary based on <code>base</code>\n"
+"<pre><code>Condition: base &lt; 10000</code></pre>\n"
+"<pre><code>Formula: base * .2</code></pre></li>\n"
+"<li>Calculating HRA based on Basic Salary<code>BS</code> \n"
+"<pre><code>Condition: BS &gt; 2000</code></pre>\n"
+"<pre><code>Formula: BS * .1</code></pre></li>\n"
+"<li>Calculating TDS based on Employment Type<code>employment_type</code> \n"
+"<pre><code>Condition: employment_type==\"Intern\"</code></pre>\n"
+"<pre><code>Amount: 1000</code></pre></li>\n"
+"</ol>"
+msgstr "<h3>ความช่วยเหลือ</h3>\n\n"
+"<p>หมายเหตุ:</p>\n\n"
+"<ol>\n"
+"<li>ใช้ฟิลด์ <code>base</code> สำหรับใช้เงินเดือนพื้นฐานของพนักงาน</li>\n"
+"<li>ใช้ตัวย่อองค์ประกอบเงินเดือนในเงื่อนไขและสูตร <code>BS = เงินเดือนพื้นฐาน</code></li>\n"
+"<li>ใช้ชื่อฟิลด์สำหรับรายละเอียดพนักงานในเงื่อนไขและสูตร <code>ประเภทการจ้างงาน = employment_type</code><code>สาขา = branch</code></li>\n"
+"<li>ใช้ชื่อฟิลด์จากใบเงินเดือนในเงื่อนไขและสูตร <code>วันจ่ายเงิน = payment_days</code><code>ลางานโดยไม่ได้รับเงิน = leave_without_pay</code></li>\n"
+"<li>จำนวนเงินโดยตรงสามารถป้อนได้ตามเงื่อนไข ดูตัวอย่างที่ 3</li></ol>\n\n"
+"<h4>ตัวอย่าง</h4>\n"
+"<ol>\n"
+"<li>คำนวณเงินเดือนพื้นฐานตาม <code>base</code>\n"
+"<pre><code>เงื่อนไข: base &lt; 10000</code></pre>\n"
+"<pre><code>สูตร: base * .2</code></pre></li>\n"
+"<li>คำนวณค่าเช่าบ้านตามเงินเดือนพื้นฐาน<code>BS</code> \n"
+"<pre><code>เงื่อนไข: BS &gt; 2000</code></pre>\n"
+"<pre><code>สูตร: BS * .1</code></pre></li>\n"
+"<li>คำนวณภาษีหัก ณ ที่จ่ายตามประเภทการจ้างงาน<code>employment_type</code> \n"
+"<pre><code>เงื่อนไข: employment_type==\"ฝึกงาน\"</code></pre>\n"
+"<pre><code>จำนวนเงิน: 1000</code></pre></li>\n"
+"</ol>"
+
+
+#. Content of the 'html_6' (HTML) field in DocType 'Taxable Salary Slab'
+
+#: hrms/payroll/doctype/taxable_salary_slab/taxable_salary_slab.json
+
+msgid "<h4>Condition Examples</h4>\n"
+"<ol>\n"
+"<li>Applying tax if employee born between 31-12-1937 and 01-01-1958 (Employees aged 60 to 80)<br>\n"
+"<code>Condition: date_of_birth&gt;date(1937, 12, 31) and date_of_birth&lt;date(1958, 01, 01)</code></li><br><li>Applying tax by employee gender<br>\n"
+"<code>Condition: gender==\"Male\"</code></li><br>\n"
+"<li>Applying tax by Salary Component<br>\n"
+"<code>Condition: base &gt; 10000</code></li></ol>"
+msgstr "<h4>ตัวอย่างเงื่อนไข</h4>\n"
+"<ol>\n"
+"<li>ใช้ภาษีหากพนักงานเกิดระหว่าง 31-12-1937 และ 01-01-1958 (พนักงานอายุ 60 ถึง 80 ปี)<br>\n"
+"<code>เงื่อนไข: date_of_birth&gt;date(1937, 12, 31) and date_of_birth&lt;date(1958, 01, 01)</code></li><br><li>ใช้ภาษีตามเพศของพนักงาน<br>\n"
+"<code>เงื่อนไข: gender==\"ชาย\"</code></li><br>\n"
+"<li>ใช้ภาษีตามองค์ประกอบเงินเดือน<br>\n"
+"<code>เงื่อนไข: base &gt; 10000</code></li></ol>"
+
+
+#. Content of the 'Half Day Marked Employee Header' (HTML) field in DocType
+
+#. 'Employee Attendance Tool'
+
+#: hrms/hr/doctype/employee_attendance_tool/employee_attendance_tool.json
+
+msgid "<h5>Employees on Half Day</h5>"
+msgstr "<h5>พนักงานครึ่งวัน</h5>"
+
+
+#. Content of the 'Unmarked Employee Header' (HTML) field in DocType 'Employee
+
+#. Attendance Tool'
+
+#: hrms/hr/doctype/employee_attendance_tool/employee_attendance_tool.json
+
+msgid "<h5>Unmarked Employees</h5>"
+msgstr "<h5>พนักงานที่ยังไม่ได้ลงเวลา</h5>"
+
+
+#. Content of the 'Horizontal Break' (HTML) field in DocType 'Employee
+
+#. Attendance Tool'
+
+#: hrms/hr/doctype/employee_attendance_tool/employee_attendance_tool.json
+
+msgid "<hr>"
+msgstr "<hr>"
+
+
+#. Header text in the Employee Lifecycle Workspace
+
+#. Header text in the Expense Claims Workspace
+
+#. Header text in the Leaves Workspace
+
+#. Header text in the Recruitment Workspace
+
+#. Header text in the Tax & Benefits Workspace
+
+#: hrms/hr/workspace/employee_lifecycle/employee_lifecycle.json
+
+#: hrms/hr/workspace/expense_claims/expense_claims.json
+
+#: hrms/hr/workspace/leaves/leaves.json
+
+#: hrms/hr/workspace/recruitment/recruitment.json
+
+#: hrms/payroll/workspace/tax_&_benefits/tax_&_benefits.json
+
+msgid "<span class=\"h4\"><b>Masters &amp; Reports</b></span>"
+msgstr "<span class=\"h4\"><b>ข้อมูลหลัก &amp; รายงาน</b></span>"
+
+
+#. Header text in the Performance Workspace
+
+#: hrms/hr/workspace/performance/performance.json
+
+msgid "<span class=\"h4\"><b>Masters &amp; Transactions</b></span>"
+msgstr "<span class=\"h4\"><b>ข้อมูลหลัก &amp; ธุรกรรม</b></span>"
+
+
+#. Header text in the Overview Workspace
+
+#: hrms/hr/workspace/overview/overview.json
+
+msgid "<span class=\"h4\"><b>Reports &amp; Masters</b></span>"
+msgstr "<span class=\"h4\"><b>รายงาน &amp; ข้อมูลหลัก</b></span>"
+
+
+#. Header text in the Salary Payout Workspace
+
+#: hrms/payroll/workspace/salary_payout/salary_payout.json
+
+msgid "<span class=\"h4\"><b>Transactions &amp; Reports</b></span>"
+msgstr "<span class=\"h4\"><b>ธุรกรรม &amp; รายงาน</b></span>"
+
+
+#. Header text in the Employee Lifecycle Workspace
+
+#. Header text in the Expense Claims Workspace
+
+#. Header text in the Leaves Workspace
+
+#. Header text in the Overview Workspace
+
+#. Header text in the Performance Workspace
+
+#. Header text in the Recruitment Workspace
+
+#. Header text in the Shift & Attendance Workspace
+
+#. Header text in the Salary Payout Workspace
+
+#. Header text in the Tax & Benefits Workspace
+
+#: hrms/hr/workspace/employee_lifecycle/employee_lifecycle.json
+
+#: hrms/hr/workspace/expense_claims/expense_claims.json
+
+#: hrms/hr/workspace/leaves/leaves.json
+
+#: hrms/hr/workspace/overview/overview.json
+
+#: hrms/hr/workspace/performance/performance.json
+
+#: hrms/hr/workspace/recruitment/recruitment.json
+
+#: hrms/hr/workspace/shift_&_attendance/shift_&_attendance.json
+
+#: hrms/payroll/workspace/salary_payout/salary_payout.json
+
+#: hrms/payroll/workspace/tax_&_benefits/tax_&_benefits.json
+
+msgid "<span class=\"h4\"><b>Your Shortcuts</b></span>"
+msgstr "<span class=\"h4\"><b>ทางลัดของคุณ</b></span>"
+
+
+#. Header text in the Shift & Attendance Workspace
+
+#: hrms/hr/workspace/shift_&_attendance/shift_&_attendance.json
+
+msgid "<span style=\"font-size: 18px;\"><b>Masters &amp; Reports</b></span>"
+msgstr "<span style=\"font-size: 18px;\"><b>ข้อมูลหลัก &amp; รายงาน</b></span>"
+
+
+#: hrms/public/js/utils/index.js:166
+
+msgid "<table class='table table-bordered'><tr><th>{0}</th><th>{1}</th></tr>"
+msgstr "<table class='table table-bordered'><tr><th>{0}</th><th>{1}</th></tr>"
+
+
+#: hrms/hr/doctype/job_requisition/job_requisition.py:30
+
+msgid "A Job Requisition for {0} requested by {1} already exists: {2}"
+msgstr "คำขอจ้างงานสำหรับตำแหน่ง {0} ที่ขอโดย {1} มีอยู่แล้ว: {2}"
+
+
+#: hrms/controllers/employee_reminders.py:123
+
+#: hrms/controllers/employee_reminders.py:216
+
+msgid "A friendly reminder of an important date for our team."
+msgstr "การเตือนใจที่เป็นมิตรสำหรับวันที่สำคัญของทีมเรา"
+
+
+#: hrms/hr/utils.py:237

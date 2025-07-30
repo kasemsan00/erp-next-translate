@@ -1,0 +1,529 @@
+msgid ""
+
+#: hrms/hr/doctype/shift_assignment_tool/shift_assignment_tool.json
+
+msgid "Assign Shift Schedule"
+msgstr ""
+
+
+#: hrms/payroll/doctype/bulk_salary_structure_assignment/bulk_salary_structure_assignment.js:53
+
+msgid "Assign Structure"
+msgstr ""
+
+
+#: hrms/payroll/doctype/bulk_salary_structure_assignment/bulk_salary_structure_assignment.js:298
+
+msgid "Assigning Salary Structure"
+msgstr ""
+
+
+#: hrms/payroll/doctype/bulk_salary_structure_assignment/bulk_salary_structure_assignment.py:113
+
+msgid "Assigning Structure..."
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.py:282
+
+msgid "Assigning Structures..."
+msgstr ""
+
+
+#: hrms/hr/doctype/shift_assignment_tool/shift_assignment_tool.js:270
+
+msgid "Assigning..."
+msgstr ""
+
+
+#. Label of the assignment_based_on (Select) field in DocType 'Leave Policy
+
+#. Assignment'
+
+#: hrms/hr/doctype/leave_policy_assignment/leave_policy_assignment.json
+
+msgid "Assignment based on"
+msgstr ""
+
+
+#: hrms/hr/doctype/job_requisition/job_requisition.js:50
+
+#: hrms/hr/doctype/job_requisition/job_requisition.js:74
+
+msgid "Associate Job Opening"
+msgstr ""
+
+
+#. Label of the associated_document (Dynamic Link) field in DocType 'Employee
+
+#. Grievance'
+
+#: hrms/hr/doctype/employee_grievance/employee_grievance.json
+
+msgid "Associated Document"
+msgstr ""
+
+
+#. Label of the associated_document_type (Link) field in DocType 'Employee
+
+#. Grievance'
+
+#: hrms/hr/doctype/employee_grievance/employee_grievance.json
+
+msgid "Associated Document Type"
+msgstr ""
+
+
+#: hrms/hr/doctype/exit_interview/exit_interview.py:105
+
+msgid "At least one interview has to be selected."
+msgstr ""
+
+
+#. Label of the attach_proof (Attach) field in DocType 'Employee Tax Exemption
+
+#. Proof Submission Detail'
+
+#: hrms/payroll/doctype/employee_tax_exemption_proof_submission_detail/employee_tax_exemption_proof_submission_detail.json
+
+msgid "Attach Proof"
+msgstr ""
+
+
+#. Label of the attachments (Attach) field in DocType 'Employee Benefit Claim'
+
+#. Label of the attachments (Attach) field in DocType 'Employee Tax Exemption
+
+#. Proof Submission'
+
+#: frontend/src/components/FileUploaderView.vue:4
+
+#: frontend/src/components/RequestActionSheet.vue:55
+
+#: hrms/payroll/doctype/employee_benefit_claim/employee_benefit_claim.json
+
+#: hrms/payroll/doctype/employee_tax_exemption_proof_submission/employee_tax_exemption_proof_submission.json
+
+msgid "Attachments"
+msgstr ""
+
+
+#. Name of a DocType
+
+#. Label of the attendance (Select) field in DocType 'Training Event Employee'
+
+#. Label of a Card Break in the Overview Workspace
+
+#. Label of a Link in the Overview Workspace
+
+#. Label of a Card Break in the Shift & Attendance Workspace
+
+#. Label of a Link in the Shift & Attendance Workspace
+
+#. Label of a shortcut in the Shift & Attendance Workspace
+
+#. Option for the 'Calculate Payroll Working Days Based On' (Select) field in
+
+#. DocType 'Payroll Settings'
+
+#: frontend/src/components/BottomTabs.vue:48
+
+#: hrms/hr/doctype/attendance/attendance.json
+
+#: hrms/hr/doctype/training_event_employee/training_event_employee.json
+
+#: hrms/hr/workspace/overview/overview.json
+
+#: hrms/hr/workspace/shift_&_attendance/shift_&_attendance.json
+
+#: hrms/overrides/dashboard_overrides.py:10
+
+#: hrms/payroll/doctype/payroll_settings/payroll_settings.json
+
+#: hrms/templates/emails/training_event.html:9
+
+msgid "Attendance"
+msgstr ""
+
+
+#: frontend/src/components/AttendanceCalendar.vue:3
+
+msgid "Attendance Calendar"
+msgstr ""
+
+
+#. Label of a chart in the Shift & Attendance Workspace
+
+#: hrms/hr/workspace/shift_&_attendance/shift_&_attendance.json
+
+msgid "Attendance Count"
+msgstr ""
+
+
+#. Label of the attendance_date (Date) field in DocType 'Attendance'
+
+#: hrms/hr/doctype/attendance/attendance.json
+
+#: hrms/hr/report/shift_attendance/shift_attendance.py:43
+
+msgid "Attendance Date"
+msgstr ""
+
+
+#. Label of the att_fr_date (Date) field in DocType 'Upload Attendance'
+
+#: hrms/hr/doctype/upload_attendance/upload_attendance.json
+
+msgid "Attendance From Date"
+msgstr ""
+
+
+#: hrms/hr/doctype/upload_attendance/upload_attendance.js:20
+
+msgid "Attendance From Date and Attendance To Date is mandatory"
+msgstr ""
+
+
+#: hrms/hr/report/shift_attendance/shift_attendance.py:123
+
+msgid "Attendance ID"
+msgstr ""
+
+
+#. Label of the attendance (Link) field in DocType 'Employee Checkin'
+
+#: hrms/hr/doctype/attendance/attendance_list.js:115
+
+#: hrms/hr/doctype/employee_attendance_tool/employee_attendance_tool.js:100
+
+#: hrms/hr/doctype/employee_checkin/employee_checkin.json
+
+msgid "Attendance Marked"
+msgstr ""
+
+
+#. Label of the attendance_request (Link) field in DocType 'Attendance'
+
+#. Name of a DocType
+
+#. Label of a Link in the Overview Workspace
+
+#. Label of a Link in the Shift & Attendance Workspace
+
+#: hrms/hr/doctype/attendance/attendance.json
+
+#: hrms/hr/doctype/attendance_request/attendance_request.json
+
+#: hrms/hr/workspace/overview/overview.json
+
+#: hrms/hr/workspace/shift_&_attendance/shift_&_attendance.json
+
+msgid "Attendance Request"
+msgstr ""
+
+
+#: frontend/src/views/attendance/AttendanceRequestList.vue:5
+
+msgid "Attendance Request History"
+msgstr ""
+
+
+#. Label of the attendance_settings_section (Section Break) field in DocType
+
+#. 'HR Settings'
+
+#: hrms/hr/doctype/hr_settings/hr_settings.json
+
+msgid "Attendance Settings"
+msgstr ""
+
+
+#. Label of the att_to_date (Date) field in DocType 'Upload Attendance'
+
+#: hrms/hr/doctype/upload_attendance/upload_attendance.json
+
+msgid "Attendance To Date"
+msgstr ""
+
+
+#: hrms/hr/doctype/attendance_request/attendance_request.py:114
+
+msgid "Attendance Updated"
+msgstr ""
+
+
+#: hrms/hr/doctype/attendance_request/attendance_request.js:19
+
+msgid "Attendance Warnings"
+msgstr ""
+
+
+#: hrms/hr/doctype/attendance/attendance.py:59
+
+msgid "Attendance date {0} can not be less than employee {1}'s joining date: {2}"
+msgstr ""
+
+
+#: hrms/hr/doctype/employee_attendance_tool/employee_attendance_tool.js:97
+
+msgid "Attendance for all the employees under this criteria has been marked already."
+msgstr ""
+
+
+#: hrms/hr/doctype/attendance/attendance.py:117
+
+msgid "Attendance for employee {0} is already marked for an overlapping shift {1}: {2}"
+msgstr ""
+
+
+#: hrms/hr/doctype/attendance/attendance.py:71
+
+msgid "Attendance for employee {0} is already marked for the date {1}: {2}"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_application/leave_application.py:584
+
+msgid "Attendance for employee {0} is already marked for the following dates: {1}"
+msgstr ""
+
+
+#: hrms/hr/doctype/attendance_request/attendance_warnings.html:2
+
+msgid "Attendance for the following dates will be skipped/overwritten on submission"
+msgstr ""
+
+
+#: hrms/hr/doctype/attendance/attendance_list.js:95
+
+msgid "Attendance from {0} to {1} has already been marked for the Employee {2}"
+msgstr ""
+
+
+#: hrms/hr/doctype/shift_type/shift_type.js:34
+
+msgid "Attendance has been marked as per employee check-ins"
+msgstr ""
+
+
+#: hrms/public/js/templates/employees_with_unmarked_attendance.html:36
+
+msgid "Attendance has been marked for all the employees between the selected payroll dates."
+msgstr ""
+
+
+#: hrms/public/js/templates/employees_with_unmarked_attendance.html:6
+
+msgid "Attendance is pending for these employees between the selected payroll dates. Mark attendance to proceed. Refer {0} for details."
+msgstr ""
+
+
+#: hrms/hr/doctype/employee_attendance_tool/employee_attendance_tool.js:289
+
+msgid "Attendance marked successfully"
+msgstr ""
+
+
+#: hrms/hr/doctype/attendance_request/attendance_request.py:132
+
+msgid "Attendance not submitted for {0} as it is a Holiday."
+msgstr ""
+
+
+#: hrms/hr/doctype/attendance_request/attendance_request.py:141
+
+msgid "Attendance not submitted for {0} as {1} is on leave."
+msgstr ""
+
+
+#. Description of the 'Process Attendance After' (Date) field in DocType 'Shift
+
+#. Type'
+
+#: hrms/hr/doctype/shift_type/shift_type.json
+
+msgid "Attendance will be marked automatically only after this date."
+msgstr ""
+
+
+#: frontend/src/views/attendance/Dashboard.vue:19
+
+msgid "AttendanceRequestListView"
+msgstr ""
+
+
+#. Label of the section_break_18 (Section Break) field in DocType 'Training
+
+#. Event'
+
+#: hrms/hr/doctype/training_event/training_event.json
+
+msgid "Attendees"
+msgstr ""
+
+
+#: hrms/hr/dashboard_chart_source/hiring_vs_attrition_count/hiring_vs_attrition_count.py:45
+
+msgid "Attrition Count"
+msgstr ""
+
+
+#: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.js:19
+
+#: hrms/public/js/salary_slip_deductions_report_filters.js:26
+
+msgid "Aug"
+msgstr ""
+
+
+#. Label of the auto_attendance_settings_section (Section Break) field in
+
+#. DocType 'Shift Type'
+
+#: hrms/hr/doctype/shift_type/shift_type.json
+
+msgid "Auto Attendance Settings"
+msgstr ""
+
+
+#. Label of the auto_leave_encashment (Check) field in DocType 'HR Settings'
+
+#: hrms/hr/doctype/hr_settings/hr_settings.json
+
+msgid "Auto Leave Encashment"
+msgstr ""
+
+
+#. Option for the 'KRA Evaluation Method' (Select) field in DocType 'Appraisal
+
+#. Cycle'
+
+#: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.json
+
+msgid "Automated Based on Goal Progress"
+msgstr ""
+
+
+#. Description of the 'Assets Allocated' (Section Break) field in DocType 'Full
+
+#. and Final Statement'
+
+#: hrms/hr/doctype/full_and_final_statement/full_and_final_statement.json
+
+msgid "Automatically fetches all assets allocated to the employee, if any"
+msgstr ""
+
+
+#. Label of the auto_update_last_sync (Check) field in DocType 'Shift Type'
+
+#: hrms/hr/doctype/shift_type/shift_type.json
+
+msgid "Automatically update Last Sync of Checkin"
+msgstr ""
+
+
+#. Label of the available_leaves (Float) field in DocType 'Salary Slip Leave'
+
+#: hrms/payroll/doctype/salary_slip_leave/salary_slip_leave.json
+
+msgid "Available Leave(s)"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_application/leave_application_dashboard.html:11
+
+msgid "Available Leaves"
+msgstr ""
+
+
+#. Label of the avg_feedback_score (Float) field in DocType 'Appraisal'
+
+#: hrms/hr/doctype/appraisal/appraisal.json
+
+#: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.js:84
+
+msgid "Average Feedback Score"
+msgstr ""
+
+
+#. Label of the average_rating (Rating) field in DocType 'Interview Feedback'
+
+#: hrms/hr/doctype/interview_feedback/interview_feedback.json
+
+#: hrms/public/js/templates/feedback_summary.html:5
+
+msgid "Average Rating"
+msgstr ""
+
+
+#. Description of the 'Final Score' (Float) field in DocType 'Appraisal'
+
+#: hrms/hr/doctype/appraisal/appraisal.json
+
+msgid "Average of Goal Score, Feedback Score, and Self Appraisal Score (out of 5)"
+msgstr ""
+
+
+#: hrms/public/js/templates/interview_feedback.html:16
+
+msgid "Average rating of demonstrated skills"
+msgstr ""
+
+
+#: hrms/hr/report/appraisal_overview/appraisal_overview.py:52
+
+msgid "Avg Feedback Score"
+msgstr ""
+
+
+#: hrms/hr/report/employee_hours_utilization_based_on_timesheet/employee_hours_utilization_based_on_timesheet.py:218
+
+msgid "Avg Utilization"
+msgstr ""
+
+
+#: hrms/hr/report/employee_hours_utilization_based_on_timesheet/employee_hours_utilization_based_on_timesheet.py:224
+
+msgid "Avg Utilization (Billed Only)"
+msgstr ""
+
+
+#. Option for the 'Status' (Select) field in DocType 'Job Offer'
+
+#: hrms/hr/doctype/job_offer/job_offer.json
+
+msgid "Awaiting Response"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_application/leave_application.py:167
+
+msgid "Backdated Leave Application is restricted. Please set the {} in {}"
+msgstr ""
+
+
+#: hrms/payroll/report/salary_payments_via_ecs/salary_payments_via_ecs.py:55
+
+msgid "Bank"
+msgstr ""
+
+
+#. Label of the bank_account (Link) field in DocType 'Payroll Entry'
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.json
+
+msgid "Bank Account"
+msgstr ""
+
+
+#. Label of the bank_account_no (Data) field in DocType 'Salary Slip'
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+msgid "Bank Account No"
+msgstr ""
+
+
+#. Label of the section_break_75 (Tab Break) field in DocType 'Salary Slip'
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json

@@ -1,0 +1,457 @@
+msgid ""
+
+#: hrms/payroll/doctype/employee_benefit_claim/employee_benefit_claim.json
+
+#: hrms/payroll/workspace/tax_&_benefits/tax_&_benefits.json
+
+msgid "Employee Benefit Claim"
+msgstr ""
+
+
+#. Label of the employee_benefits (Table) field in DocType 'Employee Benefit
+
+#. Application'
+
+#: hrms/payroll/doctype/employee_benefit_application/employee_benefit_application.json
+
+#: hrms/setup.py:399
+
+msgid "Employee Benefits"
+msgstr ""
+
+
+#. Name of a report
+
+#. Label of a Link in the Employee Lifecycle Workspace
+
+#. Label of a Link in the Overview Workspace
+
+#: hrms/hr/report/employee_birthday/employee_birthday.json
+
+#: hrms/hr/workspace/employee_lifecycle/employee_lifecycle.json
+
+#: hrms/hr/workspace/overview/overview.json
+
+msgid "Employee Birthday"
+msgstr ""
+
+
+#. Name of a DocType
+
+#: hrms/hr/doctype/employee_boarding_activity/employee_boarding_activity.json
+
+msgid "Employee Boarding Activity"
+msgstr ""
+
+
+#. Name of a DocType
+
+#. Label of a Link in the Overview Workspace
+
+#. Label of a Link in the Shift & Attendance Workspace
+
+#. Label of a shortcut in the Shift & Attendance Workspace
+
+#: hrms/hr/doctype/employee_checkin/employee_checkin.json
+
+#: hrms/hr/workspace/overview/overview.json
+
+#: hrms/hr/workspace/shift_&_attendance/shift_&_attendance.json
+
+msgid "Employee Checkin"
+msgstr ""
+
+
+#: frontend/src/views/attendance/EmployeeCheckinList.vue:5
+
+msgid "Employee Checkin History"
+msgstr ""
+
+
+#. Name of a DocType
+
+#: hrms/payroll/doctype/employee_cost_center/employee_cost_center.json
+
+msgid "Employee Cost Center"
+msgstr ""
+
+
+#. Label of the details_section (Section Break) field in DocType 'Employee
+
+#. Onboarding'
+
+#. Label of the employee_details_tab (Tab Break) field in DocType 'Employee
+
+#. Performance Feedback'
+
+#. Label of the employee_details_section (Section Break) field in DocType 'Exit
+
+#. Interview'
+
+#. Label of the employee_details_section (Section Break) field in DocType 'Full
+
+#. and Final Statement'
+
+#. Label of the employee_details_section (Section Break) field in DocType
+
+#. 'Shift Assignment'
+
+#. Label of the shift_details_section (Section Break) field in DocType 'Shift
+
+#. Schedule Assignment'
+
+#. Label of the employee_details (Section Break) field in DocType 'Travel
+
+#. Request'
+
+#. Label of the employee_section (Section Break) field in DocType 'Employee
+
+#. Other Income'
+
+#. Label of the section_break_24 (Section Break) field in DocType 'Payroll
+
+#. Entry'
+
+#: frontend/src/views/Profile.vue:165
+
+#: hrms/hr/doctype/employee_onboarding/employee_onboarding.json
+
+#: hrms/hr/doctype/employee_performance_feedback/employee_performance_feedback.json
+
+#: hrms/hr/doctype/exit_interview/exit_interview.json
+
+#: hrms/hr/doctype/full_and_final_statement/full_and_final_statement.json
+
+#: hrms/hr/doctype/shift_assignment/shift_assignment.json
+
+#: hrms/hr/doctype/shift_schedule_assignment/shift_schedule_assignment.json
+
+#: hrms/hr/doctype/travel_request/travel_request.json
+
+#: hrms/payroll/doctype/employee_other_income/employee_other_income.json
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.json
+
+msgid "Employee Details"
+msgstr ""
+
+
+#. Label of the employee_emails (Small Text) field in DocType 'Training Event'
+
+#. Label of the employee_emails (Small Text) field in DocType 'Training Result'
+
+#: hrms/hr/doctype/training_event/training_event.json
+
+#: hrms/hr/doctype/training_result/training_result.json
+
+msgid "Employee Emails"
+msgstr ""
+
+
+#. Label of a Card Break in the Employee Lifecycle Workspace
+
+#: hrms/hr/workspace/employee_lifecycle/employee_lifecycle.json
+
+#: hrms/overrides/dashboard_overrides.py:25
+
+msgid "Employee Exit"
+msgstr ""
+
+
+#. Label of the employee_exit_section (Section Break) field in DocType 'HR
+
+#. Settings'
+
+#: hrms/hr/doctype/hr_settings/hr_settings.json
+
+msgid "Employee Exit Settings"
+msgstr ""
+
+
+#. Name of a report
+
+#. Label of a Link in the Employee Lifecycle Workspace
+
+#. Label of a Link in the Overview Workspace
+
+#: hrms/hr/report/employee_exits/employee_exits.json
+
+#: hrms/hr/workspace/employee_lifecycle/employee_lifecycle.json
+
+#: hrms/hr/workspace/overview/overview.json
+
+msgid "Employee Exits"
+msgstr ""
+
+
+#. Name of a DocType
+
+#. Label of a Link in the Performance Workspace
+
+#: hrms/hr/doctype/employee_feedback_criteria/employee_feedback_criteria.json
+
+#: hrms/hr/workspace/performance/performance.json
+
+msgid "Employee Feedback Criteria"
+msgstr ""
+
+
+#. Name of a DocType
+
+#: hrms/hr/doctype/employee_feedback_rating/employee_feedback_rating.json
+
+msgid "Employee Feedback Rating"
+msgstr ""
+
+
+#. Label of the employee_grade (Link) field in DocType 'Employee Attendance
+
+#. Tool'
+
+#. Name of a DocType
+
+#. Label of the employee_grade (Link) field in DocType 'Employee Onboarding'
+
+#. Label of the employee_grade (Link) field in DocType 'Employee Onboarding
+
+#. Template'
+
+#. Label of the employee_grade (Link) field in DocType 'Employee Separation'
+
+#. Label of the employee_grade (Link) field in DocType 'Employee Separation
+
+#. Template'
+
+#. Label of the employee_grade (Link) field in DocType 'Leave Control Panel'
+
+#. Label of the grade (Link) field in DocType 'Shift Assignment Tool'
+
+#. Label of a Link in the Overview Workspace
+
+#. Label of the grade (Link) field in DocType 'Bulk Salary Structure
+
+#. Assignment'
+
+#: hrms/hr/doctype/employee_attendance_tool/employee_attendance_tool.json
+
+#: hrms/hr/doctype/employee_grade/employee_grade.json
+
+#: hrms/hr/doctype/employee_onboarding/employee_onboarding.json
+
+#: hrms/hr/doctype/employee_onboarding_template/employee_onboarding_template.json
+
+#: hrms/hr/doctype/employee_separation/employee_separation.json
+
+#: hrms/hr/doctype/employee_separation_template/employee_separation_template.json
+
+#: hrms/hr/doctype/leave_control_panel/leave_control_panel.json
+
+#: hrms/hr/doctype/shift_assignment_tool/shift_assignment_tool.json
+
+#: hrms/hr/workspace/overview/overview.json
+
+#: hrms/payroll/doctype/bulk_salary_structure_assignment/bulk_salary_structure_assignment.json
+
+msgid "Employee Grade"
+msgstr ""
+
+
+#. Name of a DocType
+
+#. Label of a Link in the Employee Lifecycle Workspace
+
+#. Label of a shortcut in the Employee Lifecycle Workspace
+
+#: hrms/hr/doctype/employee_grievance/employee_grievance.json
+
+#: hrms/hr/workspace/employee_lifecycle/employee_lifecycle.json
+
+msgid "Employee Grievance"
+msgstr ""
+
+
+#. Label of a Link in the Overview Workspace
+
+#: hrms/hr/workspace/overview/overview.json
+
+msgid "Employee Group"
+msgstr "กลุ่มพนักงาน"
+
+
+#. Name of a DocType
+
+#: hrms/hr/doctype/employee_health_insurance/employee_health_insurance.json
+
+msgid "Employee Health Insurance"
+msgstr ""
+
+
+#. Name of a report
+
+#. Label of a Link in the Shift & Attendance Workspace
+
+#: hrms/hr/report/employee_hours_utilization_based_on_timesheet/employee_hours_utilization_based_on_timesheet.json
+
+#: hrms/hr/workspace/shift_&_attendance/shift_&_attendance.json
+
+msgid "Employee Hours Utilization Based On Timesheet"
+msgstr ""
+
+
+#. Label of the employee_image (Attach Image) field in DocType 'Appraisal'
+
+#: hrms/hr/doctype/appraisal/appraisal.json
+
+msgid "Employee Image"
+msgstr ""
+
+
+#. Name of a DocType
+
+#. Label of a Link in the Salary Payout Workspace
+
+#: hrms/payroll/doctype/employee_incentive/employee_incentive.json
+
+#: hrms/payroll/workspace/salary_payout/salary_payout.json
+
+msgid "Employee Incentive"
+msgstr ""
+
+
+#. Label of the section_break_6 (Section Break) field in DocType 'Salary Slip'
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+msgid "Employee Info"
+msgstr ""
+
+
+#. Name of a report
+
+#. Label of a Link in the Employee Lifecycle Workspace
+
+#. Label of a Link in the Overview Workspace
+
+#: hrms/hr/report/employee_information/employee_information.json
+
+#: hrms/hr/workspace/employee_lifecycle/employee_lifecycle.json
+
+#: hrms/hr/workspace/overview/overview.json
+
+msgid "Employee Information"
+msgstr ""
+
+
+#. Label of a Card Break in the Employee Lifecycle Workspace
+
+#: hrms/hr/workspace/employee_lifecycle/employee_lifecycle.json
+
+msgid "Employee Journey"
+msgstr ""
+
+
+#. Name of a report
+
+#. Label of a Link in the Leaves Workspace
+
+#. Label of a Link in the Overview Workspace
+
+#: hrms/hr/report/employee_leave_balance/employee_leave_balance.json
+
+#: hrms/hr/workspace/leaves/leaves.json
+
+#: hrms/hr/workspace/overview/overview.json
+
+msgid "Employee Leave Balance"
+msgstr ""
+
+
+#. Name of a report
+
+#. Label of a Link in the Leaves Workspace
+
+#. Label of a Link in the Overview Workspace
+
+#: hrms/hr/report/employee_leave_balance_summary/employee_leave_balance_summary.json
+
+#: hrms/hr/workspace/leaves/leaves.json
+
+#: hrms/hr/workspace/overview/overview.json
+
+msgid "Employee Leave Balance Summary"
+msgstr ""
+
+
+#. Name of a Workspace
+
+#: hrms/hr/workspace/employee_lifecycle/employee_lifecycle.json
+
+msgid "Employee Lifecycle"
+msgstr ""
+
+
+#: hrms/setup.py:772
+
+msgid "Employee Loan"
+msgstr ""
+
+
+#. Label of the employee_name (Data) field in DocType 'Appraisal'
+
+#. Label of the employee_name (Data) field in DocType 'Appraisee'
+
+#. Label of the employee_name (Data) field in DocType 'Attendance'
+
+#. Label of the employee_name (Data) field in DocType 'Attendance Request'
+
+#. Label of the employee_name (Data) field in DocType 'Compensatory Leave
+
+#. Request'
+
+#. Label of the employee_name (Read Only) field in DocType 'Employee Advance'
+
+#. Label of the employee_name (Data) field in DocType 'Employee Checkin'
+
+#. Label of the employee_name (Data) field in DocType 'Employee Grievance'
+
+#. Label of the employee_name (Data) field in DocType 'Employee Onboarding'
+
+#. Label of the employee_name (Data) field in DocType 'Employee Performance
+
+#. Feedback'
+
+#. Label of the employee_name (Data) field in DocType 'Employee Promotion'
+
+#. Label of the employee_name (Data) field in DocType 'Employee Separation'
+
+#. Label of the employee_name (Read Only) field in DocType 'Employee Skill Map'
+
+#. Label of the employee_name (Data) field in DocType 'Employee Transfer'
+
+#. Label of the employee_name (Data) field in DocType 'Exit Interview'
+
+#. Label of the employee_name (Data) field in DocType 'Expense Claim'
+
+#. Label of the employee_name (Data) field in DocType 'Full and Final
+
+#. Statement'
+
+#. Label of the employee_name (Data) field in DocType 'Goal'
+
+#. Label of the employee_name (Data) field in DocType 'Leave Allocation'
+
+#. Label of the employee_name (Data) field in DocType 'Leave Application'
+
+#. Label of the employee_name (Data) field in DocType 'Leave Encashment'
+
+#. Label of the employee_name (Data) field in DocType 'Leave Ledger Entry'
+
+#. Label of the employee_name (Data) field in DocType 'Shift Assignment'
+
+#. Label of the employee_name (Data) field in DocType 'Shift Request'
+
+#. Label of the employee_name (Data) field in DocType 'Shift Schedule
+
+#. Assignment'
+
+#. Label of the employee_name (Read Only) field in DocType 'Training Event

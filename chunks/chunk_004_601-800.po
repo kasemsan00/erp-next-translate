@@ -1,0 +1,447 @@
+msgid ""
+
+#. Label of the amended_from (Link) field in DocType 'Compensatory Leave
+
+#. Request'
+
+#. Label of the amended_from (Link) field in DocType 'Employee Advance'
+
+#. Label of the amended_from (Link) field in DocType 'Employee Grievance'
+
+#. Label of the amended_from (Link) field in DocType 'Employee Onboarding'
+
+#. Label of the amended_from (Link) field in DocType 'Employee Performance
+
+#. Feedback'
+
+#. Label of the amended_from (Link) field in DocType 'Employee Promotion'
+
+#. Label of the amended_from (Link) field in DocType 'Employee Referral'
+
+#. Label of the amended_from (Link) field in DocType 'Employee Separation'
+
+#. Label of the amended_from (Link) field in DocType 'Employee Transfer'
+
+#. Label of the amended_from (Link) field in DocType 'Exit Interview'
+
+#. Label of the amended_from (Link) field in DocType 'Expense Claim'
+
+#. Label of the amended_from (Link) field in DocType 'Full and Final Statement'
+
+#. Label of the amended_from (Link) field in DocType 'Interview'
+
+#. Label of the amended_from (Link) field in DocType 'Interview Feedback'
+
+#. Label of the amended_from (Link) field in DocType 'Job Offer'
+
+#. Label of the amended_from (Link) field in DocType 'Leave Allocation'
+
+#. Label of the amended_from (Link) field in DocType 'Leave Application'
+
+#. Label of the amended_from (Link) field in DocType 'Leave Encashment'
+
+#. Label of the amended_from (Link) field in DocType 'Leave Ledger Entry'
+
+#. Label of the amended_from (Link) field in DocType 'Leave Policy'
+
+#. Label of the amended_from (Link) field in DocType 'Leave Policy Assignment'
+
+#. Label of the amended_from (Link) field in DocType 'Shift Assignment'
+
+#. Label of the amended_from (Link) field in DocType 'Shift Request'
+
+#. Label of the amended_from (Link) field in DocType 'Shift Schedule'
+
+#. Label of the amended_from (Link) field in DocType 'Staffing Plan'
+
+#. Label of the amended_from (Link) field in DocType 'Training Event'
+
+#. Label of the amended_from (Link) field in DocType 'Training Feedback'
+
+#. Label of the amended_from (Link) field in DocType 'Training Program'
+
+#. Label of the amended_from (Link) field in DocType 'Training Result'
+
+#. Label of the amended_from (Link) field in DocType 'Travel Request'
+
+#. Label of the amended_from (Link) field in DocType 'Vehicle Log'
+
+#. Label of the amended_from (Link) field in DocType 'Additional Salary'
+
+#. Label of the amended_from (Link) field in DocType 'Employee Benefit
+
+#. Application'
+
+#. Label of the amended_from (Link) field in DocType 'Employee Benefit Claim'
+
+#. Label of the amended_from (Link) field in DocType 'Employee Incentive'
+
+#. Label of the amended_from (Link) field in DocType 'Employee Other Income'
+
+#. Label of the amended_from (Link) field in DocType 'Employee Tax Exemption
+
+#. Declaration'
+
+#. Label of the amended_from (Link) field in DocType 'Employee Tax Exemption
+
+#. Proof Submission'
+
+#. Label of the amended_from (Link) field in DocType 'Gratuity'
+
+#. Label of the amended_from (Link) field in DocType 'Income Tax Slab'
+
+#. Label of the amended_from (Link) field in DocType 'Payroll Entry'
+
+#. Label of the amended_from (Link) field in DocType 'Retention Bonus'
+
+#. Label of the amended_from (Link) field in DocType 'Salary Slip'
+
+#. Label of the amended_from (Link) field in DocType 'Salary Structure'
+
+#. Label of the amended_from (Link) field in DocType 'Salary Structure
+
+#. Assignment'
+
+#. Label of the amended_from (Link) field in DocType 'Salary Withholding'
+
+#: hrms/hr/doctype/appraisal/appraisal.json
+
+#: hrms/hr/doctype/attendance/attendance.json
+
+#: hrms/hr/doctype/attendance_request/attendance_request.json
+
+#: hrms/hr/doctype/compensatory_leave_request/compensatory_leave_request.json
+
+#: hrms/hr/doctype/employee_advance/employee_advance.json
+
+#: hrms/hr/doctype/employee_grievance/employee_grievance.json
+
+#: hrms/hr/doctype/employee_onboarding/employee_onboarding.json
+
+#: hrms/hr/doctype/employee_performance_feedback/employee_performance_feedback.json
+
+#: hrms/hr/doctype/employee_promotion/employee_promotion.json
+
+#: hrms/hr/doctype/employee_referral/employee_referral.json
+
+#: hrms/hr/doctype/employee_separation/employee_separation.json
+
+#: hrms/hr/doctype/employee_transfer/employee_transfer.json
+
+#: hrms/hr/doctype/exit_interview/exit_interview.json
+
+#: hrms/hr/doctype/expense_claim/expense_claim.json
+
+#: hrms/hr/doctype/full_and_final_statement/full_and_final_statement.json
+
+#: hrms/hr/doctype/interview/interview.json
+
+#: hrms/hr/doctype/interview_feedback/interview_feedback.json
+
+#: hrms/hr/doctype/job_offer/job_offer.json
+
+#: hrms/hr/doctype/leave_allocation/leave_allocation.json
+
+#: hrms/hr/doctype/leave_application/leave_application.json
+
+#: hrms/hr/doctype/leave_encashment/leave_encashment.json
+
+#: hrms/hr/doctype/leave_ledger_entry/leave_ledger_entry.json
+
+#: hrms/hr/doctype/leave_policy/leave_policy.json
+
+#: hrms/hr/doctype/leave_policy_assignment/leave_policy_assignment.json
+
+#: hrms/hr/doctype/shift_assignment/shift_assignment.json
+
+#: hrms/hr/doctype/shift_request/shift_request.json
+
+#: hrms/hr/doctype/shift_schedule/shift_schedule.json
+
+#: hrms/hr/doctype/staffing_plan/staffing_plan.json
+
+#: hrms/hr/doctype/training_event/training_event.json
+
+#: hrms/hr/doctype/training_feedback/training_feedback.json
+
+#: hrms/hr/doctype/training_program/training_program.json
+
+#: hrms/hr/doctype/training_result/training_result.json
+
+#: hrms/hr/doctype/travel_request/travel_request.json
+
+#: hrms/hr/doctype/vehicle_log/vehicle_log.json
+
+#: hrms/payroll/doctype/additional_salary/additional_salary.json
+
+#: hrms/payroll/doctype/employee_benefit_application/employee_benefit_application.json
+
+#: hrms/payroll/doctype/employee_benefit_claim/employee_benefit_claim.json
+
+#: hrms/payroll/doctype/employee_incentive/employee_incentive.json
+
+#: hrms/payroll/doctype/employee_other_income/employee_other_income.json
+
+#: hrms/payroll/doctype/employee_tax_exemption_declaration/employee_tax_exemption_declaration.json
+
+#: hrms/payroll/doctype/employee_tax_exemption_proof_submission/employee_tax_exemption_proof_submission.json
+
+#: hrms/payroll/doctype/gratuity/gratuity.json
+
+#: hrms/payroll/doctype/income_tax_slab/income_tax_slab.json
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.json
+
+#: hrms/payroll/doctype/retention_bonus/retention_bonus.json
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.json
+
+#: hrms/payroll/doctype/salary_structure_assignment/salary_structure_assignment.json
+
+#: hrms/payroll/doctype/salary_withholding/salary_withholding.json
+
+msgid "Amended From"
+msgstr ""
+
+
+#. Label of the amount (Currency) field in DocType 'Expense Claim Detail'
+
+#. Label of the tax_amount (Currency) field in DocType 'Expense Taxes and
+
+#. Charges'
+
+#. Label of the amount (Currency) field in DocType 'Full and Final Outstanding
+
+#. Statement'
+
+#. Label of the amount (Currency) field in DocType 'Additional Salary'
+
+#. Label of the amount (Currency) field in DocType 'Employee Benefit
+
+#. Application Detail'
+
+#. Label of the amount (Currency) field in DocType 'Employee Other Income'
+
+#. Label of the amount (Currency) field in DocType 'Salary Component'
+
+#. Label of the amount (Currency) field in DocType 'Salary Detail'
+
+#: hrms/hr/doctype/expense_claim_detail/expense_claim_detail.json
+
+#: hrms/hr/doctype/expense_taxes_and_charges/expense_taxes_and_charges.json
+
+#: hrms/hr/doctype/full_and_final_outstanding_statement/full_and_final_outstanding_statement.json
+
+#: hrms/payroll/doctype/additional_salary/additional_salary.json
+
+#: hrms/payroll/doctype/employee_benefit_application_detail/employee_benefit_application_detail.json
+
+#: hrms/payroll/doctype/employee_other_income/employee_other_income.json
+
+#: hrms/payroll/doctype/salary_component/salary_component.json
+
+#: hrms/payroll/doctype/salary_detail/salary_detail.json
+
+#: hrms/payroll/report/professional_tax_deductions/professional_tax_deductions.py:32
+
+msgid "Amount"
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.py:49
+
+msgid "Amount Based on Formula"
+msgstr ""
+
+
+#. Label of the amount_based_on_formula (Check) field in DocType 'Salary
+
+#. Component'
+
+#. Label of the amount_based_on_formula (Check) field in DocType 'Salary
+
+#. Detail'
+
+#: hrms/payroll/doctype/salary_component/salary_component.json
+
+#: hrms/payroll/doctype/salary_detail/salary_detail.json
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.py:108
+
+msgid "Amount based on formula"
+msgstr ""
+
+
+#. Description of the 'Claimed Amount' (Currency) field in DocType 'Employee
+
+#. Advance'
+
+#: hrms/hr/doctype/employee_advance/employee_advance.json
+
+msgid "Amount claimed via Expense Claim"
+msgstr ""
+
+
+#. Description of the 'Advance Amount' (Currency) field in DocType 'Employee
+
+#. Advance'
+
+#: hrms/hr/doctype/employee_advance/employee_advance.json
+
+msgid "Amount of expense"
+msgstr ""
+
+
+#. Description of the 'Paid Amount' (Currency) field in DocType 'Leave
+
+#. Encashment'
+
+#: hrms/hr/doctype/leave_encashment/leave_encashment.json
+
+msgid "Amount paid against this encashment"
+msgstr ""
+
+
+#. Description of the 'Returned Amount' (Currency) field in DocType 'Employee
+
+#. Advance'
+
+#: hrms/hr/doctype/employee_advance/employee_advance.json
+
+msgid "Amount scheduled for deduction via salary"
+msgstr ""
+
+
+#: hrms/payroll/doctype/additional_salary/additional_salary.py:36
+
+msgid "Amount should not be less than zero"
+msgstr ""
+
+
+#. Description of the 'Paid Amount' (Currency) field in DocType 'Employee
+
+#. Advance'
+
+#: hrms/hr/doctype/employee_advance/employee_advance.json
+
+msgid "Amount that has been paid against this advance"
+msgstr ""
+
+
+#: hrms/payroll/doctype/employee_benefit_application/employee_benefit_application.py:58
+
+msgid "An amount of {0} already claimed for the component {1}, set the amount equal or greater than {2}"
+msgstr ""
+
+
+#: hrms/hr/doctype/employee_checkin/employee_checkin.py:54
+
+msgid "An attendance record is linked to this checkin. Please cancel the attendance before modifying time."
+msgstr ""
+
+
+#. Label of the annual_allocation (Float) field in DocType 'Leave Policy
+
+#. Detail'
+
+#: hrms/hr/doctype/leave_policy_detail/leave_policy_detail.json
+
+msgid "Annual Allocation"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_allocation/leave_allocation.py:372
+
+msgid "Annual Allocation Exceeded"
+msgstr ""
+
+
+#: hrms/setup.py:397
+
+msgid "Annual Salary"
+msgstr ""
+
+
+#. Label of the annual_taxable_amount (Currency) field in DocType 'Salary Slip'
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+msgid "Annual Taxable Amount"
+msgstr ""
+
+
+#. Label of the description (Small Text) field in DocType 'Travel Request'
+
+#: hrms/hr/doctype/travel_request/travel_request.json
+
+msgid "Any other details"
+msgstr ""
+
+
+#. Description of the 'Remarks' (Text) field in DocType 'Appraisal'
+
+#: hrms/hr/doctype/appraisal/appraisal.json
+
+msgid "Any other remarks, noteworthy effort that should go in the records"
+msgstr ""
+
+
+#. Label of the applicable_earnings_component (Table MultiSelect) field in
+
+#. DocType 'Gratuity Rule'
+
+#: hrms/payroll/doctype/gratuity_rule/gratuity_rule.json
+
+msgid "Applicable Earnings Component"
+msgstr ""
+
+
+#. Label of the applicable_for_tab (Tab Break) field in DocType 'Appraisal
+
+#. Cycle'
+
+#: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.json
+
+msgid "Applicable For"
+msgstr ""
+
+
+#. Description of the 'Required for Employee Creation' (Check) field in DocType
+
+#. 'Employee Boarding Activity'
+
+#: hrms/hr/doctype/employee_boarding_activity/employee_boarding_activity.json
+
+msgid "Applicable in the case of Employee Onboarding"
+msgstr ""
+
+
+#. Label of the applicant_email (Data) field in DocType 'Job Offer'
+
+#: hrms/hr/doctype/job_offer/job_offer.json
+
+msgid "Applicant Email Address"
+msgstr ""
+
+
+#. Label of the applicant_name (Data) field in DocType 'Appointment Letter'
+
+#. Label of the applicant_name (Data) field in DocType 'Job Applicant'
+
+#. Label of the applicant_name (Data) field in DocType 'Job Offer'
+
+#: hrms/hr/doctype/appointment_letter/appointment_letter.json
+
+#: hrms/hr/doctype/job_applicant/job_applicant.json
+
+#: hrms/hr/doctype/job_offer/job_offer.json
+
+msgid "Applicant Name"
+msgstr ""
+
+
+#. Label of the applicant_rating (Rating) field in DocType 'Job Applicant'
+
+#: hrms/hr/doctype/job_applicant/job_applicant.json

@@ -1,0 +1,500 @@
+msgid ""
+
+msgid "Payment Account"
+msgstr "บัญชีการชำระเงิน"
+
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.js:440
+
+msgid "Payment Account is mandatory"
+msgstr ""
+
+
+#: hrms/payroll/report/bank_remittance/bank_remittance.py:26
+
+msgid "Payment Date"
+msgstr ""
+
+
+#. Label of the payment_days (Float) field in DocType 'Salary Slip'
+
+#. Label of the payment_days_tab (Tab Break) field in DocType 'Salary Slip'
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+#: hrms/payroll/report/salary_register/salary_register.py:186
+
+msgid "Payment Days"
+msgstr ""
+
+
+#. Label of the payment_days_calculation_help (HTML) field in DocType 'Salary
+
+#. Slip'
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+msgid "Payment Days Calculation Help"
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.py:114
+
+msgid "Payment Days Dependency"
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.js:282
+
+msgid "Payment Days calculations are based on these Payroll Settings"
+msgstr ""
+
+
+#. Label of a Link in the Expense Claims Workspace
+
+#. Label of the account (Section Break) field in DocType 'Payroll Entry'
+
+#. Label of a Link in the Salary Payout Workspace
+
+#: hrms/hr/workspace/expense_claims/expense_claims.json
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.json
+
+#: hrms/payroll/workspace/salary_payout/salary_payout.json
+
+msgid "Payment Entry"
+msgstr "รายการชำระเงิน"
+
+
+#. Label of the section_break_5 (Tab Break) field in DocType 'Gratuity'
+
+#: hrms/payroll/doctype/gratuity/gratuity.json
+
+msgid "Payment and Accounting"
+msgstr ""
+
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.py:1076
+
+msgid "Payment of {0} from {1} to {2}"
+msgstr ""
+
+
+#. Label of the payroll (Section Break) field in DocType 'Leave Encashment'
+
+#. Label of a Card Break in the Salary Payout Workspace
+
+#: hrms/hr/doctype/leave_encashment/leave_encashment.json
+
+#: hrms/overrides/dashboard_overrides.py:37
+
+#: hrms/overrides/dashboard_overrides.py:77
+
+#: hrms/payroll/workspace/salary_payout/salary_payout.json
+
+msgid "Payroll"
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.js:282
+
+msgid "Payroll Based On"
+msgstr ""
+
+
+#: hrms/setup.py:111 hrms/setup.py:274
+
+msgid "Payroll Cost Center"
+msgstr ""
+
+
+#. Label of the section_break_17 (Section Break) field in DocType 'Salary
+
+#. Structure Assignment'
+
+#: hrms/payroll/doctype/salary_structure_assignment/salary_structure_assignment.json
+
+msgid "Payroll Cost Centers"
+msgstr ""
+
+
+#. Label of a shortcut in the Overview Workspace
+
+#: hrms/hr/workspace/overview/overview.json
+
+msgid "Payroll Dashboard"
+msgstr ""
+
+
+#. Label of the payroll_date (Date) field in DocType 'Additional Salary'
+
+#. Label of the payroll_date (Date) field in DocType 'Employee Incentive'
+
+#. Label of the payroll_date (Date) field in DocType 'Gratuity'
+
+#: hrms/payroll/doctype/additional_salary/additional_salary.json
+
+#: hrms/payroll/doctype/employee_incentive/employee_incentive.json
+
+#: hrms/payroll/doctype/gratuity/gratuity.json
+
+msgid "Payroll Date"
+msgstr ""
+
+
+#. Name of a DocType
+
+#: hrms/payroll/doctype/payroll_employee_detail/payroll_employee_detail.json
+
+msgid "Payroll Employee Detail"
+msgstr ""
+
+
+#. Name of a DocType
+
+#. Label of the payroll_entry (Link) field in DocType 'Salary Slip'
+
+#. Label of a Link in the Salary Payout Workspace
+
+#. Label of a shortcut in the Salary Payout Workspace
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.json
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+#: hrms/payroll/doctype/salary_structure_assignment/salary_structure_assignment.js:61
+
+#: hrms/payroll/workspace/salary_payout/salary_payout.json
+
+msgid "Payroll Entry"
+msgstr "รายการบัญชีเงินเดือน"
+
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.py:121
+
+msgid "Payroll Entry cancellation is queued. It may take a few minutes"
+msgstr ""
+
+
+#. Label of the payroll_frequency (Select) field in DocType 'Payroll Entry'
+
+#. Label of the payroll_frequency (Select) field in DocType 'Salary Slip'
+
+#. Label of the payroll_frequency (Select) field in DocType 'Salary Structure'
+
+#. Label of the payroll_frequency (Select) field in DocType 'Salary
+
+#. Withholding'
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.json
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.json
+
+#: hrms/payroll/doctype/salary_withholding/salary_withholding.json
+
+msgid "Payroll Frequency"
+msgstr ""
+
+
+#. Label of the section_break_gsts (Section Break) field in DocType 'Salary
+
+#. Slip'
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+msgid "Payroll Info"
+msgstr ""
+
+
+#: hrms/payroll/report/bank_remittance/bank_remittance.py:12
+
+msgid "Payroll Number"
+msgstr ""
+
+
+#: hrms/overrides/company.py:106
+
+#: hrms/patches/post_install/updates_for_multi_currency_payroll.py:65
+
+#: hrms/payroll/doctype/salary_structure_assignment/salary_structure_assignment.py:106
+
+msgid "Payroll Payable"
+msgstr "เงินเดือนค้างจ่าย"
+
+
+#. Label of the payroll_payable_account (Link) field in DocType 'Bulk Salary
+
+#. Structure Assignment'
+
+#. Label of the payroll_payable_account (Link) field in DocType 'Payroll Entry'
+
+#. Label of the payroll_payable_account (Link) field in DocType 'Salary
+
+#. Structure Assignment'
+
+#: hrms/payroll/doctype/bulk_salary_structure_assignment/bulk_salary_structure_assignment.json
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.json
+
+#: hrms/payroll/doctype/salary_structure_assignment/salary_structure_assignment.json
+
+#: hrms/setup.py:838
+
+msgid "Payroll Payable Account"
+msgstr ""
+
+
+#. Label of the payroll_period (Link) field in DocType 'Employee Benefit
+
+#. Application'
+
+#. Label of the payroll_period (Link) field in DocType 'Employee Other Income'
+
+#. Label of the payroll_period (Link) field in DocType 'Employee Tax Exemption
+
+#. Declaration'
+
+#. Label of the payroll_period (Link) field in DocType 'Employee Tax Exemption
+
+#. Proof Submission'
+
+#. Name of a DocType
+
+#. Label of a Link in the Salary Payout Workspace
+
+#: frontend/src/views/salary_slip/Dashboard.vue:21
+
+#: hrms/payroll/doctype/employee_benefit_application/employee_benefit_application.json
+
+#: hrms/payroll/doctype/employee_other_income/employee_other_income.json
+
+#: hrms/payroll/doctype/employee_tax_exemption_declaration/employee_tax_exemption_declaration.json
+
+#: hrms/payroll/doctype/employee_tax_exemption_proof_submission/employee_tax_exemption_proof_submission.json
+
+#: hrms/payroll/doctype/payroll_period/payroll_period.json
+
+#: hrms/payroll/report/income_tax_computation/income_tax_computation.js:18
+
+#: hrms/payroll/workspace/salary_payout/salary_payout.json
+
+msgid "Payroll Period"
+msgstr ""
+
+
+#. Name of a DocType
+
+#: hrms/payroll/doctype/payroll_period_date/payroll_period_date.json
+
+msgid "Payroll Period Date"
+msgstr ""
+
+
+#. Label of the section_break_5 (Section Break) field in DocType 'Payroll
+
+#. Period'
+
+#. Label of the periods (Table) field in DocType 'Payroll Period'
+
+#: hrms/payroll/doctype/payroll_period/payroll_period.json
+
+msgid "Payroll Periods"
+msgstr ""
+
+
+#. Label of a Card Break in the Salary Payout Workspace
+
+#: hrms/payroll/workspace/salary_payout/salary_payout.json
+
+msgid "Payroll Reports"
+msgstr ""
+
+
+#. Label of a Link in the Overview Workspace
+
+#. Name of a DocType
+
+#: hrms/hr/workspace/overview/overview.json
+
+#: hrms/payroll/doctype/payroll_settings/payroll_settings.json
+
+msgid "Payroll Settings"
+msgstr ""
+
+
+#: hrms/payroll/doctype/additional_salary/additional_salary.py:94
+
+msgid "Payroll date can not be greater than employee's relieving date."
+msgstr ""
+
+
+#: hrms/payroll/doctype/additional_salary/additional_salary.py:86
+
+msgid "Payroll date can not be less than employee's joining date."
+msgstr ""
+
+
+#. Option for the 'Status' (Select) field in DocType 'Employee Onboarding'
+
+#. Option for the 'Status' (Select) field in DocType 'Employee Referral'
+
+#. Option for the 'Status' (Select) field in DocType 'Employee Separation'
+
+#. Option for the 'Status' (Select) field in DocType 'Exit Interview'
+
+#. Option for the 'Status' (Select) field in DocType 'Goal'
+
+#. Option for the 'Status' (Select) field in DocType 'Interview'
+
+#. Option for the 'Status' (Select) field in DocType 'Job Requisition'
+
+#: frontend/src/components/ExpenseClaimSummary.vue:20
+
+#: hrms/hr/doctype/employee_onboarding/employee_onboarding.json
+
+#: hrms/hr/doctype/employee_referral/employee_referral.json
+
+#: hrms/hr/doctype/employee_separation/employee_separation.json
+
+#: hrms/hr/doctype/exit_interview/exit_interview.json
+
+#: hrms/hr/doctype/goal/goal.json hrms/hr/doctype/interview/interview.json
+
+#: hrms/hr/doctype/job_requisition/job_requisition.json
+
+msgid "Pending"
+msgstr ""
+
+
+#. Description of the 'Pending Amount' (Currency) field in DocType 'Employee
+
+#. Advance'
+
+#: hrms/hr/doctype/employee_advance/employee_advance.json
+
+msgid "Pending (unpaid) amount from previous advances"
+msgstr ""
+
+
+#. Label of the pending_amount (Currency) field in DocType 'Employee Advance'
+
+#: hrms/hr/doctype/employee_advance/employee_advance.json
+
+msgid "Pending Amount"
+msgstr ""
+
+
+#: hrms/hr/doctype/full_and_final_statement/full_and_final_statement.py:69
+
+msgid "Pending Asset Returns"
+msgstr ""
+
+
+#: hrms/hr/report/employee_exits/employee_exits.py:227
+
+msgid "Pending FnF"
+msgstr ""
+
+
+#: hrms/hr/report/employee_exits/employee_exits.py:221
+
+msgid "Pending Interviews"
+msgstr ""
+
+
+#: hrms/hr/report/employee_exits/employee_exits.py:233
+
+msgid "Pending Questionnaires"
+msgstr ""
+
+
+#. Label of the percent (Percent) field in DocType 'Income Tax Slab Other
+
+#. Charges'
+
+#: hrms/payroll/doctype/income_tax_slab_other_charges/income_tax_slab_other_charges.json
+
+msgid "Percent"
+msgstr ""
+
+
+#. Label of the percent_deduction (Percent) field in DocType 'Taxable Salary
+
+#. Slab'
+
+#: hrms/payroll/doctype/taxable_salary_slab/taxable_salary_slab.json
+
+msgid "Percent Deduction"
+msgstr ""
+
+
+#. Label of the percentage (Int) field in DocType 'Employee Cost Center'
+
+#: hrms/payroll/doctype/employee_cost_center/employee_cost_center.json
+
+msgid "Percentage (%)"
+msgstr ""
+
+
+#. Name of a Workspace
+
+#: hrms/hr/workspace/performance/performance.json
+
+msgid "Performance"
+msgstr ""
+
+
+#: frontend/src/components/FormView.vue:286
+
+msgid "Permanently cancel {0}"
+msgstr ""
+
+
+#: frontend/src/components/FormView.vue:255
+
+msgid "Permanently submit {0}"
+msgstr ""
+
+
+#. Label of the phone_number (Data) field in DocType 'Job Applicant'
+
+#: hrms/hr/doctype/job_applicant/job_applicant.json
+
+msgid "Phone Number"
+msgstr "หมายเลขโทรศัพท์"
+
+
+#: hrms/setup.py:387
+
+msgid "Piecework"
+msgstr ""
+
+
+#. Option for the 'Roster Color' (Select) field in DocType 'Shift Type'
+
+#: hrms/hr/doctype/shift_type/shift_type.json
+
+msgid "Pink"
+msgstr "สีชมพู"
+
+
+#. Label of the planned_vacancies (Int) field in DocType 'Job Opening'
+
+#: hrms/hr/doctype/job_opening/job_opening.json
+
+msgid "Planned number of Positions"
+msgstr ""
+
+
+#: hrms/hr/doctype/shift_type/shift_type.js:16
+
+msgid "Please Enable Auto Attendance and complete the setup first."
+msgstr ""
+
+
+#: hrms/payroll/doctype/retention_bonus/retention_bonus.js:8
+
+msgid "Please Select Company First"
+msgstr ""

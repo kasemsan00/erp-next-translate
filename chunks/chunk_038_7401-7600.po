@@ -1,0 +1,512 @@
+msgid ""
+
+#: hrms/hr/report/daily_work_summary_replies/daily_work_summary_replies.py:22
+
+msgid "Replies"
+msgstr ""
+
+
+#. Label of a Card Break in the Employee Lifecycle Workspace
+
+#. Label of a Card Break in the Expense Claims Workspace
+
+#. Label of a Card Break in the Leaves Workspace
+
+#. Label of a Card Break in the Performance Workspace
+
+#. Label of a Card Break in the Recruitment Workspace
+
+#. Label of a Card Break in the Shift & Attendance Workspace
+
+#. Label of a Card Break in the Tax & Benefits Workspace
+
+#: hrms/hr/doctype/leave_application/leave_application_dashboard.py:8
+
+#: hrms/hr/workspace/employee_lifecycle/employee_lifecycle.json
+
+#: hrms/hr/workspace/expense_claims/expense_claims.json
+
+#: hrms/hr/workspace/leaves/leaves.json
+
+#: hrms/hr/workspace/performance/performance.json
+
+#: hrms/hr/workspace/recruitment/recruitment.json
+
+#: hrms/hr/workspace/shift_&_attendance/shift_&_attendance.json
+
+#: hrms/payroll/workspace/tax_&_benefits/tax_&_benefits.json
+
+msgid "Reports"
+msgstr "รายงาน"
+
+
+#. Label of the reports_to (Link) field in DocType 'Employee Grievance'
+
+#. Label of the reports_to (Link) field in DocType 'Exit Interview'
+
+#: hrms/hr/doctype/employee_grievance/employee_grievance.json
+
+#: hrms/hr/doctype/exit_interview/exit_interview.json
+
+#: hrms/hr/report/employee_exits/employee_exits.js:45
+
+#: hrms/hr/report/employee_exits/employee_exits.py:79
+
+msgid "Reports To"
+msgstr ""
+
+
+#: frontend/src/views/Home.vue:32 frontend/src/views/attendance/Dashboard.vue:9
+
+msgid "Request Attendance"
+msgstr ""
+
+
+#: frontend/src/views/Home.vue:42
+
+msgid "Request Leave"
+msgstr ""
+
+
+#: frontend/src/views/leave/Dashboard.vue:17
+
+msgid "Request a Leave"
+msgstr ""
+
+
+#: frontend/src/views/Home.vue:37
+
+#: frontend/src/views/attendance/Dashboard.vue:35
+
+msgid "Request a Shift"
+msgstr ""
+
+
+#: frontend/src/components/EmployeeAdvanceBalance.vue:21
+
+#: frontend/src/views/Home.vue:52
+
+msgid "Request an Advance"
+msgstr ""
+
+
+#. Label of the requested_by (Link) field in DocType 'Job Requisition'
+
+#. Label of the section_break_7 (Section Break) field in DocType 'Job
+
+#. Requisition'
+
+#: hrms/hr/doctype/job_requisition/job_requisition.json
+
+msgid "Requested By"
+msgstr ""
+
+
+#. Label of the requested_by_name (Data) field in DocType 'Job Requisition'
+
+#: hrms/hr/doctype/job_requisition/job_requisition.json
+
+msgid "Requested By (Name)"
+msgstr ""
+
+
+#. Option for the 'Travel Funding' (Select) field in DocType 'Travel Request'
+
+#: hrms/hr/doctype/travel_request/travel_request.json
+
+msgid "Require Full Funding"
+msgstr ""
+
+
+#: hrms/setup.py:170
+
+msgid "Required Skills"
+msgstr ""
+
+
+#. Label of the required_for_employee_creation (Check) field in DocType
+
+#. 'Employee Boarding Activity'
+
+#: hrms/hr/doctype/employee_boarding_activity/employee_boarding_activity.json
+
+msgid "Required for Employee Creation"
+msgstr ""
+
+
+#: hrms/hr/doctype/interview/interview.js:31
+
+msgid "Reschedule Interview"
+msgstr ""
+
+
+#: frontend/src/views/Login.vue:57
+
+msgid "Reset Password"
+msgstr ""
+
+
+#. Label of the resignation_letter_date (Date) field in DocType 'Employee
+
+#. Separation'
+
+#: hrms/hr/doctype/employee_separation/employee_separation.json
+
+msgid "Resignation Letter Date"
+msgstr "วันที่จดหมายลาออก"
+
+
+#. Label of the resolution_date (Date) field in DocType 'Employee Grievance'
+
+#: hrms/hr/doctype/employee_grievance/employee_grievance.json
+
+msgid "Resolution Date"
+msgstr "วันที่แก้ไขปัญหา"
+
+
+#. Label of the resolution_details_section (Section Break) field in DocType
+
+#. 'Employee Grievance'
+
+#. Label of the resolution_detail (Small Text) field in DocType 'Employee
+
+#. Grievance'
+
+#: hrms/hr/doctype/employee_grievance/employee_grievance.json
+
+msgid "Resolution Details"
+msgstr "รายละเอียดการแก้ไขปัญหา"
+
+
+#. Option for the 'Status' (Select) field in DocType 'Employee Grievance'
+
+#: hrms/hr/doctype/employee_grievance/employee_grievance.json
+
+msgid "Resolved"
+msgstr "แก้ไขแล้ว"
+
+
+#. Label of the resolved_by (Link) field in DocType 'Employee Grievance'
+
+#: hrms/hr/doctype/employee_grievance/employee_grievance.json
+
+msgid "Resolved By"
+msgstr "แก้ไขโดย"
+
+
+#: hrms/setup.py:404
+
+msgid "Responsibilities"
+msgstr ""
+
+
+#. Label of the restrict_backdated_leave_application (Check) field in DocType
+
+#. 'HR Settings'
+
+#: hrms/hr/doctype/hr_settings/hr_settings.json
+
+msgid "Restrict Backdated Leave Application"
+msgstr ""
+
+
+#. Label of the result (Select) field in DocType 'Interview Feedback'
+
+#: hrms/hr/doctype/interview/interview.js:149
+
+#: hrms/hr/doctype/interview_feedback/interview_feedback.json
+
+msgid "Result"
+msgstr "ผลลัพธ์"
+
+
+#. Label of the resume (Attach) field in DocType 'Employee Referral'
+
+#. Label of the section_break_6 (Section Break) field in DocType 'Job
+
+#. Applicant'
+
+#: hrms/hr/doctype/employee_referral/employee_referral.json
+
+#: hrms/hr/doctype/job_applicant/job_applicant.json
+
+msgid "Resume"
+msgstr "ดำเนินการต่อ"
+
+
+#. Label of the resume_attachment (Attach) field in DocType 'Job Applicant'
+
+#: hrms/hr/doctype/job_applicant/job_applicant.json
+
+msgid "Resume Attachment"
+msgstr ""
+
+
+#. Label of the resume_link (Data) field in DocType 'Employee Referral'
+
+#. Label of the resume_link (Data) field in DocType 'Job Applicant'
+
+#: hrms/hr/doctype/employee_referral/employee_referral.json
+
+#: hrms/hr/doctype/job_applicant/job_applicant.json
+
+msgid "Resume Link"
+msgstr ""
+
+
+#. Label of the resume_link (Data) field in DocType 'Interview'
+
+#: hrms/hr/doctype/interview/interview.json
+
+msgid "Resume link"
+msgstr ""
+
+
+#: hrms/hr/report/employee_exits/employee_exits.py:193
+
+msgid "Retained"
+msgstr ""
+
+
+#. Name of a DocType
+
+#. Label of a Link in the Salary Payout Workspace
+
+#: hrms/payroll/doctype/retention_bonus/retention_bonus.json
+
+#: hrms/payroll/workspace/salary_payout/salary_payout.json
+
+msgid "Retention Bonus"
+msgstr ""
+
+
+#. Label of the retirement_age (Data) field in DocType 'HR Settings'
+
+#: hrms/hr/doctype/hr_settings/hr_settings.json
+
+msgid "Retirement Age (In Years)"
+msgstr ""
+
+
+#. Option for the 'Action' (Select) field in DocType 'Full and Final Asset'
+
+#: hrms/hr/doctype/employee_advance/employee_advance.js:79
+
+#: hrms/hr/doctype/full_and_final_asset/full_and_final_asset.json
+
+msgid "Return"
+msgstr "คืน"
+
+
+#: hrms/hr/doctype/employee_advance/employee_advance.py:138
+
+msgid "Return amount cannot be greater than unclaimed amount"
+msgstr ""
+
+
+#. Option for the 'Status' (Select) field in DocType 'Employee Advance'
+
+#. Option for the 'Status' (Select) field in DocType 'Full and Final Asset'
+
+#: frontend/src/views/employee_advance/List.vue:42
+
+#: hrms/hr/doctype/employee_advance/employee_advance.json
+
+#: hrms/hr/doctype/full_and_final_asset/full_and_final_asset.json
+
+msgid "Returned"
+msgstr "คืนแล้ว"
+
+
+#. Label of the return_amount (Currency) field in DocType 'Employee Advance'
+
+#. Label of the return_amount (Currency) field in DocType 'Expense Claim
+
+#. Advance'
+
+#: hrms/hr/doctype/employee_advance/employee_advance.json
+
+#: hrms/hr/doctype/expense_claim_advance/expense_claim_advance.json
+
+msgid "Returned Amount"
+msgstr "จำนวนเงินที่คืน"
+
+
+#: hrms/hr/doctype/hr_settings/hr_settings.js:41
+
+msgid "Review various other settings related to Employee Leaves and Expense Claim"
+msgstr ""
+
+
+#. Label of the reviewer (Link) field in DocType 'Employee Performance
+
+#. Feedback'
+
+#: hrms/hr/doctype/employee_performance_feedback/employee_performance_feedback.json
+
+msgid "Reviewer"
+msgstr ""
+
+
+#. Label of the reviewer_name (Data) field in DocType 'Employee Performance
+
+#. Feedback'
+
+#: hrms/hr/doctype/employee_performance_feedback/employee_performance_feedback.json
+
+msgid "Reviewer Name"
+msgstr ""
+
+
+#. Label of the revised_ctc (Currency) field in DocType 'Employee Promotion'
+
+#: hrms/hr/doctype/employee_promotion/employee_promotion.json
+
+msgid "Revised CTC"
+msgstr ""
+
+
+#. Label of the rgt (Int) field in DocType 'Goal'
+
+#: hrms/hr/doctype/goal/goal.json
+
+msgid "Right"
+msgstr "ขวา"
+
+
+#. Label of the role (Link) field in DocType 'Employee Boarding Activity'
+
+#: hrms/hr/doctype/employee_boarding_activity/employee_boarding_activity.json
+
+msgid "Role"
+msgstr "บทบาท"
+
+
+#. Label of the role_allowed_to_create_backdated_leave_application (Link) field
+
+#. in DocType 'HR Settings'
+
+#: hrms/hr/doctype/hr_settings/hr_settings.json
+
+#: hrms/hr/doctype/leave_application/leave_application.py:168
+
+msgid "Role Allowed to Create Backdated Leave Application"
+msgstr ""
+
+
+#. Label of a shortcut in the Shift & Attendance Workspace
+
+#: hrms/hr/workspace/shift_&_attendance/shift_&_attendance.json
+
+#: hrms/public/js/utils/index.js:250 hrms/public/js/utils/index.js:271
+
+msgid "Roster"
+msgstr ""
+
+
+#. Label of the color (Select) field in DocType 'Shift Type'
+
+#: hrms/hr/doctype/shift_type/shift_type.json
+
+msgid "Roster Color"
+msgstr ""
+
+
+#. Label of the round_name (Data) field in DocType 'Interview Round'
+
+#: hrms/hr/doctype/interview_round/interview_round.json
+
+msgid "Round Name"
+msgstr ""
+
+
+#. Option for the 'Work Experience Calculation Method' (Select) field in
+
+#. DocType 'Gratuity Rule'
+
+#: hrms/payroll/doctype/gratuity_rule/gratuity_rule.json
+
+msgid "Round off Work Experience"
+msgstr ""
+
+
+#. Label of the round_to_the_nearest_integer (Check) field in DocType 'Salary
+
+#. Component'
+
+#: hrms/payroll/doctype/salary_component/salary_component.json
+
+msgid "Round to the Nearest Integer"
+msgstr ""
+
+
+#. Label of the rounded_total (Currency) field in DocType 'Salary Slip'
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+msgid "Rounded Total"
+msgstr "ยอดรวมปัดเศษ"
+
+
+#. Label of the base_rounded_total (Currency) field in DocType 'Salary Slip'
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+msgid "Rounded Total (Company Currency)"
+msgstr "ยอดรวมปัดเศษ (สกุลเงินบริษัท)"
+
+
+#. Label of the rounding (Select) field in DocType 'Leave Type'
+
+#: hrms/hr/doctype/leave_type/leave_type.json
+
+msgid "Rounding"
+msgstr ""
+
+
+#. Label of the route (Data) field in DocType 'Job Opening'
+
+#: hrms/hr/doctype/job_opening/job_opening.json
+
+msgid "Route"
+msgstr "เส้นทาง"
+
+
+#. Description of the 'Job Application Route' (Data) field in DocType 'Job
+
+#. Opening'
+
+#: hrms/hr/doctype/job_opening/job_opening.json
+
+msgid "Route to the custom Job Application Webform"
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.py:86
+
+msgid "Row #{0}: Cannot set amount or formula for Salary Component {1} with Variable Based On Taxable Salary"
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.py:105
+
+msgid "Row #{0}: The {1} Component has the options {2} and {3} enabled."
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.py:129
+
+msgid "Row #{0}: Timesheet amount will overwrite the Earning component amount for the Salary Component {1}"
+msgstr ""
+
+
+#: hrms/hr/doctype/expense_claim/expense_claim.py:601
+
+msgid "Row No {0}: Amount cannot be greater than the Outstanding Amount against Expense Claim {1}. Outstanding Amount is {2}"
+msgstr ""
+
+
+#: hrms/hr/doctype/expense_claim/expense_claim.py:354
+
+msgid "Row {0}# Allocated amount {1} cannot be greater than unclaimed amount {2}"
+msgstr ""

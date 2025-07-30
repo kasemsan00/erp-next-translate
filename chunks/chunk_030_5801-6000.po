@@ -1,0 +1,526 @@
+msgid ""
+
+msgid "Mark Auto Attendance on Holidays"
+msgstr ""
+
+
+#: frontend/src/views/Notifications.vue:49
+
+msgid "Mark all as read"
+msgstr ""
+
+
+#: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.js:58
+
+#: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.js:62
+
+#: hrms/hr/doctype/employee_onboarding/employee_onboarding.js:67
+
+#: hrms/hr/doctype/goal/goal_tree.js:257
+
+msgid "Mark as Completed"
+msgstr ""
+
+
+#: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.js:67
+
+msgid "Mark as In Progress"
+msgstr ""
+
+
+#: hrms/hr/doctype/interview/interview.py:73
+
+msgid "Mark as {0}"
+msgstr ""
+
+
+#: hrms/hr/doctype/attendance/attendance_list.js:102
+
+msgid "Mark attendance as {0} for {1} on selected dates?"
+msgstr ""
+
+
+#. Description of the 'Enable Auto Attendance' (Check) field in DocType 'Shift
+
+#. Type'
+
+#: hrms/hr/doctype/shift_type/shift_type.json
+
+msgid "Mark attendance based on 'Employee Checkin' for Employees assigned to this shift."
+msgstr ""
+
+
+#: hrms/hr/doctype/shift_type/shift_type.py:88
+
+msgid "Mark attendance for existing check-in/out logs before changing shift settings"
+msgstr ""
+
+
+#: hrms/hr/doctype/goal/goal_tree.js:262
+
+msgid "Mark {0} as Completed?"
+msgstr ""
+
+
+#: hrms/hr/doctype/goal/goal_list.js:81
+
+msgid "Mark {0} {1} as {2}?"
+msgstr ""
+
+
+#. Label of the marked_attendance_section (Section Break) field in DocType
+
+#. 'Employee Attendance Tool'
+
+#: hrms/hr/doctype/employee_attendance_tool/employee_attendance_tool.json
+
+msgid "Marked Attendance"
+msgstr ""
+
+
+#. Label of the marked_attendance_html (HTML) field in DocType 'Employee
+
+#. Attendance Tool'
+
+#: hrms/hr/doctype/employee_attendance_tool/employee_attendance_tool.json
+
+msgid "Marked Attendance HTML"
+msgstr ""
+
+
+#: hrms/hr/doctype/employee_attendance_tool/employee_attendance_tool.js:284
+
+msgid "Marking Attendance"
+msgstr ""
+
+
+#. Label of a Card Break in the Performance Workspace
+
+#. Label of a Card Break in the Salary Payout Workspace
+
+#: hrms/hr/workspace/performance/performance.json
+
+#: hrms/payroll/workspace/salary_payout/salary_payout.json
+
+msgid "Masters"
+msgstr ""
+
+
+#. Label of the max_amount_eligible (Currency) field in DocType 'Employee
+
+#. Benefit Claim'
+
+#: hrms/payroll/doctype/employee_benefit_claim/employee_benefit_claim.json
+
+msgid "Max Amount Eligible"
+msgstr ""
+
+
+#. Label of the max_benefit_amount (Currency) field in DocType 'Employee
+
+#. Benefit Application Detail'
+
+#: hrms/payroll/doctype/employee_benefit_application_detail/employee_benefit_application_detail.json
+
+msgid "Max Benefit Amount"
+msgstr ""
+
+
+#. Label of the max_benefit_amount (Currency) field in DocType 'Salary
+
+#. Component'
+
+#: hrms/payroll/doctype/salary_component/salary_component.json
+
+msgid "Max Benefit Amount (Yearly)"
+msgstr ""
+
+
+#. Label of the max_benefits (Currency) field in DocType 'Salary Structure'
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.json
+
+msgid "Max Benefits (Amount)"
+msgstr ""
+
+
+#. Label of the max_benefits (Currency) field in DocType 'Employee Benefit
+
+#. Application'
+
+#: hrms/payroll/doctype/employee_benefit_application/employee_benefit_application.json
+
+msgid "Max Benefits (Yearly)"
+msgstr ""
+
+
+#. Label of the max_amount (Currency) field in DocType 'Employee Tax Exemption
+
+#. Category'
+
+#. Label of the max_amount (Currency) field in DocType 'Employee Tax Exemption
+
+#. Sub Category'
+
+#: hrms/payroll/doctype/employee_tax_exemption_category/employee_tax_exemption_category.json
+
+#: hrms/payroll/doctype/employee_tax_exemption_sub_category/employee_tax_exemption_sub_category.json
+
+msgid "Max Exemption Amount"
+msgstr ""
+
+
+#: hrms/payroll/doctype/employee_tax_exemption_sub_category/employee_tax_exemption_sub_category.py:18
+
+msgid "Max Exemption Amount cannot be greater than maximum exemption amount {0} of Tax Exemption Category {1}"
+msgstr ""
+
+
+#. Label of the max_taxable_income (Currency) field in DocType 'Income Tax Slab
+
+#. Other Charges'
+
+#: hrms/payroll/doctype/income_tax_slab_other_charges/income_tax_slab_other_charges.json
+
+msgid "Max Taxable Income"
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.py:167
+
+msgid "Max benefits should be greater than zero to dispense benefits"
+msgstr ""
+
+
+#. Label of the max_working_hours_against_timesheet (Float) field in DocType
+
+#. 'Payroll Settings'
+
+#: hrms/payroll/doctype/payroll_settings/payroll_settings.json
+
+msgid "Max working hours against Timesheet"
+msgstr ""
+
+
+#. Label of the maximum_carry_forwarded_leaves (Float) field in DocType 'Leave
+
+#. Type'
+
+#: hrms/hr/doctype/leave_type/leave_type.json
+
+msgid "Maximum Carry Forwarded Leaves"
+msgstr ""
+
+
+#. Label of the max_continuous_days_allowed (Int) field in DocType 'Leave Type'
+
+#: hrms/hr/doctype/leave_type/leave_type.json
+
+msgid "Maximum Consecutive Leaves Allowed"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_application/leave_application.py:510
+
+msgid "Maximum Consecutive Leaves Exceeded"
+msgstr ""
+
+
+#. Label of the max_encashable_leaves (Int) field in DocType 'Leave Type'
+
+#: hrms/hr/doctype/leave_type/leave_type.json
+
+msgid "Maximum Encashable Leaves"
+msgstr ""
+
+
+#. Label of the max_amount (Currency) field in DocType 'Employee Tax Exemption
+
+#. Declaration Category'
+
+#: hrms/payroll/doctype/employee_tax_exemption_declaration_category/employee_tax_exemption_declaration_category.json
+
+msgid "Maximum Exempted Amount"
+msgstr ""
+
+
+#. Label of the max_amount (Currency) field in DocType 'Employee Tax Exemption
+
+#. Proof Submission Detail'
+
+#: hrms/payroll/doctype/employee_tax_exemption_proof_submission_detail/employee_tax_exemption_proof_submission_detail.json
+
+msgid "Maximum Exemption Amount"
+msgstr ""
+
+
+#. Label of the max_leaves_allowed (Float) field in DocType 'Leave Type'
+
+#: hrms/hr/doctype/leave_type/leave_type.json
+
+msgid "Maximum Leave Allocation Allowed per Leave Period"
+msgstr ""
+
+
+#: hrms/payroll/doctype/employee_benefit_claim/employee_benefit_claim.py:65
+
+msgid "Maximum amount eligible for the component {0} exceeds {1}"
+msgstr ""
+
+
+#. Description of the 'Taxable Income Relief Threshold Limit' (Currency) field
+
+#. in DocType 'Income Tax Slab'
+
+#: hrms/payroll/doctype/income_tax_slab/income_tax_slab.json
+
+msgid "Maximum annual taxable income eligible for full tax relief. No tax is applied if income does not exceed this limit"
+msgstr ""
+
+
+#: hrms/payroll/doctype/employee_benefit_application/employee_benefit_application.py:140
+
+msgid "Maximum benefit amount of component {0} exceeds {1}"
+msgstr ""
+
+
+#: hrms/payroll/doctype/employee_benefit_application/employee_benefit_application.py:120
+
+#: hrms/payroll/doctype/employee_benefit_claim/employee_benefit_claim.py:54
+
+msgid "Maximum benefit amount of employee {0} exceeds {1}"
+msgstr ""
+
+
+#: hrms/payroll/doctype/employee_benefit_claim/employee_benefit_claim.py:87
+
+msgid "Maximum benefit of employee {0} exceeds {1} by the sum {2} of benefit application pro-rata component amount and previous claimed amount"
+msgstr ""
+
+
+#: hrms/payroll/doctype/employee_benefit_claim/employee_benefit_claim.py:46
+
+msgid "Maximum benefit of employee {0} exceeds {1} by the sum {2} of previous claimed amount"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_encashment/leave_encashment.py:117
+
+msgid "Maximum encashable leaves for {0} are {1}"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_policy/leave_policy.py:19
+
+msgid "Maximum leave allowed in the leave type {0} is {1}"
+msgstr ""
+
+
+#: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.js:16
+
+#: hrms/public/js/salary_slip_deductions_report_filters.js:23
+
+msgid "May"
+msgstr ""
+
+
+#. Label of the meal_preference (Select) field in DocType 'Travel Itinerary'
+
+#: hrms/hr/doctype/travel_itinerary/travel_itinerary.json
+
+msgid "Meal Preference"
+msgstr ""
+
+
+#: hrms/setup.py:327
+
+msgid "Medical"
+msgstr ""
+
+
+#: frontend/src/components/FormView.vue:46
+
+msgid "Menu"
+msgstr "เมนู"
+
+
+#. Label of the message (Text Editor) field in DocType 'Daily Work Summary
+
+#. Group'
+
+#. Label of the message (Text Editor) field in DocType 'PWA Notification'
+
+#: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
+
+#: hrms/hr/doctype/pwa_notification/pwa_notification.json
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.py:1459
+
+msgid "Message"
+msgstr "ข้อความ"
+
+
+#. Option for the 'Frequency' (Select) field in DocType 'Vehicle Service'
+
+#: hrms/hr/doctype/vehicle_service/vehicle_service.json
+
+msgid "Mileage"
+msgstr ""
+
+
+#. Label of the min_taxable_income (Currency) field in DocType 'Income Tax Slab
+
+#. Other Charges'
+
+#: hrms/payroll/doctype/income_tax_slab_other_charges/income_tax_slab_other_charges.json
+
+msgid "Min Taxable Income"
+msgstr ""
+
+
+#. Label of the minimum_year_for_gratuity (Int) field in DocType 'Gratuity
+
+#. Rule'
+
+#: hrms/payroll/doctype/gratuity_rule/gratuity_rule.json
+
+msgid "Minimum Year for Gratuity"
+msgstr ""
+
+
+#. Description of the 'Allow Leave Application After (Working Days)' (Int)
+
+#. field in DocType 'Leave Type'
+
+#: hrms/hr/doctype/leave_type/leave_type.json
+
+msgid "Minimum working days required since Date of Joining to apply for this leave"
+msgstr ""
+
+
+#: hrms/hr/utils.py:836
+
+msgid "Missing Field"
+msgstr "ฟิลด์ที่หายไป"
+
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.js:205
+
+#: hrms/public/js/utils/index.js:41
+
+msgid "Missing Fields"
+msgstr "ฟิลด์ที่หายไป"
+
+
+#: hrms/payroll/doctype/salary_structure_assignment/salary_structure_assignment.py:83
+
+msgid "Missing Mandatory Field"
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_structure_assignment/salary_structure_assignment.py:165
+
+msgid "Missing Opening Entries"
+msgstr ""
+
+
+#: hrms/hr/doctype/full_and_final_statement/full_and_final_statement.py:44
+
+msgid "Missing Relieving Date"
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.py:1594
+
+msgid "Missing Tax Slab"
+msgstr ""
+
+
+#. Label of the mode_of_payment (Select) field in DocType 'Salary Slip'
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+msgid "Mode Of Payment"
+msgstr "วิธีการชำระเงิน"
+
+
+#. Label of the mode_of_payment (Link) field in DocType 'Employee Advance'
+
+#. Label of the mode_of_payment (Link) field in DocType 'Expense Claim'
+
+#. Label of the mode_of_payment (Link) field in DocType 'Gratuity'
+
+#. Label of the mode_of_payment (Link) field in DocType 'Salary Structure'
+
+#: hrms/hr/doctype/employee_advance/employee_advance.json
+
+#: hrms/hr/doctype/expense_claim/expense_claim.json
+
+#: hrms/payroll/doctype/gratuity/gratuity.json
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.json
+
+msgid "Mode of Payment"
+msgstr "วิธีการชำระเงิน"
+
+
+#. Label of the mode_of_travel (Select) field in DocType 'Travel Itinerary'
+
+#: hrms/hr/doctype/travel_itinerary/travel_itinerary.json
+
+msgid "Mode of Travel"
+msgstr ""
+
+
+#: hrms/hr/doctype/expense_claim/expense_claim.py:292
+
+msgid "Mode of payment is required to make a payment"
+msgstr ""
+
+
+#. Label of the model (Read Only) field in DocType 'Vehicle Log'
+
+#: hrms/hr/doctype/vehicle_log/vehicle_log.json
+
+#: hrms/hr/report/vehicle_expenses/vehicle_expenses.py:32
+
+msgid "Model"
+msgstr "รุ่น"
+
+
+#: frontend/src/components/AttendanceCalendar.vue:113
+
+#: hrms/hr/doctype/leave_block_list/leave_block_list.js:37
+
+msgid "Monday"
+msgstr "วันจันทร์"
+
+
+#. Option for the 'Salary Paid Per' (Select) field in DocType 'Job Opening'
+
+#: hrms/hr/doctype/job_opening/job_opening.json
+
+#: hrms/hr/report/employee_birthday/employee_birthday.js:8
+
+#: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.js:8
+
+#: hrms/public/js/salary_slip_deductions_report_filters.js:15
+
+msgid "Month"
+msgstr "เดือน"
+
+
+#. Label of the month_to_date (Currency) field in DocType 'Salary Slip'
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+msgid "Month To Date"
+msgstr ""
+
+
+#. Label of the base_month_to_date (Currency) field in DocType 'Salary Slip'
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+msgid "Month To Date(Company Currency)"
+msgstr ""
