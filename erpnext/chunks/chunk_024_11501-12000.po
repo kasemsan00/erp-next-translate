@@ -1,0 +1,500 @@
+﻿msgid "Item Group wise Discount"
+msgstr "ส่วนลดตามกลุ่มรายการ"
+
+msgid "Item Groups"
+msgstr "กลุ่มรายการ"
+
+msgid "Item Image (if not slideshow)"
+msgstr "ภาพรายการ (ถ้าไม่ใช่สไลด์โชว์)"
+
+msgid "Item Information"
+msgstr "ข้อมูลของรายการ"
+
+msgid "Item Locations"
+msgstr "ตำแหน่งของรายการ"
+
+msgid "Item Manager"
+msgstr "ผู้จัดการรายการ"
+
+msgid "Item Manufacturer"
+msgstr "ผู้ผลิตรายการ"
+
+msgid "Item Name"
+msgstr "ชื่อรายการ"
+
+msgid "Item Naming By"
+msgstr "การตั้งชื่อรายการโดย"
+
+msgid "Item Price"
+msgstr "ราคาของรายการ"
+
+msgid "Item Price Settings"
+msgstr "การตั้งค่าราคาของรายการ"
+
+msgid "Item Price Stock"
+msgstr "ราคาสต็อกของรายการ"
+
+msgid "Item Price added for {0} in Price List {1}"
+msgstr "เพิ่มราคาของรายการ {0} ในรายการราคา {1}"
+
+msgid "Item Price appears multiple times based on Price List, Supplier/Customer, Currency, Item, Batch, UOM, Qty, and Dates."
+msgstr "ราคาของรายการปรากฏหลายครั้งตามรายการราคา ผู้จัดจำหน่าย/ลูกค้า สกุลเงิน รายการ แบทช์ หน่วยวัด ปริมาณ และวันที่"
+
+msgid "Item Price updated for {0} in Price List {1}"
+msgstr "อัปเดตราคาของรายการ {0} ในรายการราคา {1}"
+
+msgid "Item Prices"
+msgstr "ราคาของรายการ"
+
+msgid "Item Quality Inspection Parameter"
+msgstr "พารามิเตอร์การตรวจสอบคุณภาพของรายการ"
+
+msgid "Item Reference"
+msgstr "การอ้างอิงของรายการ"
+
+msgid "Item Reorder"
+msgstr "การสั่งซื้อรายการใหม่"
+
+msgid "Item Row {0}: {1} {2} does not exist in above '{1}' table"
+msgstr "แถวรายการ {0}: {1} {2} ไม่มีอยู่ในตาราง '{1}' ด้านบน"
+
+msgid "Item Serial No"
+msgstr "หมายเลขซีเรียลของรายการ"
+
+msgid "Item Shortage Report"
+msgstr "รายงานการขาดแคลนของรายการ"
+
+msgid "Item Supplier"
+msgstr "ผู้จัดจำหน่ายของรายการ"
+
+msgid "Item Tax"
+msgstr "ภาษีของรายการ"
+
+msgid "Item Tax Amount Included in Value"
+msgstr "จำนวนภาษีของรายการรวมอยู่ในมูลค่า"
+
+msgid "Item Tax Rate"
+msgstr "อัตราภาษีของรายการ"
+
+msgid "Item Tax Row {0} must have account of type Tax or Income or Expense or Chargeable"
+msgstr "แถวภาษีของรายการ {0} ต้องมีบัญชีประเภทภาษี รายได้ ค่าใช้จ่าย หรือค่าธรรมเนียม"
+
+msgid "Item Tax Row {0}: Account must belong to Company - {1}"
+msgstr ""
+
+msgid "Item Tax Template"
+msgstr "แม่แบบภาษีของรายการ"
+
+msgid "Item Tax Template Detail"
+msgstr "รายละเอียดแม่แบบภาษีของรายการ"
+
+msgid "Item To Manufacture"
+msgstr "รายการที่จะผลิต"
+
+msgid "Item UOM"
+msgstr "หน่วยวัดของรายการ"
+
+msgid "Item Unavailable"
+msgstr "รายการไม่พร้อมใช้งาน"
+
+msgid "Item Variant"
+msgstr "ตัวเลือกของรายการ"
+
+msgid "Item Variant Attribute"
+msgstr "แอตทริบิวต์ของตัวเลือกของรายการ"
+
+msgid "Item Variant Details"
+msgstr "รายละเอียดของตัวเลือกของรายการ"
+
+msgid "Item Variant Settings"
+msgstr "การตั้งค่าตัวเลือกของรายการ"
+
+msgid "Item Variant {0} already exists with same attributes"
+msgstr "ตัวเลือกของรายการ {0} มีอยู่แล้วพร้อมแอตทริบิวต์เดียวกัน"
+
+msgid "Item Variants updated"
+msgstr "อัปเดตตัวเลือกของรายการแล้ว"
+
+msgid "Item Warehouse based reposting has been enabled."
+msgstr "เปิดใช้งานการโพสต์ใหม่ตามคลังสินค้าของรายการแล้ว"
+
+msgid "Item Website Specification"
+msgstr "ข้อกำหนดเว็บไซต์ของรายการ"
+
+msgid "Item Weight Details"
+msgstr "รายละเอียดน้ำหนักของรายการ"
+
+msgid "Item Wise Tax Detail"
+msgstr "รายละเอียดภาษีตามรายการ"
+
+msgid "Item and Warehouse"
+msgstr "รายการและคลังสินค้า"
+
+msgid "Item and Warranty Details"
+msgstr "รายการและรายละเอียดการรับประกัน"
+
+msgid "Item for row {0} does not match Material Request"
+msgstr "รายการสำหรับแถว {0} ไม่ตรงกับคำขอวัสดุ"
+
+msgid "Item has variants."
+msgstr "รายการมีตัวเลือก"
+
+msgid "Item is mandatory in Raw Materials table."
+msgstr "รายการเป็นสิ่งจำเป็นในตารางวัตถุดิบ"
+
+msgid "Item is removed since no serial / batch no selected."
+msgstr "รายการถูกลบเนื่องจากไม่มีการเลือกหมายเลขซีเรียล / แบทช์"
+
+msgid "Item must be added using 'Get Items from Purchase Receipts' button"
+msgstr "ต้องเพิ่มรายการโดยใช้ปุ่ม 'ดึงรายการจากใบรับซื้อ'"
+
+msgid "Item name"
+msgstr "ชื่อรายการ"
+
+msgid "Item operation"
+msgstr "การดำเนินการของรายการ"
+
+msgid "Item qty can not be updated as raw materials are already processed."
+msgstr "ไม่สามารถอัปเดตปริมาณรายการได้เนื่องจากวัตถุดิบได้รับการประมวลผลแล้ว"
+
+msgid "Item rate has been updated to zero as Allow Zero Valuation Rate is checked for item {0}"
+msgstr "อัตรารายการถูกอัปเดตเป็นศูนย์เนื่องจากเลือกอนุญาตอัตราการประเมินมูลค่าเป็นศูนย์สำหรับรายการ {0}"
+
+msgid "Item to Manufacture"
+msgstr "รายการที่จะผลิต"
+
+msgid "Item to be manufactured or repacked"
+msgstr "รายการที่จะผลิตหรือบรรจุใหม่"
+
+msgid "Item valuation rate is recalculated considering landed cost voucher amount"
+msgstr "อัตราการประเมินมูลค่าของรายการถูกคำนวณใหม่โดยพิจารณาจากจำนวนเงินในใบสำคัญต้นทุนที่มาถึง"
+
+msgid "Item valuation reposting in progress. Report might show incorrect item valuation."
+msgstr "กำลังดำเนินการโพสต์ใหม่การประเมินมูลค่าของรายการ รายงานอาจแสดงการประเมินมูลค่าของรายการไม่ถูกต้อง"
+
+msgid "Item variant {0} exists with same attributes"
+msgstr "ตัวเลือกของรายการ {0} มีอยู่พร้อมแอตทริบิวต์เดียวกัน"
+
+msgid "Item {0} cannot be added as a sub-assembly of itself"
+msgstr "ไม่สามารถเพิ่มรายการ {0} เป็นชุดย่อยของตัวเองได้"
+
+msgid "Item {0} cannot be ordered more than {1} against Blanket Order {2}."
+msgstr "ไม่สามารถสั่งซื้อรายการ {0} ได้มากกว่า {1} ต่อคำสั่งซื้อแบบครอบคลุม {2}"
+
+msgid "Item {0} does not exist"
+msgstr "รายการ {0} ไม่มีอยู่"
+
+msgid "Item {0} does not exist in the system or has expired"
+msgstr "รายการ {0} ไม่มีอยู่ในระบบหรือหมดอายุแล้ว"
+
+msgid "Item {0} does not exist."
+msgstr "รายการ {0} ไม่มีอยู่"
+
+msgid "Item {0} entered multiple times."
+msgstr "รายการ {0} ถูกป้อนหลายครั้ง"
+
+msgid "Item {0} has already been returned"
+msgstr "รายการ {0} ถูกคืนแล้ว"
+
+msgid "Item {0} has been disabled"
+msgstr "รายการ {0} ถูกปิดใช้งาน"
+
+msgid "Item {0} has no Serial No. Only serialized items can have delivery based on Serial No"
+msgstr "รายการ {0} ไม่มีหมายเลขซีเรียล เฉพาะรายการที่มีหมายเลขซีเรียลเท่านั้นที่สามารถจัดส่งตามหมายเลขซีเรียลได้"
+
+msgid "Item {0} has reached its end of life on {1}"
+msgstr "รายการ {0} ถึงจุดสิ้นสุดของอายุการใช้งานในวันที่ {1}"
+
+msgid "Item {0} ignored since it is not a stock item"
+msgstr "ละเว้นรายการ {0} เนื่องจากไม่ใช่รายการสต็อก"
+
+msgid "Item {0} is already reserved/delivered against Sales Order {1}."
+msgstr "รายการ {0} ถูกจอง/จัดส่งแล้วต่อคำสั่งขาย {1}"
+
+msgid "Item {0} is cancelled"
+msgstr "รายการ {0} ถูกยกเลิก"
+
+msgid "Item {0} is disabled"
+msgstr "รายการ {0} ถูกปิดใช้งาน"
+
+msgid "Item {0} is not a serialized Item"
+msgstr "รายการ {0} ไม่ใช่รายการที่มีหมายเลขซีเรียล"
+
+msgid "Item {0} is not a stock Item"
+msgstr "รายการ {0} ไม่ใช่รายการสต็อก"
+
+msgid "Item {0} is not a subcontracted item"
+msgstr "รายการ {0} ไม่ใช่รายการที่จ้างช่วง"
+
+msgid "Item {0} is not active or end of life has been reached"
+msgstr "รายการ {0} ไม่ได้ใช้งานหรือถึงจุดสิ้นสุดของอายุการใช้งานแล้ว"
+
+msgid "Item {0} must be a Fixed Asset Item"
+msgstr "รายการ {0} ต้องเป็นรายการสินทรัพย์ถาวร"
+
+msgid "Item {0} must be a Non-Stock Item"
+msgstr "รายการ {0} ต้องเป็นรายการที่ไม่ใช่สต็อก"
+
+msgid "Item {0} must be a Sub-contracted Item"
+msgstr "รายการ {0} ต้องเป็นรายการที่จ้างช่วง"
+
+msgid "Item {0} must be a non-stock item"
+msgstr "รายการ {0} ต้องเป็นรายการที่ไม่ใช่สต็อก"
+
+msgid "Item {0} not found in 'Raw Materials Supplied' table in {1} {2}"
+msgstr "ไม่พบรายการ {0} ในตาราง 'วัตถุดิบที่จัดหา' ใน {1} {2}"
+
+msgid "Item {0} not found."
+msgstr "ไม่พบรายการ {0}"
+
+msgid "Item {0}: Ordered qty {1} cannot be less than minimum order qty {2} (defined in Item)."
+msgstr "รายการ {0}: ปริมาณที่สั่งซื้อ {1} ต้องไม่น้อยกว่าปริมาณการสั่งซื้อขั้นต่ำ {2} (กำหนดในรายการ)"
+
+msgid "Item {0}: {1} qty produced. "
+msgstr ""
+
+msgid "Item {} does not exist."
+msgstr "รายการ {} ไม่มีอยู่"
+
+msgid "Item-wise Price List Rate"
+msgstr "อัตรารายการราคาตามรายการ"
+
+msgid "Item-wise Purchase History"
+msgstr "ประวัติการซื้อสินค้าตามรายการ"
+
+msgid "Item-wise Purchase Register"
+msgstr "ทะเบียนการซื้อสินค้าตามรายการ"
+
+msgid "Item-wise Sales History"
+msgstr "ประวัติการขายสินค้าตามรายการ"
+
+msgid "Item-wise Sales Register"
+msgstr "ทะเบียนการขายสินค้าตามรายการ"
+
+msgid "Item/Item Code required to get Item Tax Template."
+msgstr ""
+
+msgid "Item: {0} does not exist in the system"
+msgstr "รายการ: {0} ไม่มีอยู่ในระบบ"
+
+msgid "Items"
+msgstr "รายการ"
+
+msgid "Items & Pricing"
+msgstr ""
+
+msgid "Items Catalogue"
+msgstr ""
+
+msgid "Items Filter"
+msgstr "ตัวกรองรายการ"
+
+msgid "Items Required"
+msgstr "ต้องการรายการ"
+
+msgid "Items To Be Requested"
+msgstr "รายการที่ต้องการ"
+
+msgid "Items and Pricing"
+msgstr ""
+
+msgid "Items cannot be updated as Subcontracting Order is created against the Purchase Order {0}."
+msgstr "ไม่สามารถอัปเดตรายการได้เนื่องจากมีการสร้างคำสั่งจ้างช่วงต่อใบสั่งซื้อ {0}"
+
+msgid "Items for Raw Material Request"
+msgstr "รายการสำหรับคำขอวัตถุดิบ"
+
+msgid "Items rate has been updated to zero as Allow Zero Valuation Rate is checked for the following items: {0}"
+msgstr "อัตรารายการถูกอัปเดตเป็นศูนย์เนื่องจากเลือกอนุญาตอัตราการประเมินมูลค่าเป็นศูนย์สำหรับรายการต่อไปนี้: {0}"
+
+msgid "Items to Be Repost"
+msgstr "รายการที่จะโพสต์ใหม่"
+
+msgid "Items to Manufacture are required to pull the Raw Materials associated with it."
+msgstr "ต้องการรายการที่จะผลิตเพื่อดึงวัตถุดิบที่เกี่ยวข้องกับมัน"
+
+msgid "Items to Order and Receive"
+msgstr ""
+
+msgid "Items to Reserve"
+msgstr "รายการที่จะสำรอง"
+
+msgid "Items under this warehouse will be suggested"
+msgstr "จะแนะนำรายการภายใต้คลังสินค้านี้"
+
+msgid "Items {0} do not exist in the Item master."
+msgstr "รายการ {0} ไม่มีอยู่ในมาสเตอร์รายการ"
+
+msgid "Itemwise Discount"
+msgstr "ส่วนลดตามรายการ"
+
+msgid "Itemwise Recommended Reorder Level"
+msgstr "ระดับการสั่งซื้อใหม่ที่แนะนำตามรายการ"
+
+msgid "JAN"
+msgstr ""
+
+msgid "Job Capacity"
+msgstr ""
+
+msgid "Job Card"
+msgstr ""
+
+msgid "Job Card Analysis"
+msgstr ""
+
+msgid "Job Card Item"
+msgstr ""
+
+msgid "Job Card Operation"
+msgstr ""
+
+msgid "Job Card Scheduled Time"
+msgstr ""
+
+msgid "Job Card Scrap Item"
+msgstr ""
+
+msgid "Job Card Summary"
+msgstr ""
+
+msgid "Job Card Time Log"
+msgstr ""
+
+msgid "Job Card and Capacity Planning"
+msgstr ""
+
+msgid "Job Card {0} has been completed"
+msgstr ""
+
+msgid "Job Cards"
+msgstr ""
+
+msgid "Job Paused"
+msgstr ""
+
+msgid "Job Started"
+msgstr ""
+
+msgid "Job Title"
+msgstr "ชื่อตำแหน่งงาน"
+
+msgid "Job Worker"
+msgstr ""
+
+msgid "Job Worker Address"
+msgstr ""
+
+msgid "Job Worker Address Details"
+msgstr ""
+
+msgid "Job Worker Contact"
+msgstr ""
+
+msgid "Job Worker Delivery Note"
+msgstr ""
+
+msgid "Job Worker Name"
+msgstr ""
+
+msgid "Job Worker Warehouse"
+msgstr ""
+
+msgid "Job card {0} created"
+msgstr ""
+
+msgid "Job: {0} has been triggered for processing failed transactions"
+msgstr ""
+
+msgid "Joining"
+msgstr ""
+
+msgid "Joule"
+msgstr ""
+
+msgid "Joule/Meter"
+msgstr ""
+
+msgid "Journal Entries"
+msgstr ""
+
+msgid "Journal Entries {0} are un-linked"
+msgstr ""
+
+msgid "Journal Entry"
+msgstr ""
+
+msgid "Journal Entry Account"
+msgstr ""
+
+msgid "Journal Entry Template"
+msgstr ""
+
+msgid "Journal Entry Template Account"
+msgstr ""
+
+msgid "Journal Entry Type"
+msgstr ""
+
+msgid "Journal Entry for Asset scrapping cannot be cancelled. Please restore the Asset."
+msgstr ""
+
+msgid "Journal Entry for Scrap"
+msgstr ""
+
+msgid "Journal Entry type should be set as Depreciation Entry for asset depreciation"
+msgstr ""
+
+msgid "Journal Entry {0} does not have account {1} or already matched against other voucher"
+msgstr ""
+
+msgid "Journal entries have been created"
+msgstr ""
+
+msgid "Journals"
+msgstr ""
+
+msgid "Kanban Board"
+msgstr "กระดานคัมบัง"
+
+msgid "Keep Track of Sales Campaigns. Keep track of Leads, Quotations, Sales Order etc from Campaigns to gauge Return on Investment. "
+msgstr ""
+
+msgid "Kelvin"
+msgstr ""
+
+msgid "Key"
+msgstr "คีย์"
+
+msgid "Key Reports"
+msgstr ""
+
+msgid "Kg"
+msgstr ""
+
+msgid "Kiloampere"
+msgstr ""
+
+msgid "Kilocalorie"
+msgstr ""
+
+msgid "Kilocoulomb"
+msgstr ""
+
+msgid "Kilogram-Force"
+msgstr ""
+
+msgid "Kilogram/Cubic Centimeter"
+msgstr ""
+
+msgid "Kilogram/Cubic Meter"
+msgstr ""
+
+msgid "Kilogram/Litre"
+msgstr ""
+
+msgid "Kilohertz"
+msgstr ""
+
+msgid "Kilojoule"
+msgstr ""

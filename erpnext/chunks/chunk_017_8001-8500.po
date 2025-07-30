@@ -1,0 +1,500 @@
+﻿
+msgid "Enable Fuzzy Matching"
+msgstr "เปิดใช้งานการจับคู่แบบคลุมเครือ"
+
+msgid "Enable Health Monitor"
+msgstr "เปิดใช้งานตัวตรวจสอบสุขภาพ"
+
+msgid "Enable Immutable Ledger"
+msgstr "เปิดใช้งานบัญชีแยกประเภทที่ไม่เปลี่ยนแปลง"
+
+msgid "Enable Perpetual Inventory"
+msgstr "เปิดใช้งานสินค้าคงคลังถาวร"
+
+msgid "Enable Provisional Accounting For Non Stock Items"
+msgstr "เปิดใช้งานการบัญชีชั่วคราวสำหรับรายการที่ไม่ใช่สต็อก"
+
+msgid "Enable Stock Reservation"
+msgstr "เปิดใช้งานการจองสต็อก"
+
+msgid "Enable YouTube Tracking"
+msgstr "เปิดใช้งานการติดตาม YouTube"
+
+msgid "Enable it if users want to consider rejected materials to dispatch."
+msgstr "เปิดใช้งานหากผู้ใช้ต้องการพิจารณาวัสดุที่ถูกปฏิเสธสำหรับการจัดส่ง"
+
+msgid "Enable this checkbox even if you want to set the zero priority"
+msgstr "เปิดใช้งานช่องทำเครื่องหมายนี้แม้ว่าคุณต้องการตั้งค่าลำดับความสำคัญเป็นศูนย์"
+
+msgid "Enable this option to calculate daily depreciation by considering the total number of days in the entire depreciation period, (including leap years) while using daily pro-rata based depreciation"
+msgstr "เปิดใช้งานตัวเลือกนี้เพื่อคำนวณค่าเสื่อมรายวันโดยพิจารณาจำนวนวันทั้งหมดในช่วงค่าเสื่อมทั้งหมด (รวมถึงปีอธิกสุรทิน) ในขณะที่ใช้ค่าเสื่อมตามสัดส่วนรายวัน"
+
+msgid "Enable to apply SLA on every {0}"
+msgstr "เปิดใช้งานเพื่อใช้ SLA ในทุก {0}"
+
+msgid "Enabled"
+msgstr "เปิดใช้งานแล้ว"
+
+msgid "Enabling the check box will fetch timesheet on select of a Project in Sales Invoice"
+msgstr "การเปิดใช้งานช่องทำเครื่องหมายจะดึงตารางเวลางานเมื่อเลือกโครงการในใบแจ้งหนี้ขาย"
+
+msgid "Enabling this checkbox will force each Job Card Time Log to have From Time and To Time"
+msgstr "การเปิดใช้งานช่องทำเครื่องหมายนี้จะบังคับให้แต่ละบันทึกเวลาในบัตรงานมีเวลาเริ่มต้นและเวลาสิ้นสุด"
+
+msgid "Enabling this ensures each Purchase Invoice has a unique value in Supplier Invoice No. field within a particular fiscal year"
+msgstr "การเปิดใช้งานนี้ทำให้มั่นใจว่าใบแจ้งหนี้ซื้อแต่ละใบมีค่าที่ไม่ซ้ำกันในฟิลด์หมายเลขใบแจ้งหนี้ของผู้จัดจำหน่ายภายในปีงบประมาณที่กำหนด"
+
+msgid "Enabling this option will allow you to record - <br><br> 1. Advances Received in a <b>Liability Account</b> instead of the <b>Asset Account</b><br><br>2. Advances Paid in an <b>Asset Account</b> instead of the <b> Liability Account</b>"
+msgstr "การเปิดใช้งานตัวเลือกนี้จะช่วยให้คุณบันทึก - <br><br> 1. เงินล่วงหน้าที่ได้รับใน <b>บัญชีหนี้สิน</b> แทนที่จะเป็น <b>บัญชีสินทรัพย์</b><br><br>2. เงินล่วงหน้าที่จ่ายใน <b>บัญชีสินทรัพย์</b> แทนที่จะเป็น <b>บัญชีหนี้สิน</b>"
+
+msgid "Enabling this will allow creation of multi-currency invoices against single party account in company currency"
+msgstr "การเปิดใช้งานนี้จะอนุญาตให้สร้างใบแจ้งหนี้หลายสกุลเงินกับบัญชีฝ่ายเดียวในสกุลเงินของบริษัท"
+
+msgid "Enabling this will change the way how cancelled transactions are handled."
+msgstr "การเปิดใช้งานนี้จะเปลี่ยนวิธีการจัดการธุรกรรมที่ถูกยกเลิก"
+
+msgid "Encashment Date"
+msgstr "วันที่แลกเป็นเงินสด"
+
+msgid "End Date"
+msgstr ""
+
+msgid "End Date cannot be before Start Date."
+msgstr ""
+
+msgid "End Time"
+msgstr "เวลาสิ้นสุด"
+
+msgid "End Transit"
+msgstr ""
+
+msgid "End Year"
+msgstr "ปีสิ้นสุด"
+
+msgid "End Year cannot be before Start Year"
+msgstr "ปีสิ้นสุดไม่สามารถอยู่ก่อนปีเริ่มต้นได้"
+
+msgid "End date cannot be before start date"
+msgstr "วันที่สิ้นสุดไม่สามารถอยู่ก่อนวันที่เริ่มต้นได้"
+
+msgid "End date of current invoice's period"
+msgstr "วันที่สิ้นสุดของรอบใบแจ้งหนี้ปัจจุบัน"
+
+msgid "End of Life"
+msgstr "สิ้นสุดอายุการใช้งาน"
+
+msgid "End of the current subscription period"
+msgstr "สิ้นสุดรอบการสมัครสมาชิกปัจจุบัน"
+
+msgid "Energy"
+msgstr ""
+
+msgid "Enforce Time Logs"
+msgstr "บังคับบันทึกเวลา"
+
+msgid "Engineer"
+msgstr ""
+
+msgid "Enough Parts to Build"
+msgstr "มีชิ้นส่วนเพียงพอสำหรับการสร้าง"
+
+msgid "Ensure Delivery Based on Produced Serial No"
+msgstr "ตรวจสอบการจัดส่งตามหมายเลขซีเรียลที่ผลิต"
+
+msgid "Enter API key in Google Settings."
+msgstr "ป้อนคีย์ API ในการตั้งค่า Google"
+
+msgid "Enter First and Last name of Employee, based on Which Full Name will be updated. IN transactions, it will be Full Name which will be fetched."
+msgstr "ป้อนชื่อและนามสกุลของพนักงาน ซึ่งจะใช้ในการอัปเดตชื่อเต็ม ในธุรกรรมจะดึงชื่อเต็มมาใช้"
+
+msgid "Enter Manually"
+msgstr "ป้อนด้วยตนเอง"
+
+msgid "Enter Serial Nos"
+msgstr "ป้อนหมายเลขซีเรียล"
+
+msgid "Enter Supplier"
+msgstr "ป้อนผู้จัดจำหน่าย"
+
+msgid "Enter Value"
+msgstr "ป้อนค่า"
+
+msgid "Enter Visit Details"
+msgstr "ป้อนรายละเอียดการเยี่ยมชม"
+
+msgid "Enter a name for Routing."
+msgstr "ป้อนชื่อสำหรับการกำหนดเส้นทาง"
+
+msgid "Enter a name for the Operation, for example, Cutting."
+msgstr "ป้อนชื่อสำหรับการดำเนินการ เช่น การตัด"
+
+msgid "Enter a name for this Holiday List."
+msgstr "ป้อนชื่อสำหรับรายการวันหยุดนี้"
+
+msgid "Enter amount to be redeemed."
+msgstr "ป้อนจำนวนเงินที่จะแลก"
+
+msgid "Enter an Item Code, the name will be auto-filled the same as Item Code on clicking inside the Item Name field."
+msgstr "ป้อนรหัสสินค้า ชื่อจะถูกเติมอัตโนมัติเหมือนกับรหัสสินค้าเมื่อคลิกในฟิลด์ชื่อสินค้า"
+
+msgid "Enter customer's email"
+msgstr "ป้อนอีเมลของลูกค้า"
+
+msgid "Enter customer's phone number"
+msgstr "ป้อนหมายเลขโทรศัพท์ของลูกค้า"
+
+msgid "Enter date to scrap asset"
+msgstr "ป้อนวันที่เพื่อทิ้งสินทรัพย์"
+
+msgid "Enter depreciation details"
+msgstr "ป้อนรายละเอียดค่าเสื่อมราคา"
+
+msgid "Enter discount percentage."
+msgstr "ป้อนเปอร์เซ็นต์ส่วนลด"
+
+msgid "Enter each serial no in a new line"
+msgstr "ป้อนหมายเลขซีเรียลแต่ละหมายเลขในบรรทัดใหม่"
+
+msgid "Enter the Bank Guarantee Number before submitting."
+msgstr "ป้อนหมายเลขหนังสือค้ำประกันก่อนส่ง"
+
+msgid "Enter the Operation, the table will fetch the Operation details like Hourly Rate, Workstation automatically.\n\n"
+" After that, set the Operation Time in minutes and the table will calculate the Operation Costs based on the Hourly Rate and Operation Time."
+msgstr ""
+
+msgid "Enter the name of the Beneficiary before submitting."
+msgstr "ป้อนชื่อผู้รับผลประโยชน์ก่อนส่ง"
+
+msgid "Enter the name of the bank or lending institution before submitting."
+msgstr "ป้อนชื่อธนาคารหรือสถาบันการเงินก่อนส่ง"
+
+msgid "Enter the opening stock units."
+msgstr "ป้อนหน่วยสต็อกเริ่มต้น"
+
+msgid "Enter the quantity of the Item that will be manufactured from this Bill of Materials."
+msgstr "ป้อนปริมาณของสินค้าที่จะผลิตจากใบรายการวัสดุนี้"
+
+msgid "Enter the quantity to manufacture. Raw material Items will be fetched only when this is set."
+msgstr "ป้อนปริมาณที่จะผลิต รายการวัตถุดิบจะถูกดึงมาเฉพาะเมื่อมีการตั้งค่านี้"
+
+msgid "Enter {0} amount."
+msgstr "ป้อนจำนวนเงิน {0}"
+
+msgid "Entertainment & Leisure"
+msgstr ""
+
+msgid "Entertainment Expenses"
+msgstr "ค่ารับรอง"
+
+msgid "Entity"
+msgstr "เอนทิตี"
+
+msgid "Entity Type"
+msgstr "ประเภทเอนทิตี"
+
+msgid "Entry Type"
+msgstr "ประเภทการป้อนข้อมูล"
+
+msgid "Equity"
+msgstr "ส่วนของผู้ถือหุ้น"
+
+msgid "Equity/Liability Account"
+msgstr "บัญชีทุน/หนี้สิน"
+
+msgid "Erg"
+msgstr ""
+
+msgid "Error"
+msgstr "ข้อผิดพลาด"
+
+msgid "Error Description"
+msgstr "คำอธิบายข้อผิดพลาด"
+
+msgid "Error Log"
+msgstr "บันทึกข้อผิดพลาด"
+
+msgid "Error Message"
+msgstr "ข้อความข้อผิดพลาด"
+
+msgid "Error Occurred"
+msgstr "เกิดข้อผิดพลาด"
+
+msgid "Error during caller information update"
+msgstr "ข้อผิดพลาดระหว่างการอัปเดตข้อมูลผู้โทร"
+
+msgid "Error evaluating the criteria formula"
+msgstr "ข้อผิดพลาดในการประเมินสูตรเกณฑ์"
+
+msgid "Error in party matching for Bank Transaction {0}"
+msgstr "ข้อผิดพลาดในการจับคู่ฝ่ายสำหรับธุรกรรมธนาคาร {0}"
+
+msgid "Error while posting depreciation entries"
+msgstr "ข้อผิดพลาดขณะโพสต์รายการค่าเสื่อมราคา"
+
+msgid "Error while processing deferred accounting for {0}"
+msgstr "ข้อผิดพลาดขณะประมวลผลการบัญชีรอตัดบัญชีสำหรับ {0}"
+
+msgid "Error while reposting item valuation"
+msgstr "ข้อผิดพลาดขณะโพสต์การประเมินมูลค่าสินค้าใหม่"
+
+msgid "Error: This asset already has {0} depreciation periods booked.\n"
+"\t\t\t\t\tThe `depreciation start` date must be at least {1} periods after the `available for use` date.\n"
+"\t\t\t\t\tPlease correct the dates accordingly."
+msgstr ""
+
+msgid "Error: {0} is mandatory field"
+msgstr "ข้อผิดพลาด: {0} เป็นฟิลด์บังคับ"
+
+msgid "Errors Notification"
+msgstr "การแจ้งเตือนข้อผิดพลาด"
+
+msgid "Estimated Arrival"
+msgstr "การมาถึงโดยประมาณ"
+
+msgid "Estimated Cost"
+msgstr "ต้นทุนโดยประมาณ"
+
+msgid "Estimated Time and Cost"
+msgstr "เวลาและต้นทุนโดยประมาณ"
+
+msgid "Evaluation Period"
+msgstr "ช่วงการประเมิน"
+
+msgid "Even invoices with apply tax withholding unchecked will be considered for checking cumulative threshold breach"
+msgstr "แม้ว่าใบแจ้งหนี้ที่ไม่ได้เลือกใช้การหักภาษี ณ ที่จ่ายจะถูกพิจารณาเพื่อตรวจสอบการละเมิดเกณฑ์สะสม"
+
+msgid "Event"
+msgstr "เหตุการณ์"
+
+msgid "Ex Works"
+msgstr ""
+
+msgid "Example URL"
+msgstr "ตัวอย่าง URL"
+
+msgid "Example of a linked document: {0}"
+msgstr "ตัวอย่างของเอกสารที่เชื่อมโยง: {0}"
+
+msgid "Example: ABCD.#####\n"
+"If series is set and Serial No is not mentioned in transactions, then automatic serial number will be created based on this series. If you always want to explicitly mention Serial Nos for this item. leave this blank."
+msgstr ""
+
+msgid "Example: ABCD.#####. If series is set and Batch No is not mentioned in transactions, then automatic batch number will be created based on this series. If you always want to explicitly mention Batch No for this item, leave this blank. Note: this setting will take priority over the Naming Series Prefix in Stock Settings."
+msgstr "ตัวอย่าง: ABCD.#####. หากตั้งค่าซีรีส์และไม่ได้ระบุหมายเลขแบทช์ในธุรกรรม หมายเลขแบทช์จะถูกสร้างโดยอัตโนมัติตามซีรีส์นี้ หากคุณต้องการระบุหมายเลขแบทช์สำหรับรายการนี้โดยชัดเจน ให้เว้นว่างไว้ หมายเหตุ: การตั้งค่านี้จะมีลำดับความสำคัญเหนือคำนำหน้าซีรีส์การตั้งชื่อในการตั้งค่าสต็อก"
+
+msgid "Example: Serial No {0} reserved in {1}."
+msgstr "ตัวอย่าง: หมายเลขซีเรียล {0} ถูกจองใน {1}"
+
+msgid "Exception Budget Approver Role"
+msgstr "บทบาทผู้อนุมัติงบประมาณข้อยกเว้น"
+
+msgid "Excess Materials Consumed"
+msgstr "วัสดุที่ใช้เกิน"
+
+msgid "Excess Transfer"
+msgstr "การโอนเกิน"
+
+msgid "Excessive machine set up time"
+msgstr "เวลาตั้งค่าเครื่องจักรที่มากเกินไป"
+
+msgid "Exchange Gain / Loss"
+msgstr "กำไร/ขาดทุนจากอัตราแลกเปลี่ยน"
+
+msgid "Exchange Gain / Loss Account"
+msgstr "บัญชีกำไร/ขาดทุนจากอัตราแลกเปลี่ยน"
+
+msgid "Exchange Gain Or Loss"
+msgstr "กำไรหรือขาดทุนจากอัตราแลกเปลี่ยน"
+
+msgid "Exchange Gain/Loss"
+msgstr "กำไร/ขาดทุนจากอัตราการแลกเปลี่ยน"
+
+msgid "Exchange Gain/Loss amount has been booked through {0}"
+msgstr "จำนวนกำไร/ขาดทุนจากอัตราแลกเปลี่ยนถูกบันทึกผ่าน {0}"
+
+msgid "Exchange Rate"
+msgstr "อัตราแลกเปลี่ยน"
+
+msgid "Exchange Rate Revaluation"
+msgstr "การประเมินค่าอัตราแลกเปลี่ยนใหม่"
+
+msgid "Exchange Rate Revaluation Account"
+msgstr "บัญชีการประเมินค่าอัตราแลกเปลี่ยนใหม่"
+
+msgid "Exchange Rate Revaluation Settings"
+msgstr "การตั้งค่าการประเมินค่าอัตราแลกเปลี่ยนใหม่"
+
+msgid "Exchange Rate must be same as {0} {1} ({2})"
+msgstr "อัตราแลกเปลี่ยนต้องเหมือนกับ {0} {1} ({2})"
+
+msgid "Excise Entry"
+msgstr "รายการภาษีสรรพสามิต"
+
+msgid "Excise Invoice"
+msgstr "ใบแจ้งหนี้ภาษีสรรพสามิต"
+
+msgid "Excise Page Number"
+msgstr "หมายเลขหน้าภาษีสรรพสามิต"
+
+msgid "Excluded DocTypes"
+msgstr "DocTypes ที่ไม่รวม"
+
+msgid "Execution"
+msgstr "การดำเนินการ"
+
+msgid "Executive Assistant"
+msgstr ""
+
+msgid "Executive Search"
+msgstr ""
+
+msgid "Exempt Supplies"
+msgstr "การจัดหาที่ได้รับการยกเว้น"
+
+msgid "Exhibition"
+msgstr ""
+
+msgid "Existing Company"
+msgstr "บริษัทที่มีอยู่"
+
+msgid "Existing Company "
+msgstr ""
+
+msgid "Existing Customer"
+msgstr ""
+
+msgid "Exit Interview Held On"
+msgstr "การสัมภาษณ์ออกจัดขึ้นเมื่อ"
+
+msgid "Expand All"
+msgstr "ขยายทั้งหมด"
+
+msgid "Expected"
+msgstr "คาดหวัง"
+
+msgid "Expected Amount"
+msgstr "จำนวนเงินที่คาดหวัง"
+
+msgid "Expected Arrival Date"
+msgstr "วันที่มาถึงที่คาดหวัง"
+
+msgid "Expected Balance Qty"
+msgstr "ปริมาณคงเหลือที่คาดหวัง"
+
+msgid "Expected Closing Date"
+msgstr "วันที่ปิดที่คาดหวัง"
+
+msgid "Expected Delivery Date"
+msgstr "วันที่ส่งมอบที่คาดหวัง"
+
+msgid "Expected Delivery Date should be after Sales Order Date"
+msgstr "วันที่ส่งมอบที่คาดหวังควรอยู่หลังวันที่คำสั่งขาย"
+
+msgid "Expected End Date"
+msgstr "วันที่สิ้นสุดที่คาดหวัง"
+
+msgid "Expected End Date should be less than or equal to parent task's Expected End Date {0}."
+msgstr "วันที่สิ้นสุดที่คาดหวังควรน้อยกว่าหรือเท่ากับวันที่สิ้นสุดที่คาดหวังของงานหลัก {0}"
+
+msgid "Expected Hrs"
+msgstr "ชั่วโมงที่คาดหวัง"
+
+msgid "Expected Start Date"
+msgstr "วันที่เริ่มต้นที่คาดหวัง"
+
+msgid "Expected Stock Value"
+msgstr "มูลค่าสต็อกที่คาดหวัง"
+
+msgid "Expected Time (in hours)"
+msgstr "เวลาที่คาดหวัง (เป็นชั่วโมง)"
+
+msgid "Expected Time Required (In Mins)"
+msgstr "เวลาที่ต้องการที่คาดหวัง (เป็นนาที)"
+
+msgid "Expected Value After Useful Life"
+msgstr "มูลค่าที่คาดหวังหลังจากอายุการใช้งาน"
+
+msgid "Expense"
+msgstr "ค่าใช้จ่าย"
+
+msgid "Expense / Difference account ({0}) must be a 'Profit or Loss' account"
+msgstr "บัญชีค่าใช้จ่าย/ความแตกต่าง ({0}) ต้องเป็นบัญชี 'กำไรหรือขาดทุน'"
+
+msgid "Expense Account"
+msgstr "บัญชีค่าใช้จ่าย"
+
+msgid "Expense Account Missing"
+msgstr "บัญชีค่าใช้จ่ายหายไป"
+
+msgid "Expense Claim"
+msgstr "การเรียกร้องค่าใช้จ่าย"
+
+msgid "Expense Head"
+msgstr "หัวข้อค่าใช้จ่าย"
+
+msgid "Expense Head Changed"
+msgstr "หัวข้อค่าใช้จ่ายเปลี่ยนแปลง"
+
+msgid "Expense account is mandatory for item {0}"
+msgstr "บัญชีค่าใช้จ่ายเป็นสิ่งจำเป็นสำหรับรายการ {0}"
+
+msgid "Expense account {0} not present in Purchase Invoice {1}"
+msgstr "บัญชีค่าใช้จ่าย {0} ไม่มีในใบแจ้งหนี้ซื้อ {1}"
+
+msgid "Expenses"
+msgstr "ค่าใช้จ่าย"
+
+msgid "Expenses Included In Asset Valuation"
+msgstr "ค่าใช้จ่ายรวมทั้งการประเมินมูลค่าสินทรัพย์"
+
+msgid "Expenses Included In Valuation"
+msgstr "ค่าใช้จ่ายที่รวมอยู่ในการประเมินมูลค่า"
+
+msgid "Experimental"
+msgstr "การทดลอง"
+
+msgid "Expired"
+msgstr "หมดอายุ"
+
+msgid "Expired Batches"
+msgstr "แบทช์ที่หมดอายุ"
+
+msgid "Expires On"
+msgstr "หมดอายุเมื่อ"
+
+msgid "Expiry"
+msgstr "วันหมดอายุ"
+
+msgid "Expiry (In Days)"
+msgstr "วันหมดอายุ (เป็นวัน)"
+
+msgid "Expiry Date"
+msgstr "วันหมดอายุ"
+
+msgid "Expiry Date Mandatory"
+msgstr "วันหมดอายุเป็นสิ่งจำเป็น"
+
+msgid "Expiry Duration (in days)"
+msgstr "ระยะเวลาหมดอายุ (เป็นวัน)"
+
+msgid "Exploded Items"
+msgstr "รายการที่ระเบิดออก"
+
+msgid "Exponential Smoothing Forecasting"
+msgstr "การพยากรณ์แบบการทำให้เรียบแบบเอ็กซ์โพเนนเชียล"
+
+msgid "Export Data"
+msgstr "ส่งออกข้อมูล"
+
+msgid "Export E-Invoices"
+msgstr "ส่งออกใบแจ้งหนี้อิเล็กทรอนิกส์"
+
+msgid "Export Errored Rows"
+msgstr "ส่งออกแถวที่มีข้อผิดพลาด"
+
+msgid "Export Import Log"
+msgstr "ส่งออกบันทึกการนำเข้า"
+
+msgid "External"
+msgstr "ภายนอก"
+

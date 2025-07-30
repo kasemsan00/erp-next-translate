@@ -1,0 +1,500 @@
+﻿msgid "External Work History"
+msgstr "ประวัติการทำงานภายนอก"
+
+msgid "Extra Consumed Qty"
+msgstr "ปริมาณที่ใช้เกิน"
+
+msgid "Extra Job Card Quantity"
+msgstr "ปริมาณบัตรงานเพิ่มเติม"
+
+msgid "Extra Large"
+msgstr "ใหญ่มาก"
+
+msgid "Extra Small"
+msgstr "เล็กมาก"
+
+msgid "FIFO"
+msgstr ""
+
+msgid "FIFO Queue"
+msgstr ""
+
+msgid "FIFO Queue vs Qty After Transaction Comparison"
+msgstr ""
+
+msgid "FIFO Stock Queue (qty, rate)"
+msgstr ""
+
+msgid "FIFO/LIFO Queue"
+msgstr ""
+
+msgid "Fahrenheit"
+msgstr ""
+
+msgid "Failed"
+msgstr ""
+
+msgid "Failed Entries"
+msgstr ""
+
+msgid "Failed to Authenticate the API key."
+msgstr ""
+
+msgid "Failed to erase demo data, please delete the demo company manually."
+msgstr ""
+
+msgid "Failed to install presets"
+msgstr "ล้มเหลวในการติดตั้งค่าที่ตั้งไว้ล่วงหน้า"
+
+msgid "Failed to login"
+msgstr "ล้มเหลวในการเข้าสู่ระบบ"
+
+msgid "Failed to parse MT940 format. Error: {0}"
+msgstr ""
+
+msgid "Failed to post depreciation entries"
+msgstr "ล้มเหลวในการโพสต์รายการค่าเสื่อมราคา"
+
+msgid "Failed to setup company"
+msgstr "ล้มเหลวในการตั้งค่าบริษัท"
+
+msgid "Failed to setup defaults"
+msgstr "ล้มเหลวในการตั้งค่าค่าเริ่มต้น"
+
+msgid "Failed to setup defaults for country {0}. Please contact support."
+msgstr "ล้มเหลวในการตั้งค่าค่าเริ่มต้นสำหรับประเทศ {0} โปรดติดต่อฝ่ายสนับสนุน"
+
+msgid "Failure"
+msgstr "ความล้มเหลว"
+
+msgid "Failure Date"
+msgstr "วันที่ล้มเหลว"
+
+msgid "Failure Description"
+msgstr "คำอธิบายความล้มเหลว"
+
+msgid "Failure: {0}"
+msgstr "ความล้มเหลว: {0}"
+
+msgid "Family Background"
+msgstr "ภูมิหลังครอบครัว"
+
+msgid "Faraday"
+msgstr ""
+
+msgid "Fathom"
+msgstr ""
+
+msgid "Fax"
+msgstr "แฟกซ์"
+
+msgid "Feedback"
+msgstr "ข้อเสนอแนะ"
+
+msgid "Feedback By"
+msgstr "ข้อเสนอแนะโดย"
+
+msgid "Fees"
+msgstr "ค่าธรรมเนียม"
+
+msgid "Fetch Based On"
+msgstr "ดึงข้อมูลตาม"
+
+msgid "Fetch Customers"
+msgstr "ดึงข้อมูลลูกค้า"
+
+msgid "Fetch Items from Warehouse"
+msgstr "ดึงรายการจากคลังสินค้า"
+
+msgid "Fetch Latest Exchange Rate"
+msgstr "ดึงอัตราแลกเปลี่ยนล่าสุด"
+
+msgid "Fetch Overdue Payments"
+msgstr "ดึงการชำระเงินที่เกินกำหนด"
+
+msgid "Fetch Subscription Updates"
+msgstr "ดึงการอัปเดตการสมัครสมาชิก"
+
+msgid "Fetch Timesheet"
+msgstr "ดึงตารางเวลางาน"
+
+msgid "Fetch Timesheet in Sales Invoice"
+msgstr "ดึงตารางเวลางานในใบแจ้งหนี้ขาย"
+
+msgid "Fetch Value From"
+msgstr "ดึงค่าจาก"
+
+msgid "Fetch exploded BOM (including sub-assemblies)"
+msgstr "ดึง BOM ที่ระเบิดออก (รวมถึงชุดย่อย)"
+
+msgid "Fetch items based on Default Supplier."
+msgstr "ดึงรายการตามผู้จัดจำหน่ายเริ่มต้น"
+
+msgid "Fetched only {0} available serial numbers."
+msgstr "ดึงหมายเลขซีเรียลที่มีอยู่เพียง {0} หมายเลข"
+
+msgid "Fetching Error"
+msgstr "ข้อผิดพลาดในการดึงข้อมูล"
+
+msgid "Fetching exchange rates ..."
+msgstr "กำลังดึงอัตราแลกเปลี่ยน ..."
+
+msgid "Fetching..."
+msgstr "กำลังดึงข้อมูล..."
+
+msgid "Field"
+msgstr ""
+
+msgid "Field Mapping"
+msgstr ""
+
+msgid "Field Name"
+msgstr "ชื่อฟิลด์"
+
+msgid "Field in Bank Transaction"
+msgstr ""
+
+msgid "Fieldname"
+msgstr ""
+
+msgid "Fields"
+msgstr ""
+
+msgid "Fields will be copied over only at time of creation."
+msgstr ""
+
+msgid "Fieldtype"
+msgstr ""
+
+msgid "File to Rename"
+msgstr ""
+
+msgid "Filter"
+msgstr ""
+
+msgid "Filter Based On"
+msgstr ""
+
+msgid "Filter Duration (Months)"
+msgstr ""
+
+msgid "Filter Total Zero Qty"
+msgstr ""
+
+msgid "Filter by Reference Date"
+msgstr ""
+
+msgid "Filter by invoice status"
+msgstr ""
+
+msgid "Filter on Invoice"
+msgstr ""
+
+msgid "Filter on Payment"
+msgstr ""
+
+msgid "Filters"
+msgstr ""
+
+msgid "Filters missing"
+msgstr ""
+
+msgid "Final BOM"
+msgstr ""
+
+msgid "Final Product"
+msgstr ""
+
+msgid "Finance Book"
+msgstr ""
+
+msgid "Finance Book Detail"
+msgstr ""
+
+msgid "Finance Book Id"
+msgstr ""
+
+msgid "Finance Books"
+msgstr ""
+
+msgid "Finance Manager"
+msgstr ""
+
+msgid "Financial Ratios"
+msgstr ""
+
+msgid "Financial Reports"
+msgstr ""
+
+msgid "Financial Services"
+msgstr ""
+
+msgid "Financial Statements"
+msgstr ""
+
+msgid "Financial Year Begins On"
+msgstr ""
+
+msgid "Financial reports will be generated using GL Entry doctypes (should be enabled if Period Closing Voucher is not posted for all years sequentially or missing) "
+msgstr ""
+
+msgid "Finish"
+msgstr ""
+
+msgid "Finished"
+msgstr ""
+
+msgid "Finished Good"
+msgstr ""
+
+msgid "Finished Good BOM"
+msgstr ""
+
+msgid "Finished Good Item"
+msgstr ""
+
+msgid "Finished Good Item Code"
+msgstr ""
+
+msgid "Finished Good Item Qty"
+msgstr ""
+
+msgid "Finished Good Item Quantity"
+msgstr ""
+
+msgid "Finished Good Item is not specified for service item {0}"
+msgstr ""
+
+msgid "Finished Good Item {0} Qty can not be zero"
+msgstr ""
+
+msgid "Finished Good Item {0} must be a sub-contracted item"
+msgstr ""
+
+msgid "Finished Good Qty"
+msgstr ""
+
+msgid "Finished Good Quantity "
+msgstr ""
+
+msgid "Finished Good Serial / Batch"
+msgstr ""
+
+msgid "Finished Good UOM"
+msgstr ""
+
+msgid "Finished Good {0} does not have a default BOM."
+msgstr ""
+
+msgid "Finished Good {0} is disabled."
+msgstr ""
+
+msgid "Finished Good {0} must be a stock item."
+msgstr ""
+
+msgid "Finished Good {0} must be a sub-contracted item."
+msgstr ""
+
+msgid "Finished Goods"
+msgstr ""
+
+msgid "Finished Goods / Semi Finished Goods Item"
+msgstr ""
+
+msgid "Finished Goods Based Operating Cost"
+msgstr ""
+
+msgid "Finished Goods Item"
+msgstr ""
+
+msgid "Finished Goods Qty"
+msgstr ""
+
+msgid "Finished Goods Reference"
+msgstr ""
+
+msgid "Finished Goods Value"
+msgstr ""
+
+msgid "Finished Goods Warehouse"
+msgstr ""
+
+msgid "Finished Goods based Operating Cost"
+msgstr ""
+
+msgid "Finished Item {0} does not match with Work Order {1}"
+msgstr ""
+
+msgid "First Email"
+msgstr "อีเมลแรก"
+
+msgid "First Name"
+msgstr "ชื่อแรก"
+
+msgid "First Responded On"
+msgstr "ตอบกลับครั้งแรกเมื่อ"
+
+msgid "First Response Due"
+msgstr "กำหนดการตอบกลับครั้งแรก"
+
+msgid "First Response SLA Failed by {}"
+msgstr "SLA การตอบกลับครั้งแรกล้มเหลวโดย {}"
+
+msgid "First Response Time"
+msgstr "เวลาการตอบกลับครั้งแรก"
+
+msgid "First Response Time for Issues"
+msgstr "เวลาการตอบกลับครั้งแรกสำหรับปัญหา"
+
+msgid "First Response Time for Opportunity"
+msgstr "เวลาการตอบกลับครั้งแรกสำหรับโอกาส"
+
+msgid "Fiscal Regime is mandatory, kindly set the fiscal regime in the company {0}"
+msgstr "ระบอบการคลังเป็นสิ่งจำเป็น โปรดตั้งค่าระบอบการคลังในบริษัท {0}"
+
+msgid "Fiscal Year"
+msgstr "ปีงบประมาณ"
+
+msgid "Fiscal Year Company"
+msgstr "บริษัทปีงบประมาณ"
+
+msgid "Fiscal Year End Date should be one year after Fiscal Year Start Date"
+msgstr "วันที่สิ้นสุดปีงบประมาณควรเป็นหนึ่งปีหลังจากวันที่เริ่มต้นปีงบประมาณ"
+
+msgid "Fiscal Year Start Date and Fiscal Year End Date are already set in Fiscal Year {0}"
+msgstr "วันที่เริ่มต้นปีงบประมาณและวันที่สิ้นสุดปีงบประมาณถูกตั้งค่าแล้วในปีงบประมาณ {0}"
+
+msgid "Fiscal Year {0} Does Not Exist"
+msgstr "ปีงบประมาณ {0} ไม่มีอยู่"
+
+msgid "Fiscal Year {0} does not exist"
+msgstr "ปีงบประมาณ {0} ไม่มีอยู่"
+
+msgid "Fiscal Year {0} is required"
+msgstr "จำเป็นต้องมีปีงบประมาณ {0}"
+
+msgid "Fixed"
+msgstr "คงที่"
+
+msgid "Fixed Asset"
+msgstr "สินทรัพย์ถาวร"
+
+msgid "Fixed Asset Account"
+msgstr "บัญชีสินทรัพย์ถาวร"
+
+msgid "Fixed Asset Defaults"
+msgstr "ค่าเริ่มต้นสินทรัพย์ถาวร"
+
+msgid "Fixed Asset Item must be a non-stock item."
+msgstr "รายการสินทรัพย์ถาวรต้องเป็นรายการที่ไม่ใช่สต็อก"
+
+msgid "Fixed Asset Register"
+msgstr "ทะเบียนสินทรัพย์ถาวร"
+
+msgid "Fixed Assets"
+msgstr "สินทรัพย์ถาวร"
+
+msgid "Fixed Deposit Number"
+msgstr "หมายเลขเงินฝากประจำ"
+
+msgid "Fixed Rate"
+msgstr "อัตราคงที่"
+
+msgid "Fixed Time"
+msgstr "เวลาคงที่"
+
+msgid "Fleet Manager"
+msgstr "ผู้จัดการยานพาหนะ"
+
+msgid "Floor"
+msgstr "ชั้น"
+
+msgid "Floor Name"
+msgstr "ชื่อชั้น"
+
+msgid "Fluid Ounce (UK)"
+msgstr ""
+
+msgid "Fluid Ounce (US)"
+msgstr ""
+
+msgid "Focus on Item Group filter"
+msgstr "เน้นที่ตัวกรองกลุ่มรายการ"
+
+msgid "Focus on search input"
+msgstr "เน้นที่การป้อนการค้นหา"
+
+msgid "Folio no."
+msgstr "หมายเลขโฟลิโอ"
+
+msgid "Follow Calendar Months"
+msgstr "ติดตามเดือนปฏิทิน"
+
+msgid "Following Material Requests have been raised automatically based on Item's re-order level"
+msgstr "คำขอวัสดุต่อไปนี้ถูกยกขึ้นโดยอัตโนมัติตามระดับการสั่งซื้อใหม่ของรายการ"
+
+msgid "Following fields are mandatory to create address:"
+msgstr "ฟิลด์ต่อไปนี้เป็นสิ่งจำเป็นในการสร้างที่อยู่:"
+
+msgid "Food, Beverage & Tobacco"
+msgstr ""
+
+msgid "Foot"
+msgstr ""
+
+msgid "Foot Of Water"
+msgstr ""
+
+msgid "Foot/Minute"
+msgstr ""
+
+msgid "Foot/Second"
+msgstr ""
+
+msgid "For"
+msgstr ""
+
+msgid "For 'Product Bundle' items, Warehouse, Serial No and Batch No will be considered from the 'Packing List' table. If Warehouse and Batch No are same for all packing items for any 'Product Bundle' item, those values can be entered in the main Item table, values will be copied to 'Packing List' table."
+msgstr ""
+
+msgid "For All Stock Asset Accounts"
+msgstr ""
+
+msgid "For Buying"
+msgstr ""
+
+msgid "For Company"
+msgstr ""
+
+msgid "For Default Supplier (Optional)"
+msgstr ""
+
+msgid "For Item"
+msgstr ""
+
+msgid "For Item {0} cannot be received more than {1} qty against the {2} {3}"
+msgstr ""
+
+msgid "For Job Card"
+msgstr ""
+
+msgid "For Operation"
+msgstr ""
+
+msgid "For Price List"
+msgstr ""
+
+msgid "For Production"
+msgstr ""
+
+msgid "For Quantity (Manufactured Qty) is mandatory"
+msgstr ""
+
+msgid "For Raw Materials"
+msgstr ""
+
+msgid "For Return Invoices with Stock effect, '0' qty Items are not allowed. Following rows are affected: {0}"
+msgstr ""
+
+msgid "For Selling"
+msgstr ""

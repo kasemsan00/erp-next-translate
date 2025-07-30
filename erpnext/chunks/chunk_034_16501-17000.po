@@ -1,0 +1,500 @@
+﻿
+msgid "Please select a field to edit from numpad"
+msgstr "โปรดเลือกฟิลด์ที่จะแก้ไขจากแป้นตัวเลข"
+
+msgid "Please select a row to create a Reposting Entry"
+msgstr "โปรดเลือกแถวเพื่อสร้างรายการโพสต์ใหม่"
+
+msgid "Please select a supplier for fetching payments."
+msgstr "โปรดเลือกผู้จัดจำหน่ายเพื่อดึงการชำระเงิน"
+
+msgid "Please select a valid Purchase Order that has Service Items."
+msgstr "โปรดเลือกคำสั่งซื้อที่ถูกต้องที่มีรายการบริการ"
+
+msgid "Please select a valid Purchase Order that is configured for Subcontracting."
+msgstr "โปรดเลือกคำสั่งซื้อที่ถูกต้องที่กำหนดค่าสำหรับการจ้างช่วง"
+
+msgid "Please select a value for {0} quotation_to {1}"
+msgstr "โปรดเลือกค่าสำหรับ {0} quotation_to {1}"
+
+msgid "Please select an item code before setting the warehouse."
+msgstr "โปรดเลือกรหัสรายการก่อนตั้งค่าคลังสินค้า"
+
+msgid "Please select atleast one item to continue"
+msgstr ""
+
+msgid "Please select correct account"
+msgstr "โปรดเลือกบัญชีที่ถูกต้อง"
+
+msgid "Please select date"
+msgstr "โปรดเลือกวันที่"
+
+msgid "Please select either the Item or Warehouse or Warehouse Type filter to generate the report."
+msgstr "โปรดเลือกรายการหรือคลังสินค้าหรือตัวกรองประเภทคลังสินค้าเพื่อสร้างรายงาน"
+
+msgid "Please select item code"
+msgstr "โปรดเลือกรหัสรายการ"
+
+msgid "Please select items to reserve."
+msgstr "โปรดเลือกรายการเพื่อจอง"
+
+msgid "Please select items to unreserve."
+msgstr "โปรดเลือกรายการเพื่อยกเลิกการจอง"
+
+msgid "Please select only one row to create a Reposting Entry"
+msgstr "โปรดเลือกเพียงแถวเดียวเพื่อสร้างรายการโพสต์ใหม่"
+
+msgid "Please select rows to create Reposting Entries"
+msgstr "โปรดเลือกแถวเพื่อสร้างรายการโพสต์ใหม่"
+
+msgid "Please select the Company"
+msgstr "โปรดเลือกบริษัท"
+
+msgid "Please select the Multiple Tier Program type for more than one collection rules."
+msgstr "โปรดเลือกประเภทโปรแกรมหลายระดับสำหรับกฎการรวบรวมมากกว่าหนึ่งข้อ"
+
+msgid "Please select the customer."
+msgstr "โปรดเลือกลูกค้า"
+
+msgid "Please select the document type first"
+msgstr "โปรดเลือกประเภทเอกสารก่อน"
+
+msgid "Please select the required filters"
+msgstr "โปรดเลือกตัวกรองที่ต้องการ"
+
+msgid "Please select valid document type."
+msgstr "โปรดเลือกประเภทเอกสารที่ถูกต้อง"
+
+msgid "Please select weekly off day"
+msgstr "โปรดเลือกวันหยุดประจำสัปดาห์"
+
+msgid "Please select {0}"
+msgstr "โปรดเลือก {0}"
+
+msgid "Please select {0} first"
+msgstr "โปรดเลือก {0} ก่อน"
+
+msgid "Please set 'Apply Additional Discount On'"
+msgstr "โปรดตั้งค่า 'ใช้ส่วนลดเพิ่มเติมใน'"
+
+msgid "Please set 'Asset Depreciation Cost Center' in Company {0}"
+msgstr "โปรดตั้งค่า 'ศูนย์ต้นทุนค่าเสื่อมราคาสินทรัพย์' ในบริษัท {0}"
+
+msgid "Please set 'Gain/Loss Account on Asset Disposal' in Company {0}"
+msgstr "โปรดตั้งค่า 'บัญชีกำไร/ขาดทุนจากการจำหน่ายสินทรัพย์' ในบริษัท {0}"
+
+msgid "Please set '{0}' in Company: {1}"
+msgstr "โปรดตั้งค่า '{0}' ในบริษัท: {1}"
+
+msgid "Please set Account"
+msgstr "โปรดตั้งค่าบัญชี"
+
+msgid "Please set Account for Change Amount"
+msgstr "โปรดตั้งค่าบัญชีสำหรับจำนวนเงินที่เปลี่ยนแปลง"
+
+msgid "Please set Account in Warehouse {0} or Default Inventory Account in Company {1}"
+msgstr "โปรดตั้งค่าบัญชีในคลังสินค้า {0} หรือบัญชีสินค้าคงคลังเริ่มต้นในบริษัท {1}"
+
+msgid "Please set Accounting Dimension {} in {}"
+msgstr "โปรดตั้งค่ามิติการบัญชี {} ใน {}"
+
+msgid "Please set Company"
+msgstr "โปรดตั้งค่าบริษัท"
+
+msgid "Please set Depreciation related Accounts in Asset Category {0} or Company {1}"
+msgstr "โปรดตั้งค่าบัญชีที่เกี่ยวข้องกับค่าเสื่อมราคาในหมวดสินทรัพย์ {0} หรือบริษัท {1}"
+
+msgid "Please set Email/Phone for the contact"
+msgstr "โปรดตั้งค่าอีเมล/โทรศัพท์สำหรับผู้ติดต่อ"
+
+msgid "Please set Fiscal Code for the customer '%s'"
+msgstr ""
+
+msgid "Please set Fiscal Code for the public administration '%s'"
+msgstr ""
+
+msgid "Please set Fixed Asset Account in Asset Category {0}"
+msgstr "โปรดตั้งค่าบัญชีสินทรัพย์ถาวรในหมวดสินทรัพย์ {0}"
+
+msgid "Please set Fixed Asset Account in {} against {}."
+msgstr "โปรดตั้งค่าบัญชีสินทรัพย์ถาวรใน {} กับ {}"
+
+msgid "Please set Parent Row No for item {0}"
+msgstr "โปรดตั้งค่าหมายเลขแถวหลักสำหรับรายการ {0}"
+
+msgid "Please set Root Type"
+msgstr "โปรดตั้งค่าประเภทหลัก"
+
+msgid "Please set Tax ID for the customer '%s'"
+msgstr ""
+
+msgid "Please set Unrealized Exchange Gain/Loss Account in Company {0}"
+msgstr "โปรดตั้งค่าบัญชีกำไร/ขาดทุนจากอัตราแลกเปลี่ยนที่ยังไม่รับรู้ในบริษัท {0}"
+
+msgid "Please set VAT Accounts in {0}"
+msgstr "โปรดตั้งค่าบัญชี VAT ใน {0}"
+
+msgid "Please set Vat Accounts for Company: \"{0}\" in UAE VAT Settings"
+msgstr ""
+
+msgid "Please set a Company"
+msgstr "โปรดตั้งค่าบริษัท"
+
+msgid "Please set a Cost Center for the Asset or set an Asset Depreciation Cost Center for the Company {}"
+msgstr "โปรดตั้งค่าศูนย์ต้นทุนสำหรับสินทรัพย์หรือศูนย์ต้นทุนค่าเสื่อมราคาสินทรัพย์สำหรับบริษัท {}"
+
+msgid "Please set a Supplier against the Items to be considered in the Purchase Order."
+msgstr "โปรดตั้งค่าผู้จัดจำหน่ายสำหรับรายการที่จะพิจารณาในคำสั่งซื้อ"
+
+msgid "Please set a default Holiday List for Company {0}"
+msgstr "โปรดตั้งค่ารายการวันหยุดเริ่มต้นสำหรับบริษัท {0}"
+
+msgid "Please set a default Holiday List for Employee {0} or Company {1}"
+msgstr "โปรดตั้งค่ารายการวันหยุดเริ่มต้นสำหรับพนักงาน {0} หรือบริษัท {1}"
+
+msgid "Please set account in Warehouse {0}"
+msgstr "โปรดตั้งค่าบัญชีในคลังสินค้า {0}"
+
+msgid "Please set an Address on the Company '%s'"
+msgstr ""
+
+msgid "Please set an Expense Account in the Items table"
+msgstr "โปรดตั้งค่าบัญชีค่าใช้จ่ายในตารางรายการ"
+
+msgid "Please set an email id for the Lead {0}"
+msgstr "โปรดตั้งค่าอีเมลสำหรับลูกค้าเป้าหมาย {0}"
+
+msgid "Please set at least one row in the Taxes and Charges Table"
+msgstr "โปรดตั้งค่าอย่างน้อยหนึ่งแถวในตารางภาษีและค่าใช้จ่าย"
+
+msgid "Please set both the Tax ID and Fiscal Code on Company {0}"
+msgstr "โปรดตั้งค่าทั้งหมายเลขประจำตัวผู้เสียภาษีและรหัสการเงินในบริษัท {0}"
+
+msgid "Please set default Cash or Bank account in Mode of Payment {0}"
+msgstr "โปรดตั้งค่าบัญชีเงินสดหรือธนาคารเริ่มต้นในโหมดการชำระเงิน {0}"
+
+msgid "Please set default Cash or Bank account in Mode of Payment {}"
+msgstr "โปรดตั้งค่าบัญชีเงินสดหรือธนาคารเริ่มต้นในโหมดการชำระเงิน {}"
+
+msgid "Please set default Cash or Bank account in Mode of Payments {}"
+msgstr "โปรดตั้งค่าบัญชีเงินสดหรือธนาคารเริ่มต้นในโหมดการชำระเงิน {}"
+
+msgid "Please set default Exchange Gain/Loss Account in Company {}"
+msgstr "โปรดตั้งค่าบัญชีกำไร/ขาดทุนจากอัตราแลกเปลี่ยนเริ่มต้นในบริษัท {}"
+
+msgid "Please set default Expense Account in Company {0}"
+msgstr "โปรดตั้งค่าบัญชีค่าใช้จ่ายเริ่มต้นในบริษัท {0}"
+
+msgid "Please set default UOM in Stock Settings"
+msgstr "โปรดตั้งค่าหน่วยวัดเริ่มต้นในการตั้งค่าสต็อก"
+
+msgid "Please set default cost of goods sold account in company {0} for booking rounding gain and loss during stock transfer"
+msgstr "โปรดตั้งค่าบัญชีต้นทุนขายเริ่มต้นในบริษัท {0} สำหรับการบันทึกกำไรและขาดทุนจากการปัดเศษระหว่างการโอนสต็อก"
+
+msgid "Please set default {0} in Company {1}"
+msgstr "โปรดตั้งค่าเริ่มต้น {0} ในบริษัท {1}"
+
+msgid "Please set filter based on Item or Warehouse"
+msgstr "โปรดตั้งค่าตัวกรองตามรายการหรือคลังสินค้า"
+
+msgid "Please set filters"
+msgstr "โปรดตั้งค่าตัวกรอง"
+
+msgid "Please set one of the following:"
+msgstr "โปรดตั้งค่าหนึ่งในสิ่งต่อไปนี้:"
+
+msgid "Please set opening number of booked depreciations"
+msgstr "โปรดตั้งค่าจำนวนการหักค่าเสื่อมราคาที่จองไว้"
+
+msgid "Please set recurring after saving"
+msgstr "โปรดตั้งค่าการเกิดซ้ำหลังจากบันทึก"
+
+msgid "Please set the Customer Address"
+msgstr "โปรดตั้งค่าที่อยู่ลูกค้า"
+
+msgid "Please set the Default Cost Center in {0} company."
+msgstr "โปรดตั้งค่าศูนย์ต้นทุนเริ่มต้นในบริษัท {0}"
+
+msgid "Please set the Item Code first"
+msgstr "โปรดตั้งค่ารหัสรายการก่อน"
+
+msgid "Please set the Target Warehouse in the Job Card"
+msgstr "โปรดตั้งค่าคลังเป้าหมายในบัตรงาน"
+
+msgid "Please set the WIP Warehouse in the Job Card"
+msgstr "โปรดตั้งค่าคลัง WIP ในบัตรงาน"
+
+msgid "Please set the cost center field in {0} or setup a default Cost Center for the Company."
+msgstr "โปรดตั้งค่าฟิลด์ศูนย์ต้นทุนใน {0} หรือกำหนดศูนย์ต้นทุนเริ่มต้นสำหรับบริษัท"
+
+msgid "Please set up the Campaign Schedule in the Campaign {0}"
+msgstr "โปรดตั้งค่ากำหนดการแคมเปญในแคมเปญ {0}"
+
+msgid "Please set {0}"
+msgstr "โปรดตั้งค่า {0}"
+
+msgid "Please set {0} first."
+msgstr "โปรดตั้งค่า {0} ก่อน"
+
+msgid "Please set {0} for Batched Item {1}, which is used to set {2} on Submit."
+msgstr "โปรดตั้งค่า {0} สำหรับรายการแบทช์ {1} ซึ่งใช้ตั้งค่า {2} เมื่อส่ง"
+
+msgid "Please set {0} for address {1}"
+msgstr "โปรดตั้งค่า {0} สำหรับที่อยู่ {1}"
+
+msgid "Please set {0} in BOM Creator {1}"
+msgstr "โปรดตั้งค่า {0} ใน BOM Creator {1}"
+
+msgid "Please set {0} in Company {1} to account for Exchange Gain / Loss"
+msgstr "โปรดตั้งค่า {0} ในบริษัท {1} เพื่อบันทึกกำไร/ขาดทุนจากอัตราแลกเปลี่ยน"
+
+msgid "Please set {0} to {1}, the same account that was used in the original invoice {2}."
+msgstr "โปรดตั้งค่า {0} เป็น {1} ซึ่งเป็นบัญชีเดียวกับที่ใช้ในใบแจ้งหนี้ต้นฉบับ {2}"
+
+msgid "Please setup and enable a group account with the Account Type - {0} for the company {1}"
+msgstr "โปรดตั้งค่าและเปิดใช้งานบัญชีกลุ่มด้วยประเภทบัญชี - {0} สำหรับบริษัท {1}"
+
+msgid "Please share this email with your support team so that they can find and fix the issue."
+msgstr "โปรดแชร์อีเมลนี้กับทีมสนับสนุนของคุณเพื่อให้พวกเขาสามารถค้นหาและแก้ไขปัญหาได้"
+
+msgid "Please specify"
+msgstr "โปรดระบุ"
+
+msgid "Please specify Company"
+msgstr "โปรดระบุบริษัท"
+
+msgid "Please specify Company to proceed"
+msgstr "โปรดระบุบริษัทเพื่อดำเนินการต่อ"
+
+msgid "Please specify a valid Row ID for row {0} in table {1}"
+msgstr "โปรดระบุรหัสแถวที่ถูกต้องสำหรับแถว {0} ในตาราง {1}"
+
+msgid "Please specify a {0} first."
+msgstr "โปรดระบุ {0} ก่อน"
+
+msgid "Please specify at least one attribute in the Attributes table"
+msgstr "โปรดระบุอย่างน้อยหนึ่งแอตทริบิวต์ในตารางแอตทริบิวต์"
+
+msgid "Please specify either Quantity or Valuation Rate or both"
+msgstr "โปรดระบุปริมาณหรืออัตราการประเมินมูลค่าหรือทั้งสองอย่าง"
+
+msgid "Please specify from/to range"
+msgstr "โปรดระบุช่วงจาก/ถึง"
+
+msgid "Please supply the specified items at the best possible rates"
+msgstr "โปรดจัดหาสินค้าที่ระบุในอัตราที่ดีที่สุด"
+
+msgid "Please try again in an hour."
+msgstr "โปรดลองอีกครั้งในหนึ่งชั่วโมง"
+
+msgid "Please update Repair Status."
+msgstr "โปรดอัปเดตสถานะการซ่อมแซม"
+
+msgid "Point of Sale"
+msgstr "จุดขาย"
+
+msgid "Point-of-Sale Profile"
+msgstr ""
+
+msgid "Policy No"
+msgstr "หมายเลขนโยบาย"
+
+msgid "Policy number"
+msgstr "หมายเลขนโยบาย"
+
+msgid "Pond"
+msgstr ""
+
+msgid "Pood"
+msgstr ""
+
+msgid "Portal User"
+msgstr "ผู้ใช้พอร์ทัล"
+
+msgid "Portal Users"
+msgstr "ผู้ใช้พอร์ทัล"
+
+msgid "Portrait"
+msgstr "แนวตั้ง"
+
+msgid "Possible Supplier"
+msgstr "ผู้จัดจำหน่ายที่เป็นไปได้"
+
+msgid "Post Description Key"
+msgstr "คีย์คำอธิบายโพสต์"
+
+msgid "Post Graduate"
+msgstr "บัณฑิตศึกษา"
+
+msgid "Post Route Key"
+msgstr "คีย์เส้นทางโพสต์"
+
+msgid "Post Route Key List"
+msgstr "รายการคีย์เส้นทางโพสต์"
+
+msgid "Post Route String"
+msgstr "สตริงเส้นทางโพสต์"
+
+msgid "Post Title Key"
+msgstr "คีย์ชื่อโพสต์"
+
+msgid "Postal Code"
+msgstr "รหัสไปรษณีย์"
+
+msgid "Postal Expenses"
+msgstr "ค่าส่งไปรษณีย์"
+
+msgid "Posting Date"
+msgstr "วันที่โพสต์"
+
+msgid "Posting Date Inheritance for Exchange Gain / Loss"
+msgstr "การสืบทอดวันที่โพสต์สำหรับกำไร/ขาดทุนจากอัตราแลกเปลี่ยน"
+
+msgid "Posting Date cannot be future date"
+msgstr "วันที่โพสต์ไม่สามารถเป็นวันที่ในอนาคตได้"
+
+msgid "Posting Date will change to today's date as Edit Posting Date and Time is unchecked. Are you sure want to proceed?"
+msgstr ""
+
+msgid "Posting Datetime"
+msgstr "วันที่และเวลาที่โพสต์"
+
+msgid "Posting Time"
+msgstr "เวลาที่โพสต์"
+
+msgid "Posting date and posting time is mandatory"
+msgstr "วันที่และเวลาที่โพสต์เป็นสิ่งจำเป็น"
+
+msgid "Posting timestamp must be after {0}"
+msgstr "การประทับเวลาที่โพสต์ต้องเป็นหลังจาก {0}"
+
+msgid "Potential Sales Deal"
+msgstr "ดีลการขายที่เป็นไปได้"
+
+msgid "Pound"
+msgstr ""
+
+msgid "Pound-Force"
+msgstr ""
+
+msgid "Pound/Cubic Foot"
+msgstr ""
+
+msgid "Pound/Cubic Inch"
+msgstr ""
+
+msgid "Pound/Cubic Yard"
+msgstr ""
+
+msgid "Pound/Gallon (UK)"
+msgstr ""
+
+msgid "Pound/Gallon (US)"
+msgstr ""
+
+msgid "Poundal"
+msgstr ""
+
+msgid "Powered by {0}"
+msgstr "ขับเคลื่อนโดย {0}"
+
+msgid "Pre Sales"
+msgstr "ก่อนการขาย"
+
+msgid "Preference"
+msgstr "ความชอบ"
+
+msgid "Preferred Contact Email"
+msgstr "อีเมลติดต่อที่ต้องการ"
+
+msgid "Preferred Email"
+msgstr "อีเมลที่ต้องการ"
+
+msgid "President"
+msgstr ""
+
+msgid "Prevdoc DocType"
+msgstr "ประเภทเอกสารก่อนหน้า"
+
+msgid "Prevent POs"
+msgstr "ป้องกันคำสั่งซื้อ"
+
+msgid "Prevent Purchase Orders"
+msgstr "ป้องกันคำสั่งซื้อ"
+
+msgid "Prevent RFQs"
+msgstr "ป้องกันคำขอใบเสนอราคา"
+
+msgid "Preventive"
+msgstr "เชิงป้องกัน"
+
+msgid "Preventive Action"
+msgstr "การดำเนินการเชิงป้องกัน"
+
+msgid "Preventive Maintenance"
+msgstr "การบำรุงรักษาเชิงป้องกัน"
+
+msgid "Preview"
+msgstr "ดูตัวอย่าง"
+
+msgid "Preview Email"
+msgstr "ดูตัวอย่างอีเมล"
+
+msgid "Preview Required Materials"
+msgstr "ดูตัวอย่างวัสดุที่ต้องการ"
+
+msgid "Previous Financial Year is not closed"
+msgstr "ปีการเงินก่อนหน้ายังไม่ปิด"
+
+msgid "Previous Work Experience"
+msgstr "ประสบการณ์การทำงานก่อนหน้า"
+
+msgid "Previous Year is not closed, please close it first"
+msgstr "ปีที่แล้วยังไม่ปิด โปรดปิดก่อน"
+
+msgid "Price"
+msgstr "ราคา"
+
+msgid "Price ({0})"
+msgstr "ราคา ({0})"
+
+msgid "Price Discount Scheme"
+msgstr "แผนส่วนลดราคา"
+
+msgid "Price Discount Slabs"
+msgstr "ระดับส่วนลดราคา"
+
+msgid "Price List"
+msgstr "รายการราคา"
+
+msgid "Price List Country"
+msgstr "ประเทศในรายการราคา"
+
+msgid "Price List Currency"
+msgstr "สกุลเงินในรายการราคา"
+
+msgid "Price List Currency not selected"
+msgstr "ไม่ได้เลือกสกุลเงินในรายการราคา"
+
+msgid "Price List Defaults"
+msgstr "ค่าเริ่มต้นของรายการราคา"
+
+msgid "Price List Exchange Rate"
+msgstr "อัตราแลกเปลี่ยนรายการราคา"
+
+msgid "Price List Name"
+msgstr "ชื่อรายการราคา"
+
+msgid "Price List Rate"
+msgstr "อัตรารายการราคา"
+
+msgid "Price List Rate (Company Currency)"
+msgstr "อัตรารายการราคา (สกุลเงินบริษัท)"
+
+msgid "Price List must be applicable for Buying or Selling"
+msgstr "รายการราคาต้องใช้ได้สำหรับการซื้อหรือขาย"
+
+msgid "Price List {0} is disabled or does not exist"
+msgstr "รายการราคา {0} ถูกปิดใช้งานหรือไม่มีอยู่"
+
+msgid "Price Not UOM Dependent"

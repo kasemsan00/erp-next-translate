@@ -1,0 +1,500 @@
+﻿
+msgid "For Supplier"
+msgstr ""
+
+msgid "For Warehouse"
+msgstr ""
+
+msgid "For Work Order"
+msgstr ""
+
+msgid "For an item {0}, quantity must be negative number"
+msgstr ""
+
+msgid "For an item {0}, quantity must be positive number"
+msgstr ""
+
+msgid "For dunning fee and interest"
+msgstr ""
+
+msgid "For e.g. 2012, 2012-13"
+msgstr ""
+
+msgid "For how much spent = 1 Loyalty Point"
+msgstr "สำหรับจำนวนเงินที่ใช้จ่าย = 1 คะแนนสะสม"
+
+msgid "For individual supplier"
+msgstr "สำหรับผู้จัดจำหน่ายรายบุคคล"
+
+msgid "For item <b>{0}</b>, only <b>{1}</b> asset have been created or linked to <b>{2}</b>. Please create or link <b>{3}</b> more asset with the respective document."
+msgstr "สำหรับรายการ <b>{0}</b> มีเพียง <b>{1}</b> สินทรัพย์ที่ถูกสร้างหรือเชื่อมโยงกับ <b>{2}</b> โปรดสร้างหรือเชื่อมโยง <b>{3}</b> สินทรัพย์เพิ่มเติมกับเอกสารที่เกี่ยวข้อง"
+
+msgid "For item {0}, rate must be a positive number. To Allow negative rates, enable {1} in {2}"
+msgstr "สำหรับรายการ {0} อัตราต้องเป็นตัวเลขบวก หากต้องการอนุญาตอัตราเชิงลบ ให้เปิดใช้งาน {1} ใน {2}"
+
+msgid "For operation {0}: Quantity ({1}) can not be greater than pending quantity({2})"
+msgstr "สำหรับการดำเนินการ {0}: ปริมาณ ({1}) ไม่สามารถมากกว่าปริมาณที่ค้างอยู่ ({2})"
+
+msgid "For project {0}, update your status"
+msgstr ""
+
+msgid "For quantity {0} should not be greater than allowed quantity {1}"
+msgstr "สำหรับปริมาณ {0} ไม่ควรมากกว่าปริมาณที่อนุญาต {1}"
+
+msgid "For reference"
+msgstr "สำหรับการอ้างอิง"
+
+msgid "For row {0} in {1}. To include {2} in Item rate, rows {3} must also be included"
+msgstr "สำหรับแถว {0} ใน {1} เพื่อรวม {2} ในอัตรารายการ ต้องรวมแถว {3} ด้วย"
+
+msgid "For row {0}: Enter Planned Qty"
+msgstr "สำหรับแถว {0}: ป้อนปริมาณที่วางแผนไว้"
+
+msgid "For the 'Apply Rule On Other' condition the field {0} is mandatory"
+msgstr "สำหรับเงื่อนไข 'ใช้กฎกับผู้อื่น' ฟิลด์ {0} เป็นสิ่งจำเป็น"
+
+msgid "For the convenience of customers, these codes can be used in print formats like Invoices and Delivery Notes"
+msgstr "เพื่อความสะดวกของลูกค้า รหัสเหล่านี้สามารถใช้ในรูปแบบการพิมพ์ เช่น ใบแจ้งหนี้และใบส่งของ"
+
+msgid "For the item {0}, the quantity should be {1} according to the BOM {2}."
+msgstr "สำหรับรายการ {0} ปริมาณควรเป็น {1} ตาม BOM {2}"
+
+msgctxt "Clear payment terms template and/or payment schedule when due date is changed"
+msgid "For the new {0} to take effect, would you like to clear the current {1}?"
+msgstr "สำหรับ {0} ใหม่ที่จะมีผล คุณต้องการล้าง {1} ปัจจุบันหรือไม่?"
+
+msgid "For the {0}, no stock is available for the return in the warehouse {1}."
+msgstr "สำหรับ {0} ไม่มีสต็อกสำหรับการคืนในคลังสินค้า {1}"
+
+msgid "For the {0}, the quantity is required to make the return entry"
+msgstr "สำหรับ {0} จำเป็นต้องมีปริมาณเพื่อทำรายการคืน"
+
+msgid "Force-Fetch Subscription Updates"
+msgstr "บังคับดึงการอัปเดตการสมัครสมาชิก"
+
+msgid "Forecast"
+msgstr "การพยากรณ์"
+
+msgid "Forecasting"
+msgstr ""
+
+msgid "Foreign Trade Details"
+msgstr "รายละเอียดการค้าต่างประเทศ"
+
+msgid "Formula Based Criteria"
+msgstr "เกณฑ์ตามสูตร"
+
+msgid "Forum Activity"
+msgstr "กิจกรรมฟอรัม"
+
+msgid "Forum Posts"
+msgstr "โพสต์ฟอรัม"
+
+msgid "Forum URL"
+msgstr "URL ฟอรัม"
+
+msgid "Free Alongside Ship"
+msgstr ""
+
+msgid "Free Carrier"
+msgstr ""
+
+msgid "Free Item"
+msgstr "รายการฟรี"
+
+msgid "Free Item Rate"
+msgstr "อัตรารายการฟรี"
+
+msgid "Free On Board"
+msgstr ""
+
+msgid "Free item code is not selected"
+msgstr "ไม่ได้เลือกรหัสรายการฟรี"
+
+msgid "Free item not set in the pricing rule {0}"
+msgstr "ไม่ได้ตั้งค่ารายการฟรีในกฎการตั้งราคา {0}"
+
+msgid "Freeze Stocks Older Than (Days)"
+msgstr "แช่แข็งสต็อกที่เก่ากว่า (วัน)"
+
+msgid "Freight and Forwarding Charges"
+msgstr "ค่าขนส่งและค่าดำเนินการ"
+
+msgid "Frequency"
+msgstr "ความถี่"
+
+msgid "Frequency To Collect Progress"
+msgstr "ความถี่ในการรวบรวมความคืบหน้า"
+
+msgid "Frequency of Depreciation (Months)"
+msgstr "ความถี่ของค่าเสื่อมราคา (เดือน)"
+
+msgid "Frequently Read Articles"
+msgstr "บทความที่อ่านบ่อย"
+
+msgid "Friday"
+msgstr "วันศุกร์"
+
+msgid "From"
+msgstr "จาก"
+
+msgid "From BOM"
+msgstr "จาก BOM"
+
+msgid "From Company"
+msgstr "จากบริษัท"
+
+msgid "From Corrective Job Card"
+msgstr "จากบัตรงานแก้ไข"
+
+msgid "From Currency"
+msgstr "จากสกุลเงิน"
+
+msgid "From Currency and To Currency cannot be same"
+msgstr "จากสกุลเงินและถึงสกุลเงินต้องไม่เหมือนกัน"
+
+msgid "From Customer"
+msgstr "จากลูกค้า"
+
+msgid "From Date"
+msgstr "จากวันที่"
+
+msgid "From Date and To Date are Mandatory"
+msgstr "จากวันที่และถึงวันที่เป็นสิ่งจำเป็น"
+
+msgid "From Date and To Date are mandatory"
+msgstr "จากวันที่และถึงวันที่เป็นสิ่งจำเป็น"
+
+msgid "From Date and To Date lie in different Fiscal Year"
+msgstr "จากวันที่และถึงวันที่อยู่ในปีงบประมาณที่ต่างกัน"
+
+msgid "From Date cannot be greater than To Date"
+msgstr "จากวันที่ต้องไม่มากกว่าถึงวันที่"
+
+msgid "From Date is mandatory"
+msgstr "จากวันที่เป็นสิ่งจำเป็น"
+
+msgid "From Date must be before To Date"
+msgstr "จากวันที่ต้องอยู่ก่อนถึงวันที่"
+
+msgid "From Date should be within the Fiscal Year. Assuming From Date = {0}"
+msgstr "จากวันที่ควรอยู่ภายในปีงบประมาณ สมมติว่าจากวันที่ = {0}"
+
+msgid "From Date: {0} cannot be greater than To date: {1}"
+msgstr "จากวันที่: {0} ต้องไม่มากกว่าถึงวันที่: {1}"
+
+msgid "From Datetime"
+msgstr "จากวันที่และเวลา"
+
+msgid "From Delivery Date"
+msgstr "จากวันที่จัดส่ง"
+
+msgid "From Delivery Note"
+msgstr "จากใบส่งของ"
+
+msgid "From Doctype"
+msgstr "จาก Doctype"
+
+msgid "From Due Date"
+msgstr "จากวันที่ครบกำหนด"
+
+msgid "From Employee"
+msgstr "จากพนักงาน"
+
+msgid "From Employee is required while issuing Asset {0}"
+msgstr ""
+
+msgid "From External Ecomm Platform"
+msgstr "จากแพลตฟอร์ม Ecomm ภายนอก"
+
+msgid "From Fiscal Year"
+msgstr "จากปีงบประมาณ"
+
+msgid "From Folio No"
+msgstr "จากหมายเลขโฟลิโอ"
+
+msgid "From Invoice Date"
+msgstr "จากวันที่ใบแจ้งหนี้"
+
+msgid "From Lead"
+msgstr "จากลีด"
+
+msgid "From No"
+msgstr "จากหมายเลข"
+
+msgid "From Opportunity"
+msgstr "จากโอกาส"
+
+msgid "From Package No."
+msgstr "จากหมายเลขแพ็คเกจ"
+
+msgid "From Payment Date"
+msgstr "จากวันที่ชำระเงิน"
+
+msgid "From Posting Date"
+msgstr "จากวันที่โพสต์"
+
+msgid "From Prospect"
+msgstr "จากผู้มุ่งหวัง"
+
+msgid "From Range"
+msgstr "จากช่วง"
+
+msgid "From Range has to be less than To Range"
+msgstr "ช่วงเริ่มต้นต้องน้อยกว่าช่วงสิ้นสุด"
+
+msgid "From Reference Date"
+msgstr "จากวันที่อ้างอิง"
+
+msgid "From Shareholder"
+msgstr "จากผู้ถือหุ้น"
+
+msgid "From Template"
+msgstr "จากแม่แบบ"
+
+msgid "From Time"
+msgstr "จากเวลา"
+
+msgid "From Time "
+msgstr ""
+
+msgid "From Time Should Be Less Than To Time"
+msgstr "เวลาที่เริ่มต้นควรน้อยกว่าเวลาที่สิ้นสุด"
+
+msgid "From Value"
+msgstr "จากค่า"
+
+msgid "From Voucher Detail No"
+msgstr "จากหมายเลขรายละเอียดใบสำคัญ"
+
+msgid "From Voucher No"
+msgstr "จากหมายเลขใบสำคัญ"
+
+msgid "From Voucher Type"
+msgstr "จากประเภทใบสำคัญ"
+
+msgid "From Warehouse"
+msgstr "จากคลังสินค้า"
+
+msgid "From and To Dates are required."
+msgstr "จำเป็นต้องระบุวันที่เริ่มต้นและสิ้นสุด"
+
+msgid "From and To dates are required"
+msgstr "จำเป็นต้องระบุวันที่เริ่มต้นและสิ้นสุด"
+
+msgid "From date cannot be greater than To date"
+msgstr "วันที่เริ่มต้นต้องไม่มากกว่าวันที่สิ้นสุด"
+
+msgid "From value must be less than to value in row {0}"
+msgstr "ค่าที่เริ่มต้นต้องน้อยกว่าค่าที่สิ้นสุดในแถว {0}"
+
+msgid "Frozen"
+msgstr "ถูกแช่แข็ง"
+
+msgid "Fuel Type"
+msgstr "ประเภทเชื้อเพลิง"
+
+msgid "Fuel UOM"
+msgstr "หน่วยวัดเชื้อเพลิง"
+
+msgid "Fulfilled"
+msgstr "สำเร็จ"
+
+msgid "Fulfillment"
+msgstr "การปฏิบัติตาม"
+
+msgid "Fulfillment User"
+msgstr "ผู้ใช้การปฏิบัติตาม"
+
+msgid "Fulfilment Deadline"
+msgstr "กำหนดเวลาการปฏิบัติตาม"
+
+msgid "Fulfilment Details"
+msgstr "รายละเอียดการปฏิบัติตาม"
+
+msgid "Fulfilment Status"
+msgstr "สถานะการปฏิบัติตาม"
+
+msgid "Fulfilment Terms"
+msgstr "เงื่อนไขการปฏิบัติตาม"
+
+msgid "Fulfilment Terms and Conditions"
+msgstr "ข้อกำหนดและเงื่อนไขการปฏิบัติตาม"
+
+msgid "Full Name"
+msgstr "ชื่อเต็ม"
+
+msgid "Full and Final Statement"
+msgstr "คำแถลงสุดท้ายและสมบูรณ์"
+
+msgid "Fully Billed"
+msgstr "เรียกเก็บเงินเต็มจำนวน"
+
+msgid "Fully Completed"
+msgstr "เสร็จสมบูรณ์"
+
+msgid "Fully Delivered"
+msgstr "ส่งมอบเต็มจำนวน"
+
+msgid "Fully Depreciated"
+msgstr "ค่าเสื่อมราคาครบถ้วน"
+
+msgid "Fully Paid"
+msgstr "ชำระเงินเต็มจำนวน"
+
+msgid "Furlong"
+msgstr ""
+
+msgid "Furniture and Fixtures"
+msgstr "เครื่องตกแต่งและอุปกรณ์"
+
+msgid "Further accounts can be made under Groups, but entries can be made against non-Groups"
+msgstr "สามารถสร้างบัญชีเพิ่มเติมภายใต้กลุ่มได้ แต่สามารถทำรายการกับที่ไม่ใช่กลุ่มได้"
+
+msgid "Further cost centers can be made under Groups but entries can be made against non-Groups"
+msgstr "สามารถสร้างศูนย์ต้นทุนเพิ่มเติมภายใต้กลุ่มได้ แต่สามารถทำรายการกับที่ไม่ใช่กลุ่มได้"
+
+msgid "Further nodes can be only created under 'Group' type nodes"
+msgstr "สามารถสร้างโหนดเพิ่มเติมได้เฉพาะภายใต้โหนดประเภท 'กลุ่ม'"
+
+msgid "Future Payment Amount"
+msgstr "จำนวนเงินชำระในอนาคต"
+
+msgid "Future Payment Ref"
+msgstr "อ้างอิงการชำระเงินในอนาคต"
+
+msgid "Future Payments"
+msgstr "การชำระเงินในอนาคต"
+
+msgid "Future date is not allowed"
+msgstr "ไม่อนุญาตให้ใช้วันที่ในอนาคต"
+
+msgid "G - D"
+msgstr ""
+
+msgid "GL Balance"
+msgstr ""
+
+msgid "GL Entry"
+msgstr ""
+
+msgid "GL Entry Processing Status"
+msgstr ""
+
+msgid "GL reposting index"
+msgstr ""
+
+msgid "GS1"
+msgstr ""
+
+msgid "GTIN"
+msgstr ""
+
+msgid "Gain/Loss"
+msgstr ""
+
+msgid "Gain/Loss Account on Asset Disposal"
+msgstr ""
+
+msgid "Gain/Loss accumulated in foreign currency account. Accounts with '0' balance in either Base or Account currency"
+msgstr ""
+
+msgid "Gain/Loss already booked"
+msgstr ""
+
+msgid "Gain/Loss from Revaluation"
+msgstr ""
+
+msgid "Gain/Loss on Asset Disposal"
+msgstr ""
+
+msgid "Gallon (UK)"
+msgstr ""
+
+msgid "Gallon Dry (US)"
+msgstr ""
+
+msgid "Gallon Liquid (US)"
+msgstr ""
+
+msgid "Gamma"
+msgstr ""
+
+msgid "Gantt Chart"
+msgstr ""
+
+msgid "Gantt chart of all tasks."
+msgstr ""
+
+msgid "Gauss"
+msgstr ""
+
+msgid "Gender"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "General Ledger"
+msgstr ""
+
+msgctxt "Warehouse"
+msgid "General Ledger"
+msgstr ""
+
+msgid "General Settings"
+msgstr ""
+
+msgid "General and Payment Ledger Comparison"
+msgstr ""
+
+msgid "General and Payment Ledger mismatch"
+msgstr ""
+
+msgid "Generate Demo Data for Exploration"
+msgstr ""
+
+msgid "Generate E-Invoice"
+msgstr ""
+
+msgid "Generate Invoice At"
+msgstr ""
+
+msgid "Generate New Invoices Past Due Date"
+msgstr ""
+
+msgid "Generate Schedule"
+msgstr ""
+
+msgid "Generate Stock Closing Entry"
+msgstr ""
+
+msgid "Generate packing slips for packages to be delivered. Used to notify package number, package contents and its weight."
+msgstr ""
+
+msgid "Generated"
+msgstr ""
+
+msgid "Generating Preview"
+msgstr ""
+
+msgid "Get Advances Paid"
+msgstr ""
+
+msgid "Get Advances Received"
+msgstr ""
+
+msgid "Get Allocations"
+msgstr ""
+
+msgid "Get Balance"
+msgstr ""
+
+msgid "Get Current Stock"
+msgstr ""
+
+msgid "Get Customer Group Details"
+msgstr ""
+
+msgid "Get Entries"
+msgstr ""

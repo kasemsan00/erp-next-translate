@@ -1,0 +1,500 @@
+﻿msgstr "ราคาไม่ขึ้นอยู่กับหน่วยวัด"
+
+msgid "Price Per Unit ({0})"
+msgstr "ราคาต่อหน่วย ({0})"
+
+msgid "Price is not set for the item."
+msgstr "ไม่ได้ตั้งราคาสำหรับรายการ"
+
+msgid "Price not found for item {0} in price list {1}"
+msgstr "ไม่พบราคาสำหรับรายการ {0} ในรายการราคา {1}"
+
+msgid "Price or Product Discount"
+msgstr "ราคา หรือ ส่วนลดสินค้า"
+
+msgid "Price or product discount slabs are required"
+msgstr "ต้องการระดับส่วนลดราคาหรือสินค้า"
+
+msgid "Price per Unit (Stock UOM)"
+msgstr "ราคาต่อหน่วย (หน่วยวัดสต็อก)"
+
+msgid "Pricing"
+msgstr "การตั้งราคา"
+
+msgid "Pricing Rule"
+msgstr "กฎการตั้งราคา"
+
+msgid "Pricing Rule Brand"
+msgstr "แบรนด์กฎการตั้งราคา"
+
+msgid "Pricing Rule Detail"
+msgstr "รายละเอียดกฎการตั้งราคา"
+
+msgid "Pricing Rule Help"
+msgstr "ความช่วยเหลือกฎการตั้งราคา"
+
+msgid "Pricing Rule Item Code"
+msgstr "รหัสรายการกฎการตั้งราคา"
+
+msgid "Pricing Rule Item Group"
+msgstr "กลุ่มรายการกฎการตั้งราคา"
+
+msgid "Pricing Rule {0} is updated"
+msgstr "กฎการตั้งราคา {0} ได้รับการอัปเดต"
+
+msgid "Pricing Rules"
+msgstr "กฎการตั้งราคา"
+
+msgid "Primary Address"
+msgstr "ที่อยู่หลัก"
+
+msgid "Primary Address Details"
+msgstr "รายละเอียดที่อยู่หลัก"
+
+msgid "Primary Address and Contact"
+msgstr "ที่อยู่และผู้ติดต่อหลัก"
+
+msgid "Primary Contact"
+msgstr "ผู้ติดต่อหลัก"
+
+msgid "Primary Contact Details"
+msgstr "รายละเอียดผู้ติดต่อหลัก"
+
+msgid "Primary Contact Email"
+msgstr "อีเมลผู้ติดต่อหลัก"
+
+msgid "Primary Party"
+msgstr "คู่สัญญาหลัก"
+
+msgid "Primary Role"
+msgstr "บทบาทหลัก"
+
+msgid "Primary Settings"
+msgstr "การตั้งค่าหลัก"
+
+msgid "Print"
+msgstr "พิมพ์"
+
+msgid "Print Format"
+msgstr "รูปแบบการพิมพ์"
+
+msgid "Print Format Builder"
+msgstr "ตัวสร้างรูปแบบการพิมพ์"
+
+msgid "Print Heading"
+msgstr "หัวข้อการพิมพ์"
+
+msgid "Print IRS 1099 Forms"
+msgstr "พิมพ์แบบฟอร์ม IRS 1099"
+
+msgid "Print Language"
+msgstr "ภาษาการพิมพ์"
+
+msgid "Print Preferences"
+msgstr "การตั้งค่าการพิมพ์"
+
+msgid "Print Receipt"
+msgstr "พิมพ์ใบเสร็จ"
+
+msgid "Print Receipt on Order Complete"
+msgstr "พิมพ์ใบเสร็จเมื่อคำสั่งซื้อเสร็จสมบูรณ์"
+
+msgid "Print Settings"
+msgstr "การตั้งค่าการพิมพ์"
+
+msgid "Print Style"
+msgstr "สไตล์การพิมพ์"
+
+msgid "Print UOM after Quantity"
+msgstr "พิมพ์หน่วยวัดหลังปริมาณ"
+
+msgid "Print Without Amount"
+msgstr "พิมพ์โดยไม่มีจำนวนเงิน"
+
+msgid "Print and Stationery"
+msgstr "สิ่งพิมพ์และเครื่องเขียน"
+
+msgid "Print settings updated in respective print format"
+msgstr "การตั้งค่าการพิมพ์ได้รับการอัปเดตในรูปแบบการพิมพ์ที่เกี่ยวข้อง"
+
+msgid "Print taxes with zero amount"
+msgstr "พิมพ์ภาษีที่มีจำนวนเงินเป็นศูนย์"
+
+msgid "Printed on {0}"
+msgstr "พิมพ์เมื่อ {0}"
+
+msgid "Printing"
+msgstr "กำลังพิมพ์"
+
+msgid "Printing Details"
+msgstr "รายละเอียดการพิมพ์"
+
+msgid "Printing Settings"
+msgstr "การตั้งค่าการพิมพ์"
+
+msgid "Priorities"
+msgstr "ลำดับความสำคัญ"
+
+msgid "Priority"
+msgstr "ลำดับความสำคัญ"
+
+msgid "Priority cannot be lesser than 1."
+msgstr "ลำดับความสำคัญต้องไม่ต่ำกว่า 1"
+
+msgid "Priority has been changed to {0}."
+msgstr "ลำดับความสำคัญถูกเปลี่ยนเป็น {0}"
+
+msgid "Priority is mandatory"
+msgstr "ลำดับความสำคัญเป็นสิ่งจำเป็น"
+
+msgid "Priority {0} has been repeated."
+msgstr "ลำดับความสำคัญ {0} ถูกทำซ้ำ"
+
+msgid "Private Equity"
+msgstr ""
+
+msgid "Probability"
+msgstr "ความน่าจะเป็น"
+
+msgid "Probability (%)"
+msgstr ""
+
+msgid "Problem"
+msgstr "ปัญหา"
+
+msgid "Procedure"
+msgstr "กระบวนการ"
+
+msgid "Procedures dropped"
+msgstr ""
+
+msgid "Process Deferred Accounting"
+msgstr "ประมวลผลบัญชีเลื่อน"
+
+msgid "Process Description"
+msgstr "คำอธิบายกระบวนการ"
+
+msgid "Process Loss"
+msgstr "การสูญเสียกระบวนการ"
+
+msgid "Process Loss Percentage cannot be greater than 100"
+msgstr "เปอร์เซ็นต์การสูญเสียกระบวนการต้องไม่เกิน 100"
+
+msgid "Process Loss Qty"
+msgstr "ปริมาณการสูญเสียกระบวนการ"
+
+msgid "Process Loss Quantity"
+msgstr "ปริมาณการสูญเสียกระบวนการ"
+
+msgid "Process Loss Report"
+msgstr "รายงานการสูญเสียกระบวนการ"
+
+msgid "Process Loss Value"
+msgstr "มูลค่าการสูญเสียกระบวนการ"
+
+msgid "Process Owner"
+msgstr "เจ้าของกระบวนการ"
+
+msgid "Process Owner Full Name"
+msgstr "ชื่อเต็มเจ้าของกระบวนการ"
+
+msgid "Process Payment Reconciliation"
+msgstr "ประมวลผลการกระทบยอดการชำระเงิน"
+
+msgid "Process Payment Reconciliation Log"
+msgstr "บันทึกการประมวลผลการกระทบยอดการชำระเงิน"
+
+msgid "Process Payment Reconciliation Log Allocations"
+msgstr "การจัดสรรบันทึกการประมวลผลการกระทบยอดการชำระเงิน"
+
+msgid "Process Statement Of Accounts"
+msgstr "ประมวลผลงบการเงิน"
+
+msgid "Process Statement Of Accounts CC"
+msgstr "ประมวลผลงบการเงิน CC"
+
+msgid "Process Statement Of Accounts Customer"
+msgstr "ประมวลผลงบการเงินลูกค้า"
+
+msgid "Process Subscription"
+msgstr "ประมวลผลการสมัครสมาชิก"
+
+msgid "Process in Single Transaction"
+msgstr "ประมวลผลในธุรกรรมเดียว"
+
+msgid "Processed BOMs"
+msgstr "BOMs ที่ประมวลผลแล้ว"
+
+msgid "Processes"
+msgstr "กระบวนการ"
+
+msgid "Processing XML Files"
+msgstr "กำลังประมวลผลไฟล์ XML"
+
+msgid "Procurement"
+msgstr "การจัดซื้อ"
+
+msgid "Procurement Tracker"
+msgstr "ตัวติดตามการจัดซื้อ"
+
+msgid "Produce Qty"
+msgstr "ปริมาณการผลิต"
+
+msgid "Produced / Received Qty"
+msgstr "ปริมาณที่ผลิต/ได้รับ"
+
+msgid "Produced Qty"
+msgstr "ปริมาณที่ผลิต"
+
+msgid "Produced Quantity"
+msgstr "ปริมาณที่ผลิต"
+
+msgid "Product"
+msgstr "สินค้า"
+
+msgid "Product Bundle"
+msgstr "ชุดสินค้า"
+
+msgid "Product Bundle Balance"
+msgstr "ยอดคงเหลือชุดสินค้า"
+
+msgid "Product Bundle Help"
+msgstr "ความช่วยเหลือชุดสินค้า"
+
+msgid "Product Bundle Item"
+msgstr "รายการชุดสินค้า"
+
+msgid "Product Discount Scheme"
+msgstr "แผนส่วนลดสินค้า"
+
+msgid "Product Discount Slabs"
+msgstr "ระดับส่วนลดสินค้า"
+
+msgid "Product Enquiry"
+msgstr "สอบถามสินค้า"
+
+msgid "Product Manager"
+msgstr ""
+
+msgid "Product Price ID"
+msgstr "รหัสราคาสินค้า"
+
+msgid "Production"
+msgstr "การผลิต"
+
+msgid "Production Analytics"
+msgstr "การวิเคราะห์การผลิต"
+
+msgid "Production Item"
+msgstr "รายการผลิต"
+
+msgid "Production Plan"
+msgstr "แผนการผลิต"
+
+msgid "Production Plan Already Submitted"
+msgstr "แผนการผลิตที่ส่งแล้ว"
+
+msgid "Production Plan Item"
+msgstr "รายการแผนการผลิต"
+
+msgid "Production Plan Item Reference"
+msgstr "อ้างอิงรายการแผนการผลิต"
+
+msgid "Production Plan Material Request"
+msgstr "คำขอวัสดุแผนการผลิต"
+
+msgid "Production Plan Material Request Warehouse"
+msgstr "คลังคำขอวัสดุแผนการผลิต"
+
+msgid "Production Plan Qty"
+msgstr "ปริมาณแผนการผลิต"
+
+msgid "Production Plan Sales Order"
+msgstr "คำสั่งขายแผนการผลิต"
+
+msgid "Production Plan Sub Assembly Item"
+msgstr "รายการชุดย่อยแผนการผลิต"
+
+msgid "Production Plan Sub-assembly Item"
+msgstr "รายการชุดย่อยแผนการผลิต"
+
+msgid "Production Plan Summary"
+msgstr "สรุปแผนการผลิต"
+
+msgid "Production Planning Report"
+msgstr "รายงานการวางแผนการผลิต"
+
+msgid "Products"
+msgstr "สินค้า"
+
+msgid "Profile"
+msgstr "โปรไฟล์"
+
+msgid "Profit & Loss"
+msgstr "กำไรและขาดทุน"
+
+msgid "Profit This Year"
+msgstr "กำไรปีนี้"
+
+msgid "Profit and Loss"
+msgstr "กำไรขาดทุน"
+
+msgid "Profit and Loss Statement"
+msgstr "งบกำไรขาดทุน"
+
+msgid "Profit and Loss Summary"
+msgstr "สรุปกำไรขาดทุน"
+
+msgid "Profit for the year"
+msgstr "กำไรสำหรับปี"
+
+msgid "Profitability"
+msgstr ""
+
+msgid "Profitability Analysis"
+msgstr "การวิเคราะห์ความสามารถในการทำกำไร"
+
+msgid "Progress"
+msgstr "ความคืบหน้า"
+
+msgid "Progress % for a task cannot be more than 100."
+msgstr ""
+
+msgid "Progress (%)"
+msgstr ""
+
+msgid "Project"
+msgstr "โครงการ"
+
+msgid "Project Collaboration Invitation"
+msgstr "คำเชิญร่วมมือโครงการ"
+
+msgid "Project Id"
+msgstr "รหัสโครงการ"
+
+msgid "Project Manager"
+msgstr ""
+
+msgid "Project Name"
+msgstr "ชื่อโครงการ"
+
+msgid "Project Progress:"
+msgstr "ความคืบหน้าโครงการ:"
+
+msgid "Project Start Date"
+msgstr "วันที่เริ่มต้นโครงการ"
+
+msgid "Project Status"
+msgstr "สถานะโครงการ"
+
+msgid "Project Summary"
+msgstr "สรุปโครงการ"
+
+msgid "Project Summary for {0}"
+msgstr "สรุปโครงการสำหรับ {0}"
+
+msgid "Project Template"
+msgstr "แม่แบบโครงการ"
+
+msgid "Project Template Task"
+msgstr "งานแม่แบบโครงการ"
+
+msgid "Project Type"
+msgstr "ประเภทโครงการ"
+
+msgid "Project Update"
+msgstr "อัปเดตโครงการ"
+
+msgid "Project Update."
+msgstr "อัปเดตโครงการ."
+
+msgid "Project User"
+msgstr "ผู้ใช้โครงการ"
+
+msgid "Project Value"
+msgstr "มูลค่าโครงการ"
+
+msgid "Project activity / task."
+msgstr "กิจกรรม/งานโครงการ"
+
+msgid "Project master."
+msgstr "มาสเตอร์โครงการ"
+
+msgid "Project will be accessible on the website to these users"
+msgstr "โครงการจะสามารถเข้าถึงได้บนเว็บไซต์สำหรับผู้ใช้เหล่านี้"
+
+msgid "Project wise Stock Tracking"
+msgstr "การติดตามสต็อกตามโครงการ"
+
+msgid "Project wise Stock Tracking "
+msgstr ""
+
+msgid "Project-wise data is not available for Quotation"
+msgstr "ข้อมูลตามโครงการไม่มีสำหรับใบเสนอราคา"
+
+msgid "Projected Qty"
+msgstr "ปริมาณที่คาดการณ์"
+
+msgid "Projected Quantity"
+msgstr "ปริมาณที่คาดการณ์"
+
+msgid "Projected Quantity Formula"
+msgstr "สูตรปริมาณที่คาดการณ์"
+
+msgid "Projected qty"
+msgstr "ปริมาณที่คาดการณ์"
+
+msgid "Projects"
+msgstr "โครงการ"
+
+msgid "Projects Manager"
+msgstr "ผู้จัดการโครงการ"
+
+msgid "Projects Settings"
+msgstr "การตั้งค่าโครงการ"
+
+msgid "Projects User"
+msgstr "ผู้ใช้โครงการ"
+
+msgid "Promotional"
+msgstr "ส่งเสริมการขาย"
+
+msgid "Promotional Scheme"
+msgstr "แผนส่งเสริมการขาย"
+
+msgid "Promotional Scheme Id"
+msgstr "รหัสแผนส่งเสริมการขาย"
+
+msgid "Promotional Scheme Price Discount"
+msgstr "ส่วนลดราคาแผนส่งเสริมการขาย"
+
+msgid "Promotional Scheme Product Discount"
+msgstr "ส่วนลดสินค้าแผนส่งเสริมการขาย"
+
+msgid "Prompt Qty"
+msgstr "ปริมาณที่แจ้งเตือน"
+
+msgid "Proposal Writing"
+msgstr "การเขียนข้อเสนอ"
+
+msgid "Proposal/Price Quote"
+msgstr "ข้อเสนอ/ใบเสนอราคา"
+
+msgid "Prorate"
+msgstr "เฉลี่ย"
+
+msgid "Prospect"
+msgstr "โอกาส"
+
+msgid "Prospect Lead"
+msgstr "โอกาสลูกค้าเป้าหมาย"
+
+msgid "Prospect Opportunity"
+msgstr "โอกาสทางธุรกิจ"
+
+msgid "Prospect Owner"
+msgstr "เจ้าของโอกาส"
+
+msgid "Prospect {0} already exists"
+msgstr "โอกาส {0} มีอยู่แล้ว"
+

@@ -1,0 +1,500 @@
+﻿"         <th class=\"table-sr\" style=\"width: 50%;\">Non Child Document</th>\n"
+"   </tr>\n"
+"</thead>\n"
+"<tbody>\n"
+"<tr>\n"
+"         <td>\n"
+"                  <p> To access parent document field use parent.fieldname and to access child table document field use doc.fieldname </p>\n\n"
+"         </td>\n"
+"         <td>\n"
+"                    <p>To access document field use doc.fieldname </p>\n"
+"         </td>\n"
+"</tr>\n"
+"<tr>\n"
+"        <td>\n"
+"                   <p><b>Example: </b> parent.doctype == \"Stock Entry\" and doc.item_code == \"Test\" </p>\n\n"
+"        </td>\n"
+"         <td>\n"
+"                   <p><b>Example: </b> doc.doctype == \"Stock Entry\" and doc.purpose == \"Manufacture\"</p>    \n"
+"          </td>\n"
+"</tr>\n\n"
+"</tbody>\n"
+"</table>\n\n\n\n\n\n\n"
+msgstr ""
+
+msgid "A - B"
+msgstr ""
+
+msgid "A - C"
+msgstr ""
+
+msgid "A Customer Group exists with same name please change the Customer name or rename the Customer Group"
+msgstr ""
+
+msgid "A Holiday List can be added to exclude counting these days for the Workstation."
+msgstr ""
+
+msgid "A Lead requires either a person's name or an organization's name"
+msgstr ""
+
+msgid "A Packing Slip can only be created for Draft Delivery Note."
+msgstr ""
+
+msgid "A Price List is a collection of Item Prices either Selling, Buying, or both"
+msgstr ""
+
+msgid "A Product or a Service that is bought, sold or kept in stock."
+msgstr ""
+
+msgid "A Reconciliation Job {0} is running for the same filters. Cannot reconcile now"
+msgstr ""
+
+msgid "A Transaction Deletion Document: {0} is triggered for {0}"
+msgstr ""
+
+msgid "A condition for a Shipping Rule"
+msgstr ""
+
+msgid "A customer must have primary contact email."
+msgstr ""
+
+msgid "A driver must be set to submit."
+msgstr ""
+
+msgid "A logical Warehouse against which stock entries are made."
+msgstr ""
+
+msgid "A new appointment has been created for you with {0}"
+msgstr ""
+
+msgid "A template with tax category {0} already exists. Only one template is allowed with each tax category"
+msgstr ""
+
+msgid "A third party distributor / dealer / commission agent / affiliate / reseller who sells the companies products for a commission."
+msgstr ""
+
+msgid "A+"
+msgstr ""
+
+msgid "A-"
+msgstr ""
+
+msgid "A4"
+msgstr ""
+
+msgid "AB+"
+msgstr ""
+
+msgid "AB-"
+msgstr ""
+
+msgid "ACC-PINV-.YYYY.-"
+msgstr ""
+
+msgid "AMC Expiry Date"
+msgstr ""
+
+msgid "API"
+msgstr ""
+
+msgid "API Details"
+msgstr ""
+
+msgid "API Endpoint"
+msgstr ""
+
+msgid "API Key"
+msgstr ""
+
+msgid "AWB Number"
+msgstr ""
+
+msgid "Abampere"
+msgstr ""
+
+msgid "Abbr"
+msgstr "ตัวย่อ"
+
+msgid "Abbreviation"
+msgstr ""
+
+msgid "Abbreviation already used for another company"
+msgstr ""
+
+msgid "Abbreviation is mandatory"
+msgstr ""
+
+msgid "Abbreviation: {0} must appear only once"
+msgstr ""
+
+msgid "About Us Settings"
+msgstr ""
+
+msgid "About {0} minute remaining"
+msgstr ""
+
+msgid "About {0} minutes remaining"
+msgstr ""
+
+msgid "About {0} seconds remaining"
+msgstr ""
+
+msgid "Above 120 Days"
+msgstr ""
+
+msgid "Academics User"
+msgstr ""
+
+msgid "Acceptance Criteria Formula"
+msgstr ""
+
+msgid "Acceptance Criteria Value"
+msgstr ""
+
+msgid "Accepted"
+msgstr "ยอมรับแล้ว"
+
+msgid "Accepted Qty"
+msgstr ""
+
+msgid "Accepted Qty in Stock UOM"
+msgstr ""
+
+msgid "Accepted Quantity"
+msgstr ""
+
+msgid "Accepted Warehouse"
+msgstr ""
+
+msgid "Access Key"
+msgstr ""
+
+msgid "Access Key is required for Service Provider: {0}"
+msgstr ""
+
+msgid "According to CEFACT/ICG/2010/IC013 or CEFACT/ICG/2010/IC010"
+msgstr ""
+
+msgid "According to the BOM {0}, the Item '{1}' is missing in the stock entry."
+msgstr ""
+
+msgid "Account"
+msgstr "บัญชี"
+
+msgid "Account Balance"
+msgstr ""
+
+msgid "Account Closing Balance"
+msgstr ""
+
+msgid "Account Currency"
+msgstr ""
+
+msgid "Account Currency (From)"
+msgstr ""
+
+msgid "Account Currency (To)"
+msgstr ""
+
+msgid "Account Details"
+msgstr ""
+
+msgid "Account Head"
+msgstr "หัวบัญชี"
+
+msgid "Account Manager"
+msgstr ""
+
+msgid "Account Missing"
+msgstr ""
+
+msgid "Account Name"
+msgstr ""
+
+msgid "Account Not Found"
+msgstr ""
+
+msgid "Account Number"
+msgstr ""
+
+msgid "Account Number {0} already used in account {1}"
+msgstr ""
+
+msgid "Account Opening Balance"
+msgstr ""
+
+msgid "Account Paid From"
+msgstr ""
+
+msgid "Account Paid To"
+msgstr ""
+
+msgid "Account Pay Only"
+msgstr ""
+
+msgid "Account Subtype"
+msgstr ""
+
+msgid "Account Type"
+msgstr ""
+
+msgid "Account Value"
+msgstr ""
+
+msgid "Account balance already in Credit, you are not allowed to set 'Balance Must Be' as 'Debit'"
+msgstr ""
+
+msgid "Account balance already in Debit, you are not allowed to set 'Balance Must Be' as 'Credit'"
+msgstr ""
+
+msgid "Account for Change Amount"
+msgstr ""
+
+msgid "Account is mandatory to get payment entries"
+msgstr ""
+
+msgid "Account is not set for the dashboard chart {0}"
+msgstr ""
+
+msgid "Account not Found"
+msgstr ""
+
+msgid "Account with child nodes cannot be converted to ledger"
+msgstr ""
+
+msgid "Account with child nodes cannot be set as ledger"
+msgstr ""
+
+msgid "Account with existing transaction can not be converted to group."
+msgstr ""
+
+msgid "Account with existing transaction can not be deleted"
+msgstr ""
+
+msgid "Account with existing transaction cannot be converted to ledger"
+msgstr ""
+
+msgid "Account {0} added multiple times"
+msgstr ""
+
+msgid "Account {0} does not belong to company: {1}"
+msgstr ""
+
+msgid "Account {0} does not belongs to company {1}"
+msgstr ""
+
+msgid "Account {0} does not exist"
+msgstr ""
+
+msgid "Account {0} does not exists"
+msgstr ""
+
+msgid "Account {0} does not exists in the dashboard chart {1}"
+msgstr ""
+
+msgid "Account {0} does not match with Company {1} in Mode of Account: {2}"
+msgstr ""
+
+msgid "Account {0} doesn't belong to Company {1}"
+msgstr ""
+
+msgid "Account {0} exists in parent company {1}."
+msgstr ""
+
+msgid "Account {0} has been entered multiple times"
+msgstr ""
+
+msgid "Account {0} is added in the child company {1}"
+msgstr ""
+
+msgid "Account {0} is frozen"
+msgstr ""
+
+msgid "Account {0} is invalid. Account Currency must be {1}"
+msgstr ""
+
+msgid "Account {0} should be of type Expense"
+msgstr ""
+
+msgid "Account {0}: Parent account {1} can not be a ledger"
+msgstr ""
+
+msgid "Account {0}: Parent account {1} does not belong to company: {2}"
+msgstr ""
+
+msgid "Account {0}: Parent account {1} does not exist"
+msgstr ""
+
+msgid "Account {0}: You can not assign itself as parent account"
+msgstr ""
+
+msgid "Account: <b>{0}</b> is capital Work in progress and can not be updated by Journal Entry"
+msgstr ""
+
+msgid "Account: {0} can only be updated via Stock Transactions"
+msgstr ""
+
+msgid "Account: {0} is not permitted under Payment Entry"
+msgstr ""
+
+msgid "Account: {0} with currency: {1} can not be selected"
+msgstr ""
+
+msgid "Accountant"
+msgstr ""
+
+msgid "Accounting"
+msgstr ""
+
+msgid "Accounting Details"
+msgstr "รายละเอียดทางบัญชี"
+
+msgid "Accounting Dimension"
+msgstr ""
+
+msgid "Accounting Dimension <b>{0}</b> is required for 'Balance Sheet' account {1}."
+msgstr ""
+
+msgid "Accounting Dimension <b>{0}</b> is required for 'Profit and Loss' account {1}."
+msgstr ""
+
+msgid "Accounting Dimension Detail"
+msgstr ""
+
+msgid "Accounting Dimension Filter"
+msgstr ""
+
+msgid "Accounting Dimensions"
+msgstr ""
+
+msgid "Accounting Dimensions "
+msgstr ""
+
+msgid "Accounting Dimensions Filter"
+msgstr ""
+
+msgid "Accounting Entries"
+msgstr ""
+
+msgid "Accounting Entry for Asset"
+msgstr ""
+
+msgid "Accounting Entry for LCV in Stock Entry {0}"
+msgstr ""
+
+msgid "Accounting Entry for Landed Cost Voucher for SCR {0}"
+msgstr ""
+
+msgid "Accounting Entry for Service"
+msgstr ""
+
+msgid "Accounting Entry for Stock"
+msgstr ""
+
+msgid "Accounting Entry for {0}"
+msgstr ""
+
+msgid "Accounting Entry for {0}: {1} can only be made in currency: {2}"
+msgstr ""
+
+msgid "Accounting Ledger"
+msgstr ""
+
+msgid "Accounting Masters"
+msgstr ""
+
+msgid "Accounting Period"
+msgstr ""
+
+msgid "Accounting Period overlaps with {0}"
+msgstr ""
+
+msgid "Accounting entries are frozen up to this date. Nobody can create or modify entries except users with the role specified below"
+msgstr ""
+
+msgid "Accounts"
+msgstr ""
+
+msgid "Accounts Closing"
+msgstr ""
+
+msgid "Accounts Frozen Till Date"
+msgstr ""
+
+msgid "Accounts Manager"
+msgstr ""
+
+msgid "Accounts Missing Error"
+msgstr ""
+
+msgid "Accounts Payable"
+msgstr "เจ้าหนี้การค้า"
+
+msgid "Accounts Payable Summary"
+msgstr ""
+
+msgid "Accounts Receivable"
+msgstr "ลูกหนี้การค้า"
+
+msgid "Accounts Receivable / Payable Tuning"
+msgstr ""
+
+msgid "Accounts Receivable Credit Account"
+msgstr ""
+
+msgid "Accounts Receivable Discounted Account"
+msgstr ""
+
+msgid "Accounts Receivable Summary"
+msgstr ""
+
+msgid "Accounts Receivable Unpaid Account"
+msgstr ""
+
+msgid "Accounts Receivable/Payable"
+msgstr ""
+
+msgid "Accounts Settings"
+msgstr "การตั้งค่าบัญชี"
+
+msgid "Accounts User"
+msgstr ""
+
+msgid "Accounts table cannot be blank."
+msgstr ""
+
+msgid "Accounts to Merge"
+msgstr ""
+
+msgid "Accumulated Depreciation"
+msgstr "ค่าเสื่อมราคาสะสม"
+
+msgid "Accumulated Depreciation Account"
+msgstr ""
+
+msgid "Accumulated Depreciation Amount"
+msgstr ""
+
+msgid "Accumulated Depreciation as on"
+msgstr ""
+
+msgid "Accumulated Monthly"
+msgstr ""
+
+msgid "Accumulated Monthly Budget for Account {0} against {1} {2} is {3}. It will be collectively ({4}) exceeded by {5}"
+msgstr ""
+
+msgid "Accumulated Monthly Budget for Account {0} against {1}: {2} is {3}. It will be exceeded by {4}"
+msgstr ""
+
+msgid "Accumulated Values"
+msgstr ""
+
+msgid "Accumulated Values in Group Company"
+msgstr ""
+
+msgid "Achieved ({})"
+msgstr ""
+
+msgid "Acquisition Date"
+msgstr ""

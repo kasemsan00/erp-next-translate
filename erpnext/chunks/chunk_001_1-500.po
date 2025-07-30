@@ -1,0 +1,500 @@
+﻿msgid ""
+msgstr ""
+
+msgid "  "
+msgstr ""
+
+msgid " Address"
+msgstr " ที่อยู่"
+
+msgid " Amount"
+msgstr " จำนวน"
+
+msgid " BOM"
+msgstr " รายการวัตถุดิบในการผลิต"
+
+msgid " Is Child Table"
+msgstr " เป็นตารางลูก"
+
+msgid " Is Subcontracted"
+msgstr " เป็นงานเหมาช่วง"
+
+msgid " Item"
+msgstr " รายการสินค้า"
+
+msgid " Name"
+msgstr " ชื่อ"
+
+msgid " Rate"
+msgstr " อัตรา/ราคา"
+
+msgid " Raw Material"
+msgstr " วัตถุดิบ"
+
+msgid " Reserve Stock"
+msgstr " สต๊อกสำรอง"
+
+msgid " Skip Material Transfer"
+msgstr " ข้ามขั้นตอนการย้ายวัสดุ"
+
+msgid " Sub Assembly"
+msgstr " ส่วนประกอบย่อย"
+
+msgid " Summary"
+msgstr " สรุป"
+
+msgid "\"Customer Provided Item\" cannot be Purchase Item also"
+msgstr "\"สินค้าที่ลูกค้าจัดเตรียมให้\" ไม่สามารถเป็นสินค้าที่ซื้อได้เช่นกัน"
+
+msgid "\"Customer Provided Item\" cannot have Valuation Rate"
+msgstr "\"รายการที่ลูกค้าจัดเตรียมไว้\" ไม่สามารถมีอัตราการประเมินค่าได้"
+
+msgid "\"Is Fixed Asset\" cannot be unchecked, as Asset record exists against the item"
+msgstr "ไม่สามารถยกเลิกการเลือก \"เป็นสินทรัพย์ถาวร\" ได้ เนื่องจากมีบันทึกสินทรัพย์อยู่ในรายการ"
+
+msgid "\"SN-01::10\" for \"SN-01\" to \"SN-10\""
+msgstr "“SN-01::10” ตั้งแต่ “SN-01” ถึง “SN-10”"
+
+msgid "# In Stock"
+msgstr "# มีสินค้าในสต๊อก"
+
+msgid "# Req'd Items"
+msgstr "# รายการที่ต้องการ"
+
+msgid "%  Delivered"
+msgstr "% จัดส่งแล้ว"
+
+msgid "% Amount Billed"
+msgstr "% จำนวนเงินที่เรียกเก็บ"
+
+msgid "% Billed"
+msgstr "% เรียกเก็บเงินแล้ว"
+
+msgid "% Complete Method"
+msgstr "% เสร็จสมบูรณ์"
+
+msgid "% Completed"
+msgstr "% สมบูรณ์"
+
+msgid "% Delivered"
+msgstr "% จัดส่งแล้ว"
+
+msgid "% Finished Item Quantity"
+msgstr "% จำนวนสินค้าที่ทำสำเร็จ"
+
+msgid "% Installed"
+msgstr "% ติดตั้งแล้ว"
+
+msgid "% Occupied"
+msgstr "% ไม่ว่าง"
+
+msgid "% Of Grand Total"
+msgstr "% ของยอดรวมทั้งหมด"
+
+msgid "% Ordered"
+msgstr "% สั่งแล้ว"
+
+msgid "% Picked"
+msgstr "% เลือกแล้ว"
+
+msgid "% Process Loss"
+msgstr "% การสูญเสียจากกระบวนการ"
+
+msgid "% Progress"
+msgstr "% ความคืบหน้า"
+
+msgid "% Received"
+msgstr "% ได้รับ"
+
+msgid "% Returned"
+msgstr "% ส่งคืน"
+
+msgid "% of materials billed against this Sales Order"
+msgstr "% ของวัสดุที่ถูกเรียกเก็บเงินตามใบสั่งขายนี้"
+
+msgid "% of materials delivered against this Pick List"
+msgstr ""
+
+msgid "% of materials delivered against this Sales Order"
+msgstr "% ของวัสดุที่ถูกเรียกเก็บเงินตามใบสั่งขายนี้"
+
+msgid "'Account' in the Accounting section of Customer {0}"
+msgstr "'บัญชี' ในส่วนบัญชีของลูกค้า"
+
+msgid "'Allow Multiple Sales Orders Against a Customer's Purchase Order'"
+msgstr "'ยอมให้มีใบสั่งซื้อหลายใบที่อ้างอิงใบสั่งซื้อเดียวกันของลูกค้า'"
+
+msgid "'Based On' and 'Group By' can not be same"
+msgstr "'Based On' กับ 'Group By' ไม่ต้องเหมือนกัน"
+
+msgid "'Days Since Last Order' must be greater than or equal to zero"
+msgstr "จำนวนวันตั้งแต่คำสั่งซื้อครั้งล่าสุด ต้องมากกว่าหรือเท่ากับศูนย์"
+
+msgid "'Default {0} Account' in Company {1}"
+msgstr "บัญชี {0} เริ่มต้น ในบริษัท {1}"
+
+msgid "'Entries' cannot be empty"
+msgstr "รายการ ไม่สามารถว่างเปล่าได้"
+
+msgid "'From Date' is required"
+msgstr "กรุณากรอก 'ตั้งแต่วันที่'"
+
+msgid "'From Date' must be after 'To Date'"
+msgstr "จากวันที่ ต้องอยู่หลัง ถึงวันที่"
+
+msgid "'Has Serial No' can not be 'Yes' for non-stock item"
+msgstr "มีหมายเลขซีเรียล ไม่สามารถเป็น ใช่ สำหรับสินค้าที่ไม่ใช่สต็อก"
+
+msgid "'Inspection Required before Delivery' has disabled for the item {0}, no need to create the QI"
+msgstr "ต้องการการตรวจสอบก่อนการส่งมอบ ถูกปิดใช้งานสำหรับสินค้า {0}, ไม่จำเป็นต้องสร้าง QI"
+
+msgid "'Inspection Required before Purchase' has disabled for the item {0}, no need to create the QI"
+msgstr "ต้องการการตรวจสอบก่อนการซื้อ ถูกปิดใช้งานสำหรับสินค้า {0}, ไม่จำเป็นต้องสร้าง QI"
+
+msgid "'Opening'"
+msgstr "เปิด"
+
+msgid "'To Date' is required"
+msgstr "กรุณากรอก 'ถึงวันที่'"
+
+msgid "'To Package No.' cannot be less than 'From Package No.'"
+msgstr "ถึงหมายเลขแพ็คเกจ ไม่สามารถน้อยกว่า จากหมายเลขแพ็คเกจ"
+
+msgid "'Update Stock' can not be checked because items are not delivered via {0}"
+msgstr "อัปเดตสต็อก ไม่สามารถเลือกได้เพราะสินค้าไม่ได้ส่งผ่าน {0}"
+
+msgid "'Update Stock' cannot be checked for fixed asset sale"
+msgstr "อัปเดตสต็อก ไม่สามารถเลือกได้สำหรับการขายสินทรัพย์ถาวร"
+
+msgid "'{0}' account is already used by {1}. Use another account."
+msgstr "บัญชี '{0}' ถูกใช้โดย {1} แล้ว ใช้บัญชีอื่น"
+
+msgid "'{0}' has been already added."
+msgstr "'{0}' ถูกเพิ่มแล้ว"
+
+msgid "'{0}' should be in company currency {1}."
+msgstr "'{0}' ควรอยู่ในสกุลเงินของบริษัท {1}"
+
+msgid "(A) Qty After Transaction"
+msgstr "(A) ปริมาณหลังการทำธุรกรรม"
+
+msgid "(B) Expected Qty After Transaction"
+msgstr "(B) ปริมาณที่คาดหวังหลังการทำธุรกรรม"
+
+msgid "(C) Total Qty in Queue"
+msgstr "(C) ปริมาณรวมในคิว"
+
+msgid "(C) Total qty in queue"
+msgstr "(C) ปริมาณรวมในคิว"
+
+msgid "(D) Balance Stock Value"
+msgstr "(D) มูลค่าสต็อกคงเหลือ"
+
+msgid "(E) Balance Stock Value in Queue"
+msgstr "(E) มูลค่าสต็อกคงเหลือในคิว"
+
+msgid "(F) Change in Stock Value"
+msgstr "(F) การเปลี่ยนแปลงในมูลค่าสต็อก"
+
+msgid "(Forecast)"
+msgstr "(การพยากรณ์)"
+
+msgid "(G) Sum of Change in Stock Value"
+msgstr "(G) ผลรวมของการเปลี่ยนแปลงในมูลค่าสต็อก"
+
+msgid "(H) Change in Stock Value (FIFO Queue)"
+msgstr "(H) การเปลี่ยนแปลงในมูลค่าสต็อก (คิว FIFO)"
+
+msgid "(H) Valuation Rate"
+msgstr "(H) อัตราการประเมินค่า"
+
+msgid "(Hour Rate / 60) * Actual Operation Time"
+msgstr "(อัตราชั่วโมง / 60) * เวลาดำเนินการจริง"
+
+msgid "(I) Valuation Rate"
+msgstr "(I) อัตราการประเมินค่า"
+
+msgid "(J) Valuation Rate as per FIFO"
+msgstr "(J) อัตราการประเมินค่าตาม FIFO"
+
+msgid "(K) Valuation = Value (D) ÷ Qty (A)"
+msgstr "(K) การประเมินค่า = มูลค่า (D) ÷ ปริมาณ (A)"
+
+msgid "(Purchase Order + Material Request + Actual Expense)"
+msgstr "(คำสั่งซื้อ + คำขอวัสดุ + ค่าใช้จ่ายจริง)"
+
+msgid "(including)"
+msgstr "(รวมถึง)"
+
+msgid "* Will be calculated in the transaction."
+msgstr "* จะถูกคำนวณในธุรกรรม"
+
+msgid "0 - 30 Days"
+msgstr "0 - 30 วัน"
+
+msgid "0-30"
+msgstr "0-30"
+
+msgid "0-30 Days"
+msgstr "0-30 วัน"
+
+msgid "1 Loyalty Points = How much base currency?"
+msgstr "1 คะแนนสะสม = เท่าไหร่ในสกุลเงินฐาน?"
+
+msgid "1 hr"
+msgstr "1 ชม."
+
+msgid "1-10"
+msgstr "1-10"
+
+msgid "1000+"
+msgstr "1000+"
+
+msgid "11-50"
+msgstr "11-50"
+
+msgid "1{0}"
+msgstr ""
+
+msgid "2 Yearly"
+msgstr "ทุก 2 ปี"
+
+msgid "201-500"
+msgstr "201-500"
+
+msgid "3 Yearly"
+msgstr "ทุก 3 ปี"
+
+msgid "30 - 60 Days"
+msgstr "30 - 60 วัน"
+
+msgid "30 mins"
+msgstr "30 นาที"
+
+msgid "30-60"
+msgstr ""
+
+msgid "30-60 Days"
+msgstr "30-60 วัน"
+
+msgid "501-1000"
+msgstr ""
+
+msgid "51-200"
+msgstr "51-200"
+
+msgid "6 hrs"
+msgstr "6 ชั่วโมง"
+
+msgid "60 - 90 Days"
+msgstr "60 - 90 วัน"
+
+msgid "60-90"
+msgstr ""
+
+msgid "60-90 Days"
+msgstr "60-90 วัน"
+
+msgid "90 - 120 Days"
+msgstr "90 - 120 วัน"
+
+msgid "90 Above"
+msgstr "90 ขึ้นไป"
+
+msgid "<b>From Time</b> cannot be later than <b>To Time</b> for {0}"
+msgstr "<b>จากเวลา</b> ไม่สามารถเกิน <b>ถึงเวลา</b> สำหรับ {0}"
+
+msgid "<br>\n"
+"<h4>Note</h4>\n"
+"<ul>\n"
+"<li>\n"
+"You can use <a href=\"https://jinja.palletsprojects.com/en/2.11.x/\" target=\"_blank\">Jinja tags</a> in <b>Subject</b> and <b>Body</b> fields for dynamic values.\n"
+"</li><li>\n"
+"    All fields in this doctype are available under the <b>doc</b> object and all fields for the customer to whom the mail will go to is available under the  <b>customer</b> object.\n"
+"</li></ul>\n"
+"<h4> Examples</h4>\n"
+"<!-- {% raw %} -->\n"
+"<ul>\n"
+"    <li><b>Subject</b>:<br><br><pre><code>Statement Of Accounts for {{ customer.customer_name }}</code></pre><br></li>\n"
+"    <li><b>Body</b>: <br><br>\n"
+"<pre><code>Hello {{ customer.customer_name }},<br>PFA your Statement Of Accounts from {{ doc.from_date }} to {{ doc.to_date }}.</code> </pre></li>\n"
+"</ul>\n"
+"<!-- {% endraw %} -->"
+msgstr ""
+
+msgid "<div class=\"columnHeading\">Other Details</div>"
+msgstr ""
+
+msgid "<div class=\"text-muted text-center\">No Matching Bank Transactions Found</div>"
+msgstr ""
+
+msgid "<div class=\"text-muted text-center\">{0}</div>"
+msgstr ""
+
+msgid "<div>\n"
+"<h3> All dimensions in centimeter only </h3>\n"
+"</div>"
+msgstr ""
+
+msgid "<h3>About Product Bundle</h3>\n\n"
+"<p>Aggregate group of <b>Items</b> into another <b>Item</b>. This is useful if you are bundling a certain <b>Items</b> into a package and you maintain stock of the packed <b>Items</b> and not the aggregate <b>Item</b>.</p>\n"
+"<p>The package <b>Item</b> will have <code>Is Stock Item</code> as <b>No</b> and <code>Is Sales Item</code> as <b>Yes</b>.</p>\n"
+"<h4>Example:</h4>\n"
+"<p>If you are selling Laptops and Backpacks separately and have a special price if the customer buys both, then the Laptop + Backpack will be a new Product Bundle Item.</p>"
+msgstr ""
+
+msgid "<h3>Currency Exchange Settings Help</h3>\n"
+"<p>There are 3 variables that could be used within the endpoint, result key and in values of the parameter.</p>\n"
+"<p>Exchange rate between {from_currency} and {to_currency} on {transaction_date} is fetched by the API.</p>\n"
+"<p>Example: If your endpoint is exchange.com/2021-08-01, then, you will have to input exchange.com/{transaction_date}</p>"
+msgstr ""
+
+msgid "<h4>Body Text and Closing Text Example</h4>\n\n"
+"<div>We have noticed that you have not yet paid invoice {{sales_invoice}} for {{frappe.db.get_value(\"Currency\", currency, \"symbol\")}} {{outstanding_amount}}. This is a friendly reminder that the invoice was due on {{due_date}}. Please pay the amount due immediately to avoid any further dunning cost.</div>\n\n"
+"<h4>How to get fieldnames</h4>\n\n"
+"<p>The fieldnames you can use in your template are the fields in the document. You can find out the fields of any documents via Setup &gt; Customize Form View and selecting the document type (e.g. Sales Invoice)</p>\n\n"
+"<h4>Templating</h4>\n\n"
+"<p>Templates are compiled using the Jinja Templating Language. To learn more about Jinja, <a class=\"strong\" href=\"http://jinja.pocoo.org/docs/dev/templates/\">read this documentation.</a></p>"
+msgstr ""
+
+msgid "<h4>Contract Template Example</h4>\n\n"
+"<pre>Contract for Customer {{ party_name }}\n\n"
+"-Valid From : {{ start_date }} \n"
+"-Valid To : {{ end_date }}\n"
+"</pre>\n\n"
+"<h4>How to get fieldnames</h4>\n\n"
+"<p>The field names you can use in your Contract Template are the fields in the Contract for which you are creating the template. You can find out the fields of any documents via Setup &gt; Customize Form View and selecting the document type (e.g. Contract)</p>\n\n"
+"<h4>Templating</h4>\n\n"
+"<p>Templates are compiled using the Jinja Templating Language. To learn more about Jinja, <a class=\"strong\" href=\"http://jinja.pocoo.org/docs/dev/templates/\">read this documentation.</a></p>"
+msgstr ""
+
+msgid "<h4>Standard Terms and Conditions Example</h4>\n\n"
+"<pre>Delivery Terms for Order number {{ name }}\n\n"
+"-Order Date : {{ transaction_date }} \n"
+"-Expected Delivery Date : {{ delivery_date }}\n"
+"</pre>\n\n"
+"<h4>How to get fieldnames</h4>\n\n"
+"<p>The fieldnames you can use in your email template are the fields in the document from which you are sending the email. You can find out the fields of any documents via Setup &gt; Customize Form View and selecting the document type (e.g. Sales Invoice)</p>\n\n"
+"<h4>Templating</h4>\n\n"
+"<p>Templates are compiled using the Jinja Templating Language. To learn more about Jinja, <a class=\"strong\" href=\"http://jinja.pocoo.org/docs/dev/templates/\">read this documentation.</a></p>"
+msgstr ""
+
+msgid "<h5 class=\"text-muted uppercase\">Or</h5>"
+msgstr ""
+
+msgid "<label class=\"control-label\" style=\"margin-bottom: 0px;\">Account Number Settings</label>"
+msgstr ""
+
+msgid "<label class=\"control-label\" style=\"margin-bottom: 0px;\">Amount In Words</label>"
+msgstr ""
+
+msgid "<label class=\"control-label\" style=\"margin-bottom: 0px;\">Date Settings</label>"
+msgstr ""
+
+msgid "<li>Clearance date must be after cheque date for row(s): {0}</li>"
+msgstr ""
+
+msgid "<li>Item {0} in row(s) {1} billed more than {2}</li>"
+msgstr ""
+
+msgid "<li>Payment document required for row(s): {0}</li>"
+msgstr ""
+
+msgid "<li>{}</li>"
+msgstr ""
+
+msgid "<p>Cannot overbill for the following Items:</p>"
+msgstr ""
+
+msgid "<p>Following {0}s doesn't belong to Company {1} :</p>"
+msgstr ""
+
+msgid "<p>In your <b>Email Template</b>, you can use the following special variables:\n"
+"</p>\n"
+"<ul>\n"
+"        <li>\n"
+"            <code>{{ update_password_link }}</code>: A link where your supplier can set a new password to log into your portal.\n"
+"        </li>\n"
+"        <li>\n"
+"            <code>{{ portal_link }}</code>: A link to this RFQ in your supplier portal.\n"
+"        </li>\n"
+"        <li>\n"
+"            <code>{{ supplier_name }}</code>: The company name of your supplier.\n"
+"        </li>\n"
+"        <li>\n"
+"            <code>{{ contact.salutation }} {{ contact.last_name }}</code>: The contact person of your supplier.\n"
+"        </li><li>\n"
+"            <code>{{ user_fullname }}</code>: Your full name.\n"
+"        </li>\n"
+"    </ul>\n"
+"<p></p>\n"
+"<p>Apart from these, you can access all values in this RFQ, like <code>{{ message_for_supplier }}</code> or <code>{{ terms }}</code>.</p>"
+msgstr ""
+
+msgid "<p>Please correct the following row(s):</p><ul>"
+msgstr ""
+
+msgid "<p>Posting Date {0} cannot be before Purchase Order date for the following:</p><ul>"
+msgstr ""
+
+msgid "<p>Price List Rate has not been set as editable in Selling Settings. In this scenario, setting <strong>Update Price List Based On</strong> to <strong>Price List Rate</strong> will prevent auto-updation of Item Price.</p>Are you sure you want to continue?"
+msgstr ""
+
+msgid "<p>To allow over-billing, please set allowance in Accounts Settings.</p>"
+msgstr ""
+
+msgid "<pre><h5>Message Example</h5>\n\n"
+"&lt;p&gt; Thank You for being a part of {{ doc.company }}! We hope you are enjoying the service.&lt;/p&gt;\n\n"
+"&lt;p&gt; Please find enclosed the E Bill statement. The outstanding amount is {{ doc.grand_total }}.&lt;/p&gt;\n\n"
+"&lt;p&gt; We don't want you to be spending time running around in order to pay for your Bill.<br>After all, life is beautiful and the time you have in hand should be spent to enjoy it!<br>So here are our little ways to help you get more time for life! &lt;/p&gt;\n\n"
+"&lt;a href=\"{{ payment_url }}\"&gt; click here to pay &lt;/a&gt;\n\n"
+"</pre>\n"
+msgstr ""
+
+msgid "<pre><h5>Message Example</h5>\n\n"
+"&lt;p&gt;Dear {{ doc.contact_person }},&lt;/p&gt;\n\n"
+"&lt;p&gt;Requesting payment for {{ doc.doctype }}, {{ doc.name }} for {{ doc.grand_total }}.&lt;/p&gt;\n\n"
+"&lt;a href=\"{{ payment_url }}\"&gt; click here to pay &lt;/a&gt;\n\n"
+"</pre>\n"
+msgstr ""
+
+msgid "<span class=\"h4\"><b>Masters &amp; Reports</b></span>"
+msgstr "<span class=\"h4\"><b>Masters &amp; Reports</b></span>"
+
+msgid "<span class=\"h4\"><b>Quick Access</b></span>"
+msgstr ""
+
+msgid "<span class=\"h4\"><b>Reports & Masters</b></span>"
+msgstr ""
+
+msgid "<span class=\"h4\"><b>Reports &amp; Masters</b></span>"
+msgstr ""
+
+msgid "<span class=\"h4\"><b>Settings</b></span>"
+msgstr ""
+
+msgid "<span class=\"h4\"><b>Shortcuts</b></span>"
+msgstr ""
+
+msgid "<span class=\"h4\"><b>Your Shortcuts\n"
+"\t\t\t\n"
+"\t\t\n"
+"\t\t\t\n"
+"\t\t\n"
+"\t\t\t\n"
+"\t\t</b></span>"
+msgstr ""
+
+msgid "<span class=\"h4\"><b>Your Shortcuts</b></span>"
+msgstr ""
+
+msgid "<strong>Grand Total:</strong> {0}"
+msgstr ""
+
+msgid "<strong>Outstanding Amount:</strong> {0}"
+msgstr ""
+
+msgid "<table class=\"table table-bordered table-condensed\">\n"
+"<thead>\n"
+"  <tr>\n"
+"         <th class=\"table-sr\" style=\"width: 50%;\">Child Document</th>\n"

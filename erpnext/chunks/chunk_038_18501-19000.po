@@ -1,0 +1,500 @@
+﻿msgstr "วนซ้ำทุกครั้ง (ตามหน่วยวัดธุรกรรม)"
+
+msgid "Recurse Over Qty cannot be less than 0"
+msgstr "การวนซ้ำปริมาณต้องไม่น้อยกว่า 0"
+
+msgid "Recursive Discounts with Mixed condition is not supported by the system"
+msgstr "ส่วนลดแบบวนซ้ำที่มีเงื่อนไขผสมไม่รองรับโดยระบบ"
+
+msgid "Red"
+msgstr "สีแดง"
+
+msgid "Redeem Against"
+msgstr "แลกกับ"
+
+msgid "Redeem Loyalty Points"
+msgstr "แลกคะแนนสะสม"
+
+msgid "Redeemed Points"
+msgstr "คะแนนที่แลกแล้ว"
+
+msgid "Redemption"
+msgstr "การแลก"
+
+msgid "Redemption Account"
+msgstr "บัญชีการแลก"
+
+msgid "Redemption Cost Center"
+msgstr "ศูนย์ต้นทุนการแลก"
+
+msgid "Redemption Date"
+msgstr "วันที่แลก"
+
+msgid "Ref Code"
+msgstr "รหัสอ้างอิง"
+
+msgid "Ref Date"
+msgstr "วันที่อ้างอิง"
+
+msgid "Reference"
+msgstr "อ้างอิง"
+
+msgid "Reference #{0} dated {1}"
+msgstr "อ้างอิง #{0} ลงวันที่ {1}"
+
+msgid "Reference Date"
+msgstr "วันที่อ้างอิง"
+
+msgid "Reference Date for Early Payment Discount"
+msgstr "วันที่อ้างอิงสำหรับส่วนลดการชำระเงินล่วงหน้า"
+
+msgid "Reference Detail"
+msgstr "รายละเอียดอ้างอิง"
+
+msgid "Reference Detail No"
+msgstr "หมายเลขรายละเอียดอ้างอิง"
+
+msgid "Reference DocType"
+msgstr "ประเภทเอกสารอ้างอิง"
+
+msgid "Reference Doctype"
+msgstr "ประเภทเอกสารอ้างอิง"
+
+msgid "Reference Doctype must be one of {0}"
+msgstr "ประเภทเอกสารอ้างอิงต้องเป็นหนึ่งใน {0}"
+
+msgid "Reference Document"
+msgstr "เอกสารอ้างอิง"
+
+msgid "Reference Document Name"
+msgstr "ชื่อเอกสารอ้างอิง"
+
+msgid "Reference Document Type"
+msgstr "ประเภทเอกสารอ้างอิง"
+
+msgid "Reference Due Date"
+msgstr "วันที่ครบกำหนดอ้างอิง"
+
+msgid "Reference Exchange Rate"
+msgstr "อัตราแลกเปลี่ยนอ้างอิง"
+
+msgid "Reference Name"
+msgstr "ชื่ออ้างอิง"
+
+msgid "Reference No"
+msgstr "หมายเลขอ้างอิง"
+
+msgid "Reference No & Reference Date is required for {0}"
+msgstr "ต้องระบุหมายเลขอ้างอิงและวันที่อ้างอิงสำหรับ {0}"
+
+msgid "Reference No and Reference Date is mandatory for Bank transaction"
+msgstr "หมายเลขอ้างอิงและวันที่อ้างอิงเป็นสิ่งจำเป็นสำหรับธุรกรรมธนาคาร"
+
+msgid "Reference No is mandatory if you entered Reference Date"
+msgstr "หมายเลขอ้างอิงเป็นสิ่งจำเป็นหากคุณป้อนวันที่อ้างอิง"
+
+msgid "Reference No."
+msgstr "หมายเลขอ้างอิง"
+
+msgid "Reference Number"
+msgstr "หมายเลขอ้างอิง"
+
+msgid "Reference Purchase Receipt"
+msgstr "ใบรับซื้ออ้างอิง"
+
+msgid "Reference Row"
+msgstr "แถวอ้างอิง"
+
+msgid "Reference Row #"
+msgstr "หมายเลขแถวอ้างอิง"
+
+msgid "Reference Type"
+msgstr "ประเภทอ้างอิง"
+
+msgid "Reference for Reservation"
+msgstr "อ้างอิงสำหรับการจอง"
+
+msgid "Reference number of the invoice from the previous system"
+msgstr "หมายเลขอ้างอิงของใบแจ้งหนี้จากระบบก่อนหน้า"
+
+msgid "Reference: {0}, Item Code: {1} and Customer: {2}"
+msgstr "อ้างอิง: {0}, รหัสสินค้า: {1} และลูกค้า: {2}"
+
+msgid "References"
+msgstr "การอ้างอิง"
+
+msgid "References to Sales Invoices are Incomplete"
+msgstr "การอ้างอิงถึงใบแจ้งหนี้ขายไม่สมบูรณ์"
+
+msgid "References to Sales Orders are Incomplete"
+msgstr "การอ้างอิงถึงคำสั่งขายไม่สมบูรณ์"
+
+msgid "References {0} of type {1} had no outstanding amount left before submitting the Payment Entry. Now they have a negative outstanding amount."
+msgstr "การอ้างอิง {0} ประเภท {1} ไม่มีจำนวนเงินค้างชำระเหลือก่อนส่งรายการชำระเงิน ตอนนี้มีจำนวนเงินค้างชำระติดลบ"
+
+msgid "Referral Code"
+msgstr "รหัสการแนะนำ"
+
+msgid "Referral Sales Partner"
+msgstr "คู่ค้าการขายที่แนะนำ"
+
+msgid "Refresh"
+msgstr "รีเฟรช"
+
+msgid "Refresh Google Sheet"
+msgstr "รีเฟรช Google Sheet"
+
+msgid "Refresh Plaid Link"
+msgstr "รีเฟรชลิงก์ Plaid"
+
+msgid "Regards,"
+msgstr "ด้วยความนับถือ,"
+
+msgid "Regenerate Stock Closing Entry"
+msgstr "สร้างรายการปิดสต็อกใหม่"
+
+msgid "Regional"
+msgstr "ระดับภูมิภาค"
+
+msgid "Registration Details"
+msgstr "รายละเอียดการลงทะเบียน"
+
+msgid "Regular"
+msgstr "ปกติ"
+
+msgid "Rejected"
+msgstr "ถูกปฏิเสธ"
+
+msgid "Rejected "
+msgstr ""
+
+msgid "Rejected Qty"
+msgstr "ปริมาณที่ถูกปฏิเสธ"
+
+msgid "Rejected Quantity"
+msgstr "ปริมาณที่ถูกปฏิเสธ"
+
+msgid "Rejected Serial No"
+msgstr "หมายเลขซีเรียลที่ถูกปฏิเสธ"
+
+msgid "Rejected Serial and Batch Bundle"
+msgstr "ชุดซีเรียลและแบทช์ที่ถูกปฏิเสธ"
+
+msgid "Rejected Warehouse"
+msgstr "คลังสินค้าที่ถูกปฏิเสธ"
+
+msgid "Rejected Warehouse and Accepted Warehouse cannot be same."
+msgstr "คลังสินค้าที่ถูกปฏิเสธและคลังสินค้าที่รับไม่สามารถเป็นคลังเดียวกันได้"
+
+msgid "Related"
+msgstr "ที่เกี่ยวข้อง"
+
+msgid "Relation"
+msgstr "ความสัมพันธ์"
+
+msgid "Release Date"
+msgstr "วันที่ปล่อย"
+
+msgid "Release date must be in the future"
+msgstr "วันที่ปล่อยต้องเป็นวันที่ในอนาคต"
+
+msgid "Relieving Date"
+msgstr "วันที่ปลดปล่อย"
+
+msgid "Remaining"
+msgstr "ที่เหลืออยู่"
+
+msgid "Remaining Amount"
+msgstr "จำนวนเงินที่เหลืออยู่"
+
+msgid "Remaining Balance"
+msgstr "ยอดคงเหลือที่เหลืออยู่"
+
+msgid "Remark"
+msgstr "ข้อสังเกต"
+
+msgid "Remarks"
+msgstr "ข้อสังเกต"
+
+msgid "Remarks Column Length"
+msgstr "ความยาวคอลัมน์ข้อสังเกต"
+
+msgid "Remarks:"
+msgstr "ข้อสังเกต:"
+
+msgid "Remove Parent Row No in Items Table"
+msgstr "ลบหมายเลขแถวหลักในตารางรายการ"
+
+msgid "Remove SABB Entry"
+msgstr "ลบรายการ SABB"
+
+msgid "Remove item if charges is not applicable to that item"
+msgstr "ลบรายการหากค่าใช้จ่ายไม่สามารถใช้กับรายการนั้นได้"
+
+msgid "Removed items with no change in quantity or value."
+msgstr "ลบรายการที่ไม่มีการเปลี่ยนแปลงในปริมาณหรือมูลค่าแล้ว"
+
+msgid "Removing rows without exchange gain or loss"
+msgstr "กำลังลบแถวที่ไม่มีการได้หรือเสียจากการแลกเปลี่ยน"
+
+msgid "Rename"
+msgstr "เปลี่ยนชื่อ"
+
+msgid "Rename Attribute Value in Item Attribute."
+msgstr "เปลี่ยนค่าคุณลักษณะในคุณลักษณะรายการ"
+
+msgid "Rename Log"
+msgstr "เปลี่ยนชื่อบันทึก"
+
+msgid "Rename Not Allowed"
+msgstr "ไม่อนุญาตให้เปลี่ยนชื่อ"
+
+msgid "Rename Tool"
+msgstr "เครื่องมือเปลี่ยนชื่อ"
+
+msgid "Rename jobs for doctype {0} have been enqueued."
+msgstr "งานเปลี่ยนชื่อสำหรับประเภทเอกสาร {0} ได้ถูกจัดคิวแล้ว"
+
+msgid "Rename jobs for doctype {0} have not been enqueued."
+msgstr "งานเปลี่ยนชื่อสำหรับประเภทเอกสาร {0} ยังไม่ได้ถูกจัดคิว"
+
+msgid "Renaming it is only allowed via parent company {0}, to avoid mismatch."
+msgstr "การเปลี่ยนชื่ออนุญาตเฉพาะผ่านบริษัทหลัก {0} เพื่อหลีกเลี่ยงความไม่ตรงกัน"
+
+msgid "Rent Cost"
+msgstr "ค่าเช่า"
+
+msgid "Rented"
+msgstr "เช่าแล้ว"
+
+msgid "Reopen"
+msgstr "เปิดใหม่"
+
+msgid "Reorder Level"
+msgstr "ระดับการสั่งซื้อใหม่"
+
+msgid "Reorder Qty"
+msgstr "ปริมาณการสั่งซื้อใหม่"
+
+msgid "Reorder level based on Warehouse"
+msgstr "ระดับการสั่งซื้อใหม่ตามคลังสินค้า"
+
+msgid "Repack"
+msgstr "บรรจุใหม่"
+
+msgid "Repair"
+msgstr ""
+
+msgid "Repair Asset"
+msgstr "ซ่อมสินทรัพย์"
+
+msgid "Repair Cost"
+msgstr "ค่าซ่อม"
+
+msgid "Repair Purchase Invoices"
+msgstr "ซ่อมใบแจ้งหนี้ซื้อ"
+
+msgid "Repair Status"
+msgstr "สถานะการซ่อม"
+
+msgid "Repair cost cannot be greater than purchase invoice base net total {0}"
+msgstr "ค่าซ่อมไม่สามารถมากกว่าฐานสุทธิรวมของใบแจ้งหนี้ซื้อ {0}"
+
+msgid "Repeat Customer Revenue"
+msgstr "รายได้จากลูกค้าที่กลับมาซื้อซ้ำ"
+
+msgid "Repeat Customers"
+msgstr "ลูกค้าที่กลับมาซื้อซ้ำ"
+
+msgid "Replace"
+msgstr "แทนที่"
+
+msgid "Replace BOM"
+msgstr "แทนที่ BOM"
+
+msgid "Replace a particular BOM in all other BOMs where it is used. It will replace the old BOM link, update cost and regenerate \"BOM Explosion Item\" table as per new BOM.\n"
+"It also updates latest price in all the BOMs."
+msgstr ""
+
+msgid "Replied"
+msgstr "ตอบกลับแล้ว"
+
+msgid "Report"
+msgstr "รายงาน"
+
+msgid "Report Date"
+msgstr "วันที่รายงาน"
+
+msgid "Report Error"
+msgstr "รายงานข้อผิดพลาด"
+
+msgid "Report Filters"
+msgstr "ตัวกรองรายงาน"
+
+msgid "Report Type"
+msgstr "ประเภทรายงาน"
+
+msgid "Report Type is mandatory"
+msgstr "ประเภทรายงานเป็นสิ่งจำเป็น"
+
+msgid "Report View"
+msgstr "มุมมองรายงาน"
+
+msgid "Report an Issue"
+msgstr "รายงานปัญหา"
+
+msgid "Reports"
+msgstr "รายงาน"
+
+msgid "Reports to"
+msgstr "รายงานถึง"
+
+msgid "Repost Accounting Ledger"
+msgstr "โพสต์ใหม่บัญชีแยกประเภท"
+
+msgid "Repost Accounting Ledger Items"
+msgstr "โพสต์ใหม่รายการบัญชีแยกประเภท"
+
+msgid "Repost Accounting Ledger Settings"
+msgstr "โพสต์ใหม่การตั้งค่าบัญชีแยกประเภท"
+
+msgid "Repost Allowed Types"
+msgstr "ประเภทที่อนุญาตให้โพสต์ใหม่"
+
+msgid "Repost Error Log"
+msgstr "บันทึกข้อผิดพลาดการโพสต์ใหม่"
+
+msgid "Repost Item Valuation"
+msgstr "โพสต์ใหม่การประเมินมูลค่ารายการ"
+
+msgid "Repost Payment Ledger"
+msgstr "โพสต์ใหม่บัญชีแยกประเภทการชำระเงิน"
+
+msgid "Repost Payment Ledger Items"
+msgstr "โพสต์ใหม่รายการบัญชีแยกประเภทการชำระเงิน"
+
+msgid "Repost Status"
+msgstr "สถานะการโพสต์ใหม่"
+
+msgid "Repost has started in the background"
+msgstr "การโพสต์ใหม่เริ่มต้นในพื้นหลังแล้ว"
+
+msgid "Repost in background"
+msgstr "โพสต์ใหม่ในพื้นหลัง"
+
+msgid "Repost started in the background"
+msgstr "การโพสต์ใหม่เริ่มต้นในพื้นหลัง"
+
+msgid "Reposting Completed {0}%"
+msgstr ""
+
+msgid "Reposting Data File"
+msgstr "ไฟล์ข้อมูลการโพสต์ใหม่"
+
+msgid "Reposting Info"
+msgstr "ข้อมูลการโพสต์ใหม่"
+
+msgid "Reposting Progress"
+msgstr "ความคืบหน้าการโพสต์ใหม่"
+
+msgid "Reposting entries created: {0}"
+msgstr "สร้างรายการโพสต์ใหม่: {0}"
+
+msgid "Reposting has been started in the background."
+msgstr "การโพสต์ใหม่เริ่มต้นในพื้นหลังแล้ว"
+
+msgid "Reposting in the background."
+msgstr "กำลังโพสต์ใหม่ในพื้นหลัง"
+
+msgid "Represents Company"
+msgstr "แสดงถึงบริษัท"
+
+msgid "Represents a Financial Year. All accounting entries and other major transactions are tracked against the Fiscal Year."
+msgstr "แสดงถึงปีการเงิน รายการบัญชีทั้งหมดและธุรกรรมสำคัญอื่น ๆ ถูกติดตามตามปีการเงิน"
+
+msgid "Reqd By Date"
+msgstr ""
+
+msgid "Reqd Qty (BOM)"
+msgstr ""
+
+msgid "Reqd by date"
+msgstr ""
+
+msgid "Reqired Qty"
+msgstr ""
+
+msgid "Request For Quotation"
+msgstr ""
+
+msgid "Request Parameters"
+msgstr ""
+
+msgid "Request Timeout"
+msgstr ""
+
+msgid "Request Type"
+msgstr ""
+
+msgid "Request for"
+msgstr ""
+
+msgid "Request for Information"
+msgstr ""
+
+msgid "Request for Quotation"
+msgstr ""
+
+msgid "Request for Quotation Item"
+msgstr ""
+
+msgid "Request for Quotation Supplier"
+msgstr ""
+
+msgid "Request for Raw Materials"
+msgstr ""
+
+msgid "Requested"
+msgstr ""
+
+msgid "Requested Items To Be Transferred"
+msgstr ""
+
+msgid "Requested Items to Order and Receive"
+msgstr ""
+
+msgid "Requested Qty"
+msgstr ""
+
+msgid "Requested Qty: Quantity requested for purchase, but not ordered."
+msgstr ""
+
+msgid "Requesting Site"
+msgstr ""
+
+msgid "Requestor"
+msgstr ""
+
+msgid "Required By"
+msgstr ""
+
+msgid "Required Date"
+msgstr ""
+
+msgid "Required Items"
+msgstr ""
+
+msgid "Required On"
+msgstr ""
+
+msgid "Required Qty"
+msgstr ""
+
+msgid "Required Quantity"
+msgstr ""
+
+msgid "Requirement"
+msgstr ""
+
+msgid "Requires Fulfilment"
+msgstr ""

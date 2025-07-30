@@ -1,0 +1,500 @@
+﻿msgid "No."
+msgstr "เลขที่"
+
+msgid "No. of Employees"
+msgstr "จำนวนพนักงาน"
+
+msgid "No. of parallel job cards which can be allowed on this workstation. Example: 2 would mean this workstation can process production for two Work Orders at a time."
+msgstr "จำนวนบัตรงานคู่ขนานที่สามารถอนุญาตบนสถานีงานนี้ ตัวอย่าง: 2 หมายความว่าสถานีงานนี้สามารถประมวลผลการผลิตสำหรับคำสั่งงานสองคำสั่งในเวลาเดียวกัน"
+
+msgid "Non Conformance"
+msgstr "ไม่สอดคล้อง"
+
+msgid "Non Depreciable Category"
+msgstr "หมวดหมู่ที่ไม่สามารถหักค่าเสื่อมราคาได้"
+
+msgid "Non Profit"
+msgstr "ไม่แสวงหากำไร"
+
+msgid "Non stock items"
+msgstr "รายการที่ไม่ใช่สต็อก"
+
+msgid "Non-Zeros"
+msgstr "ไม่เป็นศูนย์"
+
+msgid "None"
+msgstr "ไม่มี"
+
+msgid "None of the items have any change in quantity or value."
+msgstr "ไม่มีรายการใดที่มีการเปลี่ยนแปลงในปริมาณหรือมูลค่า"
+
+msgid "Nos"
+msgstr "จำนวน"
+
+msgid "Not Allowed"
+msgstr "ไม่อนุญาต"
+
+msgid "Not Applicable"
+msgstr "ไม่สามารถใช้ได้"
+
+msgid "Not Available"
+msgstr "ไม่พร้อมใช้งาน"
+
+msgid "Not Billed"
+msgstr "ไม่ได้เรียกเก็บเงิน"
+
+msgid "Not Delivered"
+msgstr "ไม่ได้ส่งมอบ"
+
+msgid "Not Initiated"
+msgstr "ไม่ได้เริ่มต้น"
+
+msgid "Not Permitted"
+msgstr "ไม่ได้รับอนุญาต"
+
+msgid "Not Requested"
+msgstr "ไม่ได้ร้องขอ"
+
+msgid "Not Specified"
+msgstr "ไม่ได้ระบุ"
+
+msgid "Not Started"
+msgstr "ยังไม่ได้เริ่ม"
+
+msgid "Not active"
+msgstr "ไม่ใช้งาน"
+
+msgid "Not allow to set alternative item for the item {0}"
+msgstr "ไม่อนุญาตให้ตั้งค่ารายการทางเลือกสำหรับรายการ {0}"
+
+msgid "Not allowed to create accounting dimension for {0}"
+msgstr "ไม่อนุญาตให้สร้างมิติการบัญชีสำหรับ {0}"
+
+msgid "Not allowed to update stock transactions older than {0}"
+msgstr "ไม่อนุญาตให้อัปเดตธุรกรรมสต็อกที่เก่ากว่า {0}"
+
+msgid "Not authorized since {0} exceeds limits"
+msgstr "ไม่ได้รับอนุญาตเนื่องจาก {0} เกินขีดจำกัด"
+
+msgid "Not authorized to edit frozen Account {0}"
+msgstr "ไม่ได้รับอนุญาตให้แก้ไขบัญชีที่ถูกแช่แข็ง {0}"
+
+msgid "Not in Stock"
+msgstr "ไม่มีในสต็อก"
+
+msgid "Not in stock"
+msgstr "ไม่มีในสต็อก"
+
+msgid "Not permitted"
+msgstr "ไม่ได้รับอนุญาต"
+
+msgid "Note"
+msgstr "หมายเหตุ"
+
+msgid "Note: Automatic log deletion only applies to logs of type <i>Update Cost</i>"
+msgstr "หมายเหตุ: การลบบันทึกอัตโนมัติใช้ได้เฉพาะกับบันทึกประเภท <i>Update Cost</i>"
+
+msgid "Note: Due Date exceeds allowed {0} credit days by {1} day(s)"
+msgstr "หมายเหตุ: วันที่ครบกำหนดเกินจำนวนวันเครดิตที่อนุญาต {0} โดย {1} วัน"
+
+msgid "Note: Email will not be sent to disabled users"
+msgstr "หมายเหตุ: จะไม่ส่งอีเมลไปยังผู้ใช้ที่ถูกปิดใช้งาน"
+
+msgid "Note: If you want to use the finished good {0} as a raw material, then enable the 'Do Not Explode' checkbox in the Items table against the same raw material."
+msgstr "หมายเหตุ: หากคุณต้องการใช้สินค้าสำเร็จรูป {0} เป็นวัตถุดิบ ให้เปิดใช้งานช่องทำเครื่องหมาย 'Do Not Explode' ในตารางรายการสำหรับวัตถุดิบเดียวกัน"
+
+msgid "Note: Item {0} added multiple times"
+msgstr "หมายเหตุ: เพิ่มรายการ {0} หลายครั้ง"
+
+msgid "Note: Payment Entry will not be created since 'Cash or Bank Account' was not specified"
+msgstr "หมายเหตุ: จะไม่สร้างรายการชำระเงินเนื่องจากไม่ได้ระบุ 'บัญชีเงินสดหรือธนาคาร'"
+
+msgid "Note: This Cost Center is a Group. Cannot make accounting entries against groups."
+msgstr "หมายเหตุ: ศูนย์ต้นทุนนี้เป็นกลุ่ม ไม่สามารถทำรายการบัญชีกับกลุ่มได้"
+
+msgid "Note: To merge the items, create a separate Stock Reconciliation for the old item {0}"
+msgstr "หมายเหตุ: เพื่อรวมรายการ ให้สร้างการกระทบยอดสต็อกแยกต่างหากสำหรับรายการเก่า {0}"
+
+msgid "Note: {0}"
+msgstr "หมายเหตุ: {0}"
+
+msgid "Notes"
+msgstr "บันทึก"
+
+msgid "Notes HTML"
+msgstr "บันทึก HTML"
+
+msgid "Notes: "
+msgstr ""
+
+msgid "Nothing is included in gross"
+msgstr "ไม่มีอะไรที่รวมอยู่ในยอดรวม"
+
+msgid "Nothing more to show."
+msgstr "ไม่มีอะไรเพิ่มเติมที่จะแสดง"
+
+msgid "Notice (days)"
+msgstr "ประกาศ (วัน)"
+
+msgid "Notification"
+msgstr "การแจ้งเตือน"
+
+msgid "Notification Settings"
+msgstr "การตั้งค่าการแจ้งเตือน"
+
+msgid "Notify Customers via Email"
+msgstr "แจ้งลูกค้าผ่านอีเมล"
+
+msgid "Notify Employee"
+msgstr "แจ้งพนักงาน"
+
+msgid "Notify Other"
+msgstr "แจ้งผู้อื่น"
+
+msgid "Notify Reposting Error to Role"
+msgstr "แจ้งข้อผิดพลาดการโพสต์ใหม่ไปยังบทบาท"
+
+msgid "Notify Supplier"
+msgstr "แจ้งผู้จัดจำหน่าย"
+
+msgid "Notify Via Email"
+msgstr "แจ้งผ่านอีเมล"
+
+msgid "Notify by Email on Creation of Automatic Material Request"
+msgstr "แจ้งผ่านอีเมลเมื่อสร้างคำขอวัสดุอัตโนมัติ"
+
+msgid "Notify customer and agent via email on the day of the appointment."
+msgstr "แจ้งลูกค้าและตัวแทนผ่านอีเมลในวันที่นัดหมาย"
+
+msgid "Number of Concurrent Appointments"
+msgstr "จำนวนการนัดหมายพร้อมกัน"
+
+msgid "Number of Days"
+msgstr "จำนวนวัน"
+
+msgid "Number of Interaction"
+msgstr "จำนวนการโต้ตอบ"
+
+msgid "Number of Order"
+msgstr "จำนวนคำสั่งซื้อ"
+
+msgid "Number of days after invoice date has elapsed before canceling subscription or marking subscription as unpaid"
+msgstr "จำนวนวันหลังจากวันที่ใบแจ้งหนี้ผ่านไปก่อนที่จะยกเลิกการสมัครหรือทำเครื่องหมายการสมัครเป็นยังไม่ได้ชำระ"
+
+msgid "Number of days appointments can be booked in advance"
+msgstr "จำนวนวันที่สามารถจองนัดหมายล่วงหน้าได้"
+
+msgid "Number of days that the subscriber has to pay invoices generated by this subscription"
+msgstr "จำนวนวันที่ผู้สมัครต้องชำระใบแจ้งหนี้ที่สร้างโดยการสมัครนี้"
+
+msgid "Number of intervals for the interval field e.g if Interval is 'Days' and Billing Interval Count is 3, invoices will be generated every 3 days"
+msgstr "จำนวนช่วงเวลาสำหรับฟิลด์ช่วงเวลา เช่น หากช่วงเวลาเป็น 'วัน' และจำนวนช่วงเวลาการเรียกเก็บเงินคือ 3 ใบแจ้งหนี้จะถูกสร้างทุก 3 วัน"
+
+msgid "Number of new Account, it will be included in the account name as a prefix"
+msgstr "จำนวนบัญชีใหม่ จะรวมอยู่ในชื่อบัญชีเป็นคำนำหน้า"
+
+msgid "Number of new Cost Center, it will be included in the cost center name as a prefix"
+msgstr "จำนวนศูนย์ต้นทุนใหม่ จะรวมอยู่ในชื่อศูนย์ต้นทุนเป็นคำนำหน้า"
+
+msgid "Numeric"
+msgstr "ตัวเลข"
+
+msgid "Numeric Inspection"
+msgstr "การตรวจสอบตัวเลข"
+
+msgid "Numeric Values"
+msgstr "ค่าตัวเลข"
+
+msgid "Numero has not set in the XML file"
+msgstr "ไม่ได้ตั้งค่า Numero ในไฟล์ XML"
+
+msgid "O+"
+msgstr ""
+
+msgid "O-"
+msgstr ""
+
+msgid "Objective"
+msgstr ""
+
+msgid "Objectives"
+msgstr ""
+
+msgid "Odometer Value (Last)"
+msgstr ""
+
+msgid "Off"
+msgstr ""
+
+msgid "Offer Date"
+msgstr "วันที่เสนอ"
+
+msgid "Office Equipment"
+msgstr "เครื่องใช้สำนักงาน"
+
+msgid "Office Maintenance Expenses"
+msgstr "ค่าบำรุงรักษาสำนักงาน"
+
+msgid "Office Rent"
+msgstr "ค่าเช่าสำนักงาน"
+
+msgid "Offsetting Account"
+msgstr ""
+
+msgid "Offsetting for Accounting Dimension"
+msgstr ""
+
+msgid "Old Parent"
+msgstr "หลักเดิม"
+
+msgid "Oldest Of Invoice Or Advance"
+msgstr ""
+
+msgid "On Hold"
+msgstr ""
+
+msgid "On Hold Since"
+msgstr ""
+
+msgid "On Item Quantity"
+msgstr ""
+
+msgid "On Net Total"
+msgstr ""
+
+msgid "On Paid Amount"
+msgstr ""
+
+msgid "On Previous Row Amount"
+msgstr ""
+
+msgid "On Previous Row Total"
+msgstr ""
+
+msgid "On This Date"
+msgstr ""
+
+msgid "On Track"
+msgstr ""
+
+msgid "On enabling this cancellation entries will be posted on the actual cancellation date and reports will consider cancelled entries as well"
+msgstr ""
+
+msgid "On expanding a row in the Items to Manufacture table, you'll see an option to 'Include Exploded Items'. Ticking this includes raw materials of the sub-assembly items in the production process."
+msgstr ""
+
+msgid "On submission of the stock transaction, system will auto create the Serial and Batch Bundle based on the Serial No / Batch fields."
+msgstr ""
+
+msgid "On-machine press checks"
+msgstr ""
+
+msgid "Once set, this invoice will be on hold till the set date"
+msgstr "เมื่อกำหนดแล้ว ใบแจ้งหนี้นี้จะถูกระงับจนถึงวันที่กำหนด"
+
+msgid "Once the Work Order is Closed. It can't be resumed."
+msgstr "เมื่อคำสั่งงานถูกปิดแล้ว จะไม่สามารถดำเนินการต่อได้"
+
+msgid "One customer can be part of only single Loyalty Program."
+msgstr "ลูกค้าหนึ่งรายสามารถเป็นส่วนหนึ่งของโปรแกรมสะสมคะแนนได้เพียงโปรแกรมเดียว"
+
+msgid "Ongoing Job Cards"
+msgstr "บัตรงานที่กำลังดำเนินการ"
+
+msgid "Online Auctions"
+msgstr ""
+
+msgid "Only 'Payment Entries' made against this advance account are supported."
+msgstr "รองรับเฉพาะ 'รายการชำระเงิน' ที่ทำกับบัญชีล่วงหน้านี้"
+
+msgid "Only CSV and Excel files can be used to for importing data. Please check the file format you are trying to upload"
+msgstr "สามารถใช้เฉพาะไฟล์ CSV และ Excel สำหรับการนำเข้าข้อมูล โปรดตรวจสอบรูปแบบไฟล์ที่คุณพยายามอัปโหลด"
+
+msgid "Only Deduct Tax On Excess Amount "
+msgstr ""
+
+msgid "Only Include Allocated Payments"
+msgstr "รวมเฉพาะการชำระเงินที่จัดสรรแล้ว"
+
+msgid "Only Parent can be of type {0}"
+msgstr "เฉพาะผู้ปกครองเท่านั้นที่สามารถเป็นประเภท {0}"
+
+msgid "Only Value available for Payment Entry"
+msgstr "มีเฉพาะค่าเท่านั้นสำหรับรายการชำระเงิน"
+
+msgid "Only applies for Normal Payments"
+msgstr "ใช้ได้เฉพาะกับการชำระเงินปกติ"
+
+msgid "Only existing assets"
+msgstr "เฉพาะสินทรัพย์ที่มีอยู่"
+
+msgid "Only leaf nodes are allowed in transaction"
+msgstr "อนุญาตเฉพาะโหนดใบในธุรกรรม"
+
+msgid "Only one {0} entry can be created against the Work Order {1}"
+msgstr "สามารถสร้างรายการ {0} ได้เพียงรายการเดียวต่อคำสั่งงาน {1}"
+
+msgid "Only show Customer of these Customer Groups"
+msgstr "แสดงเฉพาะลูกค้าของกลุ่มลูกค้าเหล่านี้"
+
+msgid "Only show Items from these Item Groups"
+msgstr "แสดงเฉพาะรายการจากกลุ่มรายการเหล่านี้"
+
+msgid "Only values between [0,1) are allowed. Like {0.00, 0.04, 0.09, ...}\n"
+"Ex: If allowance is set at 0.07, accounts that have balance of 0.07 in either of the currencies will be considered as zero balance account"
+msgstr ""
+
+msgid "Only {0} are supported"
+msgstr "รองรับเฉพาะ {0}"
+
+msgid "Open"
+msgstr ""
+
+msgid "Open Activities HTML"
+msgstr ""
+
+msgid "Open BOM {0}"
+msgstr ""
+
+msgid "Open Call Log"
+msgstr ""
+
+msgid "Open Contact"
+msgstr ""
+
+msgid "Open Event"
+msgstr ""
+
+msgid "Open Events"
+msgstr ""
+
+msgid "Open Form View"
+msgstr ""
+
+msgid "Open Issues"
+msgstr ""
+
+msgid "Open Issues "
+msgstr ""
+
+msgid "Open Item {0}"
+msgstr ""
+
+msgid "Open Notifications"
+msgstr ""
+
+msgid "Open Projects"
+msgstr ""
+
+msgid "Open Projects "
+msgstr ""
+
+msgid "Open Quotations"
+msgstr ""
+
+msgid "Open Sales Orders"
+msgstr ""
+
+msgid "Open Task"
+msgstr ""
+
+msgid "Open Tasks"
+msgstr ""
+
+msgid "Open To Do"
+msgstr ""
+
+msgid "Open To Do "
+msgstr ""
+
+msgid "Open Work Order {0}"
+msgstr ""
+
+msgid "Open Work Orders"
+msgstr ""
+
+msgid "Open a new ticket"
+msgstr ""
+
+msgid "Opening"
+msgstr ""
+
+msgid "Opening & Closing"
+msgstr ""
+
+msgid "Opening (Cr)"
+msgstr ""
+
+msgid "Opening (Dr)"
+msgstr ""
+
+msgid "Opening Accumulated Depreciation"
+msgstr ""
+
+msgid "Opening Amount"
+msgstr ""
+
+msgid "Opening Balance"
+msgstr ""
+
+msgid "Opening Balance Details"
+msgstr ""
+
+msgid "Opening Balance Equity"
+msgstr ""
+
+msgid "Opening Date"
+msgstr ""
+
+msgid "Opening Entry"
+msgstr ""
+
+msgid "Opening Entry can not be created after Period Closing Voucher is created."
+msgstr ""
+
+msgid "Opening Invoice Creation In Progress"
+msgstr ""
+
+msgid "Opening Invoice Creation Tool"
+msgstr ""
+
+msgid "Opening Invoice Creation Tool Item"
+msgstr ""
+
+msgid "Opening Invoice Item"
+msgstr ""
+
+msgid "Opening Invoice has rounding adjustment of {0}.<br><br> '{1}' account is required to post these values. Please set it in Company: {2}.<br><br> Or, '{3}' can be enabled to not post any rounding adjustment."
+msgstr ""
+
+msgid "Opening Invoices"
+msgstr ""
+
+msgid "Opening Invoices Summary"
+msgstr ""
+
+msgid "Opening Number of Booked Depreciations"
+msgstr ""
+
+msgid "Opening Purchase Invoices have been created."
+msgstr ""
+
+msgid "Opening Qty"
+msgstr ""
+
+msgid "Opening Sales Invoices have been created."
+msgstr ""
+
+msgid "Opening Stock"
+msgstr ""
+
+msgid "Opening Time"
+msgstr ""
+
+msgid "Opening Value"
+msgstr ""
+
+msgid "Opening and Closing"
+msgstr ""
+
+msgid "Operating Cost"

@@ -1,0 +1,500 @@
+﻿msgstr "ระบบจะสร้างหมายเลขซีเรียล/แบทช์สำหรับสินค้าสำเร็จรูปโดยอัตโนมัติเมื่อส่งคำสั่งงาน"
+
+msgid "System will do an implicit conversion using the pegged currency. <br>\n"
+"Ex: Instead of AED -&gt; INR, system will do AED -&gt; USD -&gt; INR using the pegged exchange rate of AED against USD."
+msgstr ""
+
+msgid "System will fetch all the entries if limit value is zero."
+msgstr "ระบบจะดึงรายการทั้งหมดหากค่าขีดจำกัดเป็นศูนย์"
+
+msgid "System will not check over billing since amount for Item {0} in {1} is zero"
+msgstr "ระบบจะไม่ตรวจสอบการเรียกเก็บเงินเกินเนื่องจากจำนวนเงินสำหรับรายการ {0} ใน {1} เป็นศูนย์"
+
+msgid "System will notify to increase or decrease quantity or amount "
+msgstr ""
+
+msgid "TCS Amount"
+msgstr ""
+
+msgid "TCS Rate %"
+msgstr ""
+
+msgid "TDS Amount"
+msgstr ""
+
+msgid "TDS Computation Summary"
+msgstr ""
+
+msgid "TDS Deducted"
+msgstr ""
+
+msgid "TDS Payable"
+msgstr "ภาษีหัก ณ ที่จ่าย"
+
+msgid "TDS Rate %"
+msgstr ""
+
+msgid "Table for Item that will be shown in Web Site"
+msgstr ""
+
+msgid "Tablespoon (US)"
+msgstr ""
+
+msgid "Tag"
+msgstr ""
+
+msgid "Target"
+msgstr ""
+
+msgid "Target  Amount"
+msgstr ""
+
+msgid "Target ({})"
+msgstr ""
+
+msgid "Target Asset"
+msgstr ""
+
+msgid "Target Asset {0} cannot be cancelled"
+msgstr ""
+
+msgid "Target Asset {0} cannot be submitted"
+msgstr ""
+
+msgid "Target Asset {0} cannot be {1}"
+msgstr ""
+
+msgid "Target Asset {0} does not belong to company {1}"
+msgstr ""
+
+msgid "Target Asset {0} needs to be composite asset"
+msgstr ""
+
+msgid "Target Batch No"
+msgstr ""
+
+msgid "Target Detail"
+msgstr ""
+
+msgid "Target Details"
+msgstr ""
+
+msgid "Target Distribution"
+msgstr ""
+
+msgid "Target Exchange Rate"
+msgstr ""
+
+msgid "Target Fieldname (Stock Ledger Entry)"
+msgstr ""
+
+msgid "Target Fixed Asset Account"
+msgstr ""
+
+msgid "Target Has Batch No"
+msgstr ""
+
+msgid "Target Has Serial No"
+msgstr ""
+
+msgid "Target Incoming Rate"
+msgstr ""
+
+msgid "Target Is Fixed Asset"
+msgstr ""
+
+msgid "Target Item Code"
+msgstr ""
+
+msgid "Target Item {0} must be a Fixed Asset item"
+msgstr ""
+
+msgid "Target Location"
+msgstr ""
+
+msgid "Target Location is required for transferring Asset {0}"
+msgstr ""
+
+msgid "Target Location is required while receiving Asset {0}"
+msgstr ""
+
+msgid "Target On"
+msgstr ""
+
+msgid "Target Qty"
+msgstr ""
+
+msgid "Target Qty must be a positive number"
+msgstr ""
+
+msgid "Target Serial No"
+msgstr ""
+
+msgid "Target Warehouse"
+msgstr ""
+
+msgid "Target Warehouse Address"
+msgstr ""
+
+msgid "Target Warehouse Address Link"
+msgstr ""
+
+msgid "Target Warehouse Reservation Error"
+msgstr ""
+
+msgid "Target Warehouse is required before Submit"
+msgstr ""
+
+msgid "Target Warehouse is set for some items but the customer is not an internal customer."
+msgstr ""
+
+msgid "Target warehouse is mandatory for row {0}"
+msgstr ""
+
+msgid "Targets"
+msgstr ""
+
+msgid "Tariff Number"
+msgstr ""
+
+msgid "Task"
+msgstr ""
+
+msgid "Task Assignee Email"
+msgstr ""
+
+msgid "Task Completion"
+msgstr ""
+
+msgid "Task Depends On"
+msgstr ""
+
+msgid "Task Description"
+msgstr ""
+
+msgid "Task Name"
+msgstr ""
+
+msgid "Task Progress"
+msgstr ""
+
+msgid "Task Type"
+msgstr ""
+
+msgid "Task Weight"
+msgstr "น้ำหนักงาน"
+
+msgid "Task {0} depends on Task {1}. Please add Task {1} to the Tasks list."
+msgstr ""
+
+msgid "Tasks"
+msgstr ""
+
+msgid "Tasks Completed"
+msgstr ""
+
+msgid "Tasks Overdue"
+msgstr ""
+
+msgid "Tax"
+msgstr ""
+
+msgid "Tax Account"
+msgstr ""
+
+msgid "Tax Amount"
+msgstr ""
+
+msgid "Tax Amount After Discount Amount"
+msgstr ""
+
+msgid "Tax Amount After Discount Amount (Company Currency)"
+msgstr ""
+
+msgid "Tax Amount will be rounded on a row(items) level"
+msgstr ""
+
+msgid "Tax Assets"
+msgstr "สินทรัพย์ภาษี"
+
+msgid "Tax Breakup"
+msgstr ""
+
+msgid "Tax Category"
+msgstr ""
+
+msgid "Tax Category has been changed to \"Total\" because all the Items are non-stock items"
+msgstr ""
+
+msgid "Tax ID"
+msgstr ""
+
+msgid "Tax Id"
+msgstr ""
+
+msgid "Tax Id: "
+msgstr ""
+
+msgid "Tax Id: {0}"
+msgstr ""
+
+msgid "Tax Masters"
+msgstr ""
+
+msgid "Tax Rate"
+msgstr ""
+
+msgid "Tax Rates"
+msgstr ""
+
+msgid "Tax Refunds provided to Tourists under the Tax Refunds for Tourists Scheme"
+msgstr ""
+
+msgid "Tax Rule"
+msgstr ""
+
+msgid "Tax Rule Conflicts with {0}"
+msgstr ""
+
+msgid "Tax Settings"
+msgstr ""
+
+msgid "Tax Template is mandatory."
+msgstr ""
+
+msgid "Tax Total"
+msgstr ""
+
+msgid "Tax Type"
+msgstr ""
+
+msgid "Tax Withheld Vouchers"
+msgstr ""
+
+msgid "Tax Withholding"
+msgstr ""
+
+msgid "Tax Withholding Account"
+msgstr ""
+
+msgid "Tax Withholding Category"
+msgstr ""
+
+msgid "Tax Withholding Category {} against Company {} for Customer {} should have Cumulative Threshold value."
+msgstr ""
+
+msgid "Tax Withholding Details"
+msgstr ""
+
+msgid "Tax Withholding Net Total"
+msgstr ""
+
+msgid "Tax Withholding Rate"
+msgstr ""
+
+msgid "Tax Withholding Rates"
+msgstr ""
+
+msgid "Tax detail table fetched from item master as a string and stored in this field.\n"
+"Used for Taxes and Charges"
+msgstr ""
+
+msgid "Tax will be withheld only for amount exceeding the cumulative threshold"
+msgstr ""
+
+msgid "Taxable Amount"
+msgstr ""
+
+msgid "Taxes"
+msgstr ""
+
+msgid "Taxes and Charges"
+msgstr ""
+
+msgid "Taxes and Charges Added"
+msgstr ""
+
+msgid "Taxes and Charges Added (Company Currency)"
+msgstr ""
+
+msgid "Taxes and Charges Calculation"
+msgstr ""
+
+msgid "Taxes and Charges Deducted"
+msgstr ""
+
+msgid "Taxes and Charges Deducted (Company Currency)"
+msgstr ""
+
+msgid "Taxes row #{0}: {1} cannot be smaller than {2}"
+msgstr ""
+
+msgid "Team"
+msgstr ""
+
+msgid "Team Member"
+msgstr ""
+
+msgid "Teaspoon"
+msgstr ""
+
+msgid "Technical Atmosphere"
+msgstr ""
+
+msgid "Technology"
+msgstr ""
+
+msgid "Telecommunications"
+msgstr ""
+
+msgid "Telephone Expenses"
+msgstr "ค่าโทรศัพท์"
+
+msgid "Telephony Call Type"
+msgstr ""
+
+msgid "Television"
+msgstr ""
+
+msgid "Template"
+msgstr ""
+
+msgid "Template Item"
+msgstr ""
+
+msgid "Template Item Selected"
+msgstr ""
+
+msgid "Template Name"
+msgstr "ชื่อแม่แบบ"
+
+msgid "Template Options"
+msgstr ""
+
+msgid "Template Task"
+msgstr ""
+
+msgid "Template Title"
+msgstr ""
+
+msgid "Template Warnings"
+msgstr ""
+
+msgid "Temporarily on Hold"
+msgstr ""
+
+msgid "Temporary"
+msgstr "ชั่วคราว"
+
+msgid "Temporary Accounts"
+msgstr "บัญชีชั่วคราว"
+
+msgid "Temporary Opening"
+msgstr "เปิดชั่วคราว"
+
+msgid "Temporary Opening Account"
+msgstr "บัญชีเปิดชั่วคราว"
+
+msgid "Term Details"
+msgstr "รายละเอียดเงื่อนไข"
+
+msgid "Terms"
+msgstr "เงื่อนไข"
+
+msgid "Terms & Conditions"
+msgstr "ข้อกำหนดและเงื่อนไข"
+
+msgid "Terms Template"
+msgstr "แม่แบบเงื่อนไข"
+
+msgid "Terms and Conditions"
+msgstr "ข้อกำหนดและเงื่อนไข"
+
+msgid "Terms and Conditions Content"
+msgstr "เนื้อหาข้อกำหนดและเงื่อนไข"
+
+msgid "Terms and Conditions Details"
+msgstr "รายละเอียดข้อกำหนดและเงื่อนไข"
+
+msgid "Terms and Conditions Help"
+msgstr "ช่วยเหลือข้อกำหนดและเงื่อนไข"
+
+msgid "Terms and Conditions Template"
+msgstr ""
+
+msgid "Territory"
+msgstr "เขตแดน"
+
+msgid "Territory Item"
+msgstr "รายการเขตแดน"
+
+msgid "Territory Manager"
+msgstr "ผู้จัดการเขตแดน"
+
+msgid "Territory Name"
+msgstr "ชื่อเขตแดน"
+
+msgid "Territory Target Variance Based On Item Group"
+msgstr "ความแปรปรวนเป้าหมายเขตแดนตามกลุ่มรายการ"
+
+msgid "Territory Targets"
+msgstr "เป้าหมายเขตแดน"
+
+msgid "Territory Wise Sales"
+msgstr ""
+
+msgid "Territory-wise Sales"
+msgstr "การขายตามเขตแดน"
+
+msgid "Tesla"
+msgstr ""
+
+msgid "The 'From Package No.' field must neither be empty nor it's value less than 1."
+msgstr ""
+
+msgid "The Access to Request for Quotation From Portal is Disabled. To Allow Access, Enable it in Portal Settings."
+msgstr ""
+
+msgid "The BOM which will be replaced"
+msgstr ""
+
+msgid "The Batch {0} has negative quantity {1} in warehouse {2}. Please correct the quantity."
+msgstr ""
+
+msgid "The Campaign '{0}' already exists for the {1} '{2}'"
+msgstr ""
+
+msgid "The Condition '{0}' is invalid"
+msgstr ""
+
+msgid "The Document Type {0} must have a Status field to configure Service Level Agreement"
+msgstr ""
+
+msgid "The GL Entries and closing balances will be processed in the background, it can take a few minutes."
+msgstr ""
+
+msgid "The GL Entries will be cancelled in the background, it can take a few minutes."
+msgstr ""
+
+msgid "The Loyalty Program isn't valid for the selected company"
+msgstr ""
+
+msgid "The Payment Request {0} is already paid, cannot process payment twice"
+msgstr ""
+
+msgid "The Payment Term at row {0} is possibly a duplicate."
+msgstr ""
+
+msgid "The Pick List having Stock Reservation Entries cannot be updated. If you need to make changes, we recommend canceling the existing Stock Reservation Entries before updating the Pick List."
+msgstr ""
+
+msgid "The Process Loss Qty has reset as per job cards Process Loss Qty"
+msgstr ""
+
+msgid "The Sales Person is linked with {0}"
+msgstr ""
+
+msgid "The Serial No at Row #{0}: {1} is not available in warehouse {2}."
+msgstr ""
+
+msgid "The Serial No {0} is reserved against the {1} {2} and cannot be used for any other transaction."

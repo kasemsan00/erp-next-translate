@@ -1,0 +1,500 @@
+﻿
+msgid "Acre"
+msgstr ""
+
+msgid "Acre (US)"
+msgstr ""
+
+msgid "Action"
+msgstr ""
+
+msgid "Action If Quality Inspection Is Not Submitted"
+msgstr ""
+
+msgid "Action If Quality Inspection Is Rejected"
+msgstr ""
+
+msgid "Action If Same Rate is Not Maintained"
+msgstr ""
+
+msgid "Action Initialised"
+msgstr ""
+
+msgid "Action if Accumulated Monthly Budget Exceeded on Actual"
+msgstr ""
+
+msgid "Action if Accumulated Monthly Budget Exceeded on MR"
+msgstr ""
+
+msgid "Action if Accumulated Monthly Budget Exceeded on PO"
+msgstr ""
+
+msgid "Action if Accumulative Monthly Budget Exceeded on Cumulative Expense"
+msgstr ""
+
+msgid "Action if Annual Budget Exceeded on Actual"
+msgstr ""
+
+msgid "Action if Annual Budget Exceeded on MR"
+msgstr ""
+
+msgid "Action if Annual Budget Exceeded on PO"
+msgstr ""
+
+msgid "Action if Anual Budget Exceeded on Cumulative Expense"
+msgstr ""
+
+msgid "Action if Same Rate is Not Maintained Throughout  Internal Transaction"
+msgstr ""
+
+msgid "Action if Same Rate is Not Maintained Throughout Sales Cycle"
+msgstr ""
+
+msgid "Action on New Invoice"
+msgstr ""
+
+msgid "Actions"
+msgstr ""
+
+msgid "Actions performed"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Active Leads"
+msgstr ""
+
+msgid "Active Status"
+msgstr ""
+
+msgid "Activities"
+msgstr "กิจกรรม"
+
+msgid "Activity"
+msgstr ""
+
+msgid "Activity Cost"
+msgstr ""
+
+msgid "Activity Cost exists for Employee {0} against Activity Type - {1}"
+msgstr ""
+
+msgid "Activity Cost per Employee"
+msgstr ""
+
+msgid "Activity Type"
+msgstr ""
+
+msgid "Actual"
+msgstr ""
+
+msgid "Actual Balance Qty"
+msgstr ""
+
+msgid "Actual Batch Quantity"
+msgstr ""
+
+msgid "Actual Cost"
+msgstr ""
+
+msgid "Actual Date"
+msgstr ""
+
+msgid "Actual Delivery Date"
+msgstr ""
+
+msgid "Actual End Date"
+msgstr ""
+
+msgid "Actual End Date (via Timesheet)"
+msgstr ""
+
+msgid "Actual End Date cannot be before Actual Start Date"
+msgstr ""
+
+msgid "Actual End Time"
+msgstr ""
+
+msgid "Actual Expense"
+msgstr ""
+
+msgid "Actual Operating Cost"
+msgstr ""
+
+msgid "Actual Operation Time"
+msgstr ""
+
+msgid "Actual Posting"
+msgstr ""
+
+msgid "Actual Qty"
+msgstr ""
+
+msgid "Actual Qty (at source/target)"
+msgstr ""
+
+msgid "Actual Qty in Warehouse"
+msgstr ""
+
+msgid "Actual Qty is mandatory"
+msgstr ""
+
+msgid "Actual Qty {0} / Waiting Qty {1}"
+msgstr ""
+
+msgid "Actual Qty: Quantity available in the warehouse."
+msgstr ""
+
+msgid "Actual Quantity"
+msgstr ""
+
+msgid "Actual Start Date"
+msgstr ""
+
+msgid "Actual Start Date (via Timesheet)"
+msgstr ""
+
+msgid "Actual Start Time"
+msgstr ""
+
+msgid "Actual Time"
+msgstr ""
+
+msgid "Actual Time and Cost"
+msgstr ""
+
+msgid "Actual Time in Hours (via Timesheet)"
+msgstr ""
+
+msgid "Actual qty in stock"
+msgstr ""
+
+msgid "Actual type tax cannot be included in Item rate in row {0}"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Add / Edit Prices"
+msgstr ""
+
+msgid "Add Child"
+msgstr ""
+
+msgid "Add Columns in Transaction Currency"
+msgstr ""
+
+msgid "Add Comment"
+msgstr ""
+
+msgid "Add Corrective Operation Cost in Finished Good Valuation"
+msgstr ""
+
+msgid "Add Customers"
+msgstr ""
+
+msgid "Add Discount"
+msgstr ""
+
+msgid "Add Employees"
+msgstr ""
+
+msgid "Add Item"
+msgstr ""
+
+msgid "Add Items"
+msgstr ""
+
+msgid "Add Items in the Purpose Table"
+msgstr ""
+
+msgid "Add Lead to Prospect"
+msgstr ""
+
+msgid "Add Leads"
+msgstr ""
+
+msgid "Add Local Holidays"
+msgstr ""
+
+msgid "Add Manually"
+msgstr ""
+
+msgid "Add Multiple"
+msgstr ""
+
+msgid "Add Multiple Tasks"
+msgstr ""
+
+msgid "Add Or Deduct"
+msgstr ""
+
+msgid "Add Order Discount"
+msgstr ""
+
+msgid "Add Participants"
+msgstr ""
+
+msgid "Add Quote"
+msgstr ""
+
+msgid "Add Raw Materials"
+msgstr ""
+
+msgid "Add Sales Partners"
+msgstr ""
+
+msgid "Add Serial / Batch Bundle"
+msgstr ""
+
+msgid "Add Serial / Batch No"
+msgstr ""
+
+msgid "Add Serial / Batch No (Rejected Qty)"
+msgstr ""
+
+msgid "Add Stock"
+msgstr ""
+
+msgid "Add Sub Assembly"
+msgstr ""
+
+msgid "Add Suppliers"
+msgstr ""
+
+msgid "Add Template"
+msgstr ""
+
+msgid "Add Timesheets"
+msgstr ""
+
+msgid "Add Weekly Holidays"
+msgstr ""
+
+msgid "Add a Note"
+msgstr ""
+
+msgid "Add details"
+msgstr ""
+
+msgid "Add items in the Item Locations table"
+msgstr ""
+
+msgid "Add or Deduct"
+msgstr ""
+
+msgid "Add the rest of your organization as your users. You can also add invite Customers to your portal by adding them from Contacts"
+msgstr ""
+
+msgid "Add to Holidays"
+msgstr ""
+
+msgid "Add to Prospect"
+msgstr ""
+
+msgid "Add to Transit"
+msgstr ""
+
+msgid "Add {0}"
+msgstr ""
+
+msgid "Add/Edit Coupon Conditions"
+msgstr ""
+
+msgid "Added By"
+msgstr ""
+
+msgid "Added On"
+msgstr "เพิ่มเมื่อ"
+
+msgid "Added Supplier Role to User {0}."
+msgstr ""
+
+msgid "Added {0} ({1})"
+msgstr ""
+
+msgid "Added {1} Role to User {0}."
+msgstr ""
+
+msgid "Adding Lead to Prospect..."
+msgstr ""
+
+msgid "Additional"
+msgstr ""
+
+msgid "Additional Asset Cost"
+msgstr ""
+
+msgid "Additional Cost"
+msgstr ""
+
+msgid "Additional Cost Per Qty"
+msgstr ""
+
+msgid "Additional Costs"
+msgstr ""
+
+msgid "Additional Data"
+msgstr ""
+
+msgid "Additional Details"
+msgstr ""
+
+msgid "Additional Discount"
+msgstr ""
+
+msgid "Additional Discount Amount"
+msgstr ""
+
+msgid "Additional Discount Amount (Company Currency)"
+msgstr ""
+
+msgid "Additional Discount Percentage"
+msgstr ""
+
+msgid "Additional Info"
+msgstr ""
+
+msgid "Additional Information"
+msgstr ""
+
+msgid "Additional Information updated successfully."
+msgstr ""
+
+msgid "Additional Notes"
+msgstr ""
+
+msgid "Additional Operating Cost"
+msgstr ""
+
+msgid "Additional information regarding the customer."
+msgstr ""
+
+msgid "Address"
+msgstr ""
+
+msgid "Address & Contact"
+msgstr ""
+
+msgid "Address & Contacts"
+msgstr ""
+
+msgid "Address And Contacts"
+msgstr ""
+
+msgid "Address Desc"
+msgstr ""
+
+msgid "Address HTML"
+msgstr ""
+
+msgid "Address Line 1"
+msgstr ""
+
+msgid "Address Line 2"
+msgstr ""
+
+msgid "Address Name"
+msgstr ""
+
+msgid "Address and Contact"
+msgstr ""
+
+msgid "Address and Contacts"
+msgstr ""
+
+msgid "Address needs to be linked to a Company. Please add a row for Company in the Links table."
+msgstr ""
+
+msgid "Address used to determine Tax Category in transactions"
+msgstr ""
+
+msgid "Adjust Asset Value"
+msgstr ""
+
+msgid "Adjustment Against"
+msgstr ""
+
+msgid "Adjustment based on Purchase Invoice rate"
+msgstr ""
+
+msgid "Administrative Assistant"
+msgstr ""
+
+msgid "Administrative Expenses"
+msgstr "ค่าใช้จ่ายในการบริหาร"
+
+msgid "Administrative Officer"
+msgstr ""
+
+msgid "Administrator"
+msgstr ""
+
+msgid "Advance Account"
+msgstr "บัญชีเงินทดรอง"
+
+msgid "Advance Account: {0} must be in either customer billing currency: {1} or Company default currency: {2}"
+msgstr ""
+
+msgid "Advance Amount"
+msgstr ""
+
+msgid "Advance Paid"
+msgstr "จ่ายเงินทดรองแล้ว"
+
+msgid "Advance Payment"
+msgstr ""
+
+msgid "Advance Payment Date"
+msgstr ""
+
+msgid "Advance Payment Ledger Entry"
+msgstr ""
+
+msgid "Advance Payment Status"
+msgstr ""
+
+msgid "Advance Payments"
+msgstr ""
+
+msgid "Advance Tax"
+msgstr ""
+
+msgid "Advance Taxes and Charges"
+msgstr ""
+
+msgid "Advance amount"
+msgstr ""
+
+msgid "Advance amount cannot be greater than {0} {1}"
+msgstr ""
+
+msgid "Advance paid against {0} {1} cannot be greater than Grand Total {2}"
+msgstr ""
+
+msgid "Advance payments allocated against orders will only be fetched"
+msgstr ""
+
+msgid "Advanced Settings"
+msgstr ""
+
+msgid "Advances"
+msgstr "เงินทดรอง"
+
+msgid "Advertisement"
+msgstr ""
+
+msgid "Advertising"
+msgstr ""
+
+msgid "Aerospace"
+msgstr ""
+
+msgid "Affected Transactions"
+msgstr ""
+
+msgid "Against"
+msgstr ""
+
+msgid "Against Account"

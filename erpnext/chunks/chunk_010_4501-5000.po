@@ -1,0 +1,500 @@
+﻿msgstr ""
+
+msgid "Caution"
+msgstr ""
+
+msgid "Caution: This might alter frozen accounts."
+msgstr ""
+
+msgid "Cellphone Number"
+msgstr ""
+
+msgid "Celsius"
+msgstr ""
+
+msgid "Cental"
+msgstr ""
+
+msgid "Centiarea"
+msgstr ""
+
+msgid "Centigram/Litre"
+msgstr ""
+
+msgid "Centilitre"
+msgstr ""
+
+msgid "Centimeter"
+msgstr ""
+
+msgid "Certificate"
+msgstr ""
+
+msgid "Certificate Details"
+msgstr ""
+
+msgid "Certificate Limit"
+msgstr ""
+
+msgid "Certificate No"
+msgstr ""
+
+msgid "Certificate Required"
+msgstr ""
+
+msgid "Chain"
+msgstr ""
+
+msgid "Change Amount"
+msgstr ""
+
+msgid "Change Release Date"
+msgstr ""
+
+msgid "Change in Stock Value"
+msgstr ""
+
+msgid "Change the account type to Receivable or select a different account."
+msgstr ""
+
+msgid "Change this date manually to setup the next synchronization start date"
+msgstr ""
+
+msgid "Changed customer name to '{}' as '{}' already exists."
+msgstr ""
+
+msgid "Changes"
+msgstr ""
+
+msgid "Changes in {0}"
+msgstr ""
+
+msgid "Changing Customer Group for the selected Customer is not allowed."
+msgstr ""
+
+msgid "Changing the valuation method to Moving Average will affect new transactions. If backdated entries are added, earlier FIFO-based entries will be reposted, which may change closing balances."
+msgstr ""
+
+msgid "Channel Partner"
+msgstr ""
+
+msgid "Charge of type 'Actual' in row {0} cannot be included in Item Rate or Paid Amount"
+msgstr ""
+
+msgid "Chargeable"
+msgstr ""
+
+msgid "Charges Incurred"
+msgstr ""
+
+msgid "Charges are updated in Purchase Receipt against each item"
+msgstr ""
+
+msgid "Charges will be distributed proportionately based on item qty or amount, as per your selection"
+msgstr ""
+
+msgid "Chart"
+msgstr ""
+
+msgid "Chart Of Accounts"
+msgstr "ผังบัญชี"
+
+msgid "Chart Of Accounts Template"
+msgstr "เทมเพลตผังบัญชี"
+
+msgid "Chart Preview"
+msgstr "ผังตัวอย่าง"
+
+msgid "Chart Tree"
+msgstr "โครงสร้างของผัง"
+
+msgid "Chart of Accounts"
+msgstr "ผังบัญชี"
+
+msgid "Chart of Accounts Importer"
+msgstr "ตัวนำเข้าผังบัญชี"
+
+msgid "Chart of Cost Centers"
+msgstr "ผังศูยน์ต้นทุน"
+
+msgid "Charts Based On"
+msgstr ""
+
+msgid "Chassis No"
+msgstr ""
+
+msgid "Chat"
+msgstr ""
+
+msgid "Check Supplier Invoice Number Uniqueness"
+msgstr ""
+
+msgid "Check if it is a hydroponic unit"
+msgstr ""
+
+msgid "Check if material transfer entry is not required"
+msgstr ""
+
+msgid "Check in (group)"
+msgstr ""
+
+msgid "Check this to disallow fractions. (for Nos)"
+msgstr ""
+
+msgid "Checked On"
+msgstr ""
+
+msgid "Checking this will round off the tax amount to the nearest integer"
+msgstr ""
+
+msgid "Checkout"
+msgstr ""
+
+msgid "Checkout Order / Submit Order / New Order"
+msgstr ""
+
+msgid "Chemical"
+msgstr ""
+
+msgid "Cheque"
+msgstr ""
+
+msgid "Cheque Date"
+msgstr ""
+
+msgid "Cheque Height"
+msgstr ""
+
+msgid "Cheque Number"
+msgstr ""
+
+msgid "Cheque Print Template"
+msgstr ""
+
+msgid "Cheque Size"
+msgstr ""
+
+msgid "Cheque Width"
+msgstr ""
+
+msgid "Cheque/Reference Date"
+msgstr ""
+
+msgid "Cheque/Reference No"
+msgstr ""
+
+msgid "Cheques Required"
+msgstr ""
+
+msgid "Cheques and Deposits Incorrectly cleared"
+msgstr ""
+
+msgid "Cheques and Deposits incorrectly cleared"
+msgstr ""
+
+msgid "Chief Executive Officer"
+msgstr ""
+
+msgid "Chief Financial Officer"
+msgstr ""
+
+msgid "Chief Operating Officer"
+msgstr ""
+
+msgid "Chief Technology Officer"
+msgstr ""
+
+msgid "Child Docname"
+msgstr ""
+
+msgid "Child Row Reference"
+msgstr ""
+
+msgid "Child Task exists for this Task. You can not delete this Task."
+msgstr ""
+
+msgid "Child nodes can be only created under 'Group' type nodes"
+msgstr ""
+
+msgid "Child warehouse exists for this warehouse. You can not delete this warehouse."
+msgstr ""
+
+msgid "Circular Reference Error"
+msgstr ""
+
+msgid "City"
+msgstr ""
+
+msgid "Class / Percentage"
+msgstr ""
+
+msgid "Classification of Customers by region"
+msgstr ""
+
+msgid "Clauses and Conditions"
+msgstr ""
+
+msgid "Clear Demo Data"
+msgstr ""
+
+msgid "Clear Notifications"
+msgstr ""
+
+msgid "Clear Table"
+msgstr ""
+
+msgid "Clearance Date"
+msgstr ""
+
+msgid "Clearance Date not mentioned"
+msgstr ""
+
+msgid "Clearance Date updated"
+msgstr ""
+
+msgid "Clearing Demo Data..."
+msgstr ""
+
+msgid "Click on 'Get Finished Goods for Manufacture' to fetch the items from the above Sales Orders. Items only for which a BOM is present will be fetched."
+msgstr ""
+
+msgid "Click on Add to Holidays. This will populate the holidays table with all the dates that fall on the selected weekly off. Repeat the process for populating the dates for all your weekly holidays"
+msgstr ""
+
+msgid "Click on Get Sales Orders to fetch sales orders based on the above filters."
+msgstr ""
+
+msgid "Click on Import Invoices button once the zip file has been attached to the document. Any errors related to processing will be shown in the Error Log."
+msgstr ""
+
+msgid "Click on the link below to verify your email and confirm the appointment"
+msgstr ""
+
+msgid "Click to add email / phone"
+msgstr ""
+
+msgid "Client"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Close Issue After Days"
+msgstr ""
+
+msgid "Close Loan"
+msgstr ""
+
+msgid "Close Replied Opportunity After Days"
+msgstr ""
+
+msgid "Close the POS"
+msgstr ""
+
+msgid "Closed"
+msgstr ""
+
+msgid "Closed Document"
+msgstr ""
+
+msgid "Closed Documents"
+msgstr ""
+
+msgid "Closed Work Order can not be stopped or Re-opened"
+msgstr ""
+
+msgid "Closed order cannot be cancelled. Unclose to cancel."
+msgstr ""
+
+msgid "Closing"
+msgstr ""
+
+msgid "Closing (Cr)"
+msgstr ""
+
+msgid "Closing (Dr)"
+msgstr ""
+
+msgid "Closing (Opening + Total)"
+msgstr ""
+
+msgid "Closing Account Head"
+msgstr ""
+
+msgid "Closing Account {0} must be of type Liability / Equity"
+msgstr ""
+
+msgid "Closing Amount"
+msgstr ""
+
+msgid "Closing Balance"
+msgstr ""
+
+msgid "Closing Balance as per Bank Statement"
+msgstr ""
+
+msgid "Closing Balance as per ERP"
+msgstr ""
+
+msgid "Closing Date"
+msgstr ""
+
+msgid "Closing Text"
+msgstr ""
+
+msgid "Closing [Opening + Total] "
+msgstr ""
+
+msgid "Code"
+msgstr ""
+
+msgid "Code List"
+msgstr ""
+
+msgid "Cold Calling"
+msgstr ""
+
+msgid "Collapse All"
+msgstr ""
+
+msgid "Collect Outstanding Amount"
+msgstr ""
+
+msgid "Collect Progress"
+msgstr ""
+
+msgid "Collection Factor (=1 LP)"
+msgstr ""
+
+msgid "Collection Rules"
+msgstr ""
+
+msgid "Collection Tier"
+msgstr ""
+
+msgid "Color"
+msgstr ""
+
+msgid "Colour"
+msgstr ""
+
+msgid "Column in Bank File"
+msgstr ""
+
+msgid "Column {0}"
+msgstr ""
+
+msgid "Columns are not according to template. Please compare the uploaded file with standard template"
+msgstr "แนวตั้งไม่ตรงตามเทมเพลต กรุณาเปรียบเทียบไฟล์ที่อัปโหลดกับเทมเพลตมาตรฐาน"
+
+msgid "Combined invoice portion must equal 100%"
+msgstr ""
+
+msgid "Comments"
+msgstr ""
+
+msgid "Commercial"
+msgstr ""
+
+msgid "Commission"
+msgstr ""
+
+msgid "Commission Rate"
+msgstr ""
+
+msgid "Commission Rate %"
+msgstr ""
+
+msgid "Commission Rate (%)"
+msgstr ""
+
+msgid "Commission on Sales"
+msgstr "ค่านายหน้า"
+
+msgid "Common Code"
+msgstr ""
+
+msgid "Communication"
+msgstr ""
+
+msgid "Communication Channel"
+msgstr ""
+
+msgid "Communication Medium"
+msgstr ""
+
+msgid "Communication Medium Timeslot"
+msgstr ""
+
+msgid "Communication Medium Type"
+msgstr ""
+
+msgid "Compact Item Print"
+msgstr ""
+
+msgid "Companies"
+msgstr ""
+
+msgid "Company"
+msgstr "บริษัท"
+
+msgid "Company Abbreviation"
+msgstr ""
+
+msgid "Company Abbreviation cannot have more than 5 characters"
+msgstr ""
+
+msgid "Company Account"
+msgstr ""
+
+msgid "Company Address"
+msgstr ""
+
+msgid "Company Address Display"
+msgstr ""
+
+msgid "Company Address Name"
+msgstr ""
+
+msgid "Company Bank Account"
+msgstr ""
+
+msgid "Company Billing Address"
+msgstr ""
+
+msgid "Company Contact Person"
+msgstr ""
+
+msgid "Company Description"
+msgstr ""
+
+msgid "Company Details"
+msgstr "รายละเอียดบริษัท"
+
+msgid "Company Email"
+msgstr ""
+
+msgid "Company Logo"
+msgstr ""
+
+msgid "Company Name"
+msgstr ""
+
+msgid "Company Name cannot be Company"
+msgstr ""
+
+msgid "Company Not Linked"
+msgstr ""
+
+msgid "Company Shipping Address"
+msgstr ""
+
+msgid "Company Tax ID"
+msgstr ""
+
+msgid "Company and Posting Date is mandatory"
+msgstr ""
+
+msgid "Company currencies of both the companies should match for Inter Company Transactions."
+msgstr ""
+

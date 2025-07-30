@@ -1,0 +1,500 @@
+﻿
+msgid "Cable Length (US)"
+msgstr ""
+
+msgid "Calculate Ageing With"
+msgstr "คำนวณอายุด้วย"
+
+msgid "Calculate Based On"
+msgstr "คำนวณตาม"
+
+msgid "Calculate Depreciation"
+msgstr "คำนวณค่าเสื่อมราคา"
+
+msgid "Calculate Estimated Arrival Times"
+msgstr "คำนวณเวลามาถึงโดยประมาณ"
+
+msgid "Calculate Product Bundle Price based on Child Items' Rates"
+msgstr "คำนวณราคาชุดผลิตภัณฑ์ตามอัตราของรายการย่อย"
+
+msgid "Calculate daily depreciation using total days in depreciation period"
+msgstr "คำนวณค่าเสื่อมรายวันโดยใช้จำนวนวันทั้งหมดในช่วงค่าเสื่อม"
+
+msgid "Calculated Bank Statement balance"
+msgstr "ยอดคงเหลือในใบแจ้งยอดธนาคารที่คำนวณแล้ว"
+
+msgid "Calculated Discount Mismatch"
+msgstr ""
+
+msgid "Calculations"
+msgstr "การคำนวณ"
+
+msgid "Calendar Event"
+msgstr "เหตุการณ์ในปฏิทิน"
+
+msgid "Calibration"
+msgstr "การสอบเทียบ"
+
+msgid "Calibre"
+msgstr ""
+
+msgid "Call Again"
+msgstr "โทรอีกครั้ง"
+
+msgid "Call Connected"
+msgstr "โทรเชื่อมต่อแล้ว"
+
+msgid "Call Details"
+msgstr "รายละเอียดการโทร"
+
+msgid "Call Duration in seconds"
+msgstr "ระยะเวลาการโทรเป็นวินาที"
+
+msgid "Call Ended"
+msgstr "การโทรสิ้นสุด"
+
+msgid "Call Handling Schedule"
+msgstr "ตารางการจัดการการโทร"
+
+msgid "Call Log"
+msgstr "บันทึกการโทร"
+
+msgid "Call Missed"
+msgstr "พลาดการโทร"
+
+msgid "Call Received By"
+msgstr "การโทรได้รับโดย"
+
+msgid "Call Receiving Device"
+msgstr "อุปกรณ์รับสาย"
+
+msgid "Call Routing"
+msgstr "การกำหนดเส้นทางการโทร"
+
+msgid "Call Schedule Row {0}: To time slot should always be ahead of From time slot."
+msgstr "แถวตารางการโทร {0}: ช่วงเวลาถึงควรอยู่หลังช่วงเวลาจากเสมอ"
+
+msgid "Call Summary"
+msgstr "สรุปการโทร"
+
+msgid "Call Summary Saved"
+msgstr "บันทึกสรุปการโทรแล้ว"
+
+msgid "Call Type"
+msgstr "ประเภทการโทร"
+
+msgid "Callback"
+msgstr "การเรียกกลับ"
+
+msgid "Calorie (Food)"
+msgstr ""
+
+msgid "Calorie (It)"
+msgstr ""
+
+msgid "Calorie (Mean)"
+msgstr ""
+
+msgid "Calorie (Th)"
+msgstr ""
+
+msgid "Calorie/Seconds"
+msgstr ""
+
+msgid "Campaign"
+msgstr "แคมเปญ"
+
+msgid "Campaign Efficiency"
+msgstr "ประสิทธิภาพของแคมเปญ"
+
+msgid "Campaign Email Schedule"
+msgstr "ตารางอีเมลแคมเปญ"
+
+msgid "Campaign Item"
+msgstr "รายการแคมเปญ"
+
+msgid "Campaign Name"
+msgstr "ชื่อแคมเปญ"
+
+msgid "Campaign Naming By"
+msgstr "การตั้งชื่อแคมเปญโดย"
+
+msgid "Campaign Schedules"
+msgstr "ตารางแคมเปญ"
+
+msgid "Can be approved by {0}"
+msgstr ""
+
+msgid "Can not close Work Order. Since {0} Job Cards are in Work In Progress state."
+msgstr ""
+
+msgid "Can not filter based on Cashier, if grouped by Cashier"
+msgstr ""
+
+msgid "Can not filter based on Child Account, if grouped by Account"
+msgstr ""
+
+msgid "Can not filter based on Customer, if grouped by Customer"
+msgstr ""
+
+msgid "Can not filter based on POS Profile, if grouped by POS Profile"
+msgstr ""
+
+msgid "Can not filter based on Payment Method, if grouped by Payment Method"
+msgstr ""
+
+msgid "Can not filter based on Voucher No, if grouped by Voucher"
+msgstr ""
+
+msgid "Can only make payment against unbilled {0}"
+msgstr ""
+
+msgid "Can refer row only if the charge type is 'On Previous Row Amount' or 'Previous Row Total'"
+msgstr ""
+
+msgid "Can't change the valuation method, as there are transactions against some items which do not have its own valuation method"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Cancel At End Of Period"
+msgstr ""
+
+msgid "Cancel Material Visit {0} before cancelling this Warranty Claim"
+msgstr ""
+
+msgid "Cancel Material Visits {0} before cancelling this Maintenance Visit"
+msgstr ""
+
+msgid "Cancel Subscription"
+msgstr ""
+
+msgid "Cancel Subscription After Grace Period"
+msgstr ""
+
+msgid "Cancelation Date"
+msgstr ""
+
+msgid "Canceled"
+msgstr ""
+
+msgid "Cancelled"
+msgstr ""
+
+msgid "Cannot Assign Cashier"
+msgstr ""
+
+msgid "Cannot Calculate Arrival Time as Driver Address is Missing."
+msgstr ""
+
+msgid "Cannot Create Return"
+msgstr ""
+
+msgid "Cannot Merge"
+msgstr ""
+
+msgid "Cannot Optimize Route as Driver Address is Missing."
+msgstr ""
+
+msgid "Cannot Relieve Employee"
+msgstr ""
+
+msgid "Cannot Resubmit Ledger entries for vouchers in Closed fiscal year."
+msgstr ""
+
+msgid "Cannot amend {0} {1}, please create a new one instead."
+msgstr ""
+
+msgid "Cannot apply TDS against multiple parties in one entry"
+msgstr ""
+
+msgid "Cannot be a fixed asset item as Stock Ledger is created."
+msgstr ""
+
+msgid "Cannot cancel POS Closing Entry"
+msgstr ""
+
+msgid "Cannot cancel as processing of cancelled documents is pending."
+msgstr ""
+
+msgid "Cannot cancel because submitted Stock Entry {0} exists"
+msgstr ""
+
+msgid "Cannot cancel the transaction. Reposting of item valuation on submission is not completed yet."
+msgstr ""
+
+msgid "Cannot cancel this document as it is linked with the submitted asset {asset_link}. Please cancel the asset to continue."
+msgstr ""
+
+msgid "Cannot cancel transaction for Completed Work Order."
+msgstr ""
+
+msgid "Cannot change Attributes after stock transaction. Make a new Item and transfer stock to the new Item"
+msgstr ""
+
+msgid "Cannot change Fiscal Year Start Date and Fiscal Year End Date once the Fiscal Year is saved."
+msgstr ""
+
+msgid "Cannot change Reference Document Type."
+msgstr ""
+
+msgid "Cannot change Service Stop Date for item in row {0}"
+msgstr ""
+
+msgid "Cannot change Variant properties after stock transaction. You will have to make a new Item to do this."
+msgstr ""
+
+msgid "Cannot change company's default currency, because there are existing transactions. Transactions must be cancelled to change the default currency."
+msgstr ""
+
+msgid "Cannot complete task {0} as its dependant task {1} are not completed / cancelled."
+msgstr ""
+
+msgid "Cannot convert Cost Center to ledger as it has child nodes"
+msgstr ""
+
+msgid "Cannot convert Task to non-group because the following child Tasks exist: {0}."
+msgstr ""
+
+msgid "Cannot convert to Group because Account Type is selected."
+msgstr ""
+
+msgid "Cannot covert to Group because Account Type is selected."
+msgstr ""
+
+msgid "Cannot create Stock Reservation Entries for future dated Purchase Receipts."
+msgstr ""
+
+msgid "Cannot create a pick list for Sales Order {0} because it has reserved stock. Please unreserve the stock in order to create a pick list."
+msgstr ""
+
+msgid "Cannot create accounting entries against disabled accounts: {0}"
+msgstr ""
+
+msgid "Cannot create return for consolidated invoice {0}."
+msgstr ""
+
+msgid "Cannot create root account."
+msgstr ""
+
+msgid "Cannot deactivate or cancel BOM as it is linked with other BOMs"
+msgstr ""
+
+msgid "Cannot declare as lost, because Quotation has been made."
+msgstr ""
+
+msgid "Cannot deduct when category is for 'Valuation' or 'Valuation and Total'"
+msgstr ""
+
+msgid "Cannot delete Exchange Gain/Loss row"
+msgstr ""
+
+msgid "Cannot delete Serial No {0}, as it is used in stock transactions"
+msgstr ""
+
+msgid "Cannot disassemble more than produced quantity."
+msgstr ""
+
+msgid "Cannot enqueue multi docs for one company. {0} is already queued/running for company: {1}"
+msgstr ""
+
+msgid "Cannot ensure delivery by Serial No as Item {0} is added with and without Ensure Delivery by Serial No."
+msgstr ""
+
+msgid "Cannot find Item with this Barcode"
+msgstr ""
+
+msgid "Cannot find a default warehouse for item {0}. Please set one in the Item Master or in Stock Settings."
+msgstr ""
+
+msgid "Cannot make any transactions until the deletion job is completed"
+msgstr ""
+
+msgid "Cannot produce more Item {0} than Sales Order quantity {1}"
+msgstr ""
+
+msgid "Cannot produce more item for {0}"
+msgstr ""
+
+msgid "Cannot produce more than {0} items for {1}"
+msgstr ""
+
+msgid "Cannot receive from customer against negative outstanding"
+msgstr ""
+
+msgid "Cannot refer row number greater than or equal to current row number for this Charge type"
+msgstr ""
+
+msgid "Cannot retrieve link token for update. Check Error Log for more information"
+msgstr ""
+
+msgid "Cannot retrieve link token. Check Error Log for more information"
+msgstr ""
+
+msgid "Cannot select charge type as 'On Previous Row Amount' or 'On Previous Row Total' for first row"
+msgstr ""
+
+msgid "Cannot set as Lost as Sales Order is made."
+msgstr ""
+
+msgid "Cannot set authorization on basis of Discount for {0}"
+msgstr ""
+
+msgid "Cannot set multiple Item Defaults for a company."
+msgstr ""
+
+msgid "Cannot set quantity less than delivered quantity"
+msgstr ""
+
+msgid "Cannot set quantity less than received quantity"
+msgstr ""
+
+msgid "Cannot set the field <b>{0}</b> for copying in variants"
+msgstr ""
+
+msgid "Cannot {0} from {1} without any negative outstanding invoice"
+msgstr ""
+
+msgid "Canonical URI"
+msgstr ""
+
+msgid "Capacity"
+msgstr ""
+
+msgid "Capacity (Stock UOM)"
+msgstr ""
+
+msgid "Capacity Planning"
+msgstr ""
+
+msgid "Capacity Planning Error, planned start time can not be same as end time"
+msgstr ""
+
+msgid "Capacity Planning For (Days)"
+msgstr ""
+
+msgid "Capacity in Stock UOM"
+msgstr ""
+
+msgid "Capacity must be greater than 0"
+msgstr ""
+
+msgid "Capital Equipment"
+msgstr "เครื่องจักร"
+
+msgid "Capital Stock"
+msgstr "ทุนเรือนหุ้น"
+
+msgid "Capital Work In Progress Account"
+msgstr ""
+
+msgid "Capital Work in Progress"
+msgstr ""
+
+msgid "Capitalize Asset"
+msgstr ""
+
+msgid "Capitalize Repair Cost"
+msgstr ""
+
+msgid "Capitalized"
+msgstr ""
+
+msgid "Carat"
+msgstr ""
+
+msgid "Carriage Paid To"
+msgstr ""
+
+msgid "Carriage and Insurance Paid to"
+msgstr ""
+
+msgid "Carrier"
+msgstr ""
+
+msgid "Carrier Service"
+msgstr ""
+
+msgid "Carry Forward Communication and Comments"
+msgstr ""
+
+msgid "Cash"
+msgstr "เงินสด"
+
+msgid "Cash Entry"
+msgstr ""
+
+msgid "Cash Flow"
+msgstr ""
+
+msgid "Cash Flow Statement"
+msgstr ""
+
+msgid "Cash Flow from Financing"
+msgstr ""
+
+msgid "Cash Flow from Investing"
+msgstr ""
+
+msgid "Cash Flow from Operations"
+msgstr ""
+
+msgid "Cash In Hand"
+msgstr "เงินสดในมือ"
+
+msgid "Cash or Bank Account is mandatory for making payment entry"
+msgstr ""
+
+msgid "Cash/Bank Account"
+msgstr ""
+
+msgid "Cashier"
+msgstr ""
+
+msgid "Cashier Closing"
+msgstr ""
+
+msgid "Cashier Closing Payments"
+msgstr ""
+
+msgid "Cashier is currently assigned to another POS."
+msgstr ""
+
+msgid "Catch All"
+msgstr ""
+
+msgid "Categorize By"
+msgstr ""
+
+msgid "Categorize by"
+msgstr ""
+
+msgid "Categorize by Account"
+msgstr ""
+
+msgid "Categorize by Item"
+msgstr ""
+
+msgid "Categorize by Party"
+msgstr ""
+
+msgid "Categorize by Supplier"
+msgstr ""
+
+msgid "Categorize by Voucher"
+msgstr ""
+
+msgid "Categorize by Voucher (Consolidated)"
+msgstr ""
+
+msgid "Category"
+msgstr ""
+
+msgid "Category Details"
+msgstr ""
+
+msgid "Category Name"
+msgstr ""
+
+msgid "Category-wise Asset Value"

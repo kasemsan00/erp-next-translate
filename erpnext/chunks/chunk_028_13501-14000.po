@@ -1,0 +1,500 @@
+﻿msgstr "สถานที่ที่ตั้งชื่อ"
+
+msgid "Naming Series"
+msgstr "ชุดการตั้งชื่อ"
+
+msgid "Naming Series Prefix"
+msgstr "คำนำหน้าชุดการตั้งชื่อ"
+
+msgid "Naming Series and Price Defaults"
+msgstr "ชุดการตั้งชื่อและค่าเริ่มต้นราคา"
+
+msgid "Naming Series is mandatory"
+msgstr "ชุดการตั้งชื่อเป็นสิ่งจำเป็น"
+
+msgid "Nanocoulomb"
+msgstr ""
+
+msgid "Nanogram/Litre"
+msgstr ""
+
+msgid "Nanohertz"
+msgstr ""
+
+msgid "Nanometer"
+msgstr ""
+
+msgid "Nanosecond"
+msgstr ""
+
+msgid "Natural Gas"
+msgstr "ก๊าซธรรมชาติ"
+
+msgid "Needs Analysis"
+msgstr "การวิเคราะห์ความต้องการ"
+
+msgid "Negative Batch Quantity"
+msgstr "ปริมาณแบทช์ติดลบ"
+
+msgid "Negative Quantity is not allowed"
+msgstr "ไม่อนุญาตให้มีปริมาณติดลบ"
+
+msgid "Negative Valuation Rate is not allowed"
+msgstr "ไม่อนุญาตให้อัตราการประเมินมูลค่าติดลบ"
+
+msgid "Negotiation/Review"
+msgstr "การเจรจา/การตรวจสอบ"
+
+msgid "Net Amount"
+msgstr "จำนวนเงินสุทธิ"
+
+msgid "Net Amount (Company Currency)"
+msgstr "จำนวนเงินสุทธิ (สกุลเงินบริษัท)"
+
+msgid "Net Asset value as on"
+msgstr "มูลค่าสินทรัพย์สุทธิตามวันที่"
+
+msgid "Net Cash from Financing"
+msgstr "เงินสดสุทธิจากการจัดหาเงินทุน"
+
+msgid "Net Cash from Investing"
+msgstr "เงินสดสุทธิจากการลงทุน"
+
+msgid "Net Cash from Operations"
+msgstr "เงินสดสุทธิจากการดำเนินงาน"
+
+msgid "Net Change in Accounts Payable"
+msgstr "การเปลี่ยนแปลงสุทธิในบัญชีเจ้าหนี้"
+
+msgid "Net Change in Accounts Receivable"
+msgstr "การเปลี่ยนแปลงสุทธิในบัญชีลูกหนี้"
+
+msgid "Net Change in Cash"
+msgstr "การเปลี่ยนแปลงสุทธิในเงินสด"
+
+msgid "Net Change in Equity"
+msgstr "การเปลี่ยนแปลงสุทธิในส่วนของผู้ถือหุ้น"
+
+msgid "Net Change in Fixed Asset"
+msgstr "การเปลี่ยนแปลงสุทธิในสินทรัพย์ถาวร"
+
+msgid "Net Change in Inventory"
+msgstr "การเปลี่ยนแปลงสุทธิในสินค้าคงคลัง"
+
+msgid "Net Hour Rate"
+msgstr "อัตราต่อชั่วโมงสุทธิ"
+
+msgid "Net Profit"
+msgstr "กำไรสุทธิ"
+
+msgid "Net Profit/Loss"
+msgstr "กำไร/ขาดทุนสุทธิ"
+
+msgid "Net Purchase Amount"
+msgstr "จำนวนเงินซื้อสุทธิ"
+
+msgid "Net Rate"
+msgstr "อัตราสุทธิ"
+
+msgid "Net Rate (Company Currency)"
+msgstr "อัตราสุทธิ (สกุลเงินบริษัท)"
+
+msgid "Net Total"
+msgstr "ยอดรวมสุทธิ"
+
+msgid "Net Total (Company Currency)"
+msgstr "ยอดรวมสุทธิ (สกุลเงินบริษัท)"
+
+msgid "Net Weight"
+msgstr "น้ำหนักสุทธิ"
+
+msgid "Net Weight UOM"
+msgstr "หน่วยวัดน้ำหนักสุทธิ"
+
+msgid "Net total calculation precision loss"
+msgstr "การสูญเสียความแม่นยำในการคำนวณยอดรวมสุทธิ"
+
+msgid "New"
+msgstr "ใหม่"
+
+msgid "New Account Name"
+msgstr "ชื่อบัญชีใหม่"
+
+msgid "New Asset Value"
+msgstr "มูลค่าสินทรัพย์ใหม่"
+
+msgid "New Assets (This Year)"
+msgstr "สินทรัพย์ใหม่ (ปีนี้)"
+
+msgid "New BOM"
+msgstr "BOM ใหม่"
+
+msgid "New Balance In Account Currency"
+msgstr "ยอดคงเหลือใหม่ในสกุลเงินบัญชี"
+
+msgid "New Balance In Base Currency"
+msgstr "ยอดคงเหลือใหม่ในสกุลเงินฐาน"
+
+msgid "New Batch ID (Optional)"
+msgstr "รหัสแบทช์ใหม่ (ไม่บังคับ)"
+
+msgid "New Batch Qty"
+msgstr "ปริมาณแบทช์ใหม่"
+
+msgid "New Company"
+msgstr "บริษัทใหม่"
+
+msgid "New Cost Center Name"
+msgstr "ชื่อศูนย์ต้นทุนใหม่"
+
+msgid "New Customer Revenue"
+msgstr "รายได้ลูกค้าใหม่"
+
+msgid "New Customers"
+msgstr "ลูกค้าใหม่"
+
+msgid "New Department"
+msgstr "แผนกใหม่"
+
+msgid "New Employee"
+msgstr "พนักงานใหม่"
+
+msgid "New Event"
+msgstr "เหตุการณ์ใหม่"
+
+msgid "New Exchange Rate"
+msgstr "อัตราแลกเปลี่ยนใหม่"
+
+msgid "New Expenses"
+msgstr "ค่าใช้จ่ายใหม่"
+
+msgid "New Income"
+msgstr "รายได้ใหม่"
+
+msgid "New Invoice"
+msgstr "ใบแจ้งหนี้ใหม่"
+
+msgid "New Location"
+msgstr "ตำแหน่งใหม่"
+
+msgid "New Note"
+msgstr "บันทึกใหม่"
+
+msgid "New Purchase Invoice"
+msgstr "ใบแจ้งหนี้ซื้อใหม่"
+
+msgid "New Purchase Orders"
+msgstr "ใบสั่งซื้อใหม่"
+
+msgid "New Quality Procedure"
+msgstr "ขั้นตอนคุณภาพใหม่"
+
+msgid "New Quotations"
+msgstr "ใบเสนอราคาใหม่"
+
+msgid "New Sales Invoice"
+msgstr "ใบแจ้งหนี้ขายใหม่"
+
+msgid "New Sales Orders"
+msgstr "ใบสั่งขายใหม่"
+
+msgid "New Sales Person Name"
+msgstr "ชื่อพนักงานขายใหม่"
+
+msgid "New Serial No cannot have Warehouse. Warehouse must be set by Stock Entry or Purchase Receipt"
+msgstr "หมายเลขซีเรียลใหม่ไม่สามารถมีคลังสินค้าได้ คลังสินค้าต้องตั้งค่าโดยการบันทึกสต็อกหรือใบรับซื้อ"
+
+msgid "New Task"
+msgstr "งานใหม่"
+
+msgid "New Version"
+msgstr "เวอร์ชันใหม่"
+
+msgid "New Warehouse Name"
+msgstr "ชื่อคลังสินค้าใหม่"
+
+msgid "New Workplace"
+msgstr "สถานที่ทำงานใหม่"
+
+msgid "New credit limit is less than current outstanding amount for the customer. Credit limit has to be atleast {0}"
+msgstr "วงเงินเครดิตใหม่ต่ำกว่ายอดค้างชำระปัจจุบันสำหรับลูกค้า วงเงินเครดิตต้องไม่น้อยกว่า {0}"
+
+msgid "New fiscal year created :- "
+msgstr ""
+
+msgid "New invoices will be generated as per schedule even if current invoices are unpaid or past due date"
+msgstr "ใบแจ้งหนี้ใหม่จะถูกสร้างตามกำหนดการแม้ว่าใบแจ้งหนี้ปัจจุบันจะยังไม่ได้ชำระหรือเกินกำหนดชำระ"
+
+msgid "New release date should be in the future"
+msgstr "วันที่เผยแพร่ใหม่ควรอยู่ในอนาคต"
+
+msgid "New task"
+msgstr "งานใหม่"
+
+msgid "New {0} pricing rules are created"
+msgstr "สร้างกฎการกำหนดราคา {0} ใหม่"
+
+msgid "Newsletter"
+msgstr "จดหมายข่าว"
+
+msgid "Newspaper Publishers"
+msgstr ""
+
+msgid "Newton"
+msgstr ""
+
+msgid "Next"
+msgstr "ถัดไป"
+
+msgid "Next Depreciation Date"
+msgstr "วันที่ค่าเสื่อมราคาถัดไป"
+
+msgid "Next Due Date"
+msgstr "วันที่ครบกำหนดถัดไป"
+
+msgid "Next email will be sent on:"
+msgstr "อีเมลถัดไปจะถูกส่งใน:"
+
+msgid "No"
+msgstr ""
+
+msgid "No Account matched these filters: {}"
+msgstr ""
+
+msgid "No Action"
+msgstr ""
+
+msgid "No Answer"
+msgstr ""
+
+msgid "No Customer found for Inter Company Transactions which represents company {0}"
+msgstr ""
+
+msgid "No Customers found with selected options."
+msgstr ""
+
+msgid "No Data"
+msgstr ""
+
+msgid "No Delivery Note selected for Customer {}"
+msgstr ""
+
+msgid "No Impact on Accounting Ledger"
+msgstr ""
+
+msgid "No Item with Barcode {0}"
+msgstr ""
+
+msgid "No Item with Serial No {0}"
+msgstr ""
+
+msgid "No Items selected for transfer."
+msgstr ""
+
+msgid "No Items with Bill of Materials to Manufacture"
+msgstr ""
+
+msgid "No Items with Bill of Materials."
+msgstr ""
+
+msgid "No Matching Bank Transactions Found"
+msgstr ""
+
+msgid "No Notes"
+msgstr ""
+
+msgid "No Outstanding Invoices found for this party"
+msgstr ""
+
+msgid "No POS Profile found. Please create a New POS Profile first"
+msgstr ""
+
+msgid "No Permission"
+msgstr ""
+
+msgid "No Purchase Orders were created"
+msgstr ""
+
+msgid "No Records for these settings."
+msgstr ""
+
+msgid "No Remarks"
+msgstr ""
+
+msgid "No Selection"
+msgstr ""
+
+msgid "No Serial / Batches are available for return"
+msgstr ""
+
+msgid "No Stock Available Currently"
+msgstr ""
+
+msgid "No Summary"
+msgstr ""
+
+msgid "No Supplier found for Inter Company Transactions which represents company {0}"
+msgstr ""
+
+msgid "No Tax Withholding data found for the current posting date."
+msgstr ""
+
+msgid "No Terms"
+msgstr ""
+
+msgid "No Unreconciled Invoices and Payments found for this party and account"
+msgstr ""
+
+msgid "No Unreconciled Payments found for this party"
+msgstr ""
+
+msgid "No Work Orders were created"
+msgstr ""
+
+msgid "No accounting entries for the following warehouses"
+msgstr ""
+
+msgid "No active BOM found for item {0}. Delivery by Serial No cannot be ensured"
+msgstr ""
+
+msgid "No additional fields available"
+msgstr ""
+
+msgid "No billing email found for customer: {0}"
+msgstr ""
+
+msgid "No contacts with email IDs found."
+msgstr ""
+
+msgid "No data for this period"
+msgstr ""
+
+msgid "No data found. Seems like you uploaded a blank file"
+msgstr "ไม่พบข้อมูล. ดูเหมือนว่าคุณอัปโหลดไฟล์เปล่า"
+
+msgid "No data to export"
+msgstr ""
+
+msgid "No description given"
+msgstr ""
+
+msgid "No difference found for stock account {0}"
+msgstr ""
+
+msgid "No employee was scheduled for call popup"
+msgstr "ไม่มีพนักงานที่ถูกกำหนดเวลาให้แสดงป๊อปอัปการโทร"
+
+msgid "No failed logs"
+msgstr "ไม่มีบันทึกที่ล้มเหลว"
+
+msgid "No item available for transfer."
+msgstr "ไม่มีรายการที่พร้อมสำหรับการโอน"
+
+msgid "No items are available in sales orders {0} for production"
+msgstr "ไม่มีรายการในคำสั่งขาย {0} สำหรับการผลิต"
+
+msgid "No items are available in the sales order {0} for production"
+msgstr "ไม่มีรายการในคำสั่งขาย {0} สำหรับการผลิต"
+
+msgid "No items found. Scan barcode again."
+msgstr "ไม่พบรายการ สแกนบาร์โค้ดอีกครั้ง"
+
+msgid "No items in cart"
+msgstr "ไม่มีรายการในรถเข็น"
+
+msgid "No items to be received are overdue"
+msgstr "ไม่มีรายการที่จะได้รับที่เกินกำหนด"
+
+msgid "No matches occurred via auto reconciliation"
+msgstr "ไม่มีการจับคู่ที่เกิดขึ้นผ่านการกระทบยอดอัตโนมัติ"
+
+msgid "No material request created"
+msgstr "ไม่มีการสร้างคำขอวัสดุ"
+
+msgid "No more children on Left"
+msgstr "ไม่มีลูกเพิ่มเติมทางซ้าย"
+
+msgid "No more children on Right"
+msgstr "ไม่มีลูกเพิ่มเติมทางขวา"
+
+msgid "No of Docs"
+msgstr "จำนวนเอกสาร"
+
+msgid "No of Employees"
+msgstr "จำนวนพนักงาน"
+
+msgid "No of Interactions"
+msgstr "จำนวนการโต้ตอบ"
+
+msgid "No of Months (Expense)"
+msgstr "จำนวนเดือน (ค่าใช้จ่าย)"
+
+msgid "No of Months (Revenue)"
+msgstr "จำนวนเดือน (รายได้)"
+
+msgid "No of Shares"
+msgstr "จำนวนการแชร์"
+
+msgid "No of Visits"
+msgstr "จำนวนการเยี่ยมชม"
+
+msgid "No open POS Opening Entry found for POS Profile {0}."
+msgstr "ไม่พบรายการเปิด POS ที่เปิดอยู่สำหรับโปรไฟล์ POS {0}"
+
+msgid "No open event"
+msgstr "ไม่มีเหตุการณ์ที่เปิดอยู่"
+
+msgid "No open task"
+msgstr "ไม่มีงานที่เปิดอยู่"
+
+msgid "No outstanding invoices found"
+msgstr "ไม่พบใบแจ้งหนี้ที่ค้างชำระ"
+
+msgid "No outstanding invoices require exchange rate revaluation"
+msgstr "ไม่มีใบแจ้งหนี้ที่ค้างชำระที่ต้องการการประเมินค่าอัตราแลกเปลี่ยนใหม่"
+
+msgid "No outstanding {0} found for the {1} {2} which qualify the filters you have specified."
+msgstr "ไม่พบ {0} ที่ค้างชำระสำหรับ {1} {2} ที่ตรงตามตัวกรองที่คุณระบุ"
+
+msgid "No pending Material Requests found to link for the given items."
+msgstr "ไม่พบคำขอวัสดุที่ค้างอยู่เพื่อเชื่อมโยงกับรายการที่ให้มา"
+
+msgid "No primary email found for customer: {0}"
+msgstr "ไม่พบอีเมลหลักสำหรับลูกค้า: {0}"
+
+msgid "No products found."
+msgstr "ไม่พบผลิตภัณฑ์"
+
+msgid "No recent transactions found"
+msgstr "ไม่พบธุรกรรมล่าสุด"
+
+msgid "No record found"
+msgstr "ไม่พบบันทึก"
+
+msgid "No records found in Allocation table"
+msgstr "ไม่พบบันทึกในตารางการจัดสรร"
+
+msgid "No records found in the Invoices table"
+msgstr "ไม่พบบันทึกในตารางใบแจ้งหนี้"
+
+msgid "No records found in the Payments table"
+msgstr "ไม่พบบันทึกในตารางการชำระเงิน"
+
+msgid "No reserved stock to unreserve."
+msgstr "ไม่มีสต็อกที่จองไว้เพื่อยกเลิกการจอง"
+
+msgid "No stock ledger entries were created. Please set the quantity or valuation rate for the items properly and try again."
+msgstr "ไม่มีการสร้างรายการบัญชีแยกประเภทสต็อก โปรดตั้งค่าปริมาณหรืออัตราการประเมินมูลค่าสำหรับรายการอย่างถูกต้องและลองอีกครั้ง"
+
+msgid "No stock transactions can be created or modified before this date."
+msgstr "ไม่สามารถสร้างหรือแก้ไขธุรกรรมสต็อกก่อนวันที่นี้ได้"
+
+msgid "No values"
+msgstr "ไม่มีค่า"
+
+msgid "No {0} Accounts found for this company."
+msgstr "ไม่พบบัญชี {0} สำหรับบริษัทนี้"
+
+msgid "No {0} found for Inter Company Transactions."
+msgstr "ไม่พบ {0} สำหรับธุรกรรมระหว่างบริษัท"
+

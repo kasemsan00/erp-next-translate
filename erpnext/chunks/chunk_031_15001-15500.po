@@ -1,0 +1,500 @@
+﻿msgid "POS Profile User"
+msgstr "ผู้ใช้โปรไฟล์ POS"
+
+msgid "POS Profile doesn't match {}"
+msgstr "โปรไฟล์ POS ไม่ตรงกับ {}"
+
+msgid "POS Profile is mandatory to mark this invoice as POS Transaction."
+msgstr "โปรไฟล์ POS เป็นสิ่งจำเป็นในการทำเครื่องหมายใบแจ้งหนี้นี้เป็นธุรกรรม POS"
+
+msgid "POS Profile required to make POS Entry"
+msgstr "ต้องการโปรไฟล์ POS เพื่อสร้างรายการ POS"
+
+msgid "POS Profile {} contains Mode of Payment {}. Please remove them to disable this mode."
+msgstr "โปรไฟล์ POS {} มีวิธีการชำระเงิน {} โปรดลบออกเพื่อปิดใช้งานโหมดนี้"
+
+msgid "POS Profile {} does not belongs to company {}"
+msgstr "โปรไฟล์ POS {} ไม่ได้เป็นของบริษัท {}"
+
+msgid "POS Register"
+msgstr "ทะเบียน POS"
+
+msgid "POS Search Fields"
+msgstr "ฟิลด์การค้นหา POS"
+
+msgid "POS Setting"
+msgstr "การตั้งค่า POS"
+
+msgid "POS Settings"
+msgstr "การตั้งค่า POS"
+
+msgid "POS Transactions"
+msgstr "ธุรกรรม POS"
+
+msgid "POS has been closed at {0}. Please refresh the page."
+msgstr "POS ถูกปิดที่ {0} โปรดรีเฟรชหน้า"
+
+msgid "POS invoice {0} created successfully"
+msgstr "สร้างใบแจ้งหนี้ POS {0} สำเร็จ"
+
+msgid "PSOA Cost Center"
+msgstr "ศูนย์ต้นทุน PSOA"
+
+msgid "PSOA Project"
+msgstr "โครงการ PSOA"
+
+msgid "PZN"
+msgstr ""
+
+msgid "Package No(s) already in use. Try from Package No {0}"
+msgstr "หมายเลขแพ็คเกจที่ใช้งานอยู่แล้ว ลองจากหมายเลขแพ็คเกจ {0}"
+
+msgid "Package Weight Details"
+msgstr "รายละเอียดน้ำหนักแพ็คเกจ"
+
+msgid "Packaging Slip From Delivery Note"
+msgstr "ใบแพ็คเกจจากใบส่งของ"
+
+msgid "Packed Item"
+msgstr "รายการที่บรรจุแล้ว"
+
+msgid "Packed Items"
+msgstr "รายการที่บรรจุแล้ว"
+
+msgid "Packed Items cannot be transferred internally"
+msgstr "รายการที่บรรจุแล้วไม่สามารถโอนภายในได้"
+
+msgid "Packed Qty"
+msgstr "ปริมาณที่บรรจุแล้ว"
+
+msgid "Packing List"
+msgstr "รายการบรรจุ"
+
+msgid "Packing Slip"
+msgstr "ใบบรรจุ"
+
+msgid "Packing Slip Item"
+msgstr "รายการใบบรรจุ"
+
+msgid "Packing Slip(s) cancelled"
+msgstr "ใบบรรจุถูกยกเลิก"
+
+msgid "Packing Unit"
+msgstr "หน่วยบรรจุ"
+
+msgid "Page Break"
+msgstr "ตัวแบ่งหน้า"
+
+msgid "Page Break After Each SoA"
+msgstr "ตัวแบ่งหน้าหลังจากแต่ละ SoA"
+
+msgid "Page {0} of {1}"
+msgstr "หน้า {0} จาก {1}"
+
+msgid "Paid"
+msgstr "ชำระแล้ว"
+
+msgid "Paid Amount"
+msgstr "จำนวนเงินที่ชำระแล้ว"
+
+msgid "Paid Amount (Company Currency)"
+msgstr "จำนวนเงินที่ชำระแล้ว (สกุลเงินบริษัท)"
+
+msgid "Paid Amount After Tax"
+msgstr "จำนวนเงินที่ชำระหลังหักภาษี"
+
+msgid "Paid Amount After Tax (Company Currency)"
+msgstr "จำนวนเงินที่ชำระหลังหักภาษี (สกุลเงินบริษัท)"
+
+msgid "Paid Amount cannot be greater than total negative outstanding amount {0}"
+msgstr "จำนวนเงินที่ชำระไม่สามารถมากกว่ายอดค้างชำระรวมติดลบ {0}"
+
+msgid "Paid From Account Type"
+msgstr "ชำระจากประเภทบัญชี"
+
+msgid "Paid To Account Type"
+msgstr "ชำระไปยังประเภทบัญชี"
+
+msgid "Paid amount + Write Off Amount can not be greater than Grand Total"
+msgstr "จำนวนเงินที่ชำระ + จำนวนเงินที่ตัดบัญชีไม่สามารถมากกว่ายอดรวมได้"
+
+msgid "Pair"
+msgstr ""
+
+msgid "Pallets"
+msgstr "พาเลท"
+
+msgid "Parameter"
+msgstr "พารามิเตอร์"
+
+msgid "Parameter Group"
+msgstr "กลุ่มพารามิเตอร์"
+
+msgid "Parameter Group Name"
+msgstr "ชื่อกลุ่มพารามิเตอร์"
+
+msgid "Parameter Name"
+msgstr "ชื่อพารามิเตอร์"
+
+msgid "Parameters"
+msgstr "พารามิเตอร์"
+
+msgid "Parcel Template"
+msgstr "แม่แบบพัสดุ"
+
+msgid "Parcel Template Name"
+msgstr "ชื่อแม่แบบพัสดุ"
+
+msgid "Parcel weight cannot be 0"
+msgstr "น้ำหนักพัสดุไม่สามารถเป็น 0 ได้"
+
+msgid "Parcels"
+msgstr "พัสดุ"
+
+msgid "Parent"
+msgstr "ผู้ปกครอง"
+
+msgid "Parent Account"
+msgstr "บัญชีผู้ปกครอง"
+
+msgid "Parent Account Missing"
+msgstr "ไม่มีบัญชีแม่"
+
+msgid "Parent Batch"
+msgstr "ชุดผู้ปกครอง"
+
+msgid "Parent Company"
+msgstr "บริษัทผู้ปกครอง"
+
+msgid "Parent Company must be a group company"
+msgstr "บริษัทผู้ปกครองต้องเป็นบริษัทกลุ่ม"
+
+msgid "Parent Cost Center"
+msgstr "ศูนย์ต้นทุนผู้ปกครอง"
+
+msgid "Parent Customer Group"
+msgstr "กลุ่มลูกค้าผู้ปกครอง"
+
+msgid "Parent Department"
+msgstr "แผนกผู้ปกครอง"
+
+msgid "Parent Detail docname"
+msgstr "ชื่อเอกสารรายละเอียดผู้ปกครอง"
+
+msgid "Parent Document"
+msgstr "เอกสารผู้ปกครอง"
+
+msgid "Parent Item"
+msgstr "รายการผู้ปกครอง"
+
+msgid "Parent Item Group"
+msgstr "กลุ่มรายการผู้ปกครอง"
+
+msgid "Parent Item {0} must not be a Fixed Asset"
+msgstr "รายการผู้ปกครอง {0} ต้องไม่เป็นสินทรัพย์ถาวร"
+
+msgid "Parent Item {0} must not be a Stock Item"
+msgstr "รายการผู้ปกครอง {0} ต้องไม่เป็นรายการสต็อก"
+
+msgid "Parent Location"
+msgstr "ตำแหน่งผู้ปกครอง"
+
+msgid "Parent Procedure"
+msgstr "กระบวนการผู้ปกครอง"
+
+msgid "Parent Row No"
+msgstr "หมายเลขแถวผู้ปกครอง"
+
+msgid "Parent Row No not found for {0}"
+msgstr "ไม่พบหมายเลขแถวผู้ปกครองสำหรับ {0}"
+
+msgid "Parent Sales Person"
+msgstr "พนักงานขายผู้ปกครอง"
+
+msgid "Parent Supplier Group"
+msgstr "กลุ่มผู้จัดจำหน่ายผู้ปกครอง"
+
+msgid "Parent Task"
+msgstr "งานผู้ปกครอง"
+
+msgid "Parent Task {0} is not a Template Task"
+msgstr "งานผู้ปกครอง {0} ไม่ใช่งานแม่แบบ"
+
+msgid "Parent Territory"
+msgstr "เขตผู้ปกครอง"
+
+msgid "Parent Warehouse"
+msgstr "คลังสินค้าผู้ปกครอง"
+
+msgid "Parsed file is not in valid MT940 format or contains no transactions."
+msgstr ""
+
+msgid "Parsing Error"
+msgstr "ข้อผิดพลาดในการแยกวิเคราะห์"
+
+msgid "Partial Material Transferred"
+msgstr "โอนวัสดุบางส่วน"
+
+msgid "Partial Payment in POS Transactions are not allowed."
+msgstr "ไม่อนุญาตให้ชำระเงินบางส่วนในธุรกรรม POS"
+
+msgid "Partial Stock Reservation"
+msgstr "การจองสต็อกบางส่วน"
+
+msgid "Partial Success"
+msgstr "สำเร็จบางส่วน"
+
+msgid "Partial stock can be reserved. For example, If you have a Sales Order of 100 units and the Available Stock is 90 units then a Stock Reservation Entry will be created for 90 units. "
+msgstr ""
+
+msgid "Partially Completed"
+msgstr "เสร็จบางส่วน"
+
+msgid "Partially Delivered"
+msgstr "ส่งมอบบางส่วน"
+
+msgid "Partially Depreciated"
+msgstr "หักค่าเสื่อมราคาบางส่วน"
+
+msgid "Partially Fulfilled"
+msgstr "เติมเต็มบางส่วน"
+
+msgid "Partially Ordered"
+msgstr "สั่งซื้อบางส่วน"
+
+msgid "Partially Paid"
+msgstr "ชำระบางส่วน"
+
+msgid "Partially Received"
+msgstr "ได้รับบางส่วน"
+
+msgid "Partially Reconciled"
+msgstr "กระทบบัญชีบางส่วน"
+
+msgid "Partially Reserved"
+msgstr "จองบางส่วน"
+
+msgid "Partially ordered"
+msgstr "สั่งซื้อบางส่วน"
+
+msgid "Particulars"
+msgstr "รายละเอียด"
+
+msgid "Partly Billed"
+msgstr "เรียกเก็บเงินบางส่วน"
+
+msgid "Partly Delivered"
+msgstr "ส่งมอบบางส่วน"
+
+msgid "Partly Paid"
+msgstr "ชำระบางส่วน"
+
+msgid "Partly Paid and Discounted"
+msgstr "ชำระบางส่วนและลดราคา"
+
+msgid "Partner Type"
+msgstr "ประเภทพันธมิตร"
+
+msgid "Partner website"
+msgstr "เว็บไซต์พันธมิตร"
+
+msgid "Partnership"
+msgstr "หุ้นส่วน"
+
+msgid "Parts Per Million"
+msgstr ""
+
+msgid "Party"
+msgstr "คู่สัญญา"
+
+msgid "Party Account"
+msgstr "บัญชีคู่สัญญา"
+
+msgid "Party Account Currency"
+msgstr "สกุลเงินบัญชีคู่สัญญา"
+
+msgid "Party Account No. (Bank Statement)"
+msgstr "เลขที่บัญชีคู่สัญญา (ใบแจ้งยอดธนาคาร)"
+
+msgid "Party Account {0} currency ({1}) and document currency ({2}) should be same"
+msgstr "สกุลเงินบัญชีคู่สัญญา {0} ({1}) และสกุลเงินเอกสาร ({2}) ควรเหมือนกัน"
+
+msgid "Party Bank Account"
+msgstr "บัญชีธนาคารคู่สัญญา"
+
+msgid "Party Details"
+msgstr "รายละเอียดคู่สัญญา"
+
+msgid "Party Full Name"
+msgstr "ชื่อเต็มคู่สัญญา"
+
+msgid "Party IBAN (Bank Statement)"
+msgstr "IBAN คู่สัญญา (ใบแจ้งยอดธนาคาร)"
+
+msgid "Party Information"
+msgstr "ข้อมูลคู่สัญญา"
+
+msgid "Party Item Code"
+msgstr "รหัสรายการคู่สัญญา"
+
+msgid "Party Link"
+msgstr "ลิงก์คู่สัญญา"
+
+msgid "Party Mismatch"
+msgstr ""
+
+msgid "Party Name"
+msgstr "ชื่อคู่สัญญา"
+
+msgid "Party Name/Account Holder (Bank Statement)"
+msgstr "ชื่อคู่สัญญา/ผู้ถือบัญชี (ใบแจ้งยอดธนาคาร)"
+
+msgid "Party Specific Item"
+msgstr "รายการเฉพาะคู่สัญญา"
+
+msgid "Party Type"
+msgstr "ประเภทคู่สัญญา"
+
+msgid "Party Type and Party can only be set for Receivable / Payable account<br><br>{0}"
+msgstr "ประเภทคู่สัญญาและคู่สัญญาสามารถตั้งค่าได้เฉพาะสำหรับบัญชีลูกหนี้/เจ้าหนี้<br><br>{0}"
+
+msgid "Party Type and Party is mandatory for {0} account"
+msgstr "ประเภทคู่สัญญาและคู่สัญญาเป็นสิ่งจำเป็นสำหรับบัญชี {0}"
+
+msgid "Party Type and Party is required for Receivable / Payable account {0}"
+msgstr "ต้องการประเภทคู่สัญญาและคู่สัญญาสำหรับบัญชีลูกหนี้/เจ้าหนี้ {0}"
+
+msgid "Party Type is mandatory"
+msgstr "ประเภทคู่สัญญาเป็นสิ่งจำเป็น"
+
+msgid "Party User"
+msgstr "ผู้ใช้คู่สัญญา"
+
+msgid "Party can only be one of {0}"
+msgstr "คู่สัญญาสามารถเป็นหนึ่งใน {0} เท่านั้น"
+
+msgid "Party is mandatory"
+msgstr "คู่สัญญาเป็นสิ่งจำเป็น"
+
+msgid "Pascal"
+msgstr ""
+
+msgid "Passed"
+msgstr "ผ่านแล้ว"
+
+msgid "Passport Details"
+msgstr "รายละเอียดหนังสือเดินทาง"
+
+msgid "Passport Number"
+msgstr "หมายเลขหนังสือเดินทาง"
+
+msgid "Past Due Date"
+msgstr "เกินกำหนด"
+
+msgid "Past Events"
+msgstr "เหตุการณ์ที่ผ่านมา"
+
+msgid "Path"
+msgstr "เส้นทาง"
+
+msgid "Pause"
+msgstr "หยุดชั่วคราว"
+
+msgid "Pause Job"
+msgstr "หยุดงานชั่วคราว"
+
+msgid "Pause SLA On Status"
+msgstr "หยุด SLA เมื่อสถานะ"
+
+msgid "Paused"
+msgstr "หยุดชั่วคราวแล้ว"
+
+msgid "Pay"
+msgstr "จ่าย"
+
+msgctxt "Amount"
+msgid "Pay"
+msgstr "จ่าย"
+
+msgid "Pay To / Recd From"
+msgstr "จ่ายให้ / รับจาก"
+
+msgid "Payable"
+msgstr "เจ้าหนี้"
+
+msgid "Payable Account"
+msgstr "บัญชีเจ้าหนี้"
+
+msgid "Payables"
+msgstr "เจ้าหนี้"
+
+msgid "Payer Settings"
+msgstr "การตั้งค่าผู้จ่าย"
+
+msgid "Payment"
+msgstr "การชำระเงิน"
+
+msgid "Payment Account"
+msgstr "บัญชีการชำระเงิน"
+
+msgid "Payment Amount"
+msgstr "จำนวนเงินที่ชำระ"
+
+msgid "Payment Amount (Company Currency)"
+msgstr "จำนวนเงินที่ชำระ (สกุลเงินบริษัท)"
+
+msgid "Payment Channel"
+msgstr "ช่องทางการชำระเงิน"
+
+msgid "Payment Deductions or Loss"
+msgstr "การหักเงินหรือการสูญเสีย"
+
+msgid "Payment Document"
+msgstr "เอกสารการชำระเงิน"
+
+msgid "Payment Document Type"
+msgstr "ประเภทเอกสารการชำระเงิน"
+
+msgid "Payment Due Date"
+msgstr "วันที่ครบกำหนดชำระเงิน"
+
+msgid "Payment Entries"
+msgstr "รายการชำระเงิน"
+
+msgid "Payment Entries {0} are un-linked"
+msgstr "รายการชำระเงิน {0} ถูกยกเลิกการเชื่อมโยง"
+
+msgid "Payment Entry"
+msgstr "รายการชำระเงิน"
+
+msgid "Payment Entry Deduction"
+msgstr "การหักรายการชำระเงิน"
+
+msgid "Payment Entry Reference"
+msgstr "การอ้างอิงรายการชำระเงิน"
+
+msgid "Payment Entry already exists"
+msgstr "มีรายการชำระเงินอยู่แล้ว"
+
+msgid "Payment Entry has been modified after you pulled it. Please pull it again."
+msgstr "รายการชำระเงินถูกแก้ไขหลังจากที่คุณดึง โปรดดึงอีกครั้ง"
+
+msgid "Payment Entry is already created"
+msgstr "สร้างรายการชำระเงินแล้ว"
+
+msgid "Payment Entry {0} is linked against Order {1}, check if it should be pulled as advance in this invoice."
+msgstr "รายการชำระเงิน {0} เชื่อมโยงกับคำสั่งซื้อ {1} ตรวจสอบว่าควรดึงเป็นเงินล่วงหน้าในใบแจ้งหนี้นี้หรือไม่"
+
+msgid "Payment Failed"
+msgstr "การชำระเงินล้มเหลว"
+
+msgid "Payment From / To"
+msgstr "การชำระเงินจาก / ถึง"
+
+msgid "Payment Gateway"
+msgstr "เกตเวย์การชำระเงิน"
+
+msgid "Payment Gateway Account"
+msgstr "บัญชีเกตเวย์การชำระเงิน"
+
+msgid "Payment Gateway Account not created, please create one manually."

@@ -3,7 +3,7 @@
 
 param(
     [string]$InputFile = "erpnext_cleaned.po",
-    [int]$LinesPerChunk = 300,
+    [int]$LinesPerChunk = 500,
     [string]$OutputPrefix = "chunk"
 )
 

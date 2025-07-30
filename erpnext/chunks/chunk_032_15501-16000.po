@@ -1,0 +1,500 @@
+﻿msgstr "ไม่ได้สร้างบัญชีเกตเวย์การชำระเงิน โปรดสร้างด้วยตนเอง"
+
+msgid "Payment Gateway Details"
+msgstr "รายละเอียดเกตเวย์การชำระเงิน"
+
+msgid "Payment Ledger"
+msgstr "บัญชีแยกประเภทการชำระเงิน"
+
+msgid "Payment Ledger Balance"
+msgstr "ยอดคงเหลือบัญชีแยกประเภทการชำระเงิน"
+
+msgid "Payment Ledger Entry"
+msgstr "รายการบัญชีแยกประเภทการชำระเงิน"
+
+msgid "Payment Limit"
+msgstr "ขีดจำกัดการชำระเงิน"
+
+msgid "Payment Method"
+msgstr "วิธีการชำระเงิน"
+
+msgid "Payment Methods"
+msgstr "วิธีการชำระเงิน"
+
+msgid "Payment Mode"
+msgstr "โหมดการชำระเงิน"
+
+msgid "Payment Order"
+msgstr "คำสั่งชำระเงิน"
+
+msgid "Payment Order Reference"
+msgstr "การอ้างอิงคำสั่งชำระเงิน"
+
+msgid "Payment Order Status"
+msgstr "สถานะคำสั่งชำระเงิน"
+
+msgid "Payment Order Type"
+msgstr "ประเภทคำสั่งชำระเงิน"
+
+msgid "Payment Ordered"
+msgstr "คำสั่งชำระเงิน"
+
+msgid "Payment Period Based On Invoice Date"
+msgstr "ระยะเวลาการชำระเงินตามวันที่ใบแจ้งหนี้"
+
+msgid "Payment Plan"
+msgstr "แผนการชำระเงิน"
+
+msgid "Payment Receipt Note"
+msgstr "หมายเหตุใบเสร็จการชำระเงิน"
+
+msgid "Payment Received"
+msgstr "ได้รับการชำระเงิน"
+
+msgid "Payment Reconciliation"
+msgstr "การกระทบยอดการชำระเงิน"
+
+msgid "Payment Reconciliation Allocation"
+msgstr "การจัดสรรการกระทบยอดการชำระเงิน"
+
+msgid "Payment Reconciliation Invoice"
+msgstr "ใบแจ้งหนี้การกระทบยอดการชำระเงิน"
+
+msgid "Payment Reconciliation Job: {0} is running for this party. Can't reconcile now."
+msgstr "งานการกระทบยอดการชำระเงิน: {0} กำลังทำงานสำหรับคู่สัญญานี้ ไม่สามารถกระทบยอดได้ในขณะนี้"
+
+msgid "Payment Reconciliation Payment"
+msgstr "การชำระเงินการกระทบยอด"
+
+msgid "Payment Reconciliation Settings"
+msgstr "การตั้งค่าการกระทบยอดการชำระเงิน"
+
+msgid "Payment Reference"
+msgstr "การอ้างอิงการชำระเงิน"
+
+msgid "Payment References"
+msgstr "การอ้างอิงการชำระเงิน"
+
+msgid "Payment Request"
+msgstr "คำขอการชำระเงิน"
+
+msgid "Payment Request Outstanding"
+msgstr "คำขอการชำระเงินที่ค้างอยู่"
+
+msgid "Payment Request Type"
+msgstr "ประเภทคำขอการชำระเงิน"
+
+msgid "Payment Request created from Sales Order or Purchase Order will be in Draft status. When disabled document will be in unsaved state."
+msgstr "คำขอการชำระเงินที่สร้างจากคำสั่งขายหรือคำสั่งซื้อจะอยู่ในสถานะร่าง เมื่อปิดใช้งานเอกสารจะอยู่ในสถานะที่ยังไม่ได้บันทึก"
+
+msgid "Payment Request for {0}"
+msgstr "คำขอการชำระเงินสำหรับ {0}"
+
+msgid "Payment Request is already created"
+msgstr "สร้างคำขอการชำระเงินแล้ว"
+
+msgid "Payment Request took too long to respond. Please try requesting for payment again."
+msgstr "คำขอการชำระเงินใช้เวลานานเกินไปในการตอบสนอง โปรดลองขอการชำระเงินอีกครั้ง"
+
+msgid "Payment Requests cannot be created against: {0}"
+msgstr "ไม่สามารถสร้างคำขอการชำระเงินกับ: {0}"
+
+msgid "Payment Schedule"
+msgstr "กำหนดการชำระเงิน"
+
+msgid "Payment Status"
+msgstr "สถานะการชำระเงิน"
+
+msgid "Payment Term"
+msgstr "เงื่อนไขการชำระเงิน"
+
+msgid "Payment Term Name"
+msgstr "ชื่อเงื่อนไขการชำระเงิน"
+
+msgid "Payment Term Outstanding"
+msgstr "เงื่อนไขการชำระเงินที่ค้างอยู่"
+
+msgid "Payment Terms"
+msgstr "เงื่อนไขการชำระเงิน"
+
+msgid "Payment Terms Status for Sales Order"
+msgstr "สถานะเงื่อนไขการชำระเงินสำหรับคำสั่งขาย"
+
+msgid "Payment Terms Template"
+msgstr "แม่แบบเงื่อนไขการชำระเงิน"
+
+msgid "Payment Terms Template Detail"
+msgstr "รายละเอียดแม่แบบเงื่อนไขการชำระเงิน"
+
+msgid "Payment Terms from orders will be fetched into the invoices as is"
+msgstr "เงื่อนไขการชำระเงินจากคำสั่งซื้อจะถูกดึงเข้าสู่ใบแจ้งหนี้ตามที่เป็น"
+
+msgid "Payment Terms:"
+msgstr "เงื่อนไขการชำระเงิน:"
+
+msgid "Payment Type"
+msgstr "ประเภทการชำระเงิน"
+
+msgid "Payment Type must be one of Receive, Pay and Internal Transfer"
+msgstr "ประเภทการชำระเงินต้องเป็นหนึ่งใน รับ, จ่าย และโอนภายใน"
+
+msgid "Payment URL"
+msgstr "URL การชำระเงิน"
+
+msgid "Payment Unlink Error"
+msgstr "ข้อผิดพลาดในการยกเลิกการเชื่อมโยงการชำระเงิน"
+
+msgid "Payment against {0} {1} cannot be greater than Outstanding Amount {2}"
+msgstr "การชำระเงินกับ {0} {1} ไม่สามารถมากกว่ายอดค้างชำระ {2}"
+
+msgid "Payment amount cannot be less than or equal to 0"
+msgstr "จำนวนเงินที่ชำระไม่สามารถน้อยกว่าหรือเท่ากับ 0"
+
+msgid "Payment methods are mandatory. Please add at least one payment method."
+msgstr "วิธีการชำระเงินเป็นสิ่งจำเป็น โปรดเพิ่มวิธีการชำระเงินอย่างน้อยหนึ่งวิธี"
+
+msgid "Payment of {0} received successfully."
+msgstr "การชำระเงิน {0} ได้รับสำเร็จ"
+
+msgid "Payment of {0} received successfully. Waiting for other requests to complete..."
+msgstr "การชำระเงิน {0} ได้รับสำเร็จ กำลังรอคำขออื่น ๆ ให้เสร็จสิ้น..."
+
+msgid "Payment related to {0} is not completed"
+msgstr "การชำระเงินที่เกี่ยวข้องกับ {0} ยังไม่เสร็จสิ้น"
+
+msgid "Payment request failed"
+msgstr "คำขอการชำระเงินล้มเหลว"
+
+msgid "Payment term {0} not used in {1}"
+msgstr "เงื่อนไขการชำระเงิน {0} ไม่ได้ใช้ใน {1}"
+
+msgid "Payments"
+msgstr "การชำระเงิน"
+
+msgid "Payments could not be updated."
+msgstr ""
+
+msgid "Payments updated."
+msgstr ""
+
+msgid "Payroll Entry"
+msgstr "รายการบัญชีเงินเดือน"
+
+msgid "Payroll Payable"
+msgstr "เงินเดือนค้างจ่าย"
+
+msgid "Payslip"
+msgstr "สลิปเงินเดือน"
+
+msgid "Peck (UK)"
+msgstr ""
+
+msgid "Peck (US)"
+msgstr ""
+
+msgid "Pegged Against"
+msgstr ""
+
+msgid "Pegged Currencies"
+msgstr ""
+
+msgid "Pegged Currency Details"
+msgstr ""
+
+msgid "Pending"
+msgstr ""
+
+msgid "Pending Activities"
+msgstr ""
+
+msgid "Pending Amount"
+msgstr ""
+
+msgid "Pending Qty"
+msgstr ""
+
+msgid "Pending Quantity"
+msgstr ""
+
+msgid "Pending Review"
+msgstr ""
+
+msgid "Pending SO Items For Purchase Request"
+msgstr ""
+
+msgid "Pending Work Order"
+msgstr ""
+
+msgid "Pending activities for today"
+msgstr ""
+
+msgid "Pending processing"
+msgstr ""
+
+msgid "Pension Funds"
+msgstr ""
+
+msgid "Per Month"
+msgstr ""
+
+msgid "Per Received"
+msgstr ""
+
+msgid "Per Transferred"
+msgstr ""
+
+msgid "Per Week"
+msgstr ""
+
+msgid "Per Year"
+msgstr ""
+
+msgid "Percent"
+msgstr "เปอร์เซ็นต์"
+
+msgid "Percentage"
+msgstr ""
+
+msgid "Percentage (%)"
+msgstr "เปอร์เซ็นต์ (%)"
+
+msgid "Percentage Allocation"
+msgstr ""
+
+msgid "Percentage Allocation should be equal to 100%"
+msgstr ""
+
+msgid "Percentage you are allowed to order beyond the Blanket Order quantity."
+msgstr ""
+
+msgid "Percentage you are allowed to sell beyond the Blanket Order quantity."
+msgstr ""
+
+msgid "Percentage you are allowed to transfer more against the quantity ordered. For example: If you have ordered 100 units. and your Allowance is 10% then you are allowed to transfer 110 units."
+msgstr ""
+
+msgid "Perception Analysis"
+msgstr ""
+
+msgid "Period"
+msgstr ""
+
+msgid "Period Based On"
+msgstr ""
+
+msgid "Period Closed"
+msgstr ""
+
+msgid "Period Closing Entry For Current Period"
+msgstr ""
+
+msgid "Period Closing Settings"
+msgstr ""
+
+msgid "Period Closing Voucher"
+msgstr ""
+
+msgid "Period Details"
+msgstr ""
+
+msgid "Period End Date"
+msgstr ""
+
+msgid "Period End Date cannot be greater than Fiscal Year End Date"
+msgstr ""
+
+msgid "Period Name"
+msgstr ""
+
+msgid "Period Score"
+msgstr ""
+
+msgid "Period Settings"
+msgstr ""
+
+msgid "Period Start Date"
+msgstr ""
+
+msgid "Period Start Date cannot be greater than Period End Date"
+msgstr ""
+
+msgid "Period Start Date must be {0}"
+msgstr ""
+
+msgid "Period To Date"
+msgstr ""
+
+msgid "Period based On"
+msgstr ""
+
+msgid "Period_from_date"
+msgstr ""
+
+msgid "Periodic Accounting"
+msgstr ""
+
+msgid "Periodic Accounting Entry"
+msgstr ""
+
+msgid "Periodic Accounting Entry is not allowed for company {0} with perpetual inventory enabled"
+msgstr ""
+
+msgid "Periodic Entry Difference Account"
+msgstr ""
+
+msgid "Periodicity"
+msgstr ""
+
+msgid "Permanent Address"
+msgstr ""
+
+msgid "Permanent Address Is"
+msgstr "ที่อยู่ถาวรคือ"
+
+msgid "Perpetual inventory required for the company {0} to view this report."
+msgstr "ต้องการสินค้าคงคลังถาวรสำหรับบริษัท {0} เพื่อดูรายงานนี้"
+
+msgid "Personal Details"
+msgstr "รายละเอียดส่วนตัว"
+
+msgid "Personal Email"
+msgstr "อีเมลส่วนตัว"
+
+msgid "Petrol"
+msgstr "น้ำมันเบนซิน"
+
+msgid "Pharmaceutical"
+msgstr "เภสัชกรรม"
+
+msgid "Pharmaceuticals"
+msgstr ""
+
+msgid "Phone"
+msgstr "โทรศัพท์"
+
+msgid "Phone Ext."
+msgstr "เบอร์ต่อโทรศัพท์"
+
+msgid "Phone No"
+msgstr "หมายเลขโทรศัพท์"
+
+msgid "Phone Number"
+msgstr "หมายเลขโทรศัพท์"
+
+msgid "Pick List"
+msgstr "รายการเลือก"
+
+msgid "Pick List Incomplete"
+msgstr "รายการเลือกไม่สมบูรณ์"
+
+msgid "Pick List Item"
+msgstr "รายการในรายการเลือก"
+
+msgid "Pick Manually"
+msgstr "เลือกด้วยตนเอง"
+
+msgid "Pick Serial / Batch"
+msgstr ""
+
+msgid "Pick Serial / Batch Based On"
+msgstr "เลือกซีเรียล/แบทช์ตาม"
+
+msgid "Pick Serial / Batch No"
+msgstr "เลือกหมายเลขซีเรียล/แบทช์"
+
+msgid "Picked Qty"
+msgstr "ปริมาณที่เลือก"
+
+msgid "Picked Qty (in Stock UOM)"
+msgstr "ปริมาณที่เลือก (ในหน่วยวัดสต็อก)"
+
+msgid "Pickup"
+msgstr "การรับสินค้า"
+
+msgid "Pickup Contact Person"
+msgstr "ผู้ติดต่อสำหรับการรับสินค้า"
+
+msgid "Pickup Date"
+msgstr "วันที่รับสินค้า"
+
+msgid "Pickup Date cannot be before this day"
+msgstr "วันที่รับสินค้าไม่สามารถเป็นก่อนวันนี้ได้"
+
+msgid "Pickup From"
+msgstr "รับสินค้าจาก"
+
+msgid "Pickup To time should be greater than Pickup From time"
+msgstr "เวลาสิ้นสุดการรับสินค้าควรมากกว่าเวลาเริ่มต้นการรับสินค้า"
+
+msgid "Pickup Type"
+msgstr "ประเภทการรับสินค้า"
+
+msgid "Pickup from"
+msgstr "รับสินค้าจาก"
+
+msgid "Pickup to"
+msgstr "รับสินค้าไปยัง"
+
+msgid "Pint (UK)"
+msgstr ""
+
+msgid "Pint (US)"
+msgstr ""
+
+msgid "Pint, Dry (US)"
+msgstr ""
+
+msgid "Pint, Liquid (US)"
+msgstr ""
+
+msgid "Pipeline By"
+msgstr "ท่อส่งโดย"
+
+msgid "Place of Issue"
+msgstr "สถานที่ออก"
+
+msgid "Plaid Access Token"
+msgstr "โทเค็นการเข้าถึง Plaid"
+
+msgid "Plaid Client ID"
+msgstr "รหัสลูกค้า Plaid"
+
+msgid "Plaid Environment"
+msgstr "สภาพแวดล้อม Plaid"
+
+msgid "Plaid Link Failed"
+msgstr "การเชื่อมโยง Plaid ล้มเหลว"
+
+msgid "Plaid Link Refresh Required"
+msgstr "ต้องการรีเฟรชการเชื่อมโยง Plaid"
+
+msgid "Plaid Link Updated"
+msgstr "การเชื่อมโยง Plaid อัปเดตแล้ว"
+
+msgid "Plaid Secret"
+msgstr "รหัสลับ Plaid"
+
+msgid "Plaid Settings"
+msgstr "การตั้งค่า Plaid"
+
+msgid "Plaid transactions sync error"
+msgstr "ข้อผิดพลาดในการซิงค์ธุรกรรม Plaid"
+
+msgid "Plan"
+msgstr "แผน"
+
+msgid "Plan Name"
+msgstr "ชื่อแผน"
+
+msgid "Plan material for sub-assemblies"
+msgstr "วางแผนวัสดุสำหรับชุดย่อย"
+
+msgid "Plan operations X days in advance"
+msgstr "วางแผนการดำเนินการล่วงหน้า X วัน"
+
+msgid "Plan time logs outside Workstation working hours"
+msgstr "วางแผนบันทึกเวลาอยู่นอกเวลาทำงานของสถานีงาน"
+
+msgid "Planned"
+msgstr "วางแผนแล้ว"
+

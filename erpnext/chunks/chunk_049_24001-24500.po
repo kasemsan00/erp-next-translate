@@ -1,0 +1,500 @@
+﻿msgid "Time Logs"
+msgstr ""
+
+msgid "Time Required (In Mins)"
+msgstr ""
+
+msgid "Time Sheet"
+msgstr "ไทม์ชีท"
+
+msgid "Time Sheet List"
+msgstr ""
+
+msgid "Time Sheets"
+msgstr ""
+
+msgid "Time Taken to Deliver"
+msgstr ""
+
+msgid "Time Tracking"
+msgstr ""
+
+msgid "Time at which materials were received"
+msgstr ""
+
+msgid "Time in mins"
+msgstr ""
+
+msgid "Time in mins."
+msgstr ""
+
+msgid "Time logs are required for {0} {1}"
+msgstr ""
+
+msgid "Time slot is not available"
+msgstr ""
+
+msgid "Time(in mins)"
+msgstr ""
+
+msgid "Timeline"
+msgstr ""
+
+msgid "Timer"
+msgstr ""
+
+msgid "Timer exceeded the given hours."
+msgstr ""
+
+msgid "Timesheet"
+msgstr ""
+
+msgid "Timesheet Billing Summary"
+msgstr ""
+
+msgid "Timesheet Detail"
+msgstr ""
+
+msgid "Timesheet for tasks."
+msgstr ""
+
+msgid "Timesheet {0} is already completed or cancelled"
+msgstr ""
+
+msgid "Timesheets"
+msgstr ""
+
+msgid "Timesheets help keep track of time, cost and billing for activities done by your team"
+msgstr ""
+
+msgid "Timeslots"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "To"
+msgstr ""
+
+msgid "To Bill"
+msgstr ""
+
+msgid "To Currency"
+msgstr ""
+
+msgid "To Date"
+msgstr ""
+
+msgid "To Date cannot be before From Date"
+msgstr ""
+
+msgid "To Date cannot be before From Date."
+msgstr ""
+
+msgid "To Date cannot be less than From Date"
+msgstr ""
+
+msgid "To Date is mandatory"
+msgstr ""
+
+msgid "To Date must be greater than From Date"
+msgstr ""
+
+msgid "To Date should be within the Fiscal Year. Assuming To Date = {0}"
+msgstr ""
+
+msgid "To Datetime"
+msgstr ""
+
+msgid "To Deliver"
+msgstr ""
+
+msgid "To Deliver and Bill"
+msgstr ""
+
+msgid "To Delivery Date"
+msgstr ""
+
+msgid "To Doctype"
+msgstr ""
+
+msgid "To Due Date"
+msgstr ""
+
+msgid "To Employee"
+msgstr ""
+
+msgid "To Fiscal Year"
+msgstr ""
+
+msgid "To Folio No"
+msgstr "ถึงหมายเลขโฟลิโอ"
+
+msgid "To Invoice Date"
+msgstr "ถึงวันที่ใบแจ้งหนี้"
+
+msgid "To No"
+msgstr "ถึงหมายเลข"
+
+msgid "To Package No."
+msgstr "ถึงหมายเลขแพ็คเกจ"
+
+msgid "To Pay"
+msgstr "ต้องชำระ"
+
+msgid "To Payment Date"
+msgstr "ถึงวันที่ชำระเงิน"
+
+msgid "To Posting Date"
+msgstr "ถึงวันที่โพสต์"
+
+msgid "To Range"
+msgstr "ถึงช่วง"
+
+msgid "To Receive"
+msgstr "เพื่อรับ"
+
+msgid "To Receive and Bill"
+msgstr "เพื่อรับและเรียกเก็บเงิน"
+
+msgid "To Reference Date"
+msgstr "ถึงวันที่อ้างอิง"
+
+msgid "To Rename"
+msgstr "เพื่อเปลี่ยนชื่อ"
+
+msgid "To Shareholder"
+msgstr "ถึงผู้ถือหุ้น"
+
+msgid "To Time"
+msgstr "ถึงเวลา"
+
+msgid "To Time cannot be before from date"
+msgstr "เวลาสิ้นสุดต้องไม่ก่อนวันที่เริ่มต้น"
+
+msgid "To Track inbound purchase"
+msgstr "เพื่อติดตามการซื้อขาเข้า"
+
+msgid "To Value"
+msgstr "เพื่อมูลค่า"
+
+msgid "To Warehouse"
+msgstr "ถึงคลังสินค้า"
+
+msgid "To Warehouse (Optional)"
+msgstr "ถึงคลังสินค้า (ไม่บังคับ)"
+
+msgid "To add Operations tick the 'With Operations' checkbox."
+msgstr "เพื่อเพิ่มการดำเนินการ ให้ทำเครื่องหมายที่ช่อง 'พร้อมการดำเนินการ'"
+
+msgid "To add subcontracted Item's raw materials if include exploded items is disabled."
+msgstr "เพื่อเพิ่มวัตถุดิบของรายการที่จ้างช่วง หากไม่ได้เปิดใช้งานการรวมรายการที่ขยายแล้ว"
+
+msgid "To allow over billing, update \"Over Billing Allowance\" in Accounts Settings or the Item."
+msgstr ""
+
+msgid "To allow over receipt / delivery, update \"Over Receipt/Delivery Allowance\" in Stock Settings or the Item."
+msgstr ""
+
+msgid "To apply condition on parent field use parent.field_name and to apply condition on child table use doc.field_name. Here field_name could be based on the actual column name of the respective field."
+msgstr "เพื่อใช้เงื่อนไขในฟิลด์หลัก ใช้ parent.field_name และเพื่อใช้เงื่อนไขในตารางลูก ใช้ doc.field_name โดยที่ field_name อาจอ้างอิงจากชื่อคอลัมน์จริงของฟิลด์ที่เกี่ยวข้อง"
+
+msgid "To be Delivered to Customer"
+msgstr "เพื่อส่งมอบให้ลูกค้า"
+
+msgid "To cancel a {} you need to cancel the POS Closing Entry {}."
+msgstr "เพื่อยกเลิก {} คุณต้องยกเลิกการปิด POS {}"
+
+msgid "To cancel this Sales Invoice you need to cancel the POS Closing Entry {}."
+msgstr "เพื่อยกเลิกใบแจ้งหนี้ขายนี้ คุณต้องยกเลิกการปิด POS {}"
+
+msgid "To create a Payment Request reference document is required"
+msgstr "เพื่อสร้างคำขอชำระเงิน จำเป็นต้องมีเอกสารอ้างอิง"
+
+msgid "To enable Capital Work in Progress Accounting,"
+msgstr "เพื่อเปิดใช้งานการบัญชีงานระหว่างทำ"
+
+msgid "To include non-stock items in the material request planning. i.e. Items for which 'Maintain Stock' checkbox is unticked."
+msgstr "เพื่อรวมรายการที่ไม่ใช่สต็อกในการวางแผนคำขอวัสดุ เช่น รายการที่ไม่ได้ทำเครื่องหมาย 'รักษาสต็อก'"
+
+msgid "To include sub-assembly costs and scrap items in Finished Goods on a work order without using a job card, when the 'Use Multi-Level BOM' option is enabled."
+msgstr "เพื่อรวมต้นทุนชุดย่อยและรายการเศษในสินค้าสำเร็จรูปในคำสั่งงานโดยไม่ใช้การ์ดงาน เมื่อเปิดใช้งานตัวเลือก 'ใช้ BOM หลายระดับ'"
+
+msgid "To include tax in row {0} in Item rate, taxes in rows {1} must also be included"
+msgstr "เพื่อรวมภาษีในแถว {0} ในอัตรารายการ ต้องรวมภาษีในแถว {1} ด้วย"
+
+msgid "To merge, following properties must be same for both items"
+msgstr "เพื่อรวม คุณสมบัติต่อไปนี้ต้องเหมือนกันสำหรับทั้งสองรายการ"
+
+msgid "To overrule this, enable '{0}' in company {1}"
+msgstr "เพื่อยกเลิกกฎนี้ ให้เปิดใช้งาน '{0}' ในบริษัท {1}"
+
+msgid "To still proceed with editing this Attribute Value, enable {0} in Item Variant Settings."
+msgstr "เพื่อดำเนินการแก้ไขค่าคุณลักษณะนี้ต่อ ให้เปิดใช้งาน {0} ในการตั้งค่าตัวแปรรายการ"
+
+msgid "To submit the invoice without purchase order please set {0} as {1} in {2}"
+msgstr "เพื่อส่งใบแจ้งหนี้โดยไม่มีคำสั่งซื้อ โปรดตั้งค่า {0} เป็น {1} ใน {2}"
+
+msgid "To submit the invoice without purchase receipt please set {0} as {1} in {2}"
+msgstr "เพื่อส่งใบแจ้งหนี้โดยไม่มีใบรับซื้อ โปรดตั้งค่า {0} เป็น {1} ใน {2}"
+
+msgid "To use a different finance book, please uncheck 'Include Default FB Assets'"
+msgstr "เพื่อใช้สมุดการเงินที่แตกต่าง โปรดยกเลิกการเลือก 'รวมสินทรัพย์ FB เริ่มต้น'"
+
+msgid "To use a different finance book, please uncheck 'Include Default FB Entries'"
+msgstr "เพื่อใช้สมุดการเงินที่แตกต่าง โปรดยกเลิกการเลือก 'รวมรายการ FB เริ่มต้น'"
+
+msgid "Ton (Long)/Cubic Yard"
+msgstr ""
+
+msgid "Ton (Short)/Cubic Yard"
+msgstr ""
+
+msgid "Ton-Force (UK)"
+msgstr ""
+
+msgid "Ton-Force (US)"
+msgstr ""
+
+msgid "Tonne"
+msgstr ""
+
+msgid "Tonne-Force(Metric)"
+msgstr ""
+
+msgid "Too many columns. Export the report and print it using a spreadsheet application."
+msgstr "คอลัมน์มากเกินไป ส่งออกรายงานและพิมพ์โดยใช้แอปพลิเคชันสเปรดชีต"
+
+msgid "Tools"
+msgstr "เครื่องมือ"
+
+msgid "Torr"
+msgstr ""
+
+msgid "Total"
+msgstr "รวม"
+
+msgid "Total (Company Currency)"
+msgstr "รวม (สกุลเงินบริษัท)"
+
+msgid "Total (Credit)"
+msgstr "รวม (เครดิต)"
+
+msgid "Total (Without Tax)"
+msgstr "รวม (ไม่รวมภาษี)"
+
+msgid "Total Achieved"
+msgstr "รวมที่บรรลุ"
+
+msgid "Total Active Items"
+msgstr ""
+
+msgid "Total Actual"
+msgstr "รวมจริง"
+
+msgid "Total Additional Costs"
+msgstr "รวมค่าใช้จ่ายเพิ่มเติม"
+
+msgid "Total Advance"
+msgstr "รวมเงินล่วงหน้า"
+
+msgid "Total Allocated Amount"
+msgstr "รวมจำนวนที่จัดสรร"
+
+msgid "Total Allocated Amount (Company Currency)"
+msgstr "รวมจำนวนที่จัดสรร (สกุลเงินบริษัท)"
+
+msgid "Total Allocations"
+msgstr "รวมการจัดสรร"
+
+msgid "Total Amount"
+msgstr "จำนวนเงินรวม"
+
+msgid "Total Amount Currency"
+msgstr "จำนวนเงินรวม (สกุลเงิน)"
+
+msgid "Total Amount in Words"
+msgstr "จำนวนเงินรวมเป็นคำ"
+
+msgid "Total Applicable Charges in Purchase Receipt Items table must be same as Total Taxes and Charges"
+msgstr "ค่าธรรมเนียมที่ใช้ได้ทั้งหมดในตารางรายการใบรับซื้อสินค้าต้องเท่ากับภาษีและค่าธรรมเนียมรวม"
+
+msgid "Total Asset"
+msgstr "รวมสินทรัพย์"
+
+msgid "Total Asset Cost"
+msgstr "รวมต้นทุนสินทรัพย์"
+
+msgid "Total Assets"
+msgstr "รวมสินทรัพย์"
+
+msgid "Total Billable Amount"
+msgstr "รวมจำนวนเงินที่เรียกเก็บได้"
+
+msgid "Total Billable Amount (via Timesheet)"
+msgstr "รวมจำนวนเงินที่เรียกเก็บได้ (ผ่านแผ่นเวลา)"
+
+msgid "Total Billable Hours"
+msgstr "รวมชั่วโมงที่เรียกเก็บได้"
+
+msgid "Total Billed Amount"
+msgstr "รวมจำนวนเงินที่เรียกเก็บ"
+
+msgid "Total Billed Amount (via Sales Invoice)"
+msgstr "รวมจำนวนเงินที่เรียกเก็บ (ผ่านใบแจ้งหนี้ขาย)"
+
+msgid "Total Billed Hours"
+msgstr "รวมชั่วโมงที่เรียกเก็บ"
+
+msgid "Total Billing Amount"
+msgstr "รวมจำนวนเงินเรียกเก็บ"
+
+msgid "Total Billing Hours"
+msgstr "รวมชั่วโมงเรียกเก็บ"
+
+msgid "Total Budget"
+msgstr "รวมงบประมาณ"
+
+msgid "Total Characters"
+msgstr "รวมตัวอักษร"
+
+msgid "Total Commission"
+msgstr "รวมค่าคอมมิชชั่น"
+
+msgid "Total Completed Qty"
+msgstr "รวมปริมาณที่เสร็จสิ้น"
+
+msgid "Total Consumed Material Cost (via Stock Entry)"
+msgstr "รวมต้นทุนวัสดุที่ใช้ (ผ่านรายการสต็อก)"
+
+msgid "Total Contribution Amount Against Invoices: {0}"
+msgstr "รวมจำนวนเงินที่สนับสนุนต่อใบแจ้งหนี้: {0}"
+
+msgid "Total Contribution Amount Against Orders: {0}"
+msgstr "รวมจำนวนเงินที่สนับสนุนต่อคำสั่งซื้อ: {0}"
+
+msgid "Total Cost"
+msgstr "รวมต้นทุน"
+
+msgid "Total Cost (Company Currency)"
+msgstr "รวมต้นทุน (สกุลเงินบริษัท)"
+
+msgid "Total Costing Amount"
+msgstr "รวมจำนวนต้นทุน"
+
+msgid "Total Costing Amount (via Timesheet)"
+msgstr "รวมจำนวนต้นทุน (ผ่านแผ่นเวลา)"
+
+msgid "Total Credit"
+msgstr "รวมเครดิต"
+
+msgid "Total Credit/ Debit Amount should be same as linked Journal Entry"
+msgstr "จำนวนเครดิต/เดบิตรวมควรเท่ากับรายการบัญชีแยกประเภทที่เชื่อมโยง"
+
+msgid "Total Debit"
+msgstr "รวมเดบิต"
+
+msgid "Total Debit must be equal to Total Credit. The difference is {0}"
+msgstr "รวมเดบิตต้องเท่ากับรวมเครดิต ความแตกต่างคือ {0}"
+
+msgid "Total Delivered Amount"
+msgstr "รวมจำนวนที่ส่งมอบ"
+
+msgid "Total Demand (Past Data)"
+msgstr "รวมความต้องการ (ข้อมูลที่ผ่านมา)"
+
+msgid "Total Equity"
+msgstr "รวมทุน"
+
+msgid "Total Estimated Distance"
+msgstr "รวมระยะทางที่ประมาณการ"
+
+msgid "Total Expense"
+msgstr "รวมค่าใช้จ่าย"
+
+msgid "Total Expense This Year"
+msgstr "รวมค่าใช้จ่ายปีนี้"
+
+msgid "Total Experience"
+msgstr "รวมประสบการณ์"
+
+msgid "Total Forecast (Future Data)"
+msgstr "รวมการคาดการณ์ (ข้อมูลอนาคต)"
+
+msgid "Total Forecast (Past Data)"
+msgstr "รวมการคาดการณ์ (ข้อมูลที่ผ่านมา)"
+
+msgid "Total Gain/Loss"
+msgstr "รวมกำไร/ขาดทุน"
+
+msgid "Total Hold Time"
+msgstr "รวมเวลาที่ถือ"
+
+msgid "Total Holidays"
+msgstr "รวมวันหยุด"
+
+msgid "Total Income"
+msgstr "รวมรายได้"
+
+msgid "Total Income This Year"
+msgstr "รวมรายได้ปีนี้"
+
+msgid "Total Incoming Bills"
+msgstr ""
+
+msgid "Total Incoming Payment"
+msgstr ""
+
+msgid "Total Incoming Value (Receipt)"
+msgstr "รวมมูลค่าขาเข้า (ใบเสร็จ)"
+
+msgid "Total Interest"
+msgstr "รวมดอกเบี้ย"
+
+msgid "Total Invoiced Amount"
+msgstr "รวมจำนวนเงินที่ออกใบแจ้งหนี้"
+
+msgid "Total Issues"
+msgstr "รวมปัญหา"
+
+msgid "Total Items"
+msgstr "รวมรายการ"
+
+msgid "Total Liability"
+msgstr "รวมหนี้สิน"
+
+msgid "Total Message(s)"
+msgstr "รวมข้อความ"
+
+msgid "Total Monthly Sales"
+msgstr "รวมยอดขายรายเดือน"
+
+msgid "Total Net Weight"
+msgstr "รวมน้ำหนักสุทธิ"
+
+msgid "Total Number of Booked Depreciations "
+msgstr ""
+
+msgid "Total Number of Depreciations"
+msgstr "จำนวนค่าเสื่อมราคารวม"
+
+msgid "Total Only"
+msgstr "รวมเท่านั้น"
+
+msgid "Total Operating Cost"
+msgstr "รวมต้นทุนการดำเนินงาน"
+
+msgid "Total Operation Time"
+msgstr "รวมเวลาการดำเนินงาน"
+
+msgid "Total Order Considered"
+msgstr "รวมคำสั่งซื้อที่พิจารณา"
+
+msgid "Total Order Value"
+msgstr "รวมมูลค่าคำสั่งซื้อ"
+
+msgid "Total Other Charges"
+msgstr "รวมค่าธรรมเนียมอื่นๆ"
+
+msgid "Total Outgoing"
+msgstr "รวมขาออก"

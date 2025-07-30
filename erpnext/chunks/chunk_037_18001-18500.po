@@ -1,0 +1,500 @@
+﻿
+msgid "Quantity to Manufacture"
+msgstr "ปริมาณที่จะผลิต"
+
+msgid "Quantity to Manufacture can not be zero for the operation {0}"
+msgstr "ปริมาณที่จะผลิตไม่สามารถเป็นศูนย์สำหรับการดำเนินการ {0}"
+
+msgid "Quantity to Manufacture must be greater than 0."
+msgstr "ปริมาณที่จะผลิตต้องมากกว่า 0"
+
+msgid "Quantity to Produce"
+msgstr "ปริมาณที่จะผลิต"
+
+msgid "Quantity to Produce should be greater than zero."
+msgstr "ปริมาณที่จะผลิตควรมากกว่าศูนย์"
+
+msgid "Quantity to Scan"
+msgstr "ปริมาณที่จะสแกน"
+
+msgid "Quart (UK)"
+msgstr ""
+
+msgid "Quart Dry (US)"
+msgstr ""
+
+msgid "Quart Liquid (US)"
+msgstr ""
+
+msgid "Quarter {0} {1}"
+msgstr "ไตรมาส {0} {1}"
+
+msgid "Quarterly"
+msgstr "รายไตรมาส"
+
+msgid "Query Options"
+msgstr "ตัวเลือกการค้นหา"
+
+msgid "Query Route String"
+msgstr "สตริงเส้นทางการค้นหา"
+
+msgid "Queue Size should be between 5 and 100"
+msgstr "ขนาดคิวควรอยู่ระหว่าง 5 ถึง 100"
+
+msgid "Queued"
+msgstr "อยู่ในคิว"
+
+msgid "Quick Entry"
+msgstr "การป้อนข้อมูลอย่างรวดเร็ว"
+
+msgid "Quick Journal Entry"
+msgstr "การป้อนข้อมูลในสมุดรายวันอย่างรวดเร็ว"
+
+msgid "Quick Stock Balance"
+msgstr "ยอดคงเหลือสต็อกด่วน"
+
+msgid "Quintal"
+msgstr ""
+
+msgid "Quot Count"
+msgstr "จำนวนใบเสนอราคา"
+
+msgid "Quot/Lead %"
+msgstr ""
+
+msgid "Quotation"
+msgstr "ใบเสนอราคา"
+
+msgid "Quotation Amount"
+msgstr "จำนวนเงินใบเสนอราคา"
+
+msgid "Quotation Item"
+msgstr "รายการใบเสนอราคา"
+
+msgid "Quotation Lost Reason"
+msgstr "เหตุผลที่ใบเสนอราคาสูญหาย"
+
+msgid "Quotation Lost Reason Detail"
+msgstr "รายละเอียดเหตุผลที่ใบเสนอราคาสูญหาย"
+
+msgid "Quotation Number"
+msgstr "หมายเลขใบเสนอราคา"
+
+msgid "Quotation To"
+msgstr "ใบเสนอราคาถึง"
+
+msgid "Quotation Trends"
+msgstr "แนวโน้มใบเสนอราคา"
+
+msgid "Quotation {0} is cancelled"
+msgstr "ใบเสนอราคา {0} ถูกยกเลิก"
+
+msgid "Quotation {0} not of type {1}"
+msgstr "ใบเสนอราคา {0} ไม่ใช่ประเภท {1}"
+
+msgid "Quotations"
+msgstr "ใบเสนอราคา"
+
+msgid "Quotations are proposals, bids you have sent to your customers"
+msgstr "ใบเสนอราคาคือข้อเสนอหรือการประมูลที่คุณส่งให้ลูกค้าของคุณ"
+
+msgid "Quotations: "
+msgstr ""
+
+msgid "Quote Status"
+msgstr "สถานะใบเสนอราคา"
+
+msgid "Quoted Amount"
+msgstr "จำนวนเงินที่เสนอราคา"
+
+msgid "RFQs are not allowed for {0} due to a scorecard standing of {1}"
+msgstr ""
+
+msgid "Raise Material Request When Stock Reaches Re-order Level"
+msgstr ""
+
+msgid "Raised By"
+msgstr "ร้องขอโดย"
+
+msgid "Raised By (Email)"
+msgstr ""
+
+msgid "Random"
+msgstr ""
+
+msgid "Range"
+msgstr ""
+
+msgid "Rate"
+msgstr ""
+
+msgid "Rate & Amount"
+msgstr ""
+
+msgid "Rate (Company Currency)"
+msgstr ""
+
+msgid "Rate Of Materials Based On"
+msgstr ""
+
+msgid "Rate Of TDS As Per Certificate"
+msgstr ""
+
+msgid "Rate Section"
+msgstr ""
+
+msgid "Rate With Margin"
+msgstr ""
+
+msgid "Rate With Margin (Company Currency)"
+msgstr ""
+
+msgid "Rate and Amount"
+msgstr ""
+
+msgid "Rate at which Customer Currency is converted to customer's base currency"
+msgstr ""
+
+msgid "Rate at which Price list currency is converted to company's base currency"
+msgstr ""
+
+msgid "Rate at which Price list currency is converted to customer's base currency"
+msgstr ""
+
+msgid "Rate at which customer's currency is converted to company's base currency"
+msgstr ""
+
+msgid "Rate at which supplier's currency is converted to company's base currency"
+msgstr ""
+
+msgid "Rate at which this tax is applied"
+msgstr ""
+
+msgid "Rate of Depreciation"
+msgstr ""
+
+msgid "Rate of Depreciation (%)"
+msgstr ""
+
+msgid "Rate of Interest (%) Yearly"
+msgstr ""
+
+msgid "Rate of Stock UOM"
+msgstr ""
+
+msgid "Rate or Discount"
+msgstr ""
+
+msgid "Rate or Discount is required for the price discount."
+msgstr ""
+
+msgid "Rates"
+msgstr ""
+
+msgid "Rating"
+msgstr "การให้คะแนน"
+
+msgid "Ratios"
+msgstr ""
+
+msgid "Raw Material"
+msgstr ""
+
+msgid "Raw Material Code"
+msgstr ""
+
+msgid "Raw Material Cost"
+msgstr ""
+
+msgid "Raw Material Cost (Company Currency)"
+msgstr ""
+
+msgid "Raw Material Cost Per Qty"
+msgstr ""
+
+msgid "Raw Material Item"
+msgstr ""
+
+msgid "Raw Material Item Code"
+msgstr ""
+
+msgid "Raw Material Name"
+msgstr ""
+
+msgid "Raw Material Value"
+msgstr ""
+
+msgid "Raw Material Warehouse"
+msgstr ""
+
+msgid "Raw Materials"
+msgstr ""
+
+msgid "Raw Materials Actions"
+msgstr ""
+
+msgid "Raw Materials Consumed"
+msgstr ""
+
+msgid "Raw Materials Consumption"
+msgstr ""
+
+msgid "Raw Materials Supplied"
+msgstr ""
+
+msgid "Raw Materials Supplied Cost"
+msgstr ""
+
+msgid "Raw Materials cannot be blank."
+msgstr ""
+
+msgid "Raw SQL"
+msgstr ""
+
+msgid "Re-open"
+msgstr ""
+
+msgid "Re-order Level"
+msgstr ""
+
+msgid "Re-order Qty"
+msgstr ""
+
+msgid "Reached Root"
+msgstr ""
+
+msgid "Read Only"
+msgstr ""
+
+msgid "Reading 1"
+msgstr ""
+
+msgid "Reading 10"
+msgstr ""
+
+msgid "Reading 2"
+msgstr "การอ่าน 2"
+
+msgid "Reading 3"
+msgstr "การอ่าน 3"
+
+msgid "Reading 4"
+msgstr "การอ่าน 4"
+
+msgid "Reading 5"
+msgstr "การอ่าน 5"
+
+msgid "Reading 6"
+msgstr "การอ่าน 6"
+
+msgid "Reading 7"
+msgstr "การอ่าน 7"
+
+msgid "Reading 8"
+msgstr "การอ่าน 8"
+
+msgid "Reading 9"
+msgstr "การอ่าน 9"
+
+msgid "Reading Value"
+msgstr "ค่าการอ่าน"
+
+msgid "Readings"
+msgstr "การอ่าน"
+
+msgid "Real Estate"
+msgstr ""
+
+msgid "Reason"
+msgstr "เหตุผล"
+
+msgid "Reason For Putting On Hold"
+msgstr "เหตุผลในการพักการใช้งาน"
+
+msgid "Reason for Failure"
+msgstr "เหตุผลของความล้มเหลว"
+
+msgid "Reason for Hold"
+msgstr "เหตุผลในการพักการใช้งาน"
+
+msgid "Reason for Leaving"
+msgstr "เหตุผลในการออก"
+
+msgid "Reason for hold:"
+msgstr "เหตุผลในการพักการใช้งาน:"
+
+msgid "Rebuild Tree"
+msgstr "สร้างโครงสร้างใหม่"
+
+msgid "Rebuilding BTree for period ..."
+msgstr "กำลังสร้าง BTree ใหม่สำหรับช่วงเวลา ..."
+
+msgid "Recalculate Bin Qty"
+msgstr "คำนวณปริมาณในถังใหม่"
+
+msgid "Recalculate Incoming/Outgoing Rate"
+msgstr "คำนวณอัตราขาเข้า/ขาออกใหม่"
+
+msgid "Receipt"
+msgstr "ใบเสร็จ"
+
+msgid "Receipt Document"
+msgstr "เอกสารใบเสร็จ"
+
+msgid "Receipt Document Type"
+msgstr "ประเภทเอกสารใบเสร็จ"
+
+msgid "Receipt Items"
+msgstr ""
+
+msgid "Receipts"
+msgstr ""
+
+msgid "Receivable"
+msgstr "ลูกหนี้"
+
+msgid "Receivable / Payable Account"
+msgstr "บัญชีลูกหนี้/เจ้าหนี้"
+
+msgid "Receivable Account"
+msgstr "บัญชีลูกหนี้"
+
+msgid "Receivable/Payable Account"
+msgstr "บัญชีลูกหนี้/เจ้าหนี้"
+
+msgid "Receivable/Payable Account: {0} doesn't belong to company {1}"
+msgstr "บัญชีลูกหนี้/เจ้าหนี้: {0} ไม่ได้เป็นของบริษัท {1}"
+
+msgid "Receivables"
+msgstr "ลูกหนี้"
+
+msgid "Receive"
+msgstr "รับ"
+
+msgid "Received"
+msgstr "ได้รับ"
+
+msgid "Received Amount"
+msgstr "จำนวนเงินที่ได้รับ"
+
+msgid "Received Amount (Company Currency)"
+msgstr "จำนวนเงินที่ได้รับ (สกุลเงินบริษัท)"
+
+msgid "Received Amount After Tax"
+msgstr "จำนวนเงินที่ได้รับหลังหักภาษี"
+
+msgid "Received Amount After Tax (Company Currency)"
+msgstr "จำนวนเงินที่ได้รับหลังหักภาษี (สกุลเงินบริษัท)"
+
+msgid "Received Amount cannot be greater than Paid Amount"
+msgstr "จำนวนเงินที่ได้รับไม่สามารถมากกว่าจำนวนเงินที่จ่ายได้"
+
+msgid "Received From"
+msgstr "ได้รับจาก"
+
+msgid "Received Items To Be Billed"
+msgstr "รายการที่ได้รับที่ต้องเรียกเก็บเงิน"
+
+msgid "Received On"
+msgstr "ได้รับเมื่อ"
+
+msgid "Received Qty"
+msgstr "ปริมาณที่ได้รับ"
+
+msgid "Received Qty Amount"
+msgstr "จำนวนปริมาณที่ได้รับ"
+
+msgid "Received Qty in Stock UOM"
+msgstr "ปริมาณที่ได้รับในหน่วยวัดสต็อก"
+
+msgid "Received Quantity"
+msgstr "ปริมาณที่ได้รับ"
+
+msgid "Received Stock Entries"
+msgstr "รายการสต็อกที่ได้รับ"
+
+msgid "Received and Accepted"
+msgstr "ได้รับและยอมรับ"
+
+msgid "Receiver List"
+msgstr "รายการผู้รับ"
+
+msgid "Receiver List is empty. Please create Receiver List"
+msgstr "รายการผู้รับว่างเปล่า โปรดสร้างรายการผู้รับ"
+
+msgid "Receiving"
+msgstr "กำลังรับ"
+
+msgid "Recent Orders"
+msgstr "คำสั่งซื้อล่าสุด"
+
+msgid "Recent Transactions"
+msgstr "ธุรกรรมล่าสุด"
+
+msgid "Recipient"
+msgstr "ผู้รับ"
+
+msgid "Recipient Message And Payment Details"
+msgstr "ข้อความผู้รับและรายละเอียดการชำระเงิน"
+
+msgid "Recipients"
+msgstr "ผู้รับ"
+
+msgid "Reconcile"
+msgstr "กระทบยอด"
+
+msgid "Reconcile All Serial Nos / Batches"
+msgstr "กระทบยอดหมายเลขซีเรียล/แบทช์ทั้งหมด"
+
+msgid "Reconcile Effect On"
+msgstr "ผลกระทบจากการกระทบยอด"
+
+msgid "Reconcile Entries"
+msgstr "กระทบยอดรายการ"
+
+msgid "Reconcile on Advance Payment Date"
+msgstr "กระทบยอดในวันที่ชำระเงินล่วงหน้า"
+
+msgid "Reconcile the Bank Transaction"
+msgstr "กระทบยอดธุรกรรมธนาคาร"
+
+msgid "Reconciled"
+msgstr "กระทบยอดแล้ว"
+
+msgid "Reconciled Entries"
+msgstr "รายการที่กระทบยอดแล้ว"
+
+msgid "Reconciliation Date"
+msgstr "วันที่กระทบยอด"
+
+msgid "Reconciliation Error Log"
+msgstr "บันทึกข้อผิดพลาดการกระทบยอด"
+
+msgid "Reconciliation Logs"
+msgstr "บันทึกการกระทบยอด"
+
+msgid "Reconciliation Progress"
+msgstr "ความคืบหน้าการกระทบยอด"
+
+msgid "Reconciliation Queue Size"
+msgstr "ขนาดคิวการกระทบยอด"
+
+msgid "Reconciliation Takes Effect On"
+msgstr "การกระทบยอดมีผลใน"
+
+msgid "Recording HTML"
+msgstr "การบันทึก HTML"
+
+msgid "Recording URL"
+msgstr "การบันทึก URL"
+
+msgid "Records"
+msgstr ""
+
+msgid "Recoverable Standard Rated expenses should not be set when Reverse Charge Applicable is Y"
+msgstr "ค่าใช้จ่ายที่สามารถกู้คืนได้ในอัตรามาตรฐานไม่ควรถูกตั้งค่าเมื่อมีการใช้ Reverse Charge เป็น Y"
+
+msgid "Recreate Stock Ledgers"
+msgstr "สร้างบัญชีแยกประเภทสต็อกใหม่"
+
+msgid "Recurse Every (As Per Transaction UOM)"

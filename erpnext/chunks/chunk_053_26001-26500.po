@@ -1,0 +1,500 @@
+﻿
+msgid "Weekly Time to send"
+msgstr "เวลาส่งรายสัปดาห์"
+
+msgid "Weight"
+msgstr "น้ำหนัก"
+
+msgid "Weight (kg)"
+msgstr "น้ำหนัก (กก.)"
+
+msgid "Weight Per Unit"
+msgstr "น้ำหนักต่อหน่วย"
+
+msgid "Weight UOM"
+msgstr "หน่วยน้ำหนัก"
+
+msgid "Weighting Function"
+msgstr "ฟังก์ชันการถ่วงน้ำหนัก"
+
+msgid "Welcome email sent"
+msgstr "ส่งอีเมลต้อนรับแล้ว"
+
+msgid "Welcome to {0}"
+msgstr "ยินดีต้อนรับสู่ {0}"
+
+msgid "What do you need help with?"
+msgstr "คุณต้องการความช่วยเหลือเกี่ยวกับอะไร?"
+
+msgid "WhatsApp"
+msgstr ""
+
+msgid "Wheels"
+msgstr "ล้อ"
+
+msgid "When a parent warehouse is chosen, the system conducts Project Qty checks against the associated child warehouses"
+msgstr "เมื่อเลือกคลังสินค้าหลัก ระบบจะตรวจสอบปริมาณโครงการกับคลังสินค้าลูกที่เกี่ยวข้อง"
+
+msgid "When creating an Item, entering a value for this field will automatically create an Item Price at the backend."
+msgstr "เมื่อสร้างรายการ การป้อนค่าลงในฟิลด์นี้จะสร้างราคาสินค้าในส่วนหลังโดยอัตโนมัติ"
+
+msgid "While creating account for Child Company {0}, parent account {1} found as a ledger account."
+msgstr "ขณะสร้างบัญชีสำหรับบริษัทลูก {0} พบว่าบัญชีหลัก {1} เป็นบัญชีแยกประเภท"
+
+msgid "While creating account for Child Company {0}, parent account {1} not found. Please create the parent account in corresponding COA"
+msgstr "ขณะสร้างบัญชีสำหรับบริษัทลูก {0} ไม่พบบัญชีหลัก {1} โปรดสร้างบัญชีหลักใน COA ที่เกี่ยวข้อง"
+
+msgid "While making Purchase Invoice from Purchase Order, use Exchange Rate on Invoice's transaction date rather than inheriting it from Purchase Order. Only applies for Purchase Invoice."
+msgstr "ขณะสร้างใบแจ้งหนี้ซื้อจากคำสั่งซื้อ ให้ใช้อัตราแลกเปลี่ยนในวันที่ทำธุรกรรมของใบแจ้งหนี้แทนที่จะสืบทอดจากคำสั่งซื้อ ใช้ได้เฉพาะสำหรับใบแจ้งหนี้ซื้อ"
+
+msgid "White"
+msgstr "สีขาว"
+
+msgid "Widowed"
+msgstr "เป็นหม้าย"
+
+msgid "Width (cm)"
+msgstr "ความกว้าง (ซม.)"
+
+msgid "Width of amount in word"
+msgstr "ความกว้างของจำนวนในคำ"
+
+msgid "Will also apply for variants"
+msgstr "จะใช้กับตัวแปรด้วย"
+
+msgid "Will also apply for variants unless overridden"
+msgstr "จะใช้กับตัวแปรด้วยเว้นแต่จะถูกแทนที่"
+
+msgid "Wire Transfer"
+msgstr "การโอนเงินผ่านธนาคาร"
+
+msgid "With Operations"
+msgstr "พร้อมการดำเนินการ"
+
+msgid "With Period Closing Entry For Opening Balances"
+msgstr "พร้อมรายการปิดงวดสำหรับยอดยกมา"
+
+msgid "Withdrawal"
+msgstr "การถอนเงิน"
+
+msgid "Work Done"
+msgstr "งานที่เสร็จสิ้น"
+
+msgid "Work In Progress"
+msgstr "งานที่กำลังดำเนินการ"
+
+msgid "Work In Progress Warehouse"
+msgstr "คลังสินค้างานที่กำลังดำเนินการ"
+
+msgid "Work Order"
+msgstr "คำสั่งงาน"
+
+msgid "Work Order / Subcontract PO"
+msgstr "คำสั่งงาน / คำสั่งซื้อช่วง"
+
+msgid "Work Order Analysis"
+msgstr "การวิเคราะห์คำสั่งงาน"
+
+msgid "Work Order Consumed Materials"
+msgstr "วัสดุที่ใช้ในคำสั่งงาน"
+
+msgid "Work Order Item"
+msgstr "รายการคำสั่งงาน"
+
+msgid "Work Order Operation"
+msgstr "การดำเนินการคำสั่งงาน"
+
+msgid "Work Order Qty"
+msgstr "ปริมาณคำสั่งงาน"
+
+msgid "Work Order Qty Analysis"
+msgstr "การวิเคราะห์ปริมาณคำสั่งงาน"
+
+msgid "Work Order Stock Report"
+msgstr "รายงานสต็อกคำสั่งงาน"
+
+msgid "Work Order Summary"
+msgstr "สรุปคำสั่งงาน"
+
+msgid "Work Order cannot be created for following reason: <br> {0}"
+msgstr "ไม่สามารถสร้างคำสั่งงานได้เนื่องจากเหตุผลต่อไปนี้: <br> {0}"
+
+msgid "Work Order cannot be raised against a Item Template"
+msgstr "ไม่สามารถสร้างคำสั่งงานสำหรับแม่แบบรายการได้"
+
+msgid "Work Order has been {0}"
+msgstr "คำสั่งงานได้ถูก {0}"
+
+msgid "Work Order not created"
+msgstr "ไม่ได้สร้างคำสั่งงาน"
+
+msgid "Work Order {0}: Job Card not found for the operation {1}"
+msgstr "คำสั่งงาน {0}: ไม่พบการ์ดงานสำหรับการดำเนินการ {1}"
+
+msgid "Work Orders"
+msgstr "คำสั่งงาน"
+
+msgid "Work Orders Created: {0}"
+msgstr "คำสั่งงานที่สร้าง: {0}"
+
+msgid "Work Orders in Progress"
+msgstr "คำสั่งงานที่กำลังดำเนินการ"
+
+msgid "Work in Progress"
+msgstr "งานที่กำลังดำเนินการ"
+
+msgid "Work-in-Progress Warehouse"
+msgstr "คลังสินค้างานที่กำลังดำเนินการ"
+
+msgid "Work-in-Progress Warehouse is required before Submit"
+msgstr "ต้องการคลังสินค้างานที่กำลังดำเนินการก่อนการส่ง"
+
+msgid "Workday"
+msgstr "วันทำงาน"
+
+msgid "Workday {0} has been repeated."
+msgstr "วันทำงาน {0} ได้ถูกทำซ้ำ"
+
+msgid "Workflow"
+msgstr "เวิร์กโฟลว์"
+
+msgid "Workflow Action"
+msgstr "การดำเนินการเวิร์กโฟลว์"
+
+msgid "Workflow State"
+msgstr "สถานะเวิร์กโฟลว์"
+
+msgid "Working"
+msgstr "กำลังทำงาน"
+
+msgid "Working Hours"
+msgstr "ชั่วโมงทำงาน"
+
+msgid "Workstation"
+msgstr "สถานีงาน"
+
+msgid "Workstation / Machine"
+msgstr "สถานีงาน / เครื่องจักร"
+
+msgid "Workstation Dashboard"
+msgstr "แดชบอร์ดสถานีงาน"
+
+msgid "Workstation Name"
+msgstr "ชื่อสถานีงาน"
+
+msgid "Workstation Status"
+msgstr "สถานะสถานีงาน"
+
+msgid "Workstation Type"
+msgstr "ประเภทสถานีงาน"
+
+msgid "Workstation Working Hour"
+msgstr "ชั่วโมงทำงานสถานีงาน"
+
+msgid "Workstation is closed on the following dates as per Holiday List: {0}"
+msgstr "สถานีงานปิดในวันที่ต่อไปนี้ตามรายการวันหยุด: {0}"
+
+msgid "Workstations"
+msgstr "สถานีงาน"
+
+msgid "Wrapping up"
+msgstr "กำลังสรุป"
+
+msgid "Write Off"
+msgstr "หนี้สูญ"
+
+msgid "Write Off Account"
+msgstr "บัญชีตัดจำหน่าย"
+
+msgid "Write Off Amount"
+msgstr "จำนวนเงินตัดจำหน่าย"
+
+msgid "Write Off Amount (Company Currency)"
+msgstr "จำนวนเงินตัดจำหน่าย (สกุลเงินบริษัท)"
+
+msgid "Write Off Based On"
+msgstr "ตัดจำหน่ายตาม"
+
+msgid "Write Off Cost Center"
+msgstr "ศูนย์ต้นทุนตัดจำหน่าย"
+
+msgid "Write Off Difference Amount"
+msgstr "จำนวนเงินส่วนต่างตัดจำหน่าย"
+
+msgid "Write Off Entry"
+msgstr "รายการตัดจำหน่าย"
+
+msgid "Write Off Limit"
+msgstr "ขีดจำกัดการตัดจำหน่าย"
+
+msgid "Write Off Outstanding Amount"
+msgstr "ตัดจำหน่ายจำนวนเงินค้างชำระ"
+
+msgid "Writeoff"
+msgstr "ตัดจำหน่าย"
+
+msgid "Written Down Value"
+msgstr "มูลค่าหลังการตัดจำหน่าย"
+
+msgid "Wrong Company"
+msgstr "บริษัทผิดอัน"
+
+msgid "Wrong Password"
+msgstr "รหัสผ่านผิด"
+
+msgid "Wrong Template"
+msgstr "เทมเพลตผิดอัน"
+
+msgid "XML Files Processed"
+msgstr "ไฟล์ XML ที่ประมวลผล"
+
+msgid "Yard"
+msgstr ""
+
+msgid "Year"
+msgstr "ปี"
+
+msgid "Year End Date"
+msgstr "วันที่สิ้นปี"
+
+msgid "Year Name"
+msgstr "ชื่อปี"
+
+msgid "Year Start Date"
+msgstr "วันที่เริ่มปี"
+
+msgid "Year of Passing"
+msgstr "ปีที่จบการศึกษา"
+
+msgid "Year start date or end date is overlapping with {0}. To avoid please set company"
+msgstr "วันที่เริ่มปีหรือวันที่สิ้นปีทับซ้อนกับ {0} เพื่อหลีกเลี่ยงโปรดตั้งค่าบริษัท"
+
+msgid "Yearly"
+msgstr "รายปี"
+
+msgid "Yellow"
+msgstr "สีเหลือง"
+
+msgid "Yes"
+msgstr "ใช่"
+
+msgid "You are importing data for the code list:"
+msgstr "คุณกำลังนำเข้าข้อมูลสำหรับรายการรหัส:"
+
+msgid "You are not allowed to update as per the conditions set in {} Workflow."
+msgstr "คุณไม่ได้รับอนุญาตให้อัปเดตตามเงื่อนไขที่ตั้งไว้ในเวิร์กโฟลว์ {}"
+
+msgid "You are not authorized to add or update entries before {0}"
+msgstr "คุณไม่ได้รับอนุญาตให้เพิ่มหรืออัปเดตรายการก่อน {0}"
+
+msgid "You are not authorized to make/edit Stock Transactions for Item {0} under warehouse {1} before this time."
+msgstr "คุณไม่ได้รับอนุญาตให้ทำ/แก้ไขธุรกรรมสต็อกสำหรับรายการ {0} ภายใต้คลังสินค้า {1} ก่อนเวลานี้"
+
+msgid "You are not authorized to set Frozen value"
+msgstr "คุณไม่ได้รับอนุญาตให้ตั้งค่าค่าที่ถูกแช่แข็ง"
+
+msgid "You are picking more than required quantity for the item {0}. Check if there is any other pick list created for the sales order {1}."
+msgstr "คุณกำลังเลือกปริมาณมากกว่าที่ต้องการสำหรับรายการ {0} ตรวจสอบว่ามีรายการเลือกอื่นที่สร้างขึ้นสำหรับคำสั่งขาย {1} หรือไม่"
+
+msgid "You can add the original invoice {} manually to proceed."
+msgstr "คุณสามารถเพิ่มใบแจ้งหนี้ต้นฉบับ {} ด้วยตนเองเพื่อดำเนินการต่อ"
+
+msgid "You can also copy-paste this link in your browser"
+msgstr "คุณยังสามารถคัดลอก-วางลิงก์นี้ในเบราว์เซอร์ของคุณ"
+
+msgid "You can also set default CWIP account in Company {}"
+msgstr "คุณยังสามารถตั้งค่าบัญชี CWIP เริ่มต้นในบริษัท {}"
+
+msgid "You can change the parent account to a Balance Sheet account or select a different account."
+msgstr "คุณสามารถเปลี่ยนบัญชีหลักเป็นบัญชีงบดุลหรือเลือกบัญชีอื่น"
+
+msgid "You can not enter current voucher in 'Against Journal Entry' column"
+msgstr "คุณไม่สามารถป้อนใบสำคัญปัจจุบันในคอลัมน์ 'Against Journal Entry' ได้"
+
+msgid "You can only have Plans with the same billing cycle in a Subscription"
+msgstr "คุณสามารถมีแผนที่มีรอบการเรียกเก็บเงินเดียวกันในการสมัครสมาชิกเท่านั้น"
+
+msgid "You can only redeem max {0} points in this order."
+msgstr "คุณสามารถแลกคะแนนได้สูงสุด {0} คะแนนในคำสั่งซื้อนี้"
+
+msgid "You can only select one mode of payment as default"
+msgstr "คุณสามารถเลือกวิธีการชำระเงินได้เพียงวิธีเดียวเป็นค่าเริ่มต้น"
+
+msgid "You can redeem upto {0}."
+msgstr "คุณสามารถแลกได้สูงสุด {0}"
+
+msgid "You can set it as a machine name or operation type. For example, stiching machine 12"
+msgstr "คุณสามารถตั้งค่าเป็นชื่อเครื่องหรือประเภทการดำเนินการ เช่น เครื่องเย็บ 12"
+
+msgid "You can't make any changes to Job Card since Work Order is closed."
+msgstr "คุณไม่สามารถเปลี่ยนแปลงใด ๆ กับการ์ดงานได้เนื่องจากคำสั่งงานถูกปิด"
+
+msgid "You can't process the serial number {0} as it has already been used in the SABB {1}. {2} if you want to inward same serial number multiple times then enabled 'Allow existing Serial No to be Manufactured/Received again' in the {3}"
+msgstr "คุณไม่สามารถประมวลผลหมายเลขซีเรียล {0} ได้เนื่องจากถูกใช้ใน SABB {1} แล้ว {2} หากคุณต้องการรับหมายเลขซีเรียลเดียวกันหลายครั้ง ให้เปิดใช้งาน 'อนุญาตให้หมายเลขซีเรียลที่มีอยู่ถูกผลิต/รับอีกครั้ง' ใน {3}"
+
+msgid "You can't redeem Loyalty Points having more value than the Total Amount."
+msgstr "คุณไม่สามารถแลกคะแนนสะสมที่มีมูลค่ามากกว่ายอดรวมได้"
+
+msgid "You cannot change the rate if BOM is mentioned against any Item."
+msgstr "คุณไม่สามารถเปลี่ยนอัตราได้หากมีการกล่าวถึง BOM สำหรับรายการใด ๆ"
+
+msgid "You cannot create a {0} within the closed Accounting Period {1}"
+msgstr "คุณไม่สามารถสร้าง {0} ภายในช่วงเวลาบัญชีที่ปิด {1}"
+
+msgid "You cannot create or cancel any accounting entries with in the closed Accounting Period {0}"
+msgstr "คุณไม่สามารถสร้างหรือยกเลิกรายการบัญชีใด ๆ ภายในช่วงเวลาบัญชีที่ปิด {0}"
+
+msgid "You cannot create/amend any accounting entries till this date."
+msgstr "คุณไม่สามารถสร้าง/แก้ไขรายการบัญชีใด ๆ จนถึงวันนี้"
+
+msgid "You cannot credit and debit same account at the same time"
+msgstr "คุณไม่สามารถให้เครดิตและเดบิตบัญชีเดียวกันในเวลาเดียวกัน"
+
+msgid "You cannot delete Project Type 'External'"
+msgstr "คุณไม่สามารถลบประเภทโครงการ 'ภายนอก' ได้"
+
+msgid "You cannot edit root node."
+msgstr "คุณไม่สามารถแก้ไขโหนดรากได้"
+
+msgid "You cannot enable both the settings '{0}' and '{1}'."
+msgstr ""
+
+msgid "You cannot redeem more than {0}."
+msgstr "คุณไม่สามารถแลกได้มากกว่า {0}"
+
+msgid "You cannot repost item valuation before {}"
+msgstr "คุณไม่สามารถโพสต์การประเมินมูลค่ารายการก่อน {} ได้"
+
+msgid "You cannot restart a Subscription that is not cancelled."
+msgstr "คุณไม่สามารถเริ่มการสมัครสมาชิกใหม่ที่ยังไม่ได้ยกเลิกได้"
+
+msgid "You cannot submit empty order."
+msgstr "คุณไม่สามารถส่งคำสั่งซื้อที่ว่างเปล่าได้"
+
+msgid "You cannot submit the order without payment."
+msgstr "คุณไม่สามารถส่งคำสั่งซื้อโดยไม่มีการชำระเงินได้"
+
+msgid "You cannot {0} this document because another Period Closing Entry {1} exists after {2}"
+msgstr "คุณไม่สามารถ {0} เอกสารนี้ได้เนื่องจากมีรายการปิดงวด {1} อื่นที่มีอยู่หลังจาก {2}"
+
+msgid "You do not have permissions to {} items in a {}."
+msgstr "คุณไม่มีสิทธิ์ {} รายการใน {}"
+
+msgid "You don't have enough Loyalty Points to redeem"
+msgstr "คุณไม่มีคะแนนสะสมเพียงพอที่จะแลก"
+
+msgid "You don't have enough points to redeem."
+msgstr "คุณไม่มีคะแนนเพียงพอที่จะแลก"
+
+msgid "You had {} errors while creating opening invoices. Check {} for more details"
+msgstr "คุณมีข้อผิดพลาด {} ขณะสร้างใบแจ้งหนี้เปิด ตรวจสอบ {} สำหรับรายละเอียดเพิ่มเติม"
+
+msgid "You have already selected items from {0} {1}"
+msgstr "คุณได้เลือกรายการจาก {0} {1} แล้ว"
+
+msgid "You have been invited to collaborate on the project {0}."
+msgstr "คุณได้รับเชิญให้ร่วมมือในโครงการ {0}"
+
+msgid "You have entered a duplicate Delivery Note on Row"
+msgstr "คุณได้ป้อนใบส่งของซ้ำในแถว"
+
+msgid "You have to enable auto re-order in Stock Settings to maintain re-order levels."
+msgstr "คุณต้องเปิดใช้งานการสั่งซื้ออัตโนมัติในการตั้งค่าสต็อกเพื่อรักษาระดับการสั่งซื้อใหม่"
+
+msgid "You have unsaved changes. Do you want to save the invoice?"
+msgstr "คุณมีการเปลี่ยนแปลงที่ยังไม่ได้บันทึก คุณต้องการบันทึกใบแจ้งหนี้หรือไม่?"
+
+msgid "You haven't created a {0} yet"
+msgstr "คุณยังไม่ได้สร้าง {0}"
+
+msgid "You must select a customer before adding an item."
+msgstr "คุณต้องเลือกลูกค้าก่อนเพิ่มรายการ"
+
+msgid "You need to cancel POS Closing Entry {} to be able to cancel this document."
+msgstr "คุณต้องยกเลิกการปิด POS Entry {} เพื่อที่จะยกเลิกเอกสารนี้"
+
+msgid "You selected the account group {1} as {2} Account in row {0}. Please select a single account."
+msgstr "คุณเลือกกลุ่มบัญชี {1} เป็นบัญชี {2} ในแถว {0} โปรดเลือกบัญชีเดียว"
+
+msgid "YouTube"
+msgstr ""
+
+msgid "YouTube Interactions"
+msgstr "การโต้ตอบบน YouTube"
+
+msgid "Your Name (required)"
+msgstr "ชื่อของคุณ (จำเป็น)"
+
+msgid "Your email has been verified and your appointment has been scheduled"
+msgstr "อีเมลของคุณได้รับการยืนยันและการนัดหมายของคุณถูกกำหนดเวลาแล้ว"
+
+msgid "Your order is out for delivery!"
+msgstr "คำสั่งซื้อของคุณกำลังจัดส่ง!"
+
+msgid "Your tickets"
+msgstr "ตั๋วของคุณ"
+
+msgid "Youtube ID"
+msgstr "รหัส YouTube"
+
+msgid "Youtube Statistics"
+msgstr "สถิติ YouTube"
+
+msgid "ZIP Code"
+msgstr "รหัสไปรษณีย์"
+
+msgid "Zero Balance"
+msgstr "ยอดคงเหลือศูนย์"
+
+msgid "Zero Rated"
+msgstr "อัตราศูนย์"
+
+msgid "Zero quantity"
+msgstr "ปริมาณศูนย์"
+
+msgid "Zip File"
+msgstr "ไฟล์ซิป"
+
+msgid "[Important] [ERPNext] Auto Reorder Errors"
+msgstr "[สำคัญ] [ERPNext] ข้อผิดพลาดการสั่งซื้ออัตโนมัติ"
+
+msgid "`Allow Negative rates for Items`"
+msgstr "`อนุญาตอัตราเชิงลบสำหรับรายการ`"
+
+msgid "after"
+msgstr "หลังจาก"
+
+msgid "and"
+msgstr "และ"
+
+msgid "as Code"
+msgstr "เป็นโค้ด"
+
+msgid "as Description"
+msgstr "เป็นคำอธิบาย"
+
+msgid "as Title"
+msgstr "เป็นชื่อเรื่อง"
+
+msgid "as a percentage of finished item quantity"
+msgstr "เป็นเปอร์เซ็นต์ของปริมาณรายการที่เสร็จสมบูรณ์"
+
+msgid "at"
+msgstr "ที่"
+
+msgid "based_on"
+msgstr "อิงตาม"
+
+msgid "by {}"
+msgstr "โดย {}"
+
+msgid "cannot be greater than 100"
+msgstr "ต้องไม่เกิน 100"
+
+msgid "dated {0}"
+msgstr "ลงวันที่ {0}"
+
+msgid "description"
+msgstr "คำอธิบาย"
+
+msgid "development"

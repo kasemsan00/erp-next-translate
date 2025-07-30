@@ -1,0 +1,500 @@
+﻿msgid "Planned End Date"
+msgstr "วันที่สิ้นสุดที่วางแผนไว้"
+
+msgid "Planned End Time"
+msgstr "เวลาสิ้นสุดที่วางแผนไว้"
+
+msgid "Planned Operating Cost"
+msgstr "ต้นทุนการดำเนินงานที่วางแผนไว้"
+
+msgid "Planned Qty"
+msgstr "ปริมาณที่วางแผนไว้"
+
+msgid "Planned Qty: Quantity, for which, Work Order has been raised, but is pending to be manufactured."
+msgstr "ปริมาณที่วางแผนไว้: ปริมาณที่คำสั่งงานถูกสร้างขึ้น แต่ยังรอการผลิต"
+
+msgid "Planned Quantity"
+msgstr "ปริมาณที่วางแผนไว้"
+
+msgid "Planned Start Date"
+msgstr "วันที่เริ่มต้นที่วางแผนไว้"
+
+msgid "Planned Start Time"
+msgstr "เวลาเริ่มต้นที่วางแผนไว้"
+
+msgid "Planning"
+msgstr "การวางแผน"
+
+msgid "Plans"
+msgstr "แผน"
+
+msgid "Plant Dashboard"
+msgstr "แดชบอร์ดโรงงาน"
+
+msgid "Plant Floor"
+msgstr "พื้นที่โรงงาน"
+
+msgid "Plants and Machineries"
+msgstr "โรงงานและเครื่องจักร"
+
+msgid "Please Restock Items and Update the Pick List to continue. To discontinue, cancel the Pick List."
+msgstr "โปรดเติมสินค้าคงคลังและอัปเดตรายการเลือกเพื่อดำเนินการต่อ หากต้องการยกเลิก ให้ยกเลิกรายการเลือก"
+
+msgid "Please Select a Company"
+msgstr "โปรดเลือกบริษัท"
+
+msgid "Please Select a Company."
+msgstr "โปรดเลือกบริษัท"
+
+msgid "Please Select a Customer"
+msgstr "โปรดเลือกลูกค้า"
+
+msgid "Please Select a Supplier"
+msgstr "โปรดเลือกผู้จัดจำหน่าย"
+
+msgid "Please Set Priority"
+msgstr "โปรดตั้งค่าลำดับความสำคัญ"
+
+msgid "Please Set Supplier Group in Buying Settings."
+msgstr "โปรดตั้งค่ากลุ่มผู้จัดจำหน่ายในการตั้งค่าการซื้อ"
+
+msgid "Please Specify Account"
+msgstr "โปรดระบุบัญชี"
+
+msgid "Please add 'Supplier' role to user {0}."
+msgstr "โปรดเพิ่มบทบาท 'ผู้จัดจำหน่าย' ให้กับผู้ใช้ {0}"
+
+msgid "Please add Mode of payments and opening balance details."
+msgstr "โปรดเพิ่มวิธีการชำระเงินและรายละเอียดยอดคงเหลือเริ่มต้น"
+
+msgid "Please add Request for Quotation to the sidebar in Portal Settings."
+msgstr "โปรดเพิ่มคำขอใบเสนอราคาในแถบด้านข้างในการตั้งค่าพอร์ทัล"
+
+msgid "Please add Root Account for - {0}"
+msgstr "กรุณาเพิ่มบัญชี Root สำหรับ - {0}"
+
+msgid "Please add a Temporary Opening account in Chart of Accounts"
+msgstr "กรุณาเพิ่มบัญชีเปิดชั่วคราวในผังบัญชี"
+
+msgid "Please add atleast one Serial No / Batch No"
+msgstr "โปรดเพิ่มหมายเลขซีเรียล/แบทช์อย่างน้อยหนึ่งรายการ"
+
+msgid "Please add the Bank Account column"
+msgstr "โปรดเพิ่มคอลัมน์บัญชีธนาคาร"
+
+msgid "Please add the account to root level Company - {0}"
+msgstr "โปรดเพิ่มบัญชีไปยังบริษัทระดับราก - {0}"
+
+msgid "Please add the account to root level Company - {}"
+msgstr "โปรดเพิ่มบัญชีไปยังบริษัทระดับราก - {}"
+
+msgid "Please add {1} role to user {0}."
+msgstr "โปรดเพิ่มบทบาท {1} ให้กับผู้ใช้ {0}"
+
+msgid "Please adjust the qty or edit {0} to proceed."
+msgstr "โปรดปรับปริมาณหรือแก้ไข {0} เพื่อดำเนินการต่อ"
+
+msgid "Please attach CSV file"
+msgstr "โปรดแนบไฟล์ CSV"
+
+msgid "Please cancel and amend the Payment Entry"
+msgstr "โปรดยกเลิกและแก้ไขรายการชำระเงิน"
+
+msgid "Please cancel payment entry manually first"
+msgstr "โปรดยกเลิกรายการชำระเงินด้วยตนเองก่อน"
+
+msgid "Please cancel related transaction."
+msgstr "โปรดยกเลิกธุรกรรมที่เกี่ยวข้อง"
+
+msgid "Please check Multi Currency option to allow accounts with other currency"
+msgstr "โปรดตรวจสอบตัวเลือกหลายสกุลเงินเพื่ออนุญาตบัญชีที่มีสกุลเงินอื่น"
+
+msgid "Please check Process Deferred Accounting {0} and submit manually after resolving errors."
+msgstr "โปรดตรวจสอบกระบวนการบัญชีเลื่อน {0} และส่งด้วยตนเองหลังจากแก้ไขข้อผิดพลาด"
+
+msgid "Please check either with operations or FG Based Operating Cost."
+msgstr "โปรดตรวจสอบกับการดำเนินการหรือค่าใช้จ่ายการดำเนินงานตาม FG"
+
+msgid "Please check the error message and take necessary actions to fix the error and then restart the reposting again."
+msgstr "โปรดตรวจสอบข้อความข้อผิดพลาดและดำเนินการที่จำเป็นเพื่อแก้ไขข้อผิดพลาด จากนั้นเริ่มการโพสต์ใหม่อีกครั้ง"
+
+msgid "Please check your Plaid client ID and secret values"
+msgstr "โปรดตรวจสอบรหัสลูกค้า Plaid และค่ารหัสลับของคุณ"
+
+msgid "Please check your email to confirm the appointment"
+msgstr "โปรดตรวจสอบอีเมลของคุณเพื่อยืนยันการนัดหมาย"
+
+msgid "Please click on 'Generate Schedule'"
+msgstr "โปรดคลิกที่ 'สร้างกำหนดการ'"
+
+msgid "Please click on 'Generate Schedule' to fetch Serial No added for Item {0}"
+msgstr "โปรดคลิกที่ 'สร้างกำหนดการ' เพื่อดึงหมายเลขซีเรียลที่เพิ่มสำหรับรายการ {0}"
+
+msgid "Please click on 'Generate Schedule' to get schedule"
+msgstr "โปรดคลิกที่ 'สร้างกำหนดการ' เพื่อรับกำหนดการ"
+
+msgid "Please contact any of the following users to extend the credit limits for {0}: {1}"
+msgstr "โปรดติดต่อผู้ใช้ใด ๆ ต่อไปนี้เพื่อขยายวงเงินเครดิตสำหรับ {0}: {1}"
+
+msgid "Please contact any of the following users to {} this transaction."
+msgstr "โปรดติดต่อผู้ใช้ใด ๆ ต่อไปนี้เพื่อ {} ธุรกรรมนี้"
+
+msgid "Please contact your administrator to extend the credit limits for {0}."
+msgstr "โปรดติดต่อผู้ดูแลระบบของคุณเพื่อขยายวงเงินเครดิตสำหรับ {0}"
+
+msgid "Please convert the parent account in corresponding child company to a group account."
+msgstr "โปรดแปลงบัญชีหลักในบริษัทลูกที่เกี่ยวข้องให้เป็นบัญชีกลุ่ม"
+
+msgid "Please create Customer from Lead {0}."
+msgstr "โปรดสร้างลูกค้าจากลูกค้าเป้าหมาย {0}"
+
+msgid "Please create Landed Cost Vouchers against Invoices that have 'Update Stock' enabled."
+msgstr "โปรดสร้างใบสำคัญต้นทุนที่ดินกับใบแจ้งหนี้ที่เปิดใช้งาน 'อัปเดตสต็อก'"
+
+msgid "Please create a new Accounting Dimension if required."
+msgstr "โปรดสร้างมิติการบัญชีใหม่หากจำเป็น"
+
+msgid "Please create purchase from internal sale or delivery document itself"
+msgstr "โปรดสร้างการซื้อจากการขายภายในหรือเอกสารการจัดส่งเอง"
+
+msgid "Please create purchase receipt or purchase invoice for the item {0}"
+msgstr "โปรดสร้างใบรับซื้อหรือใบแจ้งหนี้ซื้อสำหรับรายการ {0}"
+
+msgid "Please delete Product Bundle {0}, before merging {1} into {2}"
+msgstr "โปรดลบชุดผลิตภัณฑ์ {0} ก่อนรวม {1} เข้ากับ {2}"
+
+msgid "Please disable workflow temporarily for Journal Entry {0}"
+msgstr "โปรดปิดใช้งานเวิร์กโฟลว์ชั่วคราวสำหรับรายการบัญชี {0}"
+
+msgid "Please do not book expense of multiple assets against one single Asset."
+msgstr "โปรดอย่าบันทึกค่าใช้จ่ายของสินทรัพย์หลายรายการกับสินทรัพย์เดียว"
+
+msgid "Please do not create more than 500 items at a time"
+msgstr "โปรดอย่าสร้างรายการมากกว่า 500 รายการในครั้งเดียว"
+
+msgid "Please enable Applicable on Booking Actual Expenses"
+msgstr "โปรดเปิดใช้งานสำหรับการจองค่าใช้จ่ายจริง"
+
+msgid "Please enable Applicable on Purchase Order and Applicable on Booking Actual Expenses"
+msgstr "โปรดเปิดใช้งานสำหรับคำสั่งซื้อและการจองค่าใช้จ่ายจริง"
+
+msgid "Please enable Use Old Serial / Batch Fields to make_bundle"
+msgstr "โปรดเปิดใช้งานการใช้ฟิลด์ซีเรียล/แบทช์เก่าเพื่อสร้างชุด"
+
+msgid "Please enable only if the understand the effects of enabling this."
+msgstr "โปรดเปิดใช้งานเฉพาะเมื่อเข้าใจผลกระทบของการเปิดใช้งานนี้"
+
+msgid "Please enable pop-ups"
+msgstr "โปรดเปิดใช้งานป๊อปอัป"
+
+msgid "Please enable {0} in the {1}."
+msgstr "โปรดเปิดใช้งาน {0} ใน {1}"
+
+msgid "Please enable {} in {} to allow same item in multiple rows"
+msgstr "โปรดเปิดใช้งาน {} ใน {} เพื่ออนุญาตรายการเดียวกันในหลายแถว"
+
+msgid "Please ensure that the {0} account is a Balance Sheet account. You can change the parent account to a Balance Sheet account or select a different account."
+msgstr "โปรดตรวจสอบว่าบัญชี {0} เป็นบัญชีงบดุล คุณสามารถเปลี่ยนบัญชีหลักเป็นบัญชีงบดุลหรือเลือกบัญชีอื่น"
+
+msgid "Please ensure that the {0} account {1} is a Payable account. You can change the account type to Payable or select a different account."
+msgstr "โปรดตรวจสอบว่าบัญชี {0} {1} เป็นบัญชีเจ้าหนี้ คุณสามารถเปลี่ยนประเภทบัญชีเป็นเจ้าหนี้หรือเลือกบัญชีอื่น"
+
+msgid "Please ensure {} account is a Balance Sheet account."
+msgstr "โปรดตรวจสอบว่าบัญชี {} เป็นบัญชีงบดุล"
+
+msgid "Please ensure {} account {} is a Receivable account."
+msgstr "โปรดตรวจสอบว่าบัญชี {} {} เป็นบัญชีลูกหนี้"
+
+msgid "Please enter <b>Difference Account</b> or set default <b>Stock Adjustment Account</b> for company {0}"
+msgstr "โปรดป้อน <b>บัญชีส่วนต่าง</b> หรือกำหนดค่าเริ่มต้น <b>บัญชีปรับปรุงสต็อก</b> สำหรับบริษัท {0}"
+
+msgid "Please enter Account for Change Amount"
+msgstr "โปรดป้อนบัญชีสำหรับจำนวนเงินที่เปลี่ยนแปลง"
+
+msgid "Please enter Approving Role or Approving User"
+msgstr "โปรดป้อนบทบาทการอนุมัติหรือผู้ใช้งานที่อนุมัติ"
+
+msgid "Please enter Cost Center"
+msgstr "โปรดป้อนศูนย์ต้นทุน"
+
+msgid "Please enter Delivery Date"
+msgstr "โปรดป้อนวันที่จัดส่ง"
+
+msgid "Please enter Employee Id of this sales person"
+msgstr "โปรดป้อนรหัสพนักงานของพนักงานขายนี้"
+
+msgid "Please enter Expense Account"
+msgstr "โปรดป้อนบัญชีค่าใช้จ่าย"
+
+msgid "Please enter Item Code to get Batch Number"
+msgstr "โปรดป้อนรหัสรายการเพื่อรับหมายเลขแบทช์"
+
+msgid "Please enter Item Code to get batch no"
+msgstr "โปรดป้อนรหัสรายการเพื่อรับหมายเลขแบทช์"
+
+msgid "Please enter Item first"
+msgstr "โปรดป้อนรายการก่อน"
+
+msgid "Please enter Maintenance Details first"
+msgstr "โปรดป้อนรายละเอียดการบำรุงรักษาก่อน"
+
+msgid "Please enter Planned Qty for Item {0} at row {1}"
+msgstr "โปรดป้อนปริมาณที่วางแผนไว้สำหรับรายการ {0} ที่แถว {1}"
+
+msgid "Please enter Preferred Contact Email"
+msgstr "โปรดป้อนอีเมลติดต่อที่ต้องการ"
+
+msgid "Please enter Production Item first"
+msgstr "โปรดป้อนรายการผลิตก่อน"
+
+msgid "Please enter Purchase Receipt first"
+msgstr "โปรดป้อนใบรับซื้อก่อน"
+
+msgid "Please enter Receipt Document"
+msgstr "โปรดป้อนเอกสารใบเสร็จ"
+
+msgid "Please enter Reference date"
+msgstr "โปรดป้อนวันที่อ้างอิง"
+
+msgid "Please enter Root Type for account- {0}"
+msgstr "กรุณากรอกหมวดหมู่สำหรับบัญชี- {0}"
+
+msgid "Please enter Serial Nos"
+msgstr "โปรดป้อนหมายเลขซีเรียล"
+
+msgid "Please enter Shipment Parcel information"
+msgstr "โปรดป้อนข้อมูลพัสดุการจัดส่ง"
+
+msgid "Please enter Warehouse and Date"
+msgstr "โปรดป้อนคลังสินค้าและวันที่"
+
+msgid "Please enter Write Off Account"
+msgstr "โปรดป้อนบัญชีตัดบัญชี"
+
+msgid "Please enter company first"
+msgstr "โปรดป้อนบริษัทก่อน"
+
+msgid "Please enter company name first"
+msgstr "โปรดป้อนชื่อบริษัทก่อน"
+
+msgid "Please enter default currency in Company Master"
+msgstr "โปรดป้อนสกุลเงินเริ่มต้นใน Company Master"
+
+msgid "Please enter message before sending"
+msgstr "โปรดป้อนข้อความก่อนส่ง"
+
+msgid "Please enter mobile number first."
+msgstr "โปรดป้อนหมายเลขมือถือก่อน"
+
+msgid "Please enter parent cost center"
+msgstr "โปรดป้อนศูนย์ต้นทุนหลัก"
+
+msgid "Please enter quantity for item {0}"
+msgstr "โปรดป้อนปริมาณสำหรับรายการ {0}"
+
+msgid "Please enter relieving date."
+msgstr "โปรดป้อนวันที่ปลดปล่อย"
+
+msgid "Please enter serial nos"
+msgstr "โปรดป้อนหมายเลขซีเรียล"
+
+msgid "Please enter the company name to confirm"
+msgstr "โปรดป้อนชื่อบริษัทเพื่อยืนยัน"
+
+msgid "Please enter the phone number first"
+msgstr "โปรดป้อนหมายเลขโทรศัพท์ก่อน"
+
+msgid "Please enter the {schedule_date}."
+msgstr "โปรดป้อน {schedule_date}"
+
+msgid "Please enter valid Financial Year Start and End Dates"
+msgstr "โปรดป้อนวันที่เริ่มต้นและสิ้นสุดปีการเงินที่ถูกต้อง"
+
+msgid "Please enter {0}"
+msgstr "โปรดป้อน {0}"
+
+msgid "Please enter {0} first"
+msgstr "โปรดป้อน {0} ก่อน"
+
+msgid "Please fill the Material Requests table"
+msgstr "โปรดกรอกตารางคำขอวัสดุ"
+
+msgid "Please fill the Sales Orders table"
+msgstr "โปรดกรอกตารางคำสั่งขาย"
+
+msgid "Please first set Last Name, Email and Phone for the user"
+msgstr "โปรดตั้งค่านามสกุล อีเมล และโทรศัพท์สำหรับผู้ใช้ก่อน"
+
+msgid "Please fix overlapping time slots for {0}"
+msgstr "โปรดแก้ไขช่วงเวลาที่ทับซ้อนกันสำหรับ {0}"
+
+msgid "Please fix overlapping time slots for {0}."
+msgstr "โปรดแก้ไขช่วงเวลาที่ทับซ้อนกันสำหรับ {0}"
+
+msgid "Please import accounts against parent company or enable {} in company master."
+msgstr "กรุณานำเข้าบัญชีจากบริษัทแม่หรือเปิดใช้งาน {} ในบัญชีหลักของบริษัท"
+
+msgid "Please make sure the employees above report to another Active employee."
+msgstr "โปรดตรวจสอบว่าพนักงานข้างต้นรายงานต่อพนักงานที่ยังทำงานอยู่"
+
+msgid "Please make sure the file you are using has 'Parent Account' column present in the header."
+msgstr "กรุณาตรวจสอบว่าไฟล์ที่คุณใช้มีคอลัมน์ 'บัญชีแม่' อยู่ในส่วนหัว"
+
+msgid "Please make sure you really want to delete all the transactions for this company. Your master data will remain as it is. This action cannot be undone."
+msgstr "โปรดตรวจสอบว่าคุณต้องการลบธุรกรรมทั้งหมดสำหรับบริษัทนี้จริง ๆ ข้อมูลหลักของคุณจะยังคงอยู่ การกระทำนี้ไม่สามารถยกเลิกได้"
+
+msgid "Please mention 'Weight UOM' along with Weight."
+msgstr "โปรดระบุ 'หน่วยวัดน้ำหนัก' พร้อมกับน้ำหนัก"
+
+msgid "Please mention '{0}' in Company: {1}"
+msgstr "โปรดระบุ '{0}' ในบริษัท: {1}"
+
+msgid "Please mention no of visits required"
+msgstr "โปรดระบุจำนวนการเยี่ยมชมที่ต้องการ"
+
+msgid "Please mention the Current and New BOM for replacement."
+msgstr "โปรดระบุ BOM ปัจจุบันและใหม่สำหรับการเปลี่ยน"
+
+msgid "Please pull items from Delivery Note"
+msgstr "โปรดดึงรายการจากใบส่งของ"
+
+msgid "Please rectify and try again."
+msgstr "โปรดแก้ไขและลองอีกครั้ง"
+
+msgid "Please refresh or reset the Plaid linking of the Bank {}."
+msgstr "โปรดรีเฟรชหรือรีเซ็ตการเชื่อมโยง Plaid ของธนาคาร {}"
+
+msgid "Please save before proceeding."
+msgstr "โปรดบันทึกก่อนดำเนินการต่อ"
+
+msgid "Please save first"
+msgstr "โปรดบันทึกก่อน"
+
+msgid "Please select <b>Template Type</b> to download template"
+msgstr "กรุณาเลือก <b>ประเภทเทมเพลต</b> เพื่อดาวน์โหลดเทมเพลต"
+
+msgid "Please select Apply Discount On"
+msgstr "โปรดเลือกใช้ส่วนลดใน"
+
+msgid "Please select BOM against item {0}"
+msgstr "โปรดเลือก BOM สำหรับรายการ {0}"
+
+msgid "Please select BOM for Item in Row {0}"
+msgstr "โปรดเลือก BOM สำหรับรายการในแถว {0}"
+
+msgid "Please select BOM in BOM field for Item {item_code}."
+msgstr "โปรดเลือก BOM ในฟิลด์ BOM สำหรับรายการ {item_code}"
+
+msgid "Please select Bank Account"
+msgstr "โปรดเลือกบัญชีธนาคาร"
+
+msgid "Please select Category first"
+msgstr "โปรดเลือกหมวดหมู่ก่อน"
+
+msgid "Please select Charge Type first"
+msgstr "โปรดเลือกประเภทค่าใช้จ่ายก่อน"
+
+msgid "Please select Company"
+msgstr "โปรดเลือกบริษัท"
+
+msgid "Please select Company and Posting Date to getting entries"
+msgstr "โปรดเลือกบริษัทและวันที่โพสต์เพื่อรับรายการ"
+
+msgid "Please select Company first"
+msgstr "โปรดเลือกบริษัทก่อน"
+
+msgid "Please select Completion Date for Completed Asset Maintenance Log"
+msgstr "โปรดเลือกวันที่เสร็จสิ้นสำหรับบันทึกการบำรุงรักษาสินทรัพย์ที่เสร็จสมบูรณ์"
+
+msgid "Please select Customer first"
+msgstr "โปรดเลือกลูกค้าก่อน"
+
+msgid "Please select Existing Company for creating Chart of Accounts"
+msgstr "กรุณาเลือกบริษัทที่มีอยู่เพื่อสร้างผังบัญชี"
+
+msgid "Please select Finished Good Item for Service Item {0}"
+msgstr "โปรดเลือกรายการสินค้าสำเร็จรูปสำหรับรายการบริการ {0}"
+
+msgid "Please select Item Code first"
+msgstr "โปรดเลือกรหัสรายการก่อน"
+
+msgid "Please select Maintenance Status as Completed or remove Completion Date"
+msgstr "โปรดเลือกสถานะการบำรุงรักษาเป็นเสร็จสมบูรณ์หรือเอาวันที่เสร็จสิ้นออก"
+
+msgid "Please select Party Type first"
+msgstr "โปรดเลือกประเภทคู่สัญญาก่อน"
+
+msgid "Please select Periodic Accounting Entry Difference Account"
+msgstr ""
+
+msgid "Please select Posting Date before selecting Party"
+msgstr "โปรดเลือกวันที่โพสต์ก่อนเลือกคู่สัญญา"
+
+msgid "Please select Posting Date first"
+msgstr "โปรดเลือกวันที่โพสต์ก่อน"
+
+msgid "Please select Price List"
+msgstr "โปรดเลือกรายการราคา"
+
+msgid "Please select Qty against item {0}"
+msgstr "โปรดเลือกปริมาณสำหรับรายการ {0}"
+
+msgid "Please select Sample Retention Warehouse in Stock Settings first"
+msgstr "โปรดเลือกคลังสินค้าสำหรับเก็บตัวอย่างในการตั้งค่าสต็อกก่อน"
+
+msgid "Please select Serial/Batch Nos to reserve or change Reservation Based On to Qty."
+msgstr "โปรดเลือกหมายเลขซีเรียล/แบทช์เพื่อจองหรือเปลี่ยนการจองตามปริมาณ"
+
+msgid "Please select Start Date and End Date for Item {0}"
+msgstr "โปรดเลือกวันที่เริ่มต้นและวันที่สิ้นสุดสำหรับรายการ {0}"
+
+msgid "Please select Stock Asset Account"
+msgstr ""
+
+msgid "Please select Subcontracting Order instead of Purchase Order {0}"
+msgstr "โปรดเลือกคำสั่งจ้างช่วงแทนคำสั่งซื้อ {0}"
+
+msgid "Please select Unrealized Profit / Loss account or add default Unrealized Profit / Loss account account for company {0}"
+msgstr "โปรดเลือกบัญชีกำไร/ขาดทุนที่ยังไม่รับรู้หรือเพิ่มบัญชีกำไร/ขาดทุนที่ยังไม่รับรู้เริ่มต้นสำหรับบริษัท {0}"
+
+msgid "Please select a BOM"
+msgstr "โปรดเลือก BOM"
+
+msgid "Please select a Company"
+msgstr "โปรดเลือกบริษัท"
+
+msgid "Please select a Company first."
+msgstr "โปรดเลือกบริษัทก่อน"
+
+msgid "Please select a Customer"
+msgstr "โปรดเลือกลูกค้า"
+
+msgid "Please select a Delivery Note"
+msgstr "โปรดเลือกใบส่งของ"
+
+msgid "Please select a Subcontracting Purchase Order."
+msgstr "โปรดเลือกคำสั่งซื้อจ้างช่วง"
+
+msgid "Please select a Supplier"
+msgstr "โปรดเลือกผู้จัดจำหน่าย"
+
+msgid "Please select a Warehouse"
+msgstr "โปรดเลือกคลังสินค้า"
+
+msgid "Please select a Work Order first."
+msgstr "โปรดเลือกคำสั่งงานก่อน"
+
+msgid "Please select a country"
+msgstr "โปรดเลือกประเทศ"
+
+msgid "Please select a customer for fetching payments."
+msgstr "โปรดเลือกลูกค้าเพื่อดึงการชำระเงิน"
+
+msgid "Please select a date"
+msgstr "โปรดเลือกวันที่"
+
+msgid "Please select a date and time"
+msgstr "โปรดเลือกวันที่และเวลา"
+
+msgid "Please select a default mode of payment"
+msgstr "โปรดเลือกโหมดการชำระเงินเริ่มต้น"

@@ -1,0 +1,500 @@
+﻿msgstr "จำนวนเงินการขาย"
+
+msgid "Selling Price List"
+msgstr "รายการราคาขาย"
+
+msgid "Selling Rate"
+msgstr "อัตราการขาย"
+
+msgid "Selling Settings"
+msgstr "การตั้งค่าการขาย"
+
+msgid "Selling must be checked, if Applicable For is selected as {0}"
+msgstr "ต้องตรวจสอบการขาย หากเลือกใช้สำหรับ {0}"
+
+msgid "Semi Finished Good / Finished Good"
+msgstr "สินค้ากึ่งสำเร็จรูป / สินค้าสำเร็จรูป"
+
+msgid "Semi Finished Goods / Finished Goods"
+msgstr "สินค้ากึ่งสำเร็จรูป / สินค้าสำเร็จรูป"
+
+msgid "Send"
+msgstr "ส่ง"
+
+msgid "Send After (days)"
+msgstr "ส่งหลังจาก (วัน)"
+
+msgid "Send Attached Files"
+msgstr "ส่งไฟล์แนบ"
+
+msgid "Send Document Print"
+msgstr "ส่งเอกสารพิมพ์"
+
+msgid "Send Email"
+msgstr "ส่งอีเมล"
+
+msgid "Send Emails"
+msgstr "ส่งอีเมล"
+
+msgid "Send Emails to Suppliers"
+msgstr "ส่งอีเมลถึงผู้จัดจำหน่าย"
+
+msgid "Send Now"
+msgstr "ส่งเดี๋ยวนี้"
+
+msgid "Send SMS"
+msgstr "ส่ง SMS"
+
+msgid "Send To"
+msgstr "ส่งถึง"
+
+msgid "Send To Primary Contact"
+msgstr "ส่งถึงผู้ติดต่อหลัก"
+
+msgid "Send regular summary reports via Email."
+msgstr "ส่งรายงานสรุปประจำทางอีเมล"
+
+msgid "Send to Subcontractor"
+msgstr "ส่งถึงผู้รับจ้างช่วง"
+
+msgid "Send with Attachment"
+msgstr "ส่งพร้อมไฟล์แนบ"
+
+msgid "Sender"
+msgstr "ผู้ส่ง"
+
+msgid "Sending"
+msgstr "กำลังส่ง"
+
+msgid "Sent"
+msgstr "ส่งแล้ว"
+
+msgid "Sequence ID"
+msgstr ""
+
+msgid "Sequence Id"
+msgstr ""
+
+msgid "Sequential"
+msgstr ""
+
+msgid "Serial & Batch Item"
+msgstr ""
+
+msgid "Serial & Batch Item Settings"
+msgstr ""
+
+msgid "Serial / Batch Bundle"
+msgstr ""
+
+msgid "Serial / Batch Bundle Missing"
+msgstr ""
+
+msgid "Serial / Batch No"
+msgstr ""
+
+msgid "Serial / Batch Nos"
+msgstr ""
+
+msgid "Serial No"
+msgstr ""
+
+msgid "Serial No (In/Out)"
+msgstr ""
+
+msgid "Serial No / Batch"
+msgstr ""
+
+msgid "Serial No Already Assigned"
+msgstr ""
+
+msgid "Serial No Count"
+msgstr ""
+
+msgid "Serial No Ledger"
+msgstr ""
+
+msgid "Serial No Range"
+msgstr ""
+
+msgid "Serial No Reserved"
+msgstr ""
+
+msgid "Serial No Service Contract Expiry"
+msgstr ""
+
+msgid "Serial No Status"
+msgstr ""
+
+msgid "Serial No Warranty Expiry"
+msgstr ""
+
+msgid "Serial No and Batch"
+msgstr ""
+
+msgid "Serial No and Batch Selector cannot be use when Use Serial / Batch Fields is enabled."
+msgstr ""
+
+msgid "Serial No is mandatory"
+msgstr ""
+
+msgid "Serial No is mandatory for Item {0}"
+msgstr ""
+
+msgid "Serial No {0} already exists"
+msgstr ""
+
+msgid "Serial No {0} already scanned"
+msgstr ""
+
+msgid "Serial No {0} does not belong to Delivery Note {1}"
+msgstr ""
+
+msgid "Serial No {0} does not belong to Item {1}"
+msgstr ""
+
+msgid "Serial No {0} does not exist"
+msgstr ""
+
+msgid "Serial No {0} does not exists"
+msgstr ""
+
+msgid "Serial No {0} is already added"
+msgstr ""
+
+msgid "Serial No {0} is already assigned to customer {1}. Can only be returned against the customer {1}"
+msgstr ""
+
+msgid "Serial No {0} is not present in the {1} {2}, hence you can't return it against the {1} {2}"
+msgstr ""
+
+msgid "Serial No {0} is under maintenance contract upto {1}"
+msgstr ""
+
+msgid "Serial No {0} is under warranty upto {1}"
+msgstr ""
+
+msgid "Serial No {0} not found"
+msgstr ""
+
+msgid "Serial No: {0} has already been transacted into another POS Invoice."
+msgstr ""
+
+msgid "Serial Nos"
+msgstr ""
+
+msgid "Serial Nos / Batch Nos"
+msgstr ""
+
+msgid "Serial Nos and Batches"
+msgstr ""
+
+msgid "Serial Nos are created successfully"
+msgstr ""
+
+msgid "Serial Nos are reserved in Stock Reservation Entries, you need to unreserve them before proceeding."
+msgstr ""
+
+msgid "Serial Number Series"
+msgstr ""
+
+msgid "Serial and Batch"
+msgstr ""
+
+msgid "Serial and Batch Bundle"
+msgstr ""
+
+msgid "Serial and Batch Bundle created"
+msgstr ""
+
+msgid "Serial and Batch Bundle updated"
+msgstr ""
+
+msgid "Serial and Batch Bundle {0} is already used in {1} {2}."
+msgstr ""
+
+msgid "Serial and Batch Details"
+msgstr ""
+
+msgid "Serial and Batch Entry"
+msgstr ""
+
+msgid "Serial and Batch No"
+msgstr ""
+
+msgid "Serial and Batch Nos"
+msgstr ""
+
+msgid "Serial and Batch Nos will be auto-reserved based on <b>Pick Serial / Batch Based On</b>"
+msgstr ""
+
+msgid "Serial and Batch Reservation"
+msgstr ""
+
+msgid "Serial and Batch Summary"
+msgstr ""
+
+msgid "Serial number {0} entered more than once"
+msgstr ""
+
+msgid "Serial numbers unavailable for Item {0} under warehouse {1}. Please try changing warehouse."
+msgstr ""
+
+msgid "Series"
+msgstr ""
+
+msgid "Series for Asset Depreciation Entry (Journal Entry)"
+msgstr ""
+
+msgid "Series is mandatory"
+msgstr ""
+
+msgid "Service"
+msgstr "บริการ"
+
+msgid "Service Address"
+msgstr ""
+
+msgid "Service Cost Per Qty"
+msgstr ""
+
+msgid "Service Day"
+msgstr ""
+
+msgid "Service End Date"
+msgstr ""
+
+msgid "Service Expense Total Amount"
+msgstr ""
+
+msgid "Service Expenses"
+msgstr "ค่าใช้จ่ายบริการ"
+
+msgid "Service Item"
+msgstr "รายการบริการ"
+
+msgid "Service Item Qty"
+msgstr ""
+
+msgid "Service Item Qty / Finished Good Qty"
+msgstr ""
+
+msgid "Service Item UOM"
+msgstr ""
+
+msgid "Service Item {0} is disabled."
+msgstr ""
+
+msgid "Service Item {0} must be a non-stock item."
+msgstr ""
+
+msgid "Service Items"
+msgstr ""
+
+msgid "Service Level Agreement"
+msgstr ""
+
+msgid "Service Level Agreement Creation"
+msgstr ""
+
+msgid "Service Level Agreement Details"
+msgstr ""
+
+msgid "Service Level Agreement Status"
+msgstr ""
+
+msgid "Service Level Agreement for {0} {1} already exists."
+msgstr ""
+
+msgid "Service Level Agreement has been changed to {0}."
+msgstr ""
+
+msgid "Service Level Agreement was reset."
+msgstr ""
+
+msgid "Service Level Agreements"
+msgstr ""
+
+msgid "Service Level Name"
+msgstr ""
+
+msgid "Service Level Priority"
+msgstr ""
+
+msgid "Service Provider"
+msgstr ""
+
+msgid "Service Received But Not Billed"
+msgstr ""
+
+msgid "Service Start Date"
+msgstr ""
+
+msgid "Service Stop Date"
+msgstr ""
+
+msgid "Service Stop Date cannot be after Service End Date"
+msgstr ""
+
+msgid "Service Stop Date cannot be before Service Start Date"
+msgstr ""
+
+msgid "Service item not present in Purchase Invoice {0}"
+msgstr ""
+
+msgid "Services"
+msgstr ""
+
+msgid "Set"
+msgstr "ตั้งค่า"
+
+msgid "Set Accepted Warehouse"
+msgstr "ตั้งค่าคลังสินค้าที่รับ"
+
+msgid "Set Advances and Allocate (FIFO)"
+msgstr "ตั้งค่าล่วงหน้าและจัดสรร (FIFO)"
+
+msgid "Set Basic Rate Manually"
+msgstr "ตั้งค่าอัตราพื้นฐานด้วยตนเอง"
+
+msgid "Set Default Supplier"
+msgstr "ตั้งค่าผู้จัดจำหน่ายเริ่มต้น"
+
+msgid "Set Finished Good Quantity"
+msgstr "ตั้งค่าปริมาณสินค้าสำเร็จรูป"
+
+msgid "Set From Warehouse"
+msgstr "ตั้งค่าจากคลังสินค้า"
+
+msgid "Set Grand Total to Default Payment Method"
+msgstr "ตั้งค่ายอดรวมเป็นวิธีการชำระเงินเริ่มต้น"
+
+msgid "Set Item Group-wise budgets on this Territory. You can also include seasonality by setting the Distribution."
+msgstr "ตั้งค่างบประมาณตามกลุ่มรายการในเขตนี้ คุณยังสามารถรวมฤดูกาลโดยการตั้งค่าการกระจาย"
+
+msgid "Set Landed Cost Based on Purchase Invoice Rate"
+msgstr "ตั้งค่าต้นทุนที่มาถึงตามอัตราใบแจ้งหนี้ซื้อ"
+
+msgid "Set Loyalty Program"
+msgstr "ตั้งค่าโปรแกรมสะสมคะแนน"
+
+msgid "Set New Release Date"
+msgstr "ตั้งค่าวันที่เผยแพร่ใหม่"
+
+msgid "Set Operating Cost / Scrap Items From Sub-assemblies"
+msgstr "ตั้งค่าต้นทุนการดำเนินงาน / รายการเศษจากชุดย่อย"
+
+msgid "Set Operating Cost Based On BOM Quantity"
+msgstr "ตั้งค่าต้นทุนการดำเนินงานตามปริมาณ BOM"
+
+msgid "Set Parent Row No in Items Table"
+msgstr "ตั้งค่าหมายเลขแถวหลักในตารางรายการ"
+
+msgid "Set Password"
+msgstr "ตั้งรหัสผ่าน"
+
+msgid "Set Posting Date"
+msgstr "ตั้งค่าวันที่โพสต์"
+
+msgid "Set Process Loss Item Quantity"
+msgstr "ตั้งค่าปริมาณรายการสูญเสียกระบวนการ"
+
+msgid "Set Project Status"
+msgstr "ตั้งค่าสถานะโครงการ"
+
+msgid "Set Project and all Tasks to status {0}?"
+msgstr "ตั้งค่าโครงการและงานทั้งหมดเป็นสถานะ {0}?"
+
+msgid "Set Quantity"
+msgstr "ตั้งค่าปริมาณ"
+
+msgid "Set Reserve Warehouse"
+msgstr "ตั้งค่าคลังสินค้าสำรอง"
+
+msgid "Set Response Time for Priority {0} in row {1}."
+msgstr "ตั้งค่าเวลาตอบสนองสำหรับลำดับความสำคัญ {0} ในแถว {1}"
+
+msgid "Set Serial and Batch Bundle Naming Based on Naming Series"
+msgstr "ตั้งค่าการตั้งชื่อชุดซีเรียลและแบทช์ตามชุดการตั้งชื่อ"
+
+msgid "Set Source Warehouse"
+msgstr "ตั้งค่าคลังสินค้าแหล่งที่มา"
+
+msgid "Set Target Warehouse"
+msgstr "ตั้งค่าคลังสินค้าเป้าหมาย"
+
+msgid "Set Valuation Rate Based on Source Warehouse"
+msgstr "ตั้งค่าอัตราการประเมินมูลค่าตามคลังสินค้าแหล่งที่มา"
+
+msgid "Set Valuation Rate for Rejected Materials"
+msgstr "ตั้งค่าอัตราการประเมินมูลค่าสำหรับวัสดุที่ถูกปฏิเสธ"
+
+msgid "Set Warehouse"
+msgstr "ตั้งค่าคลังสินค้า"
+
+msgid "Set as Closed"
+msgstr "ตั้งค่าเป็นปิด"
+
+msgid "Set as Completed"
+msgstr "ตั้งค่าเป็นเสร็จสิ้น"
+
+msgid "Set as Lost"
+msgstr "ตั้งค่าเป็นสูญหาย"
+
+msgid "Set as Open"
+msgstr "ตั้งค่าเป็นเปิด"
+
+msgid "Set by Item Tax Template"
+msgstr "ตั้งค่าโดยแม่แบบภาษีรายการ"
+
+msgid "Set default inventory account for perpetual inventory"
+msgstr "ตั้งค่าบัญชีสินค้าคงคลังเริ่มต้นสำหรับสินค้าคงคลังถาวร"
+
+msgid "Set default {0} account for non stock items"
+msgstr "ตั้งค่าบัญชี {0} เริ่มต้นสำหรับรายการที่ไม่ใช่สต็อก"
+
+msgid "Set fieldname from which you want to fetch the data from the parent form."
+msgstr "ตั้งค่าชื่อฟิลด์ที่คุณต้องการดึงข้อมูลจากฟอร์มหลัก"
+
+msgid "Set quantity of process loss item:"
+msgstr "ตั้งค่าปริมาณของรายการสูญเสียกระบวนการ:"
+
+msgid "Set rate of sub-assembly item based on BOM"
+msgstr "ตั้งค่าอัตราของรายการชุดย่อยตาม BOM"
+
+msgid "Set targets Item Group-wise for this Sales Person."
+msgstr "ตั้งค่าเป้าหมายตามกลุ่มรายการสำหรับพนักงานขายนี้"
+
+msgid "Set the Planned Start Date (an Estimated Date at which you want the Production to begin)"
+msgstr "ตั้งค่าวันเริ่มต้นที่วางแผนไว้ (วันที่ประมาณการที่คุณต้องการให้การผลิตเริ่มต้น)"
+
+msgid "Set the status manually."
+msgstr "ตั้งค่าสถานะด้วยตนเอง"
+
+msgid "Set this if the customer is a Public Administration company."
+msgstr "ตั้งค่านี้หากลูกค้าเป็นบริษัทการบริหารสาธารณะ"
+
+msgid "Set {0} in asset category {1} for company {2}"
+msgstr "ตั้งค่า {0} ในหมวดหมู่สินทรัพย์ {1} สำหรับบริษัท {2}"
+
+msgid "Set {0} in asset category {1} or company {2}"
+msgstr "ตั้งค่า {0} ในหมวดหมู่สินทรัพย์ {1} หรือบริษัท {2}"
+
+msgid "Set {0} in company {1}"
+msgstr "ตั้งค่า {0} ในบริษัท {1}"
+
+msgid "Sets 'Accepted Warehouse' in each row of the Items table."
+msgstr "ตั้งค่า 'คลังสินค้าที่รับ' ในแต่ละแถวของตารางรายการ"
+
+msgid "Sets 'Rejected Warehouse' in each row of the Items table."
+msgstr "ตั้งค่า 'คลังสินค้าที่ปฏิเสธ' ในแต่ละแถวของตารางรายการ"
+
+msgid "Sets 'Reserve Warehouse' in each row of the Supplied Items table."
+msgstr "ตั้งค่า 'คลังสินค้าสำรอง' ในแต่ละแถวของตารางรายการที่จัดหา"
+
+msgid "Sets 'Source Warehouse' in each row of the items table."
+msgstr "ตั้งค่า 'คลังสินค้าแหล่งที่มา' ในแต่ละแถวของตารางรายการ"
+
+msgid "Sets 'Target Warehouse' in each row of the items table."
+msgstr "ตั้งค่า 'คลังสินค้าเป้าหมาย' ในแต่ละแถวของตารางรายการ"
+

@@ -1,0 +1,500 @@
+﻿msgstr "การพัฒนา"
+
+msgid "discount applied"
+msgstr "ส่วนลดที่ใช้"
+
+msgid "doc_type"
+msgstr "ประเภทเอกสาร"
+
+msgid "doctype"
+msgstr "ประเภทเอกสาร"
+
+msgid "e.g. \"Summer Holiday 2019 Offer 20\""
+msgstr ""
+
+msgid "example: Next Day Shipping"
+msgstr "ตัวอย่าง: การจัดส่งวันถัดไป"
+
+msgid "exchangerate.host"
+msgstr ""
+
+msgid "fieldname"
+msgstr "ชื่อฟิลด์"
+
+msgid "frankfurter.app"
+msgstr ""
+
+msgid "hidden"
+msgstr "ซ่อน"
+
+msgid "hours"
+msgstr "ชั่วโมง"
+
+msgid "image"
+msgstr "ภาพ"
+
+msgid "is already"
+msgstr "มีอยู่แล้ว"
+
+msgid "lft"
+msgstr "ซ้าย"
+
+msgid "material_request_item"
+msgstr "รายการคำขอวัสดุ"
+
+msgid "must be between 0 and 100"
+msgstr "ต้องอยู่ระหว่าง 0 ถึง 100"
+
+msgid "old_parent"
+msgstr "ผู้ปกครองเก่า"
+
+msgid "on"
+msgstr "เปิด"
+
+msgid "or"
+msgstr "หรือ"
+
+msgid "or its descendants"
+msgstr "หรือผู้สืบทอดของมัน"
+
+msgid "out of 5"
+msgstr "จาก 5"
+
+msgid "paid to"
+msgstr "จ่ายให้กับ"
+
+msgid "payments app is not installed. Please install it from {0} or {1}"
+msgstr "ไม่ได้ติดตั้งแอปการชำระเงิน โปรดติดตั้งจาก {0} หรือ {1}"
+
+msgid "payments app is not installed. Please install it from {} or {}"
+msgstr "ไม่ได้ติดตั้งแอปการชำระเงิน โปรดติดตั้งจาก {} หรือ {}"
+
+msgid "per hour"
+msgstr "ต่อชั่วโมง"
+
+msgid "performing either one below:"
+msgstr "ดำเนินการอย่างใดอย่างหนึ่งด้านล่าง:"
+
+msgid "product bundle item row's name in sales order. Also indicates that picked item is to be used for a product bundle"
+msgstr "ชื่อแถวรายการชุดผลิตภัณฑ์ในคำสั่งขาย นอกจากนี้ยังระบุว่ารายการที่เลือกจะใช้สำหรับชุดผลิตภัณฑ์"
+
+msgid "production"
+msgstr "การผลิต"
+
+msgid "quotation_item"
+msgstr "รายการใบเสนอราคา"
+
+msgid "ratings"
+msgstr "การให้คะแนน"
+
+msgid "received from"
+msgstr "ได้รับจาก"
+
+msgid "returned"
+msgstr "ส่งคืน"
+
+msgid "rgt"
+msgstr "ขวา"
+
+msgid "sandbox"
+msgstr "แซนด์บ็อกซ์"
+
+msgid "sold"
+msgstr "ขายแล้ว"
+
+msgid "subscription is already cancelled."
+msgstr "การสมัครสมาชิกถูกยกเลิกแล้ว"
+
+msgid "target_ref_field"
+msgstr "ฟิลด์อ้างอิงเป้าหมาย"
+
+msgid "temporary name"
+msgstr "ชื่อชั่วคราว"
+
+msgid "title"
+msgstr "ชื่อเรื่อง"
+
+msgid "to"
+msgstr "ถึง"
+
+msgid "to unallocate the amount of this Return Invoice before cancelling it."
+msgstr "เพื่อยกเลิกการจัดสรรจำนวนเงินของใบแจ้งหนี้คืนนี้ก่อนที่จะยกเลิก"
+
+msgid "unique e.g. SAVE20  To be used to get discount"
+msgstr "ไม่ซ้ำ เช่น SAVE20 ใช้เพื่อรับส่วนลด"
+
+msgid "variance"
+msgstr "ความแปรปรวน"
+
+msgid "via Asset Repair"
+msgstr "ผ่านการซ่อมแซมสินทรัพย์"
+
+msgid "via BOM Update Tool"
+msgstr "ผ่านเครื่องมืออัปเดต BOM"
+
+msgid "will be"
+msgstr "จะเป็น"
+
+msgid "you must select Capital Work in Progress Account in accounts table"
+msgstr "คุณต้องเลือกบัญชีงานทุนที่กำลังดำเนินการในตารางบัญชี"
+
+msgid "{0}"
+msgstr ""
+
+msgid "{0} '{1}' is disabled"
+msgstr "{0} '{1}' ถูกปิดใช้งาน"
+
+msgid "{0} '{1}' not in Fiscal Year {2}"
+msgstr "{0} '{1}' ไม่อยู่ในปีงบประมาณ {2}"
+
+msgid "{0} ({1}) cannot be greater than planned quantity ({2}) in Work Order {3}"
+msgstr "{0} ({1}) ต้องไม่เกินปริมาณที่วางแผนไว้ ({2}) ในคำสั่งงาน {3}"
+
+msgid "{0} <b>{1}</b> has submitted Assets. Remove Item <b>{2}</b> from table to continue."
+msgstr "{0} <b>{1}</b> ได้ส่งสินทรัพย์แล้ว ลบรายการ <b>{2}</b> ออกจากตารางเพื่อดำเนินการต่อ"
+
+msgid "{0} Account not found against Customer {1}."
+msgstr "ไม่พบบัญชี {0} สำหรับลูกค้า {1}"
+
+msgid "{0} Account: {1} ({2}) must be in either customer billing currency: {3} or Company default currency: {4}"
+msgstr "บัญชี {0}: {1} ({2}) ต้องอยู่ในสกุลเงินการเรียกเก็บเงินของลูกค้า: {3} หรือสกุลเงินเริ่มต้นของบริษัท: {4}"
+
+msgid "{0} Budget for Account {1} against {2} {3} is {4}. It {5} exceed by {6}"
+msgstr "งบประมาณ {0} สำหรับบัญชี {1} เทียบกับ {2} {3} คือ {4} มัน {5} เกิน {6}"
+
+msgid "{0} Coupon used are {1}. Allowed quantity is exhausted"
+msgstr "คูปอง {0} ที่ใช้คือ {1} ปริมาณที่อนุญาตหมดแล้ว"
+
+msgid "{0} Digest"
+msgstr "สรุป {0}"
+
+msgid "{0} Number {1} is already used in {2} {3}"
+msgstr "หมายเลข {0} {1} ถูกใช้แล้วใน {2} {3}"
+
+msgid "{0} Operations: {1}"
+msgstr "การดำเนินการ {0}: {1}"
+
+msgid "{0} Request for {1}"
+msgstr "คำขอ {0} สำหรับ {1}"
+
+msgid "{0} Retain Sample is based on batch, please check Has Batch No to retain sample of item"
+msgstr "การเก็บตัวอย่าง {0} ขึ้นอยู่กับแบทช์ โปรดตรวจสอบว่ามีหมายเลขแบทช์เพื่อเก็บตัวอย่างของรายการ"
+
+msgid "{0} Transaction(s) Reconciled"
+msgstr "ธุรกรรม {0} ได้รับการกระทบยอด"
+
+msgid "{0} account is not of type {1}"
+msgstr "บัญชี {0} ไม่ใช่ประเภท {1}"
+
+msgid "{0} account not found while submitting purchase receipt"
+msgstr "ไม่พบบัญชี {0} ขณะส่งใบรับซื้อ"
+
+msgid "{0} against Bill {1} dated {2}"
+msgstr "{0} เทียบกับบิล {1} ลงวันที่ {2}"
+
+msgid "{0} against Purchase Order {1}"
+msgstr "{0} เทียบกับคำสั่งซื้อ {1}"
+
+msgid "{0} against Sales Invoice {1}"
+msgstr "{0} เทียบกับใบแจ้งหนี้ขาย {1}"
+
+msgid "{0} against Sales Order {1}"
+msgstr "{0} เทียบกับคำสั่งขาย {1}"
+
+msgid "{0} already has a Parent Procedure {1}."
+msgstr "{0} มีขั้นตอนหลัก {1} อยู่แล้ว"
+
+msgid "{0} and {1}"
+msgstr "{0} และ {1}"
+
+msgid "{0} and {1} are mandatory"
+msgstr "{0} และ {1} เป็นสิ่งจำเป็น"
+
+msgid "{0} asset cannot be transferred"
+msgstr "สินทรัพย์ {0} ไม่สามารถโอนได้"
+
+msgid "{0} can not be negative"
+msgstr "{0} ไม่สามารถเป็นค่าลบได้"
+
+msgid "{0} cannot be changed with opened Opening Entries."
+msgstr ""
+
+msgid "{0} cannot be used as a Main Cost Center because it has been used as child in Cost Center Allocation {1}"
+msgstr "{0} ไม่สามารถใช้เป็นศูนย์ต้นทุนหลักได้เนื่องจากถูกใช้เป็นลูกในการจัดสรรศูนย์ต้นทุน {1}"
+
+msgid "{0} cannot be zero"
+msgstr "{0} ไม่สามารถเป็นศูนย์ได้"
+
+msgid "{0} created"
+msgstr "{0} สร้างแล้ว"
+
+msgid "{0} currency must be same as company's default currency. Please select another account."
+msgstr "สกุลเงิน {0} ต้องเหมือนกับสกุลเงินเริ่มต้นของบริษัท โปรดเลือกบัญชีอื่น"
+
+msgid "{0} currently has a {1} Supplier Scorecard standing, and Purchase Orders to this supplier should be issued with caution."
+msgstr "{0} ปัจจุบันมีสถานะ Supplier Scorecard {1} และควรออกคำสั่งซื้อให้กับผู้จัดจำหน่ายนี้ด้วยความระมัดระวัง"
+
+msgid "{0} currently has a {1} Supplier Scorecard standing, and RFQs to this supplier should be issued with caution."
+msgstr "{0} ปัจจุบันมีสถานะ Supplier Scorecard {1} และควรออกคำขอใบเสนอราคาให้กับผู้จัดจำหน่ายนี้ด้วยความระมัดระวัง"
+
+msgid "{0} does not belong to Company {1}"
+msgstr "{0} ไม่ได้เป็นของบริษัท {1}"
+
+msgid "{0} entered twice in Item Tax"
+msgstr "{0} ป้อนสองครั้งในภาษีรายการ"
+
+msgid "{0} entered twice {1} in Item Taxes"
+msgstr "{0} ป้อนสองครั้ง {1} ในภาษีรายการ"
+
+msgid "{0} for {1}"
+msgstr "{0} สำหรับ {1}"
+
+msgid "{0} has Payment Term based allocation enabled. Select a Payment Term for Row #{1} in Payment References section"
+msgstr "{0} เปิดใช้งานการจัดสรรตามเงื่อนไขการชำระเงินแล้ว โปรดเลือกเงื่อนไขการชำระเงินสำหรับแถว #{1} ในส่วนการอ้างอิงการชำระเงิน"
+
+msgid "{0} has been submitted successfully"
+msgstr "{0} ส่งสำเร็จแล้ว"
+
+msgid "{0} hours"
+msgstr "{0} ชั่วโมง"
+
+msgid "{0} in row {1}"
+msgstr "{0} ในแถว {1}"
+
+msgid "{0} is a mandatory Accounting Dimension. <br>Please set a value for {0} in Accounting Dimensions section."
+msgstr "{0} เป็นมิติการบัญชีที่จำเป็น <br>โปรดตั้งค่าค่าสำหรับ {0} ในส่วนมิติการบัญชี"
+
+msgid "{0} is added multiple times on rows: {1}"
+msgstr "{0} ถูกเพิ่มหลายครั้งในแถว: {1}"
+
+msgid "{0} is already running for {1}"
+msgstr "{0} กำลังทำงานอยู่สำหรับ {1}"
+
+msgid "{0} is blocked so this transaction cannot proceed"
+msgstr "{0} ถูกบล็อกดังนั้นธุรกรรมนี้ไม่สามารถดำเนินการต่อได้"
+
+msgid "{0} is mandatory"
+msgstr "{0} เป็นสิ่งจำเป็น"
+
+msgid "{0} is mandatory for Item {1}"
+msgstr "{0} เป็นสิ่งจำเป็นสำหรับรายการ {1}"
+
+msgid "{0} is mandatory for account {1}"
+msgstr "{0} เป็นสิ่งจำเป็นสำหรับบัญชี {1}"
+
+msgid "{0} is mandatory. Maybe Currency Exchange record is not created for {1} to {2}"
+msgstr "{0} เป็นสิ่งจำเป็น อาจไม่มีการสร้างระเบียนอัตราแลกเปลี่ยนสำหรับ {1} ถึง {2}"
+
+msgid "{0} is mandatory. Maybe Currency Exchange record is not created for {1} to {2}."
+msgstr "{0} เป็นสิ่งจำเป็น อาจไม่มีการสร้างระเบียนอัตราแลกเปลี่ยนสำหรับ {1} ถึง {2}"
+
+msgid "{0} is not a company bank account"
+msgstr "{0} ไม่ใช่บัญชีธนาคารของบริษัท"
+
+msgid "{0} is not a group node. Please select a group node as parent cost center"
+msgstr "{0} ไม่ใช่โหนดกลุ่ม โปรดเลือกโหนดกลุ่มเป็นศูนย์ต้นทุนหลัก"
+
+msgid "{0} is not a stock Item"
+msgstr "{0} ไม่ใช่รายการสต็อก"
+
+msgid "{0} is not a valid Value for Attribute {1} of Item {2}."
+msgstr "{0} ไม่ใช่ค่าที่ถูกต้องสำหรับคุณลักษณะ {1} ของรายการ {2}"
+
+msgid "{0} is not added in the table"
+msgstr "{0} ไม่ได้ถูกเพิ่มในตาราง"
+
+msgid "{0} is not enabled in {1}"
+msgstr "{0} ไม่ได้เปิดใช้งานใน {1}"
+
+msgid "{0} is not running. Cannot trigger events for this Document"
+msgstr "{0} ไม่ได้ทำงาน ไม่สามารถเรียกใช้งานสำหรับเอกสารนี้ได้"
+
+msgid "{0} is not the default supplier for any items."
+msgstr "{0} ไม่ใช่ผู้จัดจำหน่ายเริ่มต้นสำหรับรายการใด ๆ"
+
+msgid "{0} is on hold till {1}"
+msgstr "{0} ถูกระงับจนถึง {1}"
+
+msgid "{0} is open. Close the POS or cancel the existing POS Opening Entry to create a new POS Opening Entry."
+msgstr ""
+
+msgid "{0} is required"
+msgstr "{0} เป็นสิ่งจำเป็น"
+
+msgid "{0} items in progress"
+msgstr "{0} รายการกำลังดำเนินการ"
+
+msgid "{0} items lost during process."
+msgstr "{0} รายการสูญหายระหว่างกระบวนการ"
+
+msgid "{0} items produced"
+msgstr "{0} รายการที่ผลิต"
+
+msgid "{0} must be negative in return document"
+msgstr "{0} ต้องเป็นค่าลบในเอกสารคืน"
+
+msgid "{0} not allowed to transact with {1}. Please change the Company or add the Company in the 'Allowed To Transact With'-Section in the Customer record."
+msgstr "{0} ไม่อนุญาตให้ทำธุรกรรมกับ {1} โปรดเปลี่ยนบริษัทหรือเพิ่มบริษัทในส่วน 'อนุญาตให้ทำธุรกรรมด้วย' ในระเบียนลูกค้า"
+
+msgid "{0} not found for item {1}"
+msgstr "ไม่พบ {0} สำหรับรายการ {1}"
+
+msgid "{0} parameter is invalid"
+msgstr "พารามิเตอร์ {0} ไม่ถูกต้อง"
+
+msgid "{0} payment entries can not be filtered by {1}"
+msgstr "ไม่สามารถกรองรายการชำระเงิน {0} ด้วย {1} ได้"
+
+msgid "{0} qty of Item {1} is being received into Warehouse {2} with capacity {3}."
+msgstr "ปริมาณ {0} ของรายการ {1} กำลังถูกรับเข้าสู่คลังสินค้า {2} ที่มีความจุ {3}"
+
+msgid "{0} to {1}"
+msgstr "{0} ถึง {1}"
+
+msgid "{0} units are reserved for Item {1} in Warehouse {2}, please un-reserve the same to {3} the Stock Reconciliation."
+msgstr "{0} หน่วยถูกจองไว้สำหรับรายการ {1} ในคลังสินค้า {2} โปรดยกเลิกการจองเพื่อ {3} การกระทบยอดสต็อก"
+
+msgid "{0} units of Item {1} is not available in any of the warehouses."
+msgstr "{0} หน่วยของรายการ {1} ไม่มีในคลังสินค้าใด ๆ"
+
+msgid "{0} units of Item {1} is picked in another Pick List."
+msgstr "{0} หน่วยของรายการ {1} ถูกเลือกในรายการเลือกอื่น"
+
+msgid "{0} units of {1} are required in {2} with the inventory dimension: {3} ({4}) on {5} {6} for {7} to complete the transaction."
+msgstr "ต้องการ {0} หน่วยของ {1} ใน {2} พร้อมมิติสินค้าคงคลัง: {3} ({4}) ใน {5} {6} สำหรับ {7} เพื่อทำธุรกรรมให้เสร็จสมบูรณ์"
+
+msgid "{0} units of {1} needed in {2} on {3} {4} for {5} to complete this transaction."
+msgstr "ต้องการ {0} หน่วยของ {1} ใน {2} ใน {3} {4} สำหรับ {5} เพื่อทำธุรกรรมนี้ให้เสร็จสมบูรณ์"
+
+msgid "{0} units of {1} needed in {2} on {3} {4} to complete this transaction."
+msgstr "ต้องการ {0} หน่วยของ {1} ใน {2} ใน {3} {4} เพื่อทำธุรกรรมนี้ให้เสร็จสมบูรณ์"
+
+msgid "{0} units of {1} needed in {2} to complete this transaction."
+msgstr "ต้องการ {0} หน่วยของ {1} ใน {2} เพื่อทำธุรกรรมนี้ให้เสร็จสมบูรณ์"
+
+msgid "{0} until {1}"
+msgstr "{0} จนถึง {1}"
+
+msgid "{0} valid serial nos for Item {1}"
+msgstr "หมายเลขซีเรียลที่ถูกต้อง {0} สำหรับรายการ {1}"
+
+msgid "{0} variants created."
+msgstr "สร้างตัวแปร {0} แล้ว"
+
+msgid "{0} will be given as discount."
+msgstr "จะให้ส่วนลด {0}"
+
+msgid "{0} {1}"
+msgstr ""
+
+msgid "{0} {1} Manually"
+msgstr "{0} {1} ด้วยตนเอง"
+
+msgid "{0} {1} Partially Reconciled"
+msgstr "{0} {1} กระทบยอดบางส่วน"
+
+msgid "{0} {1} cannot be updated. If you need to make changes, we recommend canceling the existing entry and creating a new one."
+msgstr "{0} {1} ไม่สามารถอัปเดตได้ หากคุณต้องการเปลี่ยนแปลง เราแนะนำให้ยกเลิกรายการที่มีอยู่และสร้างรายการใหม่"
+
+msgid "{0} {1} created"
+msgstr "สร้าง {0} {1} แล้ว"
+
+msgid "{0} {1} does not exist"
+msgstr "{0} {1} ไม่มีอยู่"
+
+msgid "{0} {1} has accounting entries in currency {2} for company {3}. Please select a receivable or payable account with currency {2}."
+msgstr "{0} {1} มีรายการบัญชีในสกุลเงิน {2} สำหรับบริษัท {3} โปรดเลือกบัญชีลูกหนี้หรือเจ้าหนี้ที่มีสกุลเงิน {2}"
+
+msgid "{0} {1} has already been fully paid."
+msgstr "{0} {1} ได้รับการชำระเงินเต็มจำนวนแล้ว"
+
+msgid "{0} {1} has already been partly paid. Please use the 'Get Outstanding Invoice' or the 'Get Outstanding Orders' button to get the latest outstanding amounts."
+msgstr "{0} {1} ได้รับการชำระเงินบางส่วนแล้ว โปรดใช้ปุ่ม 'รับใบแจ้งหนี้ค้างชำระ' หรือ 'รับคำสั่งซื้อค้างชำระ' เพื่อรับยอดค้างชำระล่าสุด"
+
+msgid "{0} {1} has been modified. Please refresh."
+msgstr "{0} {1} ถูกแก้ไขแล้ว โปรดรีเฟรช"
+
+msgid "{0} {1} has not been submitted so the action cannot be completed"
+msgstr "{0} {1} ยังไม่ได้ส่ง ดังนั้นการดำเนินการไม่สามารถเสร็จสิ้นได้"
+
+msgid "{0} {1} is allocated twice in this Bank Transaction"
+msgstr "{0} {1} ถูกจัดสรรสองครั้งในธุรกรรมธนาคารนี้"
+
+msgid "{0} {1} is already linked to Common Code {2}."
+msgstr "{0} {1} ถูกเชื่อมโยงกับรหัสทั่วไป {2} แล้ว"
+
+msgid "{0} {1} is associated with {2}, but Party Account is {3}"
+msgstr "{0} {1} เกี่ยวข้องกับ {2} แต่บัญชีคู่สัญญาคือ {3}"
+
+msgid "{0} {1} is cancelled or closed"
+msgstr "{0} {1} ถูกยกเลิกหรือปิดแล้ว"
+
+msgid "{0} {1} is cancelled or stopped"
+msgstr "{0} {1} ถูกยกเลิกหรือหยุดแล้ว"
+
+msgid "{0} {1} is cancelled so the action cannot be completed"
+msgstr "{0} {1} ถูกยกเลิก ดังนั้นการดำเนินการไม่สามารถเสร็จสิ้นได้"
+
+msgid "{0} {1} is closed"
+msgstr "{0} {1} ถูกปิดแล้ว"
+
+msgid "{0} {1} is disabled"
+msgstr "{0} {1} ถูกปิดใช้งาน"
+
+msgid "{0} {1} is frozen"
+msgstr "{0} {1} ถูกแช่แข็ง"
+
+msgid "{0} {1} is fully billed"
+msgstr "{0} {1} ถูกเรียกเก็บเงินเต็มจำนวนแล้ว"
+
+msgid "{0} {1} is not active"
+msgstr "{0} {1} ไม่ได้ใช้งาน"
+
+msgid "{0} {1} is not associated with {2} {3}"
+msgstr "{0} {1} ไม่ได้เชื่อมโยงกับ {2} {3}"
+
+msgid "{0} {1} is not in any active Fiscal Year"
+msgstr "{0} {1} ไม่ได้อยู่ในปีงบประมาณที่ใช้งานอยู่"
+
+msgid "{0} {1} is not submitted"
+msgstr "{0} {1} ยังไม่ได้ส่ง"
+
+msgid "{0} {1} is on hold"
+msgstr "{0} {1} ถูกระงับ"
+
+msgid "{0} {1} must be submitted"
+msgstr "{0} {1} ต้องถูกส่ง"
+
+msgid "{0} {1} not allowed to be reposted. Modify {2} to enable reposting."
+msgstr "{0} {1} ไม่อนุญาตให้โพสต์ใหม่ โปรดแก้ไข {2} เพื่อเปิดใช้งานการโพสต์ใหม่"
+
+msgid "{0} {1} status is {2}"
+msgstr "สถานะของ {0} {1} คือ {2}"
+
+msgid "{0} {1} via CSV File"
+msgstr "{0} {1} ผ่านไฟล์ CSV"
+
+msgid "{0} {1}: 'Profit and Loss' type account {2} not allowed in Opening Entry"
+msgstr "{0} {1}: บัญชีประเภท 'กำไรและขาดทุน' {2} ไม่อนุญาตในรายการเปิด"
+
+msgid "{0} {1}: Account {2} does not belong to Company {3}"
+msgstr "{0} {1}: บัญชี {2} ไม่ได้เป็นของบริษัท {3}"
+
+msgid "{0} {1}: Account {2} is a Group Account and group accounts cannot be used in transactions"
+msgstr "{0} {1}: บัญชี {2} เป็นบัญชีกลุ่มและไม่สามารถใช้บัญชีกลุ่มในธุรกรรมได้"
+
+msgid "{0} {1}: Account {2} is inactive"
+msgstr "{0} {1}: บัญชี {2} ไม่ได้ใช้งาน"
+
+msgid "{0} {1}: Accounting Entry for {2} can only be made in currency: {3}"
+msgstr "{0} {1}: รายการบัญชีสำหรับ {2} สามารถทำได้เฉพาะในสกุลเงิน: {3}"
+
+msgid "{0} {1}: Cost Center is mandatory for Item {2}"
+msgstr "{0} {1}: ศูนย์ต้นทุนเป็นสิ่งจำเป็นสำหรับรายการ {2}"
+
+msgid "{0} {1}: Cost Center is required for 'Profit and Loss' account {2}."
+msgstr "{0} {1}: ต้องการศูนย์ต้นทุนสำหรับบัญชี 'กำไรและขาดทุน' {2}"
+
+msgid "{0} {1}: Cost Center {2} does not belong to Company {3}"
+msgstr "{0} {1}: ศูนย์ต้นทุน {2} ไม่ได้เป็นของบริษัท {3}"
+

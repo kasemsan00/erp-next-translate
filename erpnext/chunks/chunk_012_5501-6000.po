@@ -1,0 +1,500 @@
+﻿msgid "Cost Configuration"
+msgstr "การกำหนดค่าต้นทุน"
+
+msgid "Cost Per Unit"
+msgstr "ต้นทุนต่อหน่วย"
+
+msgid "Cost and Freight"
+msgstr ""
+
+msgid "Cost of Delivered Items"
+msgstr "ต้นทุนของรายการที่ส่งมอบ"
+
+msgid "Cost of Goods Sold"
+msgstr "ต้นทุนขายสินค้าและบริการ"
+
+msgid "Cost of Goods Sold Account in Items Table"
+msgstr "บัญชีต้นทุนสินค้าที่ขายในตารางรายการ"
+
+msgid "Cost of Issued Items"
+msgstr "ต้นทุนของรายการที่ออก"
+
+msgid "Cost of Poor Quality Report"
+msgstr "รายงานต้นทุนของคุณภาพที่ไม่ดี"
+
+msgid "Cost of Purchased Items"
+msgstr "ต้นทุนของรายการที่ซื้อ"
+
+msgid "Cost of various activities"
+msgstr "ต้นทุนของกิจกรรมต่าง ๆ"
+
+msgid "Cost to Company (CTC)"
+msgstr "ต้นทุนต่อบริษัท (CTC)"
+
+msgid "Cost, Insurance and Freight"
+msgstr ""
+
+msgid "Costing"
+msgstr "การคำนวณต้นทุน"
+
+msgid "Costing Amount"
+msgstr "จำนวนการคำนวณต้นทุน"
+
+msgid "Costing Details"
+msgstr "รายละเอียดการคำนวณต้นทุน"
+
+msgid "Costing Rate"
+msgstr "อัตราการคำนวณต้นทุน"
+
+msgid "Costing and Billing"
+msgstr "การคำนวณต้นทุนและการเรียกเก็บเงิน"
+
+msgid "Costing and Billing fields has been updated"
+msgstr ""
+
+msgid "Could Not Delete Demo Data"
+msgstr ""
+
+msgid "Could not auto create Customer due to the following missing mandatory field(s):"
+msgstr ""
+
+msgid "Could not create Credit Note automatically, please uncheck 'Issue Credit Note' and submit again"
+msgstr ""
+
+msgid "Could not detect the Company for updating Bank Accounts"
+msgstr ""
+
+msgid "Could not find a suitable shift to match the difference: {0}"
+msgstr ""
+
+msgid "Could not find path for "
+msgstr ""
+
+msgid "Could not retrieve information for {0}."
+msgstr ""
+
+msgid "Could not solve criteria score function for {0}. Make sure the formula is valid."
+msgstr ""
+
+msgid "Could not solve weighted score function. Make sure the formula is valid."
+msgstr ""
+
+msgid "Coulomb"
+msgstr ""
+
+msgid "Count"
+msgstr ""
+
+msgid "Country"
+msgstr ""
+
+msgid "Country Code in File does not match with country code set up in the system"
+msgstr ""
+
+msgid "Country of Origin"
+msgstr ""
+
+msgid "Coupon Code"
+msgstr ""
+
+msgid "Coupon Code Based"
+msgstr ""
+
+msgid "Coupon Description"
+msgstr ""
+
+msgid "Coupon Name"
+msgstr ""
+
+msgid "Coupon Type"
+msgstr ""
+
+msgid "Cr"
+msgstr ""
+
+msgid "Create"
+msgstr ""
+
+msgid "Create Chart Of Accounts Based On"
+msgstr "สร้างผังบัญชีตาม"
+
+msgid "Create Delivery Note"
+msgstr ""
+
+msgid "Create Delivery Trip"
+msgstr ""
+
+msgid "Create Depreciation Entry"
+msgstr ""
+
+msgid "Create Employee"
+msgstr ""
+
+msgid "Create Employee Records"
+msgstr ""
+
+msgid "Create Employee records."
+msgstr ""
+
+msgid "Create Grouped Asset"
+msgstr ""
+
+msgid "Create Inter Company Journal Entry"
+msgstr ""
+
+msgid "Create Invoices"
+msgstr ""
+
+msgid "Create Job Card"
+msgstr ""
+
+msgid "Create Job Card based on Batch Size"
+msgstr ""
+
+msgid "Create Journal Entries"
+msgstr ""
+
+msgid "Create Journal Entry"
+msgstr ""
+
+msgid "Create Lead"
+msgstr ""
+
+msgid "Create Leads"
+msgstr ""
+
+msgid "Create Ledger Entries for Change Amount"
+msgstr ""
+
+msgid "Create Link"
+msgstr ""
+
+msgid "Create Missing Party"
+msgstr ""
+
+msgid "Create Multi-level BOM"
+msgstr ""
+
+msgid "Create New Contact"
+msgstr ""
+
+msgid "Create New Customer"
+msgstr ""
+
+msgid "Create New Lead"
+msgstr ""
+
+msgid "Create Opportunity"
+msgstr ""
+
+msgid "Create POS Opening Entry"
+msgstr ""
+
+msgid "Create Payment Entry"
+msgstr ""
+
+msgid "Create Payment Entry for Consolidated POS Invoices."
+msgstr ""
+
+msgid "Create Pick List"
+msgstr ""
+
+msgid "Create Print Format"
+msgstr ""
+
+msgid "Create Prospect"
+msgstr ""
+
+msgid "Create Purchase Order"
+msgstr ""
+
+msgid "Create Purchase Orders"
+msgstr ""
+
+msgid "Create Quotation"
+msgstr ""
+
+msgid "Create Receiver List"
+msgstr ""
+
+msgid "Create Reposting Entries"
+msgstr ""
+
+msgid "Create Reposting Entry"
+msgstr ""
+
+msgid "Create Sales Invoice"
+msgstr ""
+
+msgid "Create Sales Order"
+msgstr ""
+
+msgid "Create Sales Orders to help you plan your work and deliver on-time"
+msgstr ""
+
+msgid "Create Sample Retention Stock Entry"
+msgstr ""
+
+msgid "Create Stock Entry"
+msgstr ""
+
+msgid "Create Supplier Quotation"
+msgstr ""
+
+msgid "Create Tax Template"
+msgstr ""
+
+msgid "Create Timesheet"
+msgstr ""
+
+msgid "Create User"
+msgstr ""
+
+msgid "Create User Permission"
+msgstr ""
+
+msgid "Create Users"
+msgstr ""
+
+msgid "Create Variant"
+msgstr ""
+
+msgid "Create Variants"
+msgstr ""
+
+msgid "Create Workstation"
+msgstr ""
+
+msgid "Create a variant with the template image."
+msgstr ""
+
+msgid "Create an incoming stock transaction for the Item."
+msgstr ""
+
+msgid "Create customer quotes"
+msgstr ""
+
+msgid "Create in Draft Status"
+msgstr ""
+
+msgid "Create missing customer or supplier."
+msgstr ""
+
+msgid "Create {0} {1} ?"
+msgstr ""
+
+msgid "Created On"
+msgstr ""
+
+msgid "Created {0} scorecards for {1} between:"
+msgstr ""
+
+msgid "Creating Accounts..."
+msgstr "กำลังสร้างบัญชี..."
+
+msgid "Creating Delivery Note ..."
+msgstr ""
+
+msgid "Creating Dimensions..."
+msgstr ""
+
+msgid "Creating Journal Entries..."
+msgstr ""
+
+msgid "Creating Packing Slip ..."
+msgstr ""
+
+msgid "Creating Purchase Invoices ..."
+msgstr ""
+
+msgid "Creating Purchase Order ..."
+msgstr ""
+
+msgid "Creating Purchase Receipt ..."
+msgstr ""
+
+msgid "Creating Sales Invoices ..."
+msgstr ""
+
+msgid "Creating Stock Entry"
+msgstr ""
+
+msgid "Creating Subcontracting Order ..."
+msgstr ""
+
+msgid "Creating Subcontracting Receipt ..."
+msgstr ""
+
+msgid "Creating User..."
+msgstr ""
+
+msgid "Creating {} out of {} {}"
+msgstr ""
+
+msgid "Creation"
+msgstr ""
+
+msgid "Creation Document No"
+msgstr ""
+
+msgid "Creation of <b><a href='/app/{0}'>{1}(s)</a></b> successful"
+msgstr ""
+
+msgid "Creation of {0} failed.\n"
+"\t\t\t\tCheck <b><a href=\"/app/bulk-transaction-log\">Bulk Transaction Log</a></b>"
+msgstr ""
+
+msgid "Creation of {0} partially successful.\n"
+"\t\t\t\tCheck <b><a href=\"/app/bulk-transaction-log\">Bulk Transaction Log</a></b>"
+msgstr ""
+
+msgid "Credit"
+msgstr ""
+
+msgid "Credit (Transaction)"
+msgstr ""
+
+msgid "Credit ({0})"
+msgstr ""
+
+msgid "Credit Account"
+msgstr ""
+
+msgid "Credit Amount"
+msgstr ""
+
+msgid "Credit Amount in Account Currency"
+msgstr ""
+
+msgid "Credit Amount in Transaction Currency"
+msgstr ""
+
+msgid "Credit Balance"
+msgstr ""
+
+msgid "Credit Card"
+msgstr ""
+
+msgid "Credit Card Entry"
+msgstr ""
+
+msgid "Credit Days"
+msgstr ""
+
+msgid "Credit Limit"
+msgstr ""
+
+msgid "Credit Limit Crossed"
+msgstr ""
+
+msgid "Credit Limit Settings"
+msgstr ""
+
+msgid "Credit Limit and Payment Terms"
+msgstr ""
+
+msgid "Credit Limit:"
+msgstr ""
+
+msgid "Credit Limits"
+msgstr ""
+
+msgid "Credit Months"
+msgstr ""
+
+msgid "Credit Note"
+msgstr ""
+
+msgid "Credit Note Amount"
+msgstr ""
+
+msgid "Credit Note Issued"
+msgstr ""
+
+msgid "Credit Note will update it's own outstanding amount, even if 'Return Against' is specified."
+msgstr ""
+
+msgid "Credit Note {0} has been created automatically"
+msgstr ""
+
+msgid "Credit To"
+msgstr ""
+
+msgid "Credit in Company Currency"
+msgstr ""
+
+msgid "Credit limit has been crossed for customer {0} ({1}/{2})"
+msgstr ""
+
+msgid "Credit limit is already defined for the Company {0}"
+msgstr ""
+
+msgid "Credit limit reached for customer {0}"
+msgstr ""
+
+msgid "Creditors"
+msgstr "เจ้าหนี้"
+
+msgid "Criteria"
+msgstr "เกณฑ์"
+
+msgid "Criteria Formula"
+msgstr ""
+
+msgid "Criteria Name"
+msgstr ""
+
+msgid "Criteria Setup"
+msgstr ""
+
+msgid "Criteria Weight"
+msgstr ""
+
+msgid "Criteria weights must add up to 100%"
+msgstr ""
+
+msgid "Cron Interval should be between 1 and 59 Min"
+msgstr ""
+
+msgid "Cross Listing of Item in multiple groups"
+msgstr ""
+
+msgid "Cubic Centimeter"
+msgstr ""
+
+msgid "Cubic Decimeter"
+msgstr ""
+
+msgid "Cubic Foot"
+msgstr ""
+
+msgid "Cubic Inch"
+msgstr ""
+
+msgid "Cubic Meter"
+msgstr ""
+
+msgid "Cubic Millimeter"
+msgstr ""
+
+msgid "Cubic Yard"
+msgstr ""
+
+msgid "Cumulative Transaction Threshold"
+msgstr ""
+
+msgid "Cup"
+msgstr ""
+
+msgid "Currency"
+msgstr ""
+
+msgid "Currency Exchange"
+msgstr ""
+
+msgid "Currency Exchange Settings"
+msgstr ""
+
+msgid "Currency Exchange Settings Details"
+msgstr ""
+

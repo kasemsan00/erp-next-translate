@@ -1,0 +1,500 @@
+﻿msgstr ""
+
+msgid "The Serial and Batch Bundle {0} is not valid for this transaction. The 'Type of Transaction' should be 'Outward' instead of 'Inward' in Serial and Batch Bundle {0}"
+msgstr ""
+
+msgid "The Stock Entry of type 'Manufacture' is known as backflush. Raw materials being consumed to manufacture finished goods is known as backflushing. <br><br> When creating Manufacture Entry, raw-material items are backflushed based on BOM of production item. If you want raw-material items to be backflushed based on Material Transfer entry made against that Work Order instead, then you can set it under this field."
+msgstr ""
+
+msgid "The Work Order is mandatory for Disassembly Order"
+msgstr ""
+
+msgid "The account head under Liability or Equity, in which Profit/Loss will be booked"
+msgstr ""
+
+msgid "The allocated amount is greater than the outstanding amount of Payment Request {0}"
+msgstr ""
+
+msgid "The amount of {0} set in this payment request is different from the calculated amount of all payment plans: {1}. Make sure this is correct before submitting the document."
+msgstr ""
+
+msgid "The currency of invoice {} ({}) is different from the currency of this dunning ({})."
+msgstr "สกุลเงินของใบแจ้งหนี้ {} ({}) แตกต่างจากสกุลเงินของการแจ้งเตือนนี้ ({})"
+
+msgid "The current POS opening entry is outdated. Please close it and create a new one."
+msgstr ""
+
+msgid "The default BOM for that item will be fetched by the system. You can also change the BOM."
+msgstr "ระบบจะดึง BOM เริ่มต้นสำหรับรายการนั้น คุณสามารถเปลี่ยน BOM ได้"
+
+msgid "The difference between from time and To Time must be a multiple of Appointment"
+msgstr "ความแตกต่างระหว่างเวลาจากและเวลาถึงต้องเป็นผลคูณของการนัดหมาย"
+
+msgid "The field Asset Account cannot be blank"
+msgstr "ฟิลด์บัญชีสินทรัพย์ต้องไม่ว่างเปล่า"
+
+msgid "The field Equity/Liability Account cannot be blank"
+msgstr "ฟิลด์บัญชีทุน/หนี้สินต้องไม่ว่างเปล่า"
+
+msgid "The field From Shareholder cannot be blank"
+msgstr "ฟิลด์จากผู้ถือหุ้นต้องไม่ว่างเปล่า"
+
+msgid "The field To Shareholder cannot be blank"
+msgstr "ฟิลด์ถึงผู้ถือหุ้นต้องไม่ว่างเปล่า"
+
+msgid "The field {0} in row {1} is not set"
+msgstr "ฟิลด์ {0} ในแถว {1} ไม่ได้ตั้งค่า"
+
+msgid "The fields From Shareholder and To Shareholder cannot be blank"
+msgstr "ฟิลด์จากผู้ถือหุ้นและถึงผู้ถือหุ้นต้องไม่ว่างเปล่า"
+
+msgid "The folio numbers are not matching"
+msgstr "หมายเลขโฟลิโอไม่ตรงกัน"
+
+msgid "The following Items, having Putaway Rules, could not be accomodated:"
+msgstr "รายการต่อไปนี้ที่มีข้อกำหนดการจัดเก็บไม่สามารถรองรับได้:"
+
+msgid "The following assets have failed to automatically post depreciation entries: {0}"
+msgstr "สินทรัพย์ต่อไปนี้ล้มเหลวในการโพสต์รายการค่าเสื่อมราคาโดยอัตโนมัติ: {0}"
+
+msgid "The following batches are expired, please restock them: <br> {0}"
+msgstr "แบทช์ต่อไปนี้หมดอายุแล้ว โปรดเติมสต็อกใหม่: <br> {0}"
+
+msgid "The following deleted attributes exist in Variants but not in the Template. You can either delete the Variants or keep the attribute(s) in template."
+msgstr "คุณลักษณะที่ถูกลบต่อไปนี้มีอยู่ในตัวแปรแต่ไม่อยู่ในแม่แบบ คุณสามารถลบตัวแปรหรือเก็บคุณลักษณะไว้ในแม่แบบ"
+
+msgid "The following employees are currently still reporting to {0}:"
+msgstr "พนักงานต่อไปนี้ยังคงรายงานต่อ {0}:"
+
+msgid "The following invalid Pricing Rules are deleted:"
+msgstr "กฎการกำหนดราคาที่ไม่ถูกต้องต่อไปนี้ถูกลบ:"
+
+msgid "The following {0} were created: {1}"
+msgstr "{0} ต่อไปนี้ถูกสร้างขึ้น: {1}"
+
+msgid "The gross weight of the package. Usually net weight + packaging material weight. (for print)"
+msgstr "น้ำหนักรวมของแพ็คเกจ โดยปกติคือน้ำหนักสุทธิ + น้ำหนักวัสดุบรรจุภัณฑ์ (สำหรับการพิมพ์)"
+
+msgid "The holiday on {0} is not between From Date and To Date"
+msgstr "วันหยุดใน {0} ไม่อยู่ระหว่างวันที่เริ่มต้นและวันที่สิ้นสุด"
+
+msgid "The item {item} is not marked as {type_of} item. You can enable it as {type_of} item from its Item master."
+msgstr "รายการ {item} ไม่ได้ถูกทำเครื่องหมายเป็นรายการ {type_of} คุณสามารถเปิดใช้งานเป็นรายการ {type_of} ได้จากมาสเตอร์รายการ"
+
+msgid "The items {0} and {1} are present in the following {2} :"
+msgstr "รายการ {0} และ {1} มีอยู่ใน {2} ต่อไปนี้:"
+
+msgid "The items {items} are not marked as {type_of} item. You can enable them as {type_of} item from their Item masters."
+msgstr "รายการ {items} ไม่ได้ถูกทำเครื่องหมายเป็นรายการ {type_of} คุณสามารถเปิดใช้งานเป็นรายการ {type_of} ได้จากมาสเตอร์รายการของพวกเขา"
+
+msgid "The job card {0} is in {1} state and you cannot complete."
+msgstr "การ์ดงาน {0} อยู่ในสถานะ {1} และคุณไม่สามารถทำให้เสร็จได้"
+
+msgid "The job card {0} is in {1} state and you cannot start it again."
+msgstr "การ์ดงาน {0} อยู่ในสถานะ {1} และคุณไม่สามารถเริ่มต้นใหม่ได้"
+
+msgid "The lowest tier must have a minimum spent amount of 0. Customers need to be part of a tier as soon as they are enrolled in the program."
+msgstr "ระดับต่ำสุดต้องมีจำนวนเงินที่ใช้จ่ายขั้นต่ำ 0 ลูกค้าจำเป็นต้องเป็นส่วนหนึ่งของระดับทันทีที่พวกเขาลงทะเบียนในโปรแกรม"
+
+msgid "The net weight of this package. (calculated automatically as sum of net weight of items)"
+msgstr "น้ำหนักสุทธิของแพ็คเกจนี้ (คำนวณโดยอัตโนมัติเป็นผลรวมของน้ำหนักสุทธิของรายการ)"
+
+msgid "The new BOM after replacement"
+msgstr "BOM ใหม่หลังจากการเปลี่ยน"
+
+msgid "The number of shares and the share numbers are inconsistent"
+msgstr "จำนวนหุ้นและหมายเลขหุ้นไม่สอดคล้องกัน"
+
+msgid "The operation {0} can not add multiple times"
+msgstr "การดำเนินการ {0} ไม่สามารถเพิ่มหลายครั้งได้"
+
+msgid "The operation {0} can not be the sub operation"
+msgstr "การดำเนินการ {0} ไม่สามารถเป็นการดำเนินการย่อยได้"
+
+msgid "The original invoice should be consolidated before or along with the return invoice."
+msgstr "ใบแจ้งหนี้ต้นฉบับควรถูกรวมก่อนหรือพร้อมกับใบแจ้งหนี้คืน"
+
+msgid "The parent account {0} does not exists in the uploaded template"
+msgstr "บัญชีแม่ {0} ไม่มีในเทมเพลตที่อัปโหลด"
+
+msgid "The payment gateway account in plan {0} is different from the payment gateway account in this payment request"
+msgstr "บัญชีเกตเวย์การชำระเงินในแผน {0} แตกต่างจากบัญชีเกตเวย์การชำระเงินในคำขอชำระเงินนี้"
+
+msgid "The percentage you are allowed to bill more against the amount ordered. For example, if the order value is $100 for an item and tolerance is set as 10%, then you are allowed to bill up to $110 "
+msgstr ""
+
+msgid "The percentage you are allowed to pick more items in the pick list than the ordered quantity."
+msgstr "เปอร์เซ็นต์ที่คุณได้รับอนุญาตให้เลือกสินค้ามากกว่าจำนวนที่สั่งในรายการเลือก"
+
+msgid "The percentage you are allowed to receive or deliver more against the quantity ordered. For example, if you have ordered 100 units, and your Allowance is 10%, then you are allowed to receive 110 units."
+msgstr ""
+
+msgid "The percentage you are allowed to transfer more against the quantity ordered. For example, if you have ordered 100 units, and your Allowance is 10%, then you are allowed transfer 110 units."
+msgstr ""
+
+msgid "The reserved stock will be released when you update items. Are you certain you wish to proceed?"
+msgstr "สต็อกที่จองไว้จะถูกปล่อยเมื่อคุณอัปเดตรายการ คุณแน่ใจหรือไม่ว่าต้องการดำเนินการต่อ?"
+
+msgid "The reserved stock will be released. Are you certain you wish to proceed?"
+msgstr "สต็อกที่จองไว้จะถูกปล่อย คุณแน่ใจหรือไม่ว่าต้องการดำเนินการต่อ?"
+
+msgid "The root account {0} must be a group"
+msgstr "บัญชีราก {0} ต้องเป็นกลุ่ม"
+
+msgid "The selected BOMs are not for the same item"
+msgstr "BOM ที่เลือกไม่ใช่สำหรับรายการเดียวกัน"
+
+msgid "The selected change account {} doesn't belongs to Company {}."
+msgstr "บัญชีเปลี่ยนแปลงที่เลือก {} ไม่ได้เป็นของบริษัท {}"
+
+msgid "The selected item cannot have Batch"
+msgstr "รายการที่เลือกไม่สามารถมีแบทช์ได้"
+
+msgid "The seller and the buyer cannot be the same"
+msgstr "ผู้ขายและผู้ซื้อไม่สามารถเป็นคนเดียวกันได้"
+
+msgid "The serial and batch bundle {0} not linked to {1} {2}"
+msgstr "ชุดซีเรียลและแบทช์ {0} ไม่ได้เชื่อมโยงกับ {1} {2}"
+
+msgid "The serial no {0} does not belong to item {1}"
+msgstr "หมายเลขซีเรียล {0} ไม่ได้เป็นของรายการ {1}"
+
+msgid "The shareholder does not belong to this company"
+msgstr "ผู้ถือหุ้นไม่ได้เป็นของบริษัทนี้"
+
+msgid "The shares already exist"
+msgstr "หุ้นมีอยู่แล้ว"
+
+msgid "The shares don't exist with the {0}"
+msgstr "หุ้นไม่มีอยู่กับ {0}"
+
+msgid "The stock for the item {0} in the {1} warehouse was negative on the {2}. You should create a positive entry {3} before the date {4} and time {5} to post the correct valuation rate. For more details, please read the <a href='https://docs.erpnext.com/docs/user/manual/en/stock-adjustment-cogs-with-negative-stock'>documentation<a>."
+msgstr "สต็อกสำหรับรายการ {0} ในคลังสินค้า {1} เป็นลบเมื่อวันที่ {2} คุณควรสร้างรายการบวก {3} ก่อนวันที่ {4} และเวลา {5} เพื่อโพสต์อัตราการประเมินมูลค่าที่ถูกต้อง สำหรับรายละเอียดเพิ่มเติม โปรดอ่าน <a href='https://docs.erpnext.com/docs/user/manual/en/stock-adjustment-cogs-with-negative-stock'>เอกสาร<a>."
+
+msgid "The stock has been reserved for the following Items and Warehouses, un-reserve the same to {0} the Stock Reconciliation: <br /><br /> {1}"
+msgstr "สต็อกถูกจองไว้สำหรับรายการและคลังสินค้าต่อไปนี้ ยกเลิกการจองเพื่อ {0} การกระทบยอดสต็อก: <br /><br /> {1}"
+
+msgid "The sync has started in the background, please check the {0} list for new records."
+msgstr "การซิงค์ได้เริ่มต้นในพื้นหลัง โปรดตรวจสอบรายการ {0} สำหรับระเบียนใหม่"
+
+msgid "The system will create a Sales Invoice or a POS Invoice from the POS interface based on this setting. For high-volume transactions, it is recommended to use POS Invoice."
+msgstr ""
+
+msgid "The task has been enqueued as a background job."
+msgstr "งานถูกจัดคิวเป็นงานพื้นหลัง"
+
+msgid "The task has been enqueued as a background job. In case there is any issue on processing in background, the system will add a comment about the error on this Stock Reconciliation and revert to the Draft stage"
+msgstr "งานถูกจัดคิวเป็นงานพื้นหลัง หากมีปัญหาในการประมวลผลในพื้นหลัง ระบบจะเพิ่มความคิดเห็นเกี่ยวกับข้อผิดพลาดในกระทบยอดสต็อกนี้และเปลี่ยนกลับไปยังสถานะร่าง"
+
+msgid "The task has been enqueued as a background job. In case there is any issue on processing in background, the system will add a comment about the error on this Stock Reconciliation and revert to the Submitted stage"
+msgstr "งานถูกจัดคิวเป็นงานพื้นหลัง หากมีปัญหาในการประมวลผลในพื้นหลัง ระบบจะเพิ่มความคิดเห็นเกี่ยวกับข้อผิดพลาดในกระทบยอดสต็อกนี้และเปลี่ยนกลับไปยังสถานะที่ส่งแล้ว"
+
+msgid "The total Issue / Transfer quantity {0} in Material Request {1}  cannot be greater than allowed requested quantity {2} for Item {3}"
+msgstr "ปริมาณการออก / โอนทั้งหมด {0} ในคำขอวัสดุ {1} ไม่สามารถมากกว่าปริมาณที่ร้องขอที่อนุญาต {2} สำหรับรายการ {3}"
+
+msgid "The total Issue / Transfer quantity {0} in Material Request {1} cannot be greater than requested quantity {2} for Item {3}"
+msgstr "ปริมาณการออก / โอนทั้งหมด {0} ในคำขอวัสดุ {1} ไม่สามารถมากกว่าปริมาณที่ร้องขอ {2} สำหรับรายการ {3}"
+
+msgid "The uploaded file does not appear to be in valid MT940 format."
+msgstr ""
+
+msgid "The uploaded file does not match the selected Code List."
+msgstr "ไฟล์ที่อัปโหลดไม่ตรงกับรายการรหัสที่เลือก"
+
+msgid "The user cannot submit the Serial and Batch Bundle manually"
+msgstr "ผู้ใช้ไม่สามารถส่งชุดซีเรียลและแบทช์ด้วยตนเองได้"
+
+msgid "The users with this Role are allowed to create/modify a stock transaction, even though the transaction is frozen."
+msgstr "ผู้ใช้ที่มีบทบาทนี้ได้รับอนุญาตให้สร้าง/แก้ไขธุรกรรมสต็อก แม้ว่าธุรกรรมจะถูกแช่แข็ง"
+
+msgid "The value of {0} differs between Items {1} and {2}"
+msgstr "ค่าของ {0} แตกต่างกันระหว่างรายการ {1} และ {2}"
+
+msgid "The value {0} is already assigned to an existing Item {1}."
+msgstr "ค่า {0} ถูกกำหนดให้กับรายการที่มีอยู่แล้ว {1}"
+
+msgid "The warehouse where you store finished Items before they are shipped."
+msgstr "คลังสินค้าที่คุณเก็บรายการที่เสร็จสมบูรณ์ก่อนที่จะจัดส่ง"
+
+msgid "The warehouse where you store your raw materials. Each required item can have a separate source warehouse. Group warehouse also can be selected as source warehouse. On submission of the Work Order, the raw materials will be reserved in these warehouses for production usage."
+msgstr "คลังสินค้าที่คุณเก็บวัตถุดิบของคุณ รายการที่ต้องการแต่ละรายการสามารถมีคลังสินค้าแหล่งที่มาแยกต่างหากได้ คลังสินค้ากลุ่มยังสามารถเลือกเป็นคลังสินค้าแหล่งที่มาได้ เมื่อส่งคำสั่งงาน วัตถุดิบจะถูกจองในคลังสินค้าเหล่านี้เพื่อการใช้งานในการผลิต"
+
+msgid "The warehouse where your Items will be transferred when you begin production. Group Warehouse can also be selected as a Work in Progress warehouse."
+msgstr "คลังสินค้าที่รายการของคุณจะถูกโอนเมื่อคุณเริ่มการผลิต คลังสินค้ากลุ่มยังสามารถเลือกเป็นคลังสินค้างานระหว่างทำได้"
+
+msgid "The {0} ({1}) must be equal to {2} ({3})"
+msgstr "{0} ({1}) ต้องเท่ากับ {2} ({3})"
+
+msgid "The {0} contains Unit Price Items."
+msgstr "{0} มีรายการราคาต่อหน่วย"
+
+msgid "The {0} {1} created successfully"
+msgstr "สร้าง {0} {1} สำเร็จแล้ว"
+
+msgid "The {0} {1} does not match with the {0} {2} in the {3} {4}"
+msgstr ""
+
+msgid "The {0} {1} is used to calculate the valuation cost for the finished good {2}."
+msgstr "{0} {1} ถูกใช้ในการคำนวณต้นทุนการประเมินมูลค่าสำหรับสินค้าสำเร็จรูป {2}"
+
+msgid "There are active maintenance or repairs against the asset. You must complete all of them before cancelling the asset."
+msgstr ""
+
+msgid "There are inconsistencies between the rate, no of shares and the amount calculated"
+msgstr ""
+
+msgid "There are ledger entries against this account. Changing {0} to non-{1} in live system will cause incorrect output in 'Accounts {2}' report"
+msgstr ""
+
+msgid "There are no Failed transactions"
+msgstr ""
+
+msgid "There are no active Fiscal Years for which Demo Data can be generated."
+msgstr ""
+
+msgid "There are no slots available on this date"
+msgstr ""
+
+msgid "There are two options to maintain valuation of stock. FIFO (first in - first out) and Moving Average. To understand this topic in detail please visit <a href='https://docs.erpnext.com/docs/v13/user/manual/en/stock/articles/item-valuation-fifo-and-moving-average' target='_blank'>Item Valuation, FIFO and Moving Average.</a>"
+msgstr ""
+
+msgid "There aren't any item variants for the selected item"
+msgstr ""
+
+msgid "There can be multiple tiered collection factor based on the total spent. But the conversion factor for redemption will always be same for all the tier."
+msgstr ""
+
+msgid "There can only be 1 Account per Company in {0} {1}"
+msgstr ""
+
+msgid "There can only be one Shipping Rule Condition with 0 or blank value for \"To Value\""
+msgstr ""
+
+msgid "There is already a valid Lower Deduction Certificate {0} for Supplier {1} against category {2} for this time period."
+msgstr ""
+
+msgid "There is already an active Subcontracting BOM {0} for the Finished Good {1}."
+msgstr ""
+
+msgid "There is no batch found against the {0}: {1}"
+msgstr ""
+
+msgid "There must be atleast 1 Finished Good in this Stock Entry"
+msgstr "ต้องมีสินค้าสำเร็จรูปอย่างน้อย 1 รายการในรายการสต็อกนี้"
+
+msgid "There was an error creating Bank Account while linking with Plaid."
+msgstr "เกิดข้อผิดพลาดในการสร้างบัญชีธนาคารขณะเชื่อมโยงกับ Plaid"
+
+msgid "There was an error syncing transactions."
+msgstr "เกิดข้อผิดพลาดในการซิงค์ธุรกรรม"
+
+msgid "There was an error updating Bank Account {} while linking with Plaid."
+msgstr "เกิดข้อผิดพลาดในการอัปเดตบัญชีธนาคาร {} ขณะเชื่อมโยงกับ Plaid"
+
+msgid "There was an issue connecting to Plaid's authentication server. Check browser console for more information"
+msgstr "เกิดปัญหาในการเชื่อมต่อกับเซิร์ฟเวอร์การตรวจสอบสิทธิ์ของ Plaid ตรวจสอบคอนโซลเบราว์เซอร์สำหรับข้อมูลเพิ่มเติม"
+
+msgid "There were errors while sending email. Please try again."
+msgstr "เกิดข้อผิดพลาดขณะส่งอีเมล โปรดลองอีกครั้ง"
+
+msgid "There were issues unlinking payment entry {0}."
+msgstr "เกิดปัญหาในการยกเลิกการเชื่อมโยงรายการชำระเงิน {0}"
+
+msgid "This Account has '0' balance in either Base Currency or Account Currency"
+msgstr "บัญชีนี้มียอดคงเหลือ '0' ในสกุลเงินฐานหรือสกุลเงินบัญชี"
+
+msgid "This Item is a Template and cannot be used in transactions. Item attributes will be copied over into the variants unless 'No Copy' is set"
+msgstr "รายการนี้เป็นแม่แบบและไม่สามารถใช้ในธุรกรรมได้ คุณลักษณะของรายการจะถูกคัดลอกไปยังตัวแปรเว้นแต่จะตั้งค่า 'ไม่คัดลอก'"
+
+msgid "This Item is a Variant of {0} (Template)."
+msgstr "รายการนี้เป็นตัวแปรของ {0} (แม่แบบ)"
+
+msgid "This Month's Summary"
+msgstr "สรุปเดือนนี้"
+
+msgid "This PO has been fully subcontracted."
+msgstr "คำสั่งซื้อนี้ถูกจ้างช่วงทั้งหมดแล้ว"
+
+msgid "This Warehouse will be auto-updated in the Target Warehouse field of Work Order."
+msgstr "คลังสินค้านี้จะถูกอัปเดตอัตโนมัติในฟิลด์คลังสินค้าเป้าหมายของคำสั่งงาน"
+
+msgid "This Warehouse will be auto-updated in the Work In Progress Warehouse field of Work Orders."
+msgstr "คลังสินค้านี้จะถูกอัปเดตอัตโนมัติในฟิลด์คลังสินค้างานระหว่างทำของคำสั่งงาน"
+
+msgid "This Week's Summary"
+msgstr "สรุปสัปดาห์นี้"
+
+msgid "This action will stop future billing. Are you sure you want to cancel this subscription?"
+msgstr "การกระทำนี้จะหยุดการเรียกเก็บเงินในอนาคต คุณแน่ใจหรือไม่ว่าต้องการยกเลิกการสมัครสมาชิกนี้?"
+
+msgid "This action will unlink this account from any external service integrating ERPNext with your bank accounts. It cannot be undone. Are you certain ?"
+msgstr "การกระทำนี้จะยกเลิกการเชื่อมโยงบัญชีนี้จากบริการภายนอกที่รวม ERPNext กับบัญชีธนาคารของคุณ ไม่สามารถย้อนกลับได้ คุณแน่ใจหรือไม่?"
+
+msgid "This asset category is marked as non-depreciable. Please disable depreciation calculation or choose a different category."
+msgstr "หมวดหมู่สินทรัพย์นี้ถูกทำเครื่องหมายว่าไม่สามารถคิดค่าเสื่อมราคาได้ โปรดปิดใช้งานการคำนวณค่าเสื่อมราคาหรือเลือกหมวดหมู่อื่น"
+
+msgid "This covers all scorecards tied to this Setup"
+msgstr "ครอบคลุมการ์ดคะแนนทั้งหมดที่เชื่อมโยงกับการตั้งค่านี้"
+
+msgid "This document is over limit by {0} {1} for item {4}. Are you making another {3} against the same {2}?"
+msgstr "เอกสารนี้เกินขีดจำกัด {0} {1} สำหรับรายการ {4} คุณกำลังทำ {3} อื่นกับ {2} เดียวกันหรือไม่?"
+
+msgid "This field is used to set the 'Customer'."
+msgstr "ฟิลด์นี้ใช้สำหรับตั้งค่า 'ลูกค้า'"
+
+msgid "This filter will be applied to Journal Entry."
+msgstr "ตัวกรองนี้จะถูกใช้กับรายการบัญชีแยกประเภท"
+
+msgid "This invoice has already been paid."
+msgstr ""
+
+msgid "This is a Template BOM and will be used to make the work order for {0} of the item {1}"
+msgstr "นี่คือ BOM แม่แบบและจะถูกใช้ในการสร้างคำสั่งงานสำหรับ {0} ของรายการ {1}"
+
+msgid "This is a location where final product stored."
+msgstr "นี่คือสถานที่ที่เก็บผลิตภัณฑ์สำเร็จรูป"
+
+msgid "This is a location where operations are executed."
+msgstr "นี่คือสถานที่ที่ดำเนินการปฏิบัติการ"
+
+msgid "This is a location where raw materials are available."
+msgstr "นี่คือสถานที่ที่มีวัตถุดิบ"
+
+msgid "This is a location where scraped materials are stored."
+msgstr "นี่คือสถานที่ที่เก็บวัสดุที่ถูกทิ้ง"
+
+msgid "This is a preview of the email to be sent. A PDF of the document will automatically be attached with the email."
+msgstr "นี่คือตัวอย่างอีเมลที่จะส่ง PDF ของเอกสารจะถูกแนบกับอีเมลโดยอัตโนมัติ"
+
+msgid "This is a root account and cannot be edited."
+msgstr "นี่คือบัญชีรากและไม่สามารถแก้ไขได้"
+
+msgid "This is a root customer group and cannot be edited."
+msgstr "นี่คือกลุ่มลูกค้ารากและไม่สามารถแก้ไขได้"
+
+msgid "This is a root department and cannot be edited."
+msgstr "นี่คือแผนกรากและไม่สามารถแก้ไขได้"
+
+msgid "This is a root item group and cannot be edited."
+msgstr "นี่คือกลุ่มรายการรากและไม่สามารถแก้ไขได้"
+
+msgid "This is a root sales person and cannot be edited."
+msgstr "นี่คือพนักงานขายรากและไม่สามารถแก้ไขได้"
+
+msgid "This is a root supplier group and cannot be edited."
+msgstr "นี่คือกลุ่มผู้จัดจำหน่ายรากและไม่สามารถแก้ไขได้"
+
+msgid "This is a root territory and cannot be edited."
+msgstr "นี่คือเขตแดนรากและไม่สามารถแก้ไขได้"
+
+msgid "This is based on stock movement. See {0} for details"
+msgstr "นี่ขึ้นอยู่กับการเคลื่อนไหวของสต็อก ดู {0} สำหรับรายละเอียด"
+
+msgid "This is based on the Time Sheets created against this project"
+msgstr "นี่ขึ้นอยู่กับแผ่นเวลาที่สร้างขึ้นสำหรับโครงการนี้"
+
+msgid "This is based on transactions against this Sales Person. See timeline below for details"
+msgstr "นี่ขึ้นอยู่กับธุรกรรมที่เกี่ยวข้องกับพนักงานขายนี้ ดูไทม์ไลน์ด้านล่างสำหรับรายละเอียด"
+
+msgid "This is considered dangerous from accounting point of view."
+msgstr "นี่ถือว่าอันตรายจากมุมมองทางบัญชี"
+
+msgid "This is done to handle accounting for cases when Purchase Receipt is created after Purchase Invoice"
+msgstr "สิ่งนี้ทำเพื่อจัดการบัญชีในกรณีที่สร้างใบรับซื้อหลังจากใบแจ้งหนี้ซื้อ"
+
+msgid "This is enabled by default. If you want to plan materials for sub-assemblies of the Item you're manufacturing leave this enabled. If you plan and manufacture the sub-assemblies separately, you can disable this checkbox."
+msgstr "สิ่งนี้เปิดใช้งานโดยค่าเริ่มต้น หากคุณต้องการวางแผนวัสดุสำหรับชุดย่อยของรายการที่คุณกำลังผลิต ให้เปิดใช้งานนี้ไว้ หากคุณวางแผนและผลิตชุดย่อยแยกกัน คุณสามารถปิดใช้งานช่องทำเครื่องหมายนี้ได้"
+
+msgid "This is for raw material Items that'll be used to create finished goods. If the Item is an additional service like 'washing' that'll be used in the BOM, keep this unchecked."
+msgstr "นี่คือสำหรับรายการวัตถุดิบที่จะใช้ในการสร้างสินค้าสำเร็จรูป หากรายการเป็นบริการเพิ่มเติมเช่น 'การซัก' ที่จะใช้ใน BOM ให้ปล่อยช่องนี้ว่างไว้"
+
+msgid "This item filter has already been applied for the {0}"
+msgstr "ตัวกรองรายการนี้ถูกใช้แล้วสำหรับ {0}"
+
+msgid "This option can be checked to edit the 'Posting Date' and 'Posting Time' fields."
+msgstr "สามารถเลือกตัวเลือกนี้เพื่อแก้ไขฟิลด์ 'วันที่โพสต์' และ 'เวลาโพสต์'"
+
+msgid "This schedule was created when Asset {0} was adjusted through Asset Value Adjustment {1}."
+msgstr "กำหนดการนี้ถูกสร้างขึ้นเมื่อสินทรัพย์ {0} ถูกปรับผ่านการปรับมูลค่าสินทรัพย์ {1}"
+
+msgid "This schedule was created when Asset {0} was consumed through Asset Capitalization {1}."
+msgstr "กำหนดการนี้ถูกสร้างขึ้นเมื่อสินทรัพย์ {0} ถูกใช้ผ่านการเพิ่มทุนสินทรัพย์ {1}"
+
+msgid "This schedule was created when Asset {0} was repaired through Asset Repair {1}."
+msgstr "กำหนดการนี้ถูกสร้างขึ้นเมื่อสินทรัพย์ {0} ถูกซ่อมแซมผ่านการซ่อมแซมสินทรัพย์ {1}"
+
+msgid "This schedule was created when Asset {0} was restored due to Sales Invoice {1} cancellation."
+msgstr "กำหนดการนี้ถูกสร้างขึ้นเมื่อสินทรัพย์ {0} ถูกคืนค่าเนื่องจากการยกเลิกใบแจ้งหนี้ขาย {1}"
+
+msgid "This schedule was created when Asset {0} was restored on Asset Capitalization {1}'s cancellation."
+msgstr "กำหนดการนี้ถูกสร้างขึ้นเมื่อสินทรัพย์ {0} ถูกคืนค่าเนื่องจากการยกเลิกการเพิ่มทุนสินทรัพย์ {1}"
+
+msgid "This schedule was created when Asset {0} was restored."
+msgstr "กำหนดการนี้ถูกสร้างขึ้นเมื่อสินทรัพย์ {0} ถูกคืนค่า"
+
+msgid "This schedule was created when Asset {0} was returned through Sales Invoice {1}."
+msgstr "กำหนดการนี้ถูกสร้างขึ้นเมื่อสินทรัพย์ {0} ถูกคืนผ่านใบแจ้งหนี้ขาย {1}"
+
+msgid "This schedule was created when Asset {0} was scrapped."
+msgstr "กำหนดการนี้ถูกสร้างขึ้นเมื่อสินทรัพย์ {0} ถูกทิ้ง"
+
+msgid "This schedule was created when Asset {0} was {1} into new Asset {2}."
+msgstr "กำหนดการนี้ถูกสร้างขึ้นเมื่อสินทรัพย์ {0} ถูก {1} เป็นสินทรัพย์ใหม่ {2}"
+
+msgid "This schedule was created when Asset {0} was {1} through Sales Invoice {2}."
+msgstr "กำหนดการนี้ถูกสร้างขึ้นเมื่อสินทรัพย์ {0} ถูก {1} ผ่านใบแจ้งหนี้ขาย {2}"
+
+msgid "This schedule was created when Asset {0}'s Asset Value Adjustment {1} was cancelled."
+msgstr "กำหนดการนี้ถูกสร้างขึ้นเมื่อการปรับมูลค่าสินทรัพย์ {0} ของสินทรัพย์ {1} ถูกยกเลิก"
+
+msgid "This schedule was created when Asset {0}'s shifts were adjusted through Asset Shift Allocation {1}."
+msgstr "กำหนดการนี้ถูกสร้างขึ้นเมื่อการเปลี่ยนแปลงของสินทรัพย์ {0} ถูกปรับผ่านการจัดสรรการเปลี่ยนแปลงสินทรัพย์ {1}"
+
+msgid "This section allows the user to set the Body and Closing text of the Dunning Letter for the Dunning Type based on language, which can be used in Print."
+msgstr "ส่วนนี้อนุญาตให้ผู้ใช้ตั้งค่าข้อความเนื้อหาและข้อความปิดท้ายของจดหมายแจ้งเตือนสำหรับประเภทการแจ้งเตือนตามภาษา ซึ่งสามารถใช้ในการพิมพ์ได้"
+
+msgid "This table is used to set details about the 'Item', 'Qty', 'Basic Rate', etc."
+msgstr "ตารางนี้ใช้สำหรับตั้งค่ารายละเอียดเกี่ยวกับ 'รายการ', 'ปริมาณ', 'อัตราพื้นฐาน' เป็นต้น"
+
+msgid "This tool helps you to update or fix the quantity and valuation of stock in the system. It is typically used to synchronise the system values and what actually exists in your warehouses."
+msgstr "เครื่องมือนี้ช่วยให้คุณอัปเดตหรือแก้ไขปริมาณและการประเมินมูลค่าสต็อกในระบบ โดยปกติจะใช้เพื่อซิงโครไนซ์ค่าของระบบและสิ่งที่มีอยู่จริงในคลังสินค้าของคุณ"
+
+msgid "This value shall be used when no matching Common Code for a record is found."
+msgstr "ค่านี้จะถูกใช้เมื่อไม่พบรหัสทั่วไปที่ตรงกันสำหรับระเบียน"
+
+msgid "This will be appended to the Item Code of the variant. For example, if your abbreviation is \"SM\", and the item code is \"T-SHIRT\", the item code of the variant will be \"T-SHIRT-SM\""
+msgstr ""
+
+msgid "This will restrict user access to other employee records"
+msgstr "สิ่งนี้จะจำกัดการเข้าถึงของผู้ใช้ไปยังระเบียนพนักงานอื่น"
+
+msgid "This {} will be treated as material transfer."
+msgstr "{} นี้จะถือว่าเป็นการโอนวัสดุ"
+
+msgid "Threshold for Suggestion"
+msgstr ""
+
+msgid "Threshold for Suggestion (In Percentage)"
+msgstr ""
+
+msgid "Thumbnail"
+msgstr ""
+
+msgid "Thursday"
+msgstr "วันพฤหัสบดี"
+
+msgid "Tier Name"
+msgstr ""
+
+msgid "Time"
+msgstr ""
+
+msgid "Time (In Mins)"
+msgstr ""
+
+msgid "Time Between Operations (Mins)"
+msgstr ""
+
+msgid "Time In Mins"
+msgstr ""
+

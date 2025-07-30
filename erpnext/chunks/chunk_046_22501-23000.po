@@ -1,0 +1,500 @@
+﻿
+msgid "Sub Assembly Item"
+msgstr ""
+
+msgid "Sub Assembly Item Code"
+msgstr ""
+
+msgid "Sub Assembly Item is mandatory"
+msgstr ""
+
+msgid "Sub Assembly Items"
+msgstr ""
+
+msgid "Sub Assembly Warehouse"
+msgstr ""
+
+msgid "Sub Operation"
+msgstr ""
+
+msgid "Sub Operations"
+msgstr ""
+
+msgid "Sub Procedure"
+msgstr ""
+
+msgid "Sub Total"
+msgstr ""
+
+msgid "Sub-assembly BOM Count"
+msgstr ""
+
+msgid "Sub-contracting"
+msgstr ""
+
+msgid "Subcontract"
+msgstr "จ้างช่วง"
+
+msgid "Subcontract BOM"
+msgstr "BOM การจ้างช่วง"
+
+msgid "Subcontract Order"
+msgstr "คำสั่งจ้างช่วง"
+
+msgid "Subcontract Order Summary"
+msgstr "สรุปคำสั่งจ้างช่วง"
+
+msgid "Subcontract Return"
+msgstr "การคืนจ้างช่วง"
+
+msgid "Subcontracted Item"
+msgstr "รายการที่จ้างช่วง"
+
+msgid "Subcontracted Item To Be Received"
+msgstr "รายการที่จ้างช่วงที่จะได้รับ"
+
+msgid "Subcontracted Purchase Order"
+msgstr "คำสั่งซื้อที่จ้างช่วง"
+
+msgid "Subcontracted Quantity"
+msgstr "ปริมาณที่จ้างช่วง"
+
+msgid "Subcontracted Raw Materials To Be Transferred"
+msgstr "วัตถุดิบที่จ้างช่วงที่จะถูกโอน"
+
+msgid "Subcontracting"
+msgstr "การจ้างช่วง"
+
+msgid "Subcontracting BOM"
+msgstr "BOM การจ้างช่วง"
+
+msgid "Subcontracting Conversion Factor"
+msgstr "ปัจจัยการแปลงการจ้างช่วง"
+
+msgid "Subcontracting Order"
+msgstr "คำสั่งจ้างช่วง"
+
+msgid "Subcontracting Order (Draft) will be auto-created on submission of Purchase Order."
+msgstr "คำสั่งจ้างช่วง (ร่าง) จะถูกสร้างอัตโนมัติเมื่อส่งคำสั่งซื้อ"
+
+msgid "Subcontracting Order Item"
+msgstr "รายการคำสั่งจ้างช่วง"
+
+msgid "Subcontracting Order Service Item"
+msgstr "รายการบริการคำสั่งจ้างช่วง"
+
+msgid "Subcontracting Order Supplied Item"
+msgstr "รายการที่จัดหาสำหรับคำสั่งจ้างช่วง"
+
+msgid "Subcontracting Order {0} created."
+msgstr "คำสั่งจ้างช่วง {0} ถูกสร้างขึ้นแล้ว"
+
+msgid "Subcontracting Purchase Order"
+msgstr "คำสั่งซื้อการจ้างช่วง"
+
+msgid "Subcontracting Receipt"
+msgstr "ใบรับจ้างช่วง"
+
+msgid "Subcontracting Receipt Item"
+msgstr "รายการใบรับจ้างช่วง"
+
+msgid "Subcontracting Receipt Supplied Item"
+msgstr "รายการที่จัดหาในใบรับจ้างช่วง"
+
+msgid "Subcontracting Settings"
+msgstr "การตั้งค่าการจ้างช่วง"
+
+msgid "Subdivision"
+msgstr "การแบ่งย่อย"
+
+msgid "Subject"
+msgstr "หัวข้อ"
+
+msgid "Submit"
+msgstr "ส่ง"
+
+msgid "Submit Action Failed"
+msgstr "การส่งล้มเหลว"
+
+msgid "Submit After Import"
+msgstr "ส่งหลังจากนำเข้า"
+
+msgid "Submit ERR Journals?"
+msgstr "ส่งวารสาร ERR หรือไม่?"
+
+msgid "Submit Generated Invoices"
+msgstr "ส่งใบแจ้งหนี้ที่สร้างขึ้น"
+
+msgid "Submit Journal Entries"
+msgstr "ส่งรายการวารสาร"
+
+msgid "Submit this Work Order for further processing."
+msgstr "ส่งคำสั่งงานนี้เพื่อดำเนินการต่อ"
+
+msgid "Submit your Quotation"
+msgstr "ส่งใบเสนอราคาของคุณ"
+
+msgid "Submitted"
+msgstr "ส่งแล้ว"
+
+msgid "Subscription"
+msgstr "การสมัครสมาชิก"
+
+msgid "Subscription End Date"
+msgstr "วันที่สิ้นสุดการสมัครสมาชิก"
+
+msgid "Subscription End Date is mandatory to follow calendar months"
+msgstr "วันที่สิ้นสุดการสมัครสมาชิกเป็นสิ่งจำเป็นเพื่อให้ตรงกับเดือนปฏิทิน"
+
+msgid "Subscription End Date must be after {0} as per the subscription plan"
+msgstr "วันที่สิ้นสุดการสมัครสมาชิกต้องหลังจาก {0} ตามแผนการสมัครสมาชิก"
+
+msgid "Subscription Invoice"
+msgstr "ใบแจ้งหนี้การสมัครสมาชิก"
+
+msgid "Subscription Management"
+msgstr ""
+
+msgid "Subscription Period"
+msgstr "ระยะเวลาการสมัครสมาชิก"
+
+msgid "Subscription Plan"
+msgstr "แผนการสมัครสมาชิก"
+
+msgid "Subscription Plan Detail"
+msgstr "รายละเอียดแผนการสมัครสมาชิก"
+
+msgid "Subscription Plans"
+msgstr "แผนการสมัครสมาชิก"
+
+msgid "Subscription Price Based On"
+msgstr "ราคาการสมัครสมาชิกขึ้นอยู่กับ"
+
+msgid "Subscription Section"
+msgstr "ส่วนการสมัครสมาชิก"
+
+msgid "Subscription Settings"
+msgstr "การตั้งค่าการสมัครสมาชิก"
+
+msgid "Subscription Start Date"
+msgstr "วันที่เริ่มต้นการสมัครสมาชิก"
+
+msgid "Subscription for Future dates cannot be processed."
+msgstr "ไม่สามารถดำเนินการสมัครสมาชิกสำหรับวันที่ในอนาคตได้"
+
+msgid "Subscriptions"
+msgstr "การสมัครสมาชิก"
+
+msgid "Succeeded"
+msgstr "สำเร็จ"
+
+msgid "Succeeded Entries"
+msgstr "รายการที่สำเร็จ"
+
+msgid "Success"
+msgstr "สำเร็จ"
+
+msgid "Success Redirect URL"
+msgstr "URL เปลี่ยนเส้นทางสำเร็จ"
+
+msgid "Success Settings"
+msgstr "การตั้งค่าความสำเร็จ"
+
+msgid "Successful"
+msgstr "สำเร็จ"
+
+msgid "Successfully Reconciled"
+msgstr "กระทบยอดสำเร็จ"
+
+msgid "Successfully Set Supplier"
+msgstr "ตั้งค่าผู้จัดจำหน่ายสำเร็จ"
+
+msgid "Successfully changed Stock UOM, please redefine conversion factors for new UOM."
+msgstr "เปลี่ยนหน่วยวัดสต็อกสำเร็จ โปรดกำหนดปัจจัยการแปลงใหม่สำหรับหน่วยวัดใหม่"
+
+msgid "Successfully imported {0}"
+msgstr "นำเข้า {0} สำเร็จ"
+
+msgid "Successfully imported {0} record out of {1}. Click on Export Errored Rows, fix the errors and import again."
+msgstr "นำเข้า {0} รายการจาก {1} สำเร็จ คลิกที่ส่งออกแถวที่มีข้อผิดพลาด แก้ไขข้อผิดพลาดและนำเข้าอีกครั้ง"
+
+msgid "Successfully imported {0} record."
+msgstr "นำเข้า {0} รายการสำเร็จ"
+
+msgid "Successfully imported {0} records out of {1}. Click on Export Errored Rows, fix the errors and import again."
+msgstr "นำเข้า {0} รายการจาก {1} สำเร็จ คลิกที่ส่งออกแถวที่มีข้อผิดพลาด แก้ไขข้อผิดพลาดและนำเข้าอีกครั้ง"
+
+msgid "Successfully imported {0} records."
+msgstr "นำเข้า {0} รายการสำเร็จ"
+
+msgid "Successfully linked to Customer"
+msgstr "เชื่อมโยงกับลูกค้าสำเร็จ"
+
+msgid "Successfully linked to Supplier"
+msgstr "เชื่อมโยงกับผู้จัดจำหน่ายสำเร็จ"
+
+msgid "Successfully merged {0} out of {1}."
+msgstr "รวม {0} จาก {1} สำเร็จ"
+
+msgid "Successfully updated {0}"
+msgstr "อัปเดต {0} สำเร็จ"
+
+msgid "Successfully updated {0} record out of {1}. Click on Export Errored Rows, fix the errors and import again."
+msgstr "อัปเดต {0} รายการจาก {1} สำเร็จ คลิกที่ส่งออกแถวที่มีข้อผิดพลาด แก้ไขข้อผิดพลาดและนำเข้าอีกครั้ง"
+
+msgid "Successfully updated {0} record."
+msgstr "อัปเดต {0} รายการสำเร็จ"
+
+msgid "Successfully updated {0} records out of {1}. Click on Export Errored Rows, fix the errors and import again."
+msgstr "อัปเดต {0} รายการจาก {1} สำเร็จ คลิกที่ส่งออกแถวที่มีข้อผิดพลาด แก้ไขข้อผิดพลาดและนำเข้าอีกครั้ง"
+
+msgid "Successfully updated {0} records."
+msgstr "อัปเดต {0} รายการสำเร็จ"
+
+msgid "Suggestions"
+msgstr ""
+
+msgid "Summary"
+msgstr ""
+
+msgid "Summary for this month and pending activities"
+msgstr ""
+
+msgid "Summary for this week and pending activities"
+msgstr ""
+
+msgid "Sunday"
+msgstr "วันอาทิตย์"
+
+msgid "Supplied Item"
+msgstr ""
+
+msgid "Supplied Items"
+msgstr ""
+
+msgid "Supplied Qty"
+msgstr ""
+
+msgid "Supplier"
+msgstr ""
+
+msgid "Supplier Address"
+msgstr ""
+
+msgid "Supplier Address Details"
+msgstr ""
+
+msgid "Supplier Addresses And Contacts"
+msgstr ""
+
+msgid "Supplier Contact"
+msgstr ""
+
+msgid "Supplier Delivery Note"
+msgstr ""
+
+msgid "Supplier Details"
+msgstr ""
+
+msgid "Supplier Group"
+msgstr "กลุ่มผู้จัดจำหน่าย"
+
+msgid "Supplier Group Item"
+msgstr "รายการกลุ่มผู้จัดจำหน่าย"
+
+msgid "Supplier Group Name"
+msgstr "ชื่อกลุ่มผู้จัดจำหน่าย"
+
+msgid "Supplier Info"
+msgstr "ข้อมูลผู้จัดจำหน่าย"
+
+msgid "Supplier Invoice"
+msgstr "ใบแจ้งหนี้ผู้จัดจำหน่าย"
+
+msgid "Supplier Invoice Date"
+msgstr "วันที่ใบแจ้งหนี้ผู้จัดจำหน่าย"
+
+msgid "Supplier Invoice Date cannot be greater than Posting Date"
+msgstr "วันที่ใบแจ้งหนี้ผู้จัดจำหน่ายต้องไม่มากกว่าวันที่โพสต์"
+
+msgid "Supplier Invoice No"
+msgstr "หมายเลขใบแจ้งหนี้ผู้จัดจำหน่าย"
+
+msgid "Supplier Invoice No exists in Purchase Invoice {0}"
+msgstr "หมายเลขใบแจ้งหนี้ผู้จัดจำหน่ายมีอยู่ในใบแจ้งหนี้ซื้อ {0}"
+
+msgid "Supplier Item"
+msgstr "รายการผู้จัดจำหน่าย"
+
+msgid "Supplier Items"
+msgstr "รายการผู้จัดจำหน่าย"
+
+msgid "Supplier Lead Time (days)"
+msgstr "เวลานำของผู้จัดจำหน่าย (วัน)"
+
+msgid "Supplier Ledger Summary"
+msgstr "สรุปบัญชีแยกประเภทผู้จัดจำหน่าย"
+
+msgid "Supplier Name"
+msgstr "ชื่อผู้จัดจำหน่าย"
+
+msgid "Supplier Naming By"
+msgstr "การตั้งชื่อผู้จัดจำหน่ายโดย"
+
+msgid "Supplier Number"
+msgstr "หมายเลขผู้จัดจำหน่าย"
+
+msgid "Supplier Number At Customer"
+msgstr "หมายเลขผู้จัดจำหน่ายที่ลูกค้า"
+
+msgid "Supplier Numbers"
+msgstr "หมายเลขผู้จัดจำหน่าย"
+
+msgid "Supplier Part No"
+msgstr "หมายเลขชิ้นส่วนผู้จัดจำหน่าย"
+
+msgid "Supplier Part Number"
+msgstr "หมายเลขชิ้นส่วนผู้จัดจำหน่าย"
+
+msgid "Supplier Portal Users"
+msgstr "ผู้ใช้พอร์ทัลผู้จัดจำหน่าย"
+
+msgid "Supplier Primary Address"
+msgstr "ที่อยู่หลักของผู้จัดจำหน่าย"
+
+msgid "Supplier Primary Contact"
+msgstr "ผู้ติดต่อหลักของผู้จัดจำหน่าย"
+
+msgid "Supplier Quotation"
+msgstr "ใบเสนอราคาผู้จัดจำหน่าย"
+
+msgid "Supplier Quotation Comparison"
+msgstr "การเปรียบเทียบใบเสนอราคาผู้จัดจำหน่าย"
+
+msgid "Supplier Quotation Item"
+msgstr "รายการใบเสนอราคาผู้จัดจำหน่าย"
+
+msgid "Supplier Quotation {0} Created"
+msgstr "สร้างใบเสนอราคาผู้จัดจำหน่าย {0} แล้ว"
+
+msgid "Supplier Reference"
+msgstr ""
+
+msgid "Supplier Score"
+msgstr "คะแนนผู้จัดจำหน่าย"
+
+msgid "Supplier Scorecard"
+msgstr "การ์ดคะแนนผู้จัดจำหน่าย"
+
+msgid "Supplier Scorecard Criteria"
+msgstr "เกณฑ์การ์ดคะแนนผู้จัดจำหน่าย"
+
+msgid "Supplier Scorecard Period"
+msgstr "ช่วงเวลาของการ์ดคะแนนผู้จัดจำหน่าย"
+
+msgid "Supplier Scorecard Scoring Criteria"
+msgstr "เกณฑ์การให้คะแนนการ์ดคะแนนผู้จัดจำหน่าย"
+
+msgid "Supplier Scorecard Scoring Standing"
+msgstr "สถานะการให้คะแนนการ์ดคะแนนผู้จัดจำหน่าย"
+
+msgid "Supplier Scorecard Scoring Variable"
+msgstr "ตัวแปรการให้คะแนนการ์ดคะแนนผู้จัดจำหน่าย"
+
+msgid "Supplier Scorecard Setup"
+msgstr "การตั้งค่าการ์ดคะแนนผู้จัดจำหน่าย"
+
+msgid "Supplier Scorecard Standing"
+msgstr "สถานะการ์ดคะแนนผู้จัดจำหน่าย"
+
+msgid "Supplier Scorecard Variable"
+msgstr "ตัวแปรการ์ดคะแนนผู้จัดจำหน่าย"
+
+msgid "Supplier Type"
+msgstr "ประเภทผู้จัดจำหน่าย"
+
+msgid "Supplier Warehouse"
+msgstr "คลังสินค้าผู้จัดจำหน่าย"
+
+msgid "Supplier delivers to Customer"
+msgstr "ผู้จัดจำหน่ายส่งมอบให้ลูกค้า"
+
+msgid "Supplier numbers assigned by the customer"
+msgstr "หมายเลขผู้จัดจำหน่ายที่กำหนดโดยลูกค้า"
+
+msgid "Supplier of Goods or Services."
+msgstr "ผู้จัดจำหน่ายสินค้าและบริการ"
+
+msgid "Supplier {0} not found in {1}"
+msgstr "ไม่พบผู้จัดจำหน่าย {0} ใน {1}"
+
+msgid "Supplier(s)"
+msgstr "ผู้จัดจำหน่าย"
+
+msgid "Supplier-Wise Sales Analytics"
+msgstr "การวิเคราะห์การขายตามผู้จัดจำหน่าย"
+
+msgid "Suppliers"
+msgstr "ผู้จัดจำหน่าย"
+
+msgid "Supplies subject to the reverse charge provision"
+msgstr "อุปกรณ์ที่อยู่ภายใต้ข้อกำหนดการเรียกเก็บเงินย้อนกลับ"
+
+msgid "Supply Raw Materials for Purchase"
+msgstr "จัดหาวัตถุดิบสำหรับการซื้อ"
+
+msgid "Support"
+msgstr "การสนับสนุน"
+
+msgid "Support Hour Distribution"
+msgstr "การกระจายชั่วโมงการสนับสนุน"
+
+msgid "Support Portal"
+msgstr "พอร์ทัลการสนับสนุน"
+
+msgid "Support Search Source"
+msgstr "แหล่งค้นหาการสนับสนุน"
+
+msgid "Support Settings"
+msgstr "การตั้งค่าการสนับสนุน"
+
+msgid "Support Team"
+msgstr "ทีมสนับสนุน"
+
+msgid "Support Tickets"
+msgstr "ตั๋วการสนับสนุน"
+
+msgid "Suspected Discount Amount"
+msgstr ""
+
+msgid "Suspended"
+msgstr "ถูกระงับ"
+
+msgid "Switch Between Payment Modes"
+msgstr "สลับระหว่างโหมดการชำระเงิน"
+
+msgid "Symbol"
+msgstr "สัญลักษณ์"
+
+msgid "Sync Now"
+msgstr "ซิงค์เดี๋ยวนี้"
+
+msgid "Sync Started"
+msgstr "เริ่มการซิงค์แล้ว"
+
+msgid "Synchronize all accounts every hour"
+msgstr "ซิงค์บัญชีทั้งหมดทุกชั่วโมง"
+
+msgid "System In Use"
+msgstr "ระบบกำลังใช้งาน"
+
+msgid "System Manager"
+msgstr "ผู้จัดการระบบ"
+
+msgid "System Settings"
+msgstr "การตั้งค่าระบบ"
+
+msgid "System User (login) ID. If set, it will become default for all HR forms."
+msgstr "รหัสผู้ใช้ระบบ (เข้าสู่ระบบ) หากตั้งค่า จะกลายเป็นค่าเริ่มต้นสำหรับฟอร์ม HR ทั้งหมด"
+
+msgid "System will automatically create the serial numbers / batch for the Finished Good on submission of work order"

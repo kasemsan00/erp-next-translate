@@ -1,0 +1,500 @@
+﻿msgstr ""
+
+msgid "Dependant SLE Voucher Detail No"
+msgstr ""
+
+msgid "Dependencies"
+msgstr ""
+
+msgid "Dependent Task"
+msgstr ""
+
+msgid "Dependent Task {0} is not a Template Task"
+msgstr ""
+
+msgid "Dependent Tasks"
+msgstr ""
+
+msgid "Depends on Tasks"
+msgstr ""
+
+msgid "Deposit"
+msgstr ""
+
+msgid "Depreciate based on daily pro-rata"
+msgstr ""
+
+msgid "Depreciate based on shifts"
+msgstr ""
+
+msgid "Depreciated Amount"
+msgstr ""
+
+msgid "Depreciation"
+msgstr "ค่าเสื่อมราคา"
+
+msgid "Depreciation Amount"
+msgstr ""
+
+msgid "Depreciation Amount during the period"
+msgstr ""
+
+msgid "Depreciation Date"
+msgstr ""
+
+msgid "Depreciation Details"
+msgstr ""
+
+msgid "Depreciation Eliminated due to disposal of assets"
+msgstr ""
+
+msgid "Depreciation Entry"
+msgstr ""
+
+msgid "Depreciation Entry Posting Status"
+msgstr ""
+
+msgid "Depreciation Expense Account"
+msgstr ""
+
+msgid "Depreciation Expense Account should be an Income or Expense Account."
+msgstr ""
+
+msgid "Depreciation Method"
+msgstr ""
+
+msgid "Depreciation Options"
+msgstr ""
+
+msgid "Depreciation Posting Date"
+msgstr ""
+
+msgid "Depreciation Posting Date cannot be before Available-for-use Date"
+msgstr ""
+
+msgid "Depreciation Row {0}: Depreciation Posting Date cannot be before Available-for-use Date"
+msgstr ""
+
+msgid "Depreciation Row {0}: Expected value after useful life must be greater than or equal to {1}"
+msgstr ""
+
+msgid "Depreciation Schedule"
+msgstr ""
+
+msgid "Depreciation Schedule View"
+msgstr ""
+
+msgid "Depreciation cannot be calculated for fully depreciated assets"
+msgstr ""
+
+msgid "Depreciation eliminated via reversal"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Description of Content"
+msgstr ""
+
+msgid "Designation"
+msgstr ""
+
+msgid "Designer"
+msgstr ""
+
+msgid "Desk User"
+msgstr ""
+
+msgid "Detailed Reason"
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "Determine Address Tax Category From"
+msgstr ""
+
+msgid "Diesel"
+msgstr ""
+
+msgid "Difference"
+msgstr ""
+
+msgid "Difference (Dr - Cr)"
+msgstr ""
+
+msgid "Difference Account"
+msgstr ""
+
+msgid "Difference Account in Items Table"
+msgstr ""
+
+msgid "Difference Account must be a Asset/Liability type account (Temporary Opening), since this Stock Entry is an Opening Entry"
+msgstr ""
+
+msgid "Difference Account must be a Asset/Liability type account, since this Stock Reconciliation is an Opening Entry"
+msgstr ""
+
+msgid "Difference Amount"
+msgstr ""
+
+msgid "Difference Amount (Company Currency)"
+msgstr ""
+
+msgid "Difference Amount must be zero"
+msgstr ""
+
+msgid "Difference In"
+msgstr ""
+
+msgid "Difference Posting Date"
+msgstr ""
+
+msgid "Difference Qty"
+msgstr ""
+
+msgid "Difference Value"
+msgstr ""
+
+msgid "Different 'Source Warehouse' and 'Target Warehouse' can be set for each row."
+msgstr ""
+
+msgid "Different UOM for items will lead to incorrect (Total) Net Weight value. Make sure that Net Weight of each item is in the same UOM."
+msgstr ""
+
+msgid "Dimension Defaults"
+msgstr ""
+
+msgid "Dimension Details"
+msgstr ""
+
+msgid "Dimension Filter"
+msgstr ""
+
+msgid "Dimension Filter Help"
+msgstr ""
+
+msgid "Dimension Name"
+msgstr ""
+
+msgid "Dimension-wise Accounts Balance Report"
+msgstr ""
+
+msgid "Dimensions"
+msgstr ""
+
+msgid "Direct Expense"
+msgstr ""
+
+msgid "Direct Expenses"
+msgstr "ค่าใช้จ่ายทางตรง"
+
+msgid "Direct Income"
+msgstr "รายได้ทางตรง"
+
+msgid "Disable"
+msgstr "ปิดใช้งาน"
+
+msgid "Disable Capacity Planning"
+msgstr ""
+
+msgid "Disable In Words"
+msgstr ""
+
+msgid "Disable Last Purchase Rate"
+msgstr ""
+
+msgid "Disable Rounded Total"
+msgstr "ปิดใช้งานยอดรวมปัดเศษ"
+
+msgid "Disable Serial No And Batch Selector"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Disabled Account Selected"
+msgstr ""
+
+msgid "Disabled Warehouse {0} cannot be used for this transaction."
+msgstr ""
+
+msgid "Disabled pricing rules since this {} is an internal transfer"
+msgstr ""
+
+msgid "Disabled tax included prices since this {} is an internal transfer"
+msgstr ""
+
+msgid "Disabled template must not be default template"
+msgstr ""
+
+msgid "Disables auto-fetching of existing quantity"
+msgstr ""
+
+msgid "Disassemble"
+msgstr ""
+
+msgid "Disassemble Order"
+msgstr ""
+
+msgid "Disassembled Qty"
+msgstr ""
+
+msgid "Disburse Loan"
+msgstr ""
+
+msgid "Disbursed"
+msgstr ""
+
+msgid "Discard Changes and Load New Invoice"
+msgstr ""
+
+msgid "Discount"
+msgstr ""
+
+msgid "Discount (%)"
+msgstr ""
+
+msgid "Discount (%) on Price List Rate with Margin"
+msgstr ""
+
+msgid "Discount Account"
+msgstr ""
+
+msgid "Discount Amount"
+msgstr ""
+
+msgid "Discount Amount in Transaction"
+msgstr ""
+
+msgid "Discount Date"
+msgstr ""
+
+msgid "Discount Percentage"
+msgstr ""
+
+msgid "Discount Percentage in Transaction"
+msgstr ""
+
+msgid "Discount Settings"
+msgstr ""
+
+msgid "Discount Type"
+msgstr ""
+
+msgid "Discount Validity"
+msgstr ""
+
+msgid "Discount Validity Based On"
+msgstr ""
+
+msgid "Discount and Margin"
+msgstr ""
+
+msgid "Discount cannot be greater than 100%"
+msgstr ""
+
+msgid "Discount cannot be greater than 100%."
+msgstr ""
+
+msgid "Discount must be less than 100"
+msgstr ""
+
+msgid "Discount of {} applied as per Payment Term"
+msgstr ""
+
+msgid "Discount on Other Item"
+msgstr ""
+
+msgid "Discount on Price List Rate (%)"
+msgstr ""
+
+msgid "Discounted Amount"
+msgstr ""
+
+msgid "Discounted Invoice"
+msgstr ""
+
+msgid "Discounts"
+msgstr ""
+
+msgid "Discounts to be applied in sequential ranges like buy 1 get 1, buy 2 get 2, buy 3 get 3 and so on"
+msgstr ""
+
+msgid "Discrepancy between General and Payment Ledger"
+msgstr ""
+
+msgid "Discretionary Reason"
+msgstr ""
+
+msgid "Dislikes"
+msgstr ""
+
+msgid "Dispatch"
+msgstr ""
+
+msgid "Dispatch Address"
+msgstr ""
+
+msgid "Dispatch Address Details"
+msgstr ""
+
+msgid "Dispatch Address Name"
+msgstr ""
+
+msgid "Dispatch Address Template"
+msgstr ""
+
+msgid "Dispatch Information"
+msgstr ""
+
+msgid "Dispatch Notification"
+msgstr ""
+
+msgid "Dispatch Notification Attachment"
+msgstr ""
+
+msgid "Dispatch Notification Template"
+msgstr ""
+
+msgid "Dispatch Settings"
+msgstr ""
+
+msgid "Disposal Date"
+msgstr ""
+
+msgid "Disposal date {0} cannot be before {1} date {2} of the asset."
+msgstr ""
+
+msgid "Distance"
+msgstr ""
+
+msgid "Distance UOM"
+msgstr ""
+
+msgid "Distance from left edge"
+msgstr ""
+
+msgid "Distance from top edge"
+msgstr ""
+
+msgid "Distinct Item and Warehouse"
+msgstr ""
+
+msgid "Distinct unit of an Item"
+msgstr ""
+
+msgid "Distribute Additional Costs Based On "
+msgstr ""
+
+msgid "Distribute Charges Based On"
+msgstr ""
+
+msgid "Distribute Manually"
+msgstr ""
+
+msgid "Distributed Discount Amount"
+msgstr ""
+
+msgid "Distribution Name"
+msgstr ""
+
+msgid "Distributor"
+msgstr ""
+
+msgid "Dividends Paid"
+msgstr "เงินปันผล"
+
+msgid "Divorced"
+msgstr ""
+
+msgid "Do Not Contact"
+msgstr ""
+
+msgid "Do Not Explode"
+msgstr ""
+
+msgid "Do Not Update Serial / Batch on Creation of Auto Bundle"
+msgstr ""
+
+msgid "Do Not Use Batch-wise Valuation"
+msgstr ""
+
+msgid "Do not show any symbol like $ etc next to currencies."
+msgstr ""
+
+msgid "Do not update variants on save"
+msgstr ""
+
+msgid "Do you really want to restore this scrapped asset?"
+msgstr ""
+
+msgid "Do you still want to enable immutable ledger?"
+msgstr ""
+
+msgid "Do you still want to enable negative inventory?"
+msgstr ""
+
+msgid "Do you want to change valuation method?"
+msgstr ""
+
+msgid "Do you want to notify all the customers by email?"
+msgstr ""
+
+msgid "Do you want to submit the material request"
+msgstr ""
+
+msgid "Do you want to submit the stock entry?"
+msgstr ""
+
+msgid "DocField"
+msgstr ""
+
+msgid "DocType"
+msgstr ""
+
+msgid "DocTypes should not be added manually to the 'Excluded DocTypes' table. You are only allowed to remove entries from it."
+msgstr ""
+
+msgid "Docs Search"
+msgstr ""
+
+msgid "Doctype"
+msgstr ""
+
+msgid "Document Name"
+msgstr ""
+
+msgid "Document Type"
+msgstr ""
+
+msgid "Document Type "
+msgstr ""
+
+msgid "Document Type already used as a dimension"
+msgstr ""
+
+msgid "Documentation"
+msgstr "เอกสารประกอบ"
+
+msgid "Documents"
+msgstr "เอกสาร"
+
+msgid "Documents Processed on each trigger. Queue Size should be between 5 and 100"
+msgstr "เอกสารถูกประมวลผลในแต่ละทริกเกอร์ ขนาดคิวควรอยู่ระหว่าง 5 ถึง 100"
+
+msgid "Documents: {0} have deferred revenue/expense enabled for them. Cannot repost."
+msgstr "เอกสาร: {0} มีการเปิดใช้งานรายได้/ค่าใช้จ่ายรอตัดบัญชี ไม่สามารถโพสต์ใหม่ได้"
+
+msgid "Domain"
+msgstr "โดเมน"
+
+msgid "Domain Settings"
+msgstr "การตั้งค่าโดเมน"
+
+msgid "Don't Create Loyalty Points"
+msgstr "อย่าสร้างคะแนนสะสม"
+
+msgid "Don't Enforce Free Item Qty"
+msgstr "อย่าบังคับปริมาณรายการฟรี"
+

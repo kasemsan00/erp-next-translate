@@ -1,0 +1,500 @@
+﻿
+msgid "Research"
+msgstr ""
+
+msgid "Research & Development"
+msgstr ""
+
+msgid "Researcher"
+msgstr ""
+
+msgid "Reselect, if the chosen address is edited after save"
+msgstr ""
+
+msgid "Reselect, if the chosen contact is edited after save"
+msgstr ""
+
+msgid "Reseller"
+msgstr ""
+
+msgid "Resend Payment Email"
+msgstr ""
+
+msgid "Reservation"
+msgstr ""
+
+msgid "Reservation Based On"
+msgstr ""
+
+msgid "Reserve"
+msgstr ""
+
+msgid "Reserve Stock"
+msgstr ""
+
+msgid "Reserve Warehouse"
+msgstr ""
+
+msgid "Reserve for Raw Materials"
+msgstr ""
+
+msgid "Reserve for Sub-assembly"
+msgstr ""
+
+msgid "Reserved"
+msgstr ""
+
+msgid "Reserved Qty"
+msgstr ""
+
+msgid "Reserved Qty ({0}) cannot be a fraction. To allow this, disable '{1}' in UOM {3}."
+msgstr ""
+
+msgid "Reserved Qty for Production"
+msgstr ""
+
+msgid "Reserved Qty for Production Plan"
+msgstr ""
+
+msgid "Reserved Qty for Production: Raw materials quantity to make manufacturing items."
+msgstr ""
+
+msgid "Reserved Qty for Subcontract"
+msgstr ""
+
+msgid "Reserved Qty for Subcontract: Raw materials quantity to make subcontracted items."
+msgstr ""
+
+msgid "Reserved Qty should be greater than Delivered Qty."
+msgstr ""
+
+msgid "Reserved Qty: Quantity ordered for sale, but not delivered."
+msgstr ""
+
+msgid "Reserved Quantity"
+msgstr ""
+
+msgid "Reserved Quantity for Production"
+msgstr ""
+
+msgid "Reserved Serial No."
+msgstr ""
+
+msgid "Reserved Stock"
+msgstr ""
+
+msgid "Reserved Stock for Batch"
+msgstr ""
+
+msgid "Reserved Stock for Raw Materials"
+msgstr ""
+
+msgid "Reserved Stock for Sub-assembly"
+msgstr ""
+
+msgid "Reserved Warehouse is mandatory for the Item {item_code} in Raw Materials supplied."
+msgstr ""
+
+msgid "Reserved for POS Transactions"
+msgstr ""
+
+msgid "Reserved for Production"
+msgstr ""
+
+msgid "Reserved for Production Plan"
+msgstr ""
+
+msgid "Reserved for Sub Contracting"
+msgstr ""
+
+msgid "Reserved for manufacturing"
+msgstr ""
+
+msgid "Reserved for sale"
+msgstr ""
+
+msgid "Reserved for sub contracting"
+msgstr ""
+
+msgid "Reserving Stock..."
+msgstr ""
+
+msgid "Reset"
+msgstr "เริ่มใหม่"
+
+msgid "Reset Company Default Values"
+msgstr ""
+
+msgid "Reset Plaid Link"
+msgstr ""
+
+msgid "Reset Raw Materials Table"
+msgstr ""
+
+msgid "Reset Service Level Agreement"
+msgstr ""
+
+msgid "Resetting Service Level Agreement."
+msgstr "กำลังรีเซ็ตข้อตกลงระดับการบริการ"
+
+msgid "Resignation Letter Date"
+msgstr "วันที่จดหมายลาออก"
+
+msgid "Resolution"
+msgstr "การแก้ไขปัญหา"
+
+msgid "Resolution By"
+msgstr "การแก้ไขปัญหาโดย"
+
+msgid "Resolution Date"
+msgstr "วันที่แก้ไขปัญหา"
+
+msgid "Resolution Details"
+msgstr "รายละเอียดการแก้ไขปัญหา"
+
+msgid "Resolution Due"
+msgstr "กำหนดการแก้ไขปัญหา"
+
+msgid "Resolution Time"
+msgstr "เวลาที่ใช้ในการแก้ไขปัญหา"
+
+msgid "Resolutions"
+msgstr "การแก้ไขปัญหา"
+
+msgid "Resolve"
+msgstr "แก้ไข"
+
+msgid "Resolved"
+msgstr "แก้ไขแล้ว"
+
+msgid "Resolved By"
+msgstr "แก้ไขโดย"
+
+msgid "Response By"
+msgstr "การตอบกลับโดย"
+
+msgid "Response Details"
+msgstr "รายละเอียดการตอบกลับ"
+
+msgid "Response Key List"
+msgstr "รายการคีย์การตอบกลับ"
+
+msgid "Response Options"
+msgstr "ตัวเลือกการตอบกลับ"
+
+msgid "Response Result Key Path"
+msgstr "เส้นทางคีย์ผลลัพธ์การตอบกลับ"
+
+msgid "Response Time for {0} priority in row {1} can't be greater than Resolution Time."
+msgstr "เวลาตอบกลับสำหรับลำดับความสำคัญ {0} ในแถว {1} ต้องไม่เกินเวลาแก้ไขปัญหา"
+
+msgid "Response and Resolution"
+msgstr "การตอบกลับและการแก้ไขปัญหา"
+
+msgid "Responsible"
+msgstr "ผู้รับผิดชอบ"
+
+msgid "Rest Of The World"
+msgstr "ส่วนที่เหลือของโลก"
+
+msgid "Restart"
+msgstr "เริ่มใหม่"
+
+msgid "Restart Subscription"
+msgstr "เริ่มการสมัครสมาชิกใหม่"
+
+msgid "Restore Asset"
+msgstr "กู้คืนสินทรัพย์"
+
+msgid "Restrict"
+msgstr "จำกัด"
+
+msgid "Restrict Items Based On"
+msgstr "จำกัดรายการตาม"
+
+msgid "Restrict to Countries"
+msgstr "จำกัดเฉพาะประเทศ"
+
+msgid "Result Key"
+msgstr "คีย์ผลลัพธ์"
+
+msgid "Result Preview Field"
+msgstr "ฟิลด์ดูตัวอย่างผลลัพธ์"
+
+msgid "Result Route Field"
+msgstr "ฟิลด์เส้นทางผลลัพธ์"
+
+msgid "Result Title Field"
+msgstr "ฟิลด์ชื่อผลลัพธ์"
+
+msgid "Resume"
+msgstr "ดำเนินการต่อ"
+
+msgid "Resume Job"
+msgstr "ดำเนินงานต่อ"
+
+msgid "Resume Timer"
+msgstr "เริ่มตัวจับเวลาใหม่"
+
+msgid "Retail & Wholesale"
+msgstr ""
+
+msgid "Retailer"
+msgstr ""
+
+msgid "Retain Sample"
+msgstr "เก็บตัวอย่าง"
+
+msgid "Retained Earnings"
+msgstr "กำไรสะสม"
+
+msgid "Retention Stock Entry"
+msgstr "รายการสต็อกที่เก็บรักษา"
+
+msgid "Retention Stock Entry already created or Sample Quantity not provided"
+msgstr "สร้างรายการสต็อกที่เก็บรักษาแล้วหรือไม่ได้ระบุปริมาณตัวอย่าง"
+
+msgid "Retried"
+msgstr "ลองใหม่อีกครั้ง"
+
+msgid "Retry"
+msgstr "ลองใหม่"
+
+msgid "Retry Failed Transactions"
+msgstr "ลองใหม่สำหรับธุรกรรมที่ล้มเหลว"
+
+msgid "Return"
+msgstr "คืน"
+
+msgid "Return / Credit Note"
+msgstr "คืน / ใบลดหนี้"
+
+msgid "Return / Debit Note"
+msgstr "คืน / ใบเพิ่มหนี้"
+
+msgid "Return Against"
+msgstr "คืนกับ"
+
+msgid "Return Against Delivery Note"
+msgstr "คืนกับใบส่งของ"
+
+msgid "Return Against Purchase Invoice"
+msgstr "คืนกับใบแจ้งหนี้ซื้อ"
+
+msgid "Return Against Purchase Receipt"
+msgstr "คืนกับใบรับซื้อ"
+
+msgid "Return Against Subcontracting Receipt"
+msgstr "คืนกับใบรับจ้างช่วง"
+
+msgid "Return Components"
+msgstr "คืนส่วนประกอบ"
+
+msgid "Return Issued"
+msgstr "ออกการคืน"
+
+msgid "Return Qty"
+msgstr "ปริมาณที่คืน"
+
+msgid "Return Qty from Rejected Warehouse"
+msgstr "ปริมาณที่คืนจากคลังสินค้าที่ถูกปฏิเสธ"
+
+msgid "Return invoice of asset cancelled"
+msgstr "ยกเลิกใบแจ้งหนี้คืนสินทรัพย์"
+
+msgid "Return of Components"
+msgstr "การคืนส่วนประกอบ"
+
+msgid "Returned"
+msgstr "คืนแล้ว"
+
+msgid "Returned Against"
+msgstr "คืนกับ"
+
+msgid "Returned Amount"
+msgstr "จำนวนเงินที่คืน"
+
+msgid "Returned Qty"
+msgstr "ปริมาณที่คืน"
+
+msgid "Returned Qty "
+msgstr ""
+
+msgid "Returned Qty in Stock UOM"
+msgstr "ปริมาณที่คืนในหน่วยวัดสต็อก"
+
+msgid "Returned exchange rate is neither integer not float."
+msgstr "อัตราแลกเปลี่ยนที่คืนไม่ใช่จำนวนเต็มหรือทศนิยม"
+
+msgid "Returns"
+msgstr "การคืน"
+
+msgid "Revaluation Journals"
+msgstr "สมุดรายวันการประเมินมูลค่าใหม่"
+
+msgid "Revaluation Surplus"
+msgstr "ส่วนเกินทุนจากการตีราคาสินทรัพย์"
+
+msgid "Revenue"
+msgstr "รายได้"
+
+msgid "Reversal Of"
+msgstr "การย้อนกลับของ"
+
+msgid "Reverse Journal Entry"
+msgstr "ย้อนกลับรายการสมุดรายวัน"
+
+msgid "Review"
+msgstr "ตรวจสอบ"
+
+msgid "Review Date"
+msgstr "วันที่ตรวจสอบ"
+
+msgid "Review and Action"
+msgstr ""
+
+msgid "Reviews"
+msgstr "การตรวจสอบ"
+
+msgid "Rgt"
+msgstr "ขวา"
+
+msgid "Right Child"
+msgstr "ลูกขวา"
+
+msgid "Right Index"
+msgstr "ดัชนีขวา"
+
+msgid "Ringing"
+msgstr "กำลังโทร"
+
+msgid "Rod"
+msgstr ""
+
+msgid "Role Allowed to Create/Edit Back-dated Transactions"
+msgstr "บทบาทที่อนุญาตให้สร้าง/แก้ไขธุรกรรมย้อนหลัง"
+
+msgid "Role Allowed to Edit Frozen Stock"
+msgstr "บทบาทที่อนุญาตให้แก้ไขสต็อกที่ถูกแช่แข็ง"
+
+msgid "Role Allowed to Over Bill "
+msgstr ""
+
+msgid "Role Allowed to Over Deliver/Receive"
+msgstr "บทบาทที่อนุญาตให้ส่งมอบ/รับเกิน"
+
+msgid "Role Allowed to Override Stop Action"
+msgstr "บทบาทที่อนุญาตให้แทนที่การหยุดการกระทำ"
+
+msgid "Role Allowed to Set Frozen Accounts and Edit Frozen Entries"
+msgstr "บทบาทที่อนุญาตให้ตั้งค่าบัญชีที่ถูกแช่แข็งและแก้ไขรายการที่ถูกแช่แข็ง"
+
+msgid "Role allowed to bypass Credit Limit"
+msgstr "บทบาทที่อนุญาตให้ข้ามขีดจำกัดเครดิต"
+
+msgid "Root"
+msgstr "ราก"
+
+msgid "Root Company"
+msgstr "บริษัทหลัก"
+
+msgid "Root Type"
+msgstr "ประเภทหลัก"
+
+msgid "Root Type for {0} must be one of the Asset, Liability, Income, Expense and Equity"
+msgstr "หมวดหมู่สำหรับ {0} ต้องเป็น สินทรัพย์, หนี้สิน, รายได้, ค่าใช้จ่าย, หรือ ส่วนของผู้ถือหุ้น"
+
+msgid "Root Type is mandatory"
+msgstr "ประเภทหลักเป็นสิ่งจำเป็น"
+
+msgid "Root cannot be edited."
+msgstr "ไม่สามารถแก้ไขรากได้"
+
+msgid "Root cannot have a parent cost center"
+msgstr "รากไม่สามารถมีศูนย์ต้นทุนหลักได้"
+
+msgid "Round Free Qty"
+msgstr "ปริมาณฟรีที่ปัดเศษ"
+
+msgid "Round Off"
+msgstr "ปัดลง"
+
+msgid "Round Off Account"
+msgstr "บัญชีปัดเศษ"
+
+msgid "Round Off Cost Center"
+msgstr "ศูนย์ต้นทุนปัดเศษ"
+
+msgid "Round Off Tax Amount"
+msgstr "จำนวนเงินภาษีปัดเศษ"
+
+msgid "Round Off for Opening"
+msgstr "ปัดเศษสำหรับการเปิด"
+
+msgid "Round Tax Amount Row-wise"
+msgstr "ปัดเศษจำนวนเงินภาษีตามแถว"
+
+msgid "Rounded Total"
+msgstr "ยอดรวมปัดเศษ"
+
+msgid "Rounded Total (Company Currency)"
+msgstr "ยอดรวมปัดเศษ (สกุลเงินบริษัท)"
+
+msgid "Rounding Adjustment"
+msgstr "การปรับปัดเศษ"
+
+msgid "Rounding Adjustment (Company Currency"
+msgstr "การปรับปัดเศษ (สกุลเงินบริษัท"
+
+msgid "Rounding Adjustment (Company Currency)"
+msgstr "การปรับปัดเศษ (สกุลเงินบริษัท)"
+
+msgid "Rounding Loss Allowance"
+msgstr "ค่าเผื่อการสูญเสียจากการปัดเศษ"
+
+msgid "Rounding Loss Allowance should be between 0 and 1"
+msgstr "ค่าเผื่อการสูญเสียจากการปัดเศษควรอยู่ระหว่าง 0 ถึง 1"
+
+msgid "Rounding gain/loss Entry for Stock Transfer"
+msgstr "การป้อนกำไร/ขาดทุนจากการปัดเศษสำหรับการโอนสต็อก"
+
+msgid "Route"
+msgstr "เส้นทาง"
+
+msgid "Routing"
+msgstr "การกำหนดเส้นทาง"
+
+msgid "Routing Name"
+msgstr "ชื่อการกำหนดเส้นทาง"
+
+msgid "Row #"
+msgstr "แถว #"
+
+msgid "Row # {0}:"
+msgstr "แถว # {0}:"
+
+msgid "Row # {0}: Cannot return more than {1} for Item {2}"
+msgstr "แถว # {0}: ไม่สามารถคืนมากกว่า {1} สำหรับรายการ {2}"
+
+msgid "Row # {0}: Please add Serial and Batch Bundle for Item {1}"
+msgstr "แถว # {0}: โปรดเพิ่มชุดซีเรียลและแบทช์สำหรับรายการ {1}"
+
+msgid "Row # {0}: Please enter quantity for Item {1} as it is not zero."
+msgstr "แถว # {0}: โปรดป้อนปริมาณสำหรับรายการ {1} เนื่องจากไม่ใช่ศูนย์"
+
+msgid "Row # {0}: Rate cannot be greater than the rate used in {1} {2}"
+msgstr "แถว # {0}: อัตราไม่สามารถมากกว่าอัตราที่ใช้ใน {1} {2}"
+
+msgid "Row # {0}: Returned Item {1} does not exist in {2} {3}"
+msgstr "แถว # {0}: รายการที่คืน {1} ไม่มีอยู่ใน {2} {3}"
+
+msgid "Row #1: Sequence ID must be 1 for Operation {0}."
+msgstr ""
+
+msgid "Row #{0} (Payment Table): Amount must be negative"
+msgstr "แถว #{0} (ตารางการชำระเงิน): จำนวนเงินต้องเป็นค่าลบ"
+
+msgid "Row #{0} (Payment Table): Amount must be positive"
+msgstr "แถว #{0} (ตารางการชำระเงิน): จำนวนเงินต้องเป็นค่าบวก"
+
+msgid "Row #{0}: A reorder entry already exists for warehouse {1} with reorder type {2}."

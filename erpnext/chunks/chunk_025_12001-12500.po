@@ -1,0 +1,500 @@
+﻿
+msgid "Kilometer"
+msgstr ""
+
+msgid "Kilometer/Hour"
+msgstr ""
+
+msgid "Kilopascal"
+msgstr ""
+
+msgid "Kilopond"
+msgstr ""
+
+msgid "Kilopound-Force"
+msgstr ""
+
+msgid "Kilowatt"
+msgstr ""
+
+msgid "Kilowatt-Hour"
+msgstr ""
+
+msgid "Kindly cancel the Manufacturing Entries first against the work order {0}."
+msgstr "กรุณายกเลิกการบันทึกการผลิตก่อนสำหรับคำสั่งงาน {0}"
+
+msgid "Kindly select the company first"
+msgstr "กรุณาเลือกบริษัทก่อน"
+
+msgid "Kip"
+msgstr ""
+
+msgid "Knot"
+msgstr ""
+
+msgid "LIFO"
+msgstr ""
+
+msgid "Label"
+msgstr "ป้ายกำกับ"
+
+msgid "Landed Cost Help"
+msgstr "ความช่วยเหลือต้นทุนที่มาถึง"
+
+msgid "Landed Cost Item"
+msgstr "รายการต้นทุนที่มาถึง"
+
+msgid "Landed Cost Purchase Receipt"
+msgstr "ใบรับซื้อต้นทุนที่มาถึง"
+
+msgid "Landed Cost Taxes and Charges"
+msgstr "ภาษีและค่าใช้จ่ายต้นทุนที่มาถึง"
+
+msgid "Landed Cost Voucher"
+msgstr "ใบสำคัญต้นทุนที่มาถึง"
+
+msgid "Landed Cost Voucher Amount"
+msgstr "จำนวนเงินใบสำคัญต้นทุนที่มาถึง"
+
+msgid "Landscape"
+msgstr "แนวนอน"
+
+msgid "Language"
+msgstr "ภาษา"
+
+msgid "Lapsed"
+msgstr "หมดอายุ"
+
+msgid "Large"
+msgstr "ใหญ่"
+
+msgid "Last Carbon Check"
+msgstr "การตรวจสอบคาร์บอนล่าสุด"
+
+msgid "Last Communication"
+msgstr "การสื่อสารล่าสุด"
+
+msgid "Last Communication Date"
+msgstr "วันที่การสื่อสารล่าสุด"
+
+msgid "Last Completion Date"
+msgstr "วันที่เสร็จสิ้นล่าสุด"
+
+msgid "Last GL Entry update was done {}. This operation is not allowed while system is actively being used. Please wait for 5 minutes before retrying."
+msgstr "การอัปเดตรายการบัญชีแยกประเภททั่วไปครั้งล่าสุดเสร็จสิ้น {} การดำเนินการนี้ไม่ได้รับอนุญาตในขณะที่ระบบกำลังใช้งานอยู่ โปรดรอ 5 นาทีก่อนลองอีกครั้ง"
+
+msgid "Last Integration Date"
+msgstr "วันที่การรวมล่าสุด"
+
+msgid "Last Month Downtime Analysis"
+msgstr "การวิเคราะห์เวลาหยุดทำงานเดือนที่แล้ว"
+
+msgid "Last Name"
+msgstr "นามสกุล"
+
+msgid "Last Name, Email or Phone/Mobile of the user are mandatory to continue."
+msgstr "นามสกุล อีเมล หรือโทรศัพท์/มือถือของผู้ใช้เป็นสิ่งจำเป็นในการดำเนินการต่อ"
+
+msgid "Last Order Amount"
+msgstr "จำนวนคำสั่งซื้อครั้งล่าสุด"
+
+msgid "Last Order Date"
+msgstr "วันที่คำสั่งซื้อครั้งล่าสุด"
+
+msgid "Last Purchase Rate"
+msgstr "อัตราการซื้อครั้งล่าสุด"
+
+msgid "Last Stock Transaction for item {0} under warehouse {1} was on {2}."
+msgstr "ธุรกรรมสต็อกครั้งล่าสุดสำหรับรายการ {0} ภายใต้คลังสินค้า {1} คือวันที่ {2}"
+
+msgid "Last carbon check date cannot be a future date"
+msgstr "วันที่ตรวจสอบคาร์บอนครั้งล่าสุดต้องไม่เป็นวันที่ในอนาคต"
+
+msgid "Last transacted"
+msgstr "ธุรกรรมครั้งล่าสุด"
+
+msgid "Latest"
+msgstr "ล่าสุด"
+
+msgid "Latest Age"
+msgstr "อายุล่าสุด"
+
+msgid "Latitude"
+msgstr "ละติจูด"
+
+msgid "Lead"
+msgstr "ลูกค้าเป้าหมาย"
+
+msgid "Lead -> Prospect"
+msgstr "ลูกค้าเป้าหมาย -> ผู้มีโอกาสเป็นลูกค้า"
+
+msgid "Lead Conversion Time"
+msgstr "เวลาการแปลงลูกค้าเป้าหมาย"
+
+msgid "Lead Count"
+msgstr "จำนวนลูกค้าเป้าหมาย"
+
+msgid "Lead Details"
+msgstr "รายละเอียดลูกค้าเป้าหมาย"
+
+msgid "Lead Name"
+msgstr "ชื่อลูกค้าเป้าหมาย"
+
+msgid "Lead Owner"
+msgstr "เจ้าของลูกค้าเป้าหมาย"
+
+msgid "Lead Owner Efficiency"
+msgstr "ประสิทธิภาพของเจ้าของลูกค้าเป้าหมาย"
+
+msgid "Lead Owner cannot be same as the Lead Email Address"
+msgstr "เจ้าของลูกค้าเป้าหมายไม่สามารถเป็นที่อยู่อีเมลของลูกค้าเป้าหมายได้"
+
+msgid "Lead Source"
+msgstr ""
+
+msgid "Lead Time"
+msgstr "เวลานำ"
+
+msgid "Lead Time (Days)"
+msgstr "เวลานำ (วัน)"
+
+msgid "Lead Time (in mins)"
+msgstr "เวลานำ (นาที)"
+
+msgid "Lead Time Date"
+msgstr "วันที่เวลานำ"
+
+msgid "Lead Time Days"
+msgstr "วันเวลานำ"
+
+msgid "Lead Time in days"
+msgstr "เวลานำเป็นวัน"
+
+msgid "Lead Type"
+msgstr "ประเภทลูกค้าเป้าหมาย"
+
+msgid "Lead {0} has been added to prospect {1}."
+msgstr "ลูกค้าเป้าหมาย {0} ถูกเพิ่มในผู้มีโอกาสเป็นลูกค้า {1}"
+
+msgid "Leads"
+msgstr "ลูกค้าเป้าหมาย"
+
+msgid "Leads help you get business, add all your contacts and more as your leads"
+msgstr "ลูกค้าเป้าหมายช่วยให้คุณได้รับธุรกิจ เพิ่มผู้ติดต่อทั้งหมดของคุณและอื่น ๆ เป็นลูกค้าเป้าหมายของคุณ"
+
+msgid "Learn Accounting"
+msgstr ""
+
+msgid "Learn Inventory Management"
+msgstr ""
+
+msgid "Learn Manufacturing"
+msgstr ""
+
+msgid "Learn Procurement"
+msgstr ""
+
+msgid "Learn Project Management"
+msgstr ""
+
+msgid "Learn Sales Management"
+msgstr ""
+
+msgid "Learn about <a href=\"https://docs.erpnext.com/docs/v13/user/manual/en/accounts/articles/common_party_accounting#:~:text=Common%20Party%20Accounting%20in%20ERPNext,Invoice%20against%20a%20primary%20Supplier.\">Common Party</a>"
+msgstr ""
+
+msgid "Leave Encashed?"
+msgstr "เงินสดที่เหลือ?"
+
+msgid "Leave blank for home.\n"
+"This is relative to site URL, for example \"about\" will redirect to \"https://yoursitename.com/about\""
+msgstr ""
+
+msgid "Leave blank if the Supplier is blocked indefinitely"
+msgstr "เว้นว่างไว้หากผู้จัดจำหน่ายถูกบล็อกอย่างไม่มีกำหนด"
+
+msgid "Leave blank to use the standard Delivery Note format"
+msgstr "เว้นว่างไว้เพื่อใช้รูปแบบใบส่งของมาตรฐาน"
+
+msgid "Ledger"
+msgstr "บัญชีแยกประเภท"
+
+msgid "Ledger Health"
+msgstr "สุขภาพบัญชีแยกประเภท"
+
+msgid "Ledger Health Monitor"
+msgstr "ตัวตรวจสอบสุขภาพบัญชีแยกประเภท"
+
+msgid "Ledger Health Monitor Company"
+msgstr "บริษัทตัวตรวจสอบสุขภาพบัญชีแยกประเภท"
+
+msgid "Ledger Merge"
+msgstr "การรวมบัญชีแยกประเภท"
+
+msgid "Ledger Merge Accounts"
+msgstr "การรวมบัญชีแยกประเภท"
+
+msgid "Ledgers"
+msgstr ""
+
+msgid "Left"
+msgstr "ซ้าย"
+
+msgid "Left Child"
+msgstr "ลูกซ้าย"
+
+msgid "Left Index"
+msgstr "ดัชนีซ้าย"
+
+msgid "Legacy Fields"
+msgstr "ฟิลด์เก่า"
+
+msgid "Legal"
+msgstr "กฎหมาย"
+
+msgid "Legal Entity / Subsidiary with a separate Chart of Accounts belonging to the Organization."
+msgstr "นิติบุคคล / บริษัทในเครือที่มีผังบัญชีแยกต่างหากที่เป็นขององค์กร"
+
+msgid "Legal Expenses"
+msgstr "ค่าใช้จ่ายทางกฎหมาย"
+
+msgid "Legend"
+msgstr "คำอธิบาย"
+
+msgid "Length"
+msgstr "ความยาว"
+
+msgid "Length (cm)"
+msgstr "ความยาว (ซม.)"
+
+msgid "Less Than Amount"
+msgstr "น้อยกว่าจำนวนเงิน"
+
+msgid "Letter Head"
+msgstr "หัวจดหมาย"
+
+msgid "Letter or Email Body Text"
+msgstr "ข้อความในจดหมายหรืออีเมล"
+
+msgid "Letter or Email Closing Text"
+msgstr "ข้อความปิดท้ายในจดหมายหรืออีเมล"
+
+msgid "Level"
+msgstr "ระดับ"
+
+msgid "Level (BOM)"
+msgstr "ระดับ (BOM)"
+
+msgid "Lft"
+msgstr "ซ้าย"
+
+msgid "Liabilities"
+msgstr "หนี้สิน"
+
+msgid "Liability"
+msgstr "ความรับผิดชอบ"
+
+msgid "License Details"
+msgstr "รายละเอียดใบอนุญาต"
+
+msgid "License Number"
+msgstr "หมายเลขใบอนุญาต"
+
+msgid "License Plate"
+msgstr "ป้ายทะเบียน"
+
+msgid "Likes"
+msgstr "การถูกใจ"
+
+msgid "Limit Crossed"
+msgstr "เกินขีดจำกัด"
+
+msgid "Limit timeslot for Stock Reposting"
+msgstr "จำกัดช่วงเวลาสำหรับการโพสต์สต็อกใหม่"
+
+msgid "Limited to 12 characters"
+msgstr "จำกัดไว้ที่ 12 ตัวอักษร"
+
+msgid "Limits don't apply on"
+msgstr "ขีดจำกัดไม่ใช้กับ"
+
+msgid "Line spacing for amount in words"
+msgstr "ระยะห่างระหว่างบรรทัดสำหรับจำนวนเงินในคำ"
+
+msgid "Link"
+msgstr "ลิงก์"
+
+msgid "Link Options"
+msgstr "ตัวเลือกการลิงก์"
+
+msgid "Link a new bank account"
+msgstr "ลิงก์บัญชีธนาคารใหม่"
+
+msgid "Link existing Quality Procedure."
+msgstr "ลิงก์ขั้นตอนคุณภาพที่มีอยู่"
+
+msgid "Link to Material Request"
+msgstr "ลิงก์ไปยังคำขอวัสดุ"
+
+msgid "Link to Material Requests"
+msgstr "ลิงก์ไปยังคำขอวัสดุ"
+
+msgid "Link with Customer"
+msgstr "ลิงก์กับลูกค้า"
+
+msgid "Link with Supplier"
+msgstr "ลิงก์กับผู้จัดจำหน่าย"
+
+msgid "Linked Documents"
+msgstr "เอกสารที่ลิงก์"
+
+msgid "Linked Invoices"
+msgstr "ใบแจ้งหนี้ที่ลิงก์"
+
+msgid "Linked Location"
+msgstr "ตำแหน่งที่ลิงก์"
+
+msgid "Linked with submitted documents"
+msgstr "ลิงก์กับเอกสารที่ส่งแล้ว"
+
+msgid "Linking Failed"
+msgstr "การลิงก์ล้มเหลว"
+
+msgid "Linking to Customer Failed. Please try again."
+msgstr "การลิงก์กับลูกค้าล้มเหลว โปรดลองอีกครั้ง"
+
+msgid "Linking to Supplier Failed. Please try again."
+msgstr "การลิงก์กับผู้จัดจำหน่ายล้มเหลว โปรดลองอีกครั้ง"
+
+msgid "Links"
+msgstr "ลิงก์"
+
+msgid "List items that form the package."
+msgstr ""
+
+msgid "Litre"
+msgstr ""
+
+msgid "Litre-Atmosphere"
+msgstr ""
+
+msgid "Load All Criteria"
+msgstr ""
+
+msgid "Loading Invoices! Please Wait..."
+msgstr ""
+
+msgid "Loading import file..."
+msgstr ""
+
+msgid "Loan"
+msgstr "เงินกู้"
+
+msgid "Loan End Date"
+msgstr ""
+
+msgid "Loan Period (Days)"
+msgstr ""
+
+msgid "Loan Start Date"
+msgstr ""
+
+msgid "Loan Start Date and Loan Period are mandatory to save the Invoice Discounting"
+msgstr ""
+
+msgid "Loans (Liabilities)"
+msgstr "สินเชื่อ (หนี้สิน)"
+
+msgid "Loans and Advances (Assets)"
+msgstr ""
+
+msgid "Local"
+msgstr ""
+
+msgid "Location"
+msgstr ""
+
+msgid "Location Details"
+msgstr ""
+
+msgid "Location Name"
+msgstr ""
+
+msgid "Locked"
+msgstr ""
+
+msgid "Log Entries"
+msgstr "รายการบันทึก"
+
+msgid "Log the selling and buying rate of an Item"
+msgstr "บันทึกอัตราการขายและการซื้อของรายการ"
+
+msgid "Logo"
+msgstr "โลโก้"
+
+msgid "Longitude"
+msgstr "ลองจิจูด"
+
+msgid "Lost"
+msgstr "สูญหาย"
+
+msgid "Lost Opportunity"
+msgstr "โอกาสที่สูญหาย"
+
+msgid "Lost Quotation"
+msgstr "ใบเสนอราคาที่สูญหาย"
+
+msgid "Lost Quotations"
+msgstr "ใบเสนอราคาที่สูญหาย"
+
+msgid "Lost Quotations %"
+msgstr ""
+
+msgid "Lost Reason"
+msgstr "เหตุผลที่สูญหาย"
+
+msgid "Lost Reason Detail"
+msgstr "รายละเอียดเหตุผลที่สูญหาย"
+
+msgid "Lost Reasons"
+msgstr "เหตุผลที่สูญหาย"
+
+msgid "Lost Reasons are required in case opportunity is Lost."
+msgstr "ต้องการเหตุผลที่สูญหายในกรณีที่โอกาสสูญหาย"
+
+msgid "Lost Value"
+msgstr "มูลค่าที่สูญหาย"
+
+msgid "Lost Value %"
+msgstr ""
+
+msgid "Low"
+msgstr "ต่ำ"
+
+msgid "Lower Deduction Certificate"
+msgstr "ใบรับรองการหักลดหย่อนต่ำ"
+
+msgid "Lower Income"
+msgstr "รายได้ต่ำ"
+
+msgid "Loyalty Amount"
+msgstr "จำนวนเงินสะสมคะแนน"
+
+msgid "Loyalty Point Entry"
+msgstr "การป้อนคะแนนสะสม"
+
+msgid "Loyalty Point Entry Redemption"
+msgstr "การแลกคะแนนสะสม"
+
+msgid "Loyalty Points"
+msgstr "คะแนนสะสม"
+
+msgid "Loyalty Points Redemption"
+msgstr "การแลกคะแนนสะสม"
+
+msgid "Loyalty Points will be calculated from the spent done (via the Sales Invoice), based on collection factor mentioned."
+msgstr "คะแนนสะสมจะถูกคำนวณจากการใช้จ่าย (ผ่านใบแจ้งหนี้ขาย) ตามปัจจัยการสะสมที่ระบุไว้"
+
+msgid "Loyalty Points: {0}"
+msgstr "คะแนนสะสม: {0}"
+

@@ -1,0 +1,500 @@
+﻿msgid "Batch No."
+msgstr ""
+
+msgid "Batch Nos"
+msgstr ""
+
+msgid "Batch Nos are created successfully"
+msgstr ""
+
+msgid "Batch Not Available for Return"
+msgstr ""
+
+msgid "Batch Number Series"
+msgstr ""
+
+msgid "Batch Qty"
+msgstr ""
+
+msgid "Batch Quantity"
+msgstr ""
+
+msgid "Batch Size"
+msgstr ""
+
+msgid "Batch UOM"
+msgstr ""
+
+msgid "Batch and Serial No"
+msgstr ""
+
+msgid "Batch not created for item {} since it does not have a batch series."
+msgstr ""
+
+msgid "Batch {0} and Warehouse"
+msgstr ""
+
+msgid "Batch {0} is not available in warehouse {1}"
+msgstr ""
+
+msgid "Batch {0} of Item {1} has expired."
+msgstr ""
+
+msgid "Batch {0} of Item {1} is disabled."
+msgstr ""
+
+msgid "Batch-Wise Balance History"
+msgstr ""
+
+msgid "Batchwise Valuation"
+msgstr ""
+
+msgid "Before reconciliation"
+msgstr ""
+
+msgid "Begin On (Days)"
+msgstr "เริ่มต้นใน (วัน)"
+
+msgid "Beginning of the current subscription period"
+msgstr ""
+
+msgid "Below Subscription Plans are of different currency to the party default billing currency/Company currency: {0}"
+msgstr ""
+
+msgid "Bill Date"
+msgstr ""
+
+msgid "Bill No"
+msgstr ""
+
+msgid "Bill for Rejected Quantity in Purchase Invoice"
+msgstr ""
+
+msgid "Bill of Materials"
+msgstr ""
+
+msgid "Billed"
+msgstr ""
+
+msgid "Billed Amount"
+msgstr ""
+
+msgid "Billed Amt"
+msgstr ""
+
+msgid "Billed Items To Be Received"
+msgstr ""
+
+msgid "Billed Qty"
+msgstr ""
+
+msgid "Billed, Received & Returned"
+msgstr ""
+
+msgid "Billing Address"
+msgstr ""
+
+msgid "Billing Address Details"
+msgstr ""
+
+msgid "Billing Address Name"
+msgstr ""
+
+msgid "Billing Address does not belong to the {0}"
+msgstr ""
+
+msgid "Billing Amount"
+msgstr ""
+
+msgid "Billing City"
+msgstr ""
+
+msgid "Billing Country"
+msgstr ""
+
+msgid "Billing County"
+msgstr ""
+
+msgid "Billing Currency"
+msgstr ""
+
+msgid "Billing Date"
+msgstr ""
+
+msgid "Billing Details"
+msgstr ""
+
+msgid "Billing Email"
+msgstr ""
+
+msgid "Billing Hours"
+msgstr ""
+
+msgid "Billing Interval"
+msgstr ""
+
+msgid "Billing Interval Count"
+msgstr ""
+
+msgid "Billing Interval Count cannot be less than 1"
+msgstr ""
+
+msgid "Billing Interval in Subscription Plan must be Month to follow calendar months"
+msgstr ""
+
+msgid "Billing Rate"
+msgstr ""
+
+msgid "Billing State"
+msgstr ""
+
+msgid "Billing Status"
+msgstr ""
+
+msgid "Billing Zipcode"
+msgstr ""
+
+msgid "Billing currency must be equal to either default company's currency or party account currency"
+msgstr ""
+
+msgid "Bin"
+msgstr ""
+
+msgid "Bin Qty Recalculated"
+msgstr ""
+
+msgid "Bio / Cover Letter"
+msgstr ""
+
+msgid "Biot"
+msgstr ""
+
+msgid "Biotechnology"
+msgstr ""
+
+msgid "Bisect Accounting Statements"
+msgstr ""
+
+msgid "Bisect Left"
+msgstr ""
+
+msgid "Bisect Nodes"
+msgstr ""
+
+msgid "Bisect Right"
+msgstr ""
+
+msgid "Bisecting From"
+msgstr ""
+
+msgid "Bisecting Left ..."
+msgstr ""
+
+msgid "Bisecting Right ..."
+msgstr ""
+
+msgid "Bisecting To"
+msgstr ""
+
+msgid "Black"
+msgstr ""
+
+msgid "Blanket Order"
+msgstr ""
+
+msgid "Blanket Order Allowance (%)"
+msgstr ""
+
+msgid "Blanket Order Item"
+msgstr ""
+
+msgid "Blanket Order Rate"
+msgstr ""
+
+msgid "Block Invoice"
+msgstr ""
+
+msgid "Block Supplier"
+msgstr ""
+
+msgid "Blog Subscriber"
+msgstr ""
+
+msgid "Blood Group"
+msgstr ""
+
+msgid "Blue"
+msgstr ""
+
+msgid "Body"
+msgstr "เนื้อหา"
+
+msgid "Body Text"
+msgstr ""
+
+msgid "Body and Closing Text Help"
+msgstr ""
+
+msgid "Bom No"
+msgstr ""
+
+msgid "Book Advance Payments as Liability option is chosen. Paid From account changed from {0} to {1}."
+msgstr ""
+
+msgid "Book Advance Payments in Separate Party Account"
+msgstr ""
+
+msgid "Book Appointment"
+msgstr ""
+
+msgid "Book Asset Depreciation Entry Automatically"
+msgstr ""
+
+msgid "Book Deferred Entries Based On"
+msgstr ""
+
+msgid "Book Deferred Entries Via Journal Entry"
+msgstr ""
+
+msgid "Book Tax Loss on Early Payment Discount"
+msgstr ""
+
+msgid "Book an appointment"
+msgstr ""
+
+msgid "Booked"
+msgstr ""
+
+msgid "Booked Fixed Asset"
+msgstr ""
+
+msgid "Booking stock value across multiple accounts will make it harder to track stock and account value."
+msgstr ""
+
+msgid "Books have been closed till the period ending on {0}"
+msgstr ""
+
+msgid "Both"
+msgstr ""
+
+msgid "Both Payable Account: {0} and Advance Account: {1} must be of same currency for company: {2}"
+msgstr ""
+
+msgid "Both Receivable Account: {0} and Advance Account: {1} must be of same currency for company: {2}"
+msgstr ""
+
+msgid "Both Trial Period Start Date and Trial Period End Date must be set"
+msgstr ""
+
+msgid "Both {0} Account: {1} and Advance Account: {2} must be of same currency for company: {3}"
+msgstr ""
+
+msgid "Box"
+msgstr ""
+
+msgid "Branch"
+msgstr ""
+
+msgid "Branch Code"
+msgstr ""
+
+msgid "Brand"
+msgstr ""
+
+msgid "Brand Defaults"
+msgstr ""
+
+msgid "Brand Name"
+msgstr ""
+
+msgid "Breakdown"
+msgstr ""
+
+msgid "Broadcasting"
+msgstr ""
+
+msgid "Brokerage"
+msgstr ""
+
+msgid "Browse BOM"
+msgstr ""
+
+msgid "Btu (It)"
+msgstr ""
+
+msgid "Btu (Mean)"
+msgstr ""
+
+msgid "Btu (Th)"
+msgstr ""
+
+msgid "Btu/Hour"
+msgstr ""
+
+msgid "Btu/Minutes"
+msgstr ""
+
+msgid "Btu/Seconds"
+msgstr ""
+
+msgid "Budget"
+msgstr ""
+
+msgid "Budget Account"
+msgstr ""
+
+msgid "Budget Accounts"
+msgstr ""
+
+msgid "Budget Against"
+msgstr ""
+
+msgid "Budget Amount"
+msgstr ""
+
+msgid "Budget Detail"
+msgstr ""
+
+msgid "Budget Exceeded"
+msgstr ""
+
+msgid "Budget List"
+msgstr ""
+
+msgid "Budget Variance Report"
+msgstr ""
+
+msgid "Budget cannot be assigned against Group Account {0}"
+msgstr ""
+
+msgid "Budget cannot be assigned against {0}, as it's not an Income or Expense account"
+msgstr ""
+
+msgid "Budgets"
+msgstr ""
+
+msgid "Buffered Cursor"
+msgstr ""
+
+msgid "Build All?"
+msgstr ""
+
+msgid "Build Tree"
+msgstr ""
+
+msgid "Buildable Qty"
+msgstr ""
+
+msgid "Buildings"
+msgstr "อาคาร"
+
+msgid "Bulk Rename Jobs"
+msgstr ""
+
+msgid "Bulk Transaction Log"
+msgstr ""
+
+msgid "Bulk Transaction Log Detail"
+msgstr ""
+
+msgid "Bulk Update"
+msgstr ""
+
+msgid "Bundle Items"
+msgstr ""
+
+msgid "Bundle Qty"
+msgstr ""
+
+msgid "Bushel (UK)"
+msgstr ""
+
+msgid "Bushel (US Dry Level)"
+msgstr ""
+
+msgid "Business Analyst"
+msgstr ""
+
+msgid "Business Development Manager"
+msgstr ""
+
+msgid "Busy"
+msgstr ""
+
+msgid "Buy"
+msgstr ""
+
+msgid "Buyer of Goods and Services."
+msgstr ""
+
+msgid "Buying"
+msgstr ""
+
+msgid "Buying & Selling Settings"
+msgstr ""
+
+msgid "Buying Amount"
+msgstr ""
+
+msgid "Buying Price List"
+msgstr ""
+
+msgid "Buying Rate"
+msgstr ""
+
+msgid "Buying Settings"
+msgstr ""
+
+msgid "Buying and Selling"
+msgstr ""
+
+msgid "Buying must be checked, if Applicable For is selected as {0}"
+msgstr ""
+
+msgid "By default, the Supplier Name is set as per the Supplier Name entered. If you want Suppliers to be named by a <a href='https://docs.erpnext.com/docs/user/manual/en/setting-up/settings/naming-series' target='_blank'>Naming Series</a> choose the 'Naming Series' option."
+msgstr ""
+
+msgid "Bypass Credit Limit Check at Sales Order"
+msgstr ""
+
+msgid "Bypass credit check at Sales Order"
+msgstr ""
+
+msgid "CANCELLED"
+msgstr ""
+
+msgid "CC"
+msgstr "สำเนาถึง"
+
+msgid "CC To"
+msgstr "สำเนาถึง"
+
+msgid "CODE-39"
+msgstr ""
+
+msgid "COGS By Item Group"
+msgstr "COGS ตามกลุ่มสินค้า"
+
+msgid "COGS Debit"
+msgstr "COGS เดบิต"
+
+msgid "CRM"
+msgstr ""
+
+msgid "CRM Note"
+msgstr "บันทึก CRM"
+
+msgid "CRM Settings"
+msgstr "การตั้งค่า CRM"
+
+msgid "CWIP Account"
+msgstr "บัญชีเงินทุนระหว่างดำเนินการ"
+
+msgid "Caballeria"
+msgstr ""
+
+msgid "Cable Length"
+msgstr ""
+
+msgid "Cable Length (UK)"
+msgstr ""
