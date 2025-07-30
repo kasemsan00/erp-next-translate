@@ -1,0 +1,1258 @@
+
+7836,"Leave Balance","",Untranslated
+7843,"Leave Balance Before Application","",Untranslated
+7848,"Leave Block List","",Untranslated
+7854,"Leave Block List Allow","",Untranslated
+7859,"Leave Block List Allowed","",Untranslated
+7865,"Leave Block List Date","",Untranslated
+7871,"Leave Block List Dates","",Untranslated
+7875,"Leave Block List Name","",Untranslated
+7882,"Leave Blocked","",Untranslated
+7887,"Leave Control Panel","",Untranslated
+7894,"Leave Details","",Untranslated
+7900,"Leave Encashment","",Untranslated
+7904,"Leave Encashment Amount Per Day","",Untranslated
+7909,"Leave History","",Untranslated
+7915,"Leave Ledger","",Untranslated
+7919,"Leave Ledger Entry","",Untranslated
+7938,""Leave Ledger Entry's To date needs to be after From date. Currently, From Date is {0} and To Date is {1}"","",Untranslated
+7951,"Leave Period","",Untranslated
+7961,"Leave Policy","",Untranslated
+7965,"Leave Policy Assignment","",Untranslated
+7970,"Leave Policy Assignment Overlap","",Untranslated
+7975,"Leave Policy Detail","",Untranslated
+7979,"Leave Policy Details","",Untranslated
+7983,"Leave Policy: {0} already assigned for Employee {1} for period {2} to {3}","",Untranslated
+7989,"Leave Status Notification","",Untranslated
+8022,"Leave Status Notification Template","",Untranslated
+8027,"Leave Type","",Untranslated
+8031,"Leave Type Name","",Untranslated
+8035,"Leave Type can either be compensatory or earned leave.","",Untranslated
+8039,"Leave Type can either be without pay or partial pay","",Untranslated
+8043,"Leave Type is mandatory","",Untranslated
+8047,"Leave Type {0} cannot be allocated since it is leave without pay","",Untranslated
+8051,"Leave Type {0} cannot be carry-forwarded","",Untranslated
+8058,"Leave Type {0} is not encashable","",Untranslated
+8062,"Leave Without Pay","",Untranslated
+8066,"Leave Without Pay does not match with approved {} records","",Untranslated
+8070,"Leave allocation {0} is linked with the Leave Application {1}","",Untranslated
+8076,"Leave already have been assigned for this Leave Policy Assignment","",Untranslated
+8080,"Leave and Expense Claim Settings","",Untranslated
+8084,"Leave application is linked with leave allocations {0}. Leave application cannot be set as leave without pay","",Untranslated
+8088,""Leave cannot be allocated before {0}, as leave balance has already been carry-forwarded in the future leave allocation record {1}"","",Untranslated
+8092,""Leave cannot be applied/cancelled before {0}, as leave balance has already been carry-forwarded in the future leave allocation record {1}"","",Untranslated
+8096,"Leave of type {0} cannot be longer than {1}.","",Untranslated
+8101,"Leave(s) Expired","",Untranslated
+8105,"Leave(s) Pending Approval","",Untranslated
+8121,"Leave(s) Taken","",Untranslated
+8125,"Leaves","",Untranslated
+8131,"Leaves & Holidays","",Untranslated
+8135,"Leaves Allocated","",Untranslated
+8139,"Leaves Expired","",Untranslated
+8143,"Leaves Pending Approval","",Untranslated
+8147,"Leaves for the Leave Type {0} won't be carry-forwarded since carry-forwarding is disabled.","",Untranslated
+8151,"Leaves per Year","",Untranslated
+8156,"Leaves you can avail against a holiday you worked on. You can claim Compensatory Off Leave using Compensatory Leave Request. Click {0} to know more","",Untranslated
+8163,"Left","ซ้าย",Translated
+8174,"Left","ซ้าย",Translated
+8179,"Letter Head","หัวจดหมาย",Translated
+8184,"Level","ระดับ",Translated
+8188,"License Plate","ป้ายทะเบียน",Translated
+8193,"Lifecycle","",Untranslated
+8199,"Lime","",Untranslated
+8203,"Link the cycle and tag KRA to your goal to update the appraisal's goal score based on the goal progress","",Untranslated
+8207,"Linked Project {} and Tasks deleted.","",Untranslated
+8212,"Load more","",Untranslated
+8217,"Loan","",Untranslated
+8222,"Loan Account","",Untranslated
+8226,"Loan Product","",Untranslated
+8231,"Loan Repayment","",Untranslated
+8235,"Loan Repayment Entry","",Untranslated
+8239,"Loan cannot be repayed from salary for Employee {0} because salary is processed in currency {1}","",Untranslated
+8251,"Locating...","",Untranslated
+8256,"Location","",Untranslated
+8261,"Location / Device ID","",Untranslated
+8266,"Location Name","",Untranslated
+8270,"Lodging Required","",Untranslated
+8276,"Log Out","",Untranslated
+8280,"Log Type","",Untranslated
+8284,"Log Type is required for check-ins falling in the shift: {0}.","",Untranslated
+8288,"Login","เข้าสู่ระบบ",Translated
+8292,"Login Failed","",Untranslated
+8299,"Login to Frappe HR","",Untranslated
+8303,"Longitude","ลองจิจูด",Translated
+8310,"Longitude: {0}°","",Untranslated
+8314,"Lower Range","",Untranslated
+8320,"MICR","",Untranslated
+8324,"Make","สร้าง",Translated
+8331,"Make Bank Entry","",Untranslated
+8335,"Mandatory","จำเป็น",Translated
+8339,"Mandatory fields required for this action:","",Untranslated
+8345,"Mandatory fields required in {0}","ฟิลด์ที่จำเป็นใน {0}",Translated
+8351,"Manual","คู่มือ",Translated
+8356,"Manual Rating","",Untranslated
+8364,"Mar","",Untranslated
+8370,"Mark Attendance","",Untranslated
+8374,"Mark Auto Attendance on Holidays","",Untranslated
+8381,"Mark all as read","",Untranslated
+8385,"Mark as Completed","",Untranslated
+8389,"Mark as In Progress","",Untranslated
+8393,"Mark as {0}","",Untranslated
+8399,"Mark attendance as {0} for {1} on selected dates?","",Untranslated
+8403,"Mark attendance based on 'Employee Checkin' for Employees assigned to this shift.","",Untranslated
+8407,"Mark attendance for existing check-in/out logs before changing shift settings","",Untranslated
+8411,"Mark {0} as Completed?","",Untranslated
+8417,"Mark {0} {1} as {2}?","",Untranslated
+8423,"Marked Attendance","",Untranslated
+8427,"Marked Attendance HTML","",Untranslated
+8434,"Marking Attendance","",Untranslated
+8440,"Masters","",Untranslated
+8446,"Max Amount Eligible","",Untranslated
+8452,"Max Benefit Amount","",Untranslated
+8457,"Max Benefit Amount (Yearly)","",Untranslated
+8463,"Max Benefits (Amount)","",Untranslated
+8472,"Max Benefits (Yearly)","",Untranslated
+8476,"Max Exemption Amount","",Untranslated
+8482,"Max Exemption Amount cannot be greater than maximum exemption amount {0} of Tax Exemption Category {1}","",Untranslated
+8486,"Max Taxable Income","",Untranslated
+8492,"Max benefits should be greater than zero to dispense benefits","",Untranslated
+8498,"Max working hours against Timesheet","",Untranslated
+8503,"Maximum Carry Forwarded Leaves","",Untranslated
+8507,"Maximum Consecutive Leaves Allowed","",Untranslated
+8512,"Maximum Consecutive Leaves Exceeded","",Untranslated
+8518,"Maximum Encashable Leaves","",Untranslated
+8524,"Maximum Exempted Amount","",Untranslated
+8529,"Maximum Exemption Amount","",Untranslated
+8533,"Maximum Leave Allocation Allowed per Leave Period","",Untranslated
+8539,"Maximum amount eligible for the component {0} exceeds {1}","",Untranslated
+8543,"Maximum annual taxable income eligible for full tax relief. No tax is applied if income does not exceed this limit","",Untranslated
+8548,"Maximum benefit amount of component {0} exceeds {1}","",Untranslated
+8552,"Maximum benefit amount of employee {0} exceeds {1}","",Untranslated
+8556,"Maximum benefit of employee {0} exceeds {1} by the sum {2} of benefit application pro-rata component amount and previous claimed amount","",Untranslated
+8560,"Maximum benefit of employee {0} exceeds {1} by the sum {2} of previous claimed amount","",Untranslated
+8564,"Maximum encashable leaves for {0} are {1}","",Untranslated
+8569,"Maximum leave allowed in the leave type {0} is {1}","",Untranslated
+8574,"May","",Untranslated
+8578,"Meal Preference","",Untranslated
+8582,"Medical","",Untranslated
+8591,"Menu","เมนู",Translated
+8596,"Message","ข้อความ",Translated
+8602,"Mileage","",Untranslated
+8608,"Min Taxable Income","",Untranslated
+8614,"Minimum Year for Gratuity","",Untranslated
+8618,"Minimum working days required since Date of Joining to apply for this leave","",Untranslated
+8623,"Missing Field","ฟิลด์ที่หายไป",Translated
+8627,"Missing Fields","ฟิลด์ที่หายไป",Translated
+8631,"Missing Mandatory Field","",Untranslated
+8635,"Missing Opening Entries","",Untranslated
+8639,"Missing Relieving Date","",Untranslated
+8644,"Missing Tax Slab","",Untranslated
+8655,"Mode Of Payment","วิธีการชำระเงิน",Translated
+8660,"Mode of Payment","วิธีการชำระเงิน",Translated
+8664,"Mode of Travel","",Untranslated
+8670,"Mode of payment is required to make a payment","",Untranslated
+8675,"Model","รุ่น",Translated
+8683,"Monday","วันจันทร์",Translated
+8688,"Month","เดือน",Translated
+8693,"Month To Date","",Untranslated
+8714,"Month To Date(Company Currency)","",Untranslated
+8723,"Monthly","รายเดือน",Translated
+8727,"Monthly Attendance Sheet","",Untranslated
+8738,"More","เพิ่มเติม",Translated
+8742,"More Info","ข้อมูลเพิ่มเติม",Translated
+8746,"More than one selection for {0} not allowed","",Untranslated
+8750,"Multiple Additional Salaries with overwrite property exist for Salary Component {0} between {1} and {2}.","",Untranslated
+8754,"Multiple Shift Assignments","",Untranslated
+8758,"My Account","บัญชีของฉัน",Translated
+8762,"My Advances","",Untranslated
+8766,"My Claims","",Untranslated
+8770,"My Leaves","",Untranslated
+8779,"My Requests","",Untranslated
+8784,"Name","ชื่อ",Translated
+8789,"Name error","",Untranslated
+8798,"Name of Organizer","",Untranslated
+8807,"Naming Series","ชุดการตั้งชื่อ",Translated
+8812,"Net Pay","",Untranslated
+8817,"Net Pay (Company Currency)","",Untranslated
+8821,"Net Pay Info","",Untranslated
+8825,"Net Pay cannot be less than 0","",Untranslated
+8829,"Net Salary Amount","",Untranslated
+8837,"Net pay cannot be negative","",Untranslated
+8842,"New","ใหม่",Translated
+8847,"New Company","บริษัทใหม่",Translated
+8851,"New Employee ID","",Untranslated
+8855,"New Expense Item","",Untranslated
+8859,"New Expense Tax","",Untranslated
+8863,"New Feedback","",Untranslated
+8869,"New Leave(s) Allocated","",Untranslated
+8874,"New Leaves Allocated","",Untranslated
+8880,"New Leaves Allocated (In Days)","",Untranslated
+8884,"New shift assignments will be created after this date.","",Untranslated
+8892,"New {0}","{0} ใหม่",Translated
+8897,"No","",Untranslated
+8901,"No Data","",Untranslated
+8905,"No Employee Found","",Untranslated
+8909,"No Employee found for the given employee field value. '{}': {}","",Untranslated
+8913,"No Employees Selected","",Untranslated
+8917,"No Interview has been scheduled.","",Untranslated
+8921,"No Leave Period Found","",Untranslated
+8925,"No Leaves Allocated to Employee: {0} for Leave Type: {1}","",Untranslated
+8929,"No Salary Slip found for Employee: {0}","",Untranslated
+8933,"No Salary Structure Assignment found for employee {0} on or before {1}","",Untranslated
+8937,"No Salary Structure assigned to Employee {0} on the given date {1}","",Untranslated
+8941,"No Salary Structures","",Untranslated
+8945,"No Shift Requests Selected","",Untranslated
+8949,"No Staffing Plans found for this Designation","",Untranslated
+8953,"No active employee found associated with the email ID {0}. Try logging in with your employee email ID or contact your HR manager for access.","",Untranslated
+8957,"No active or default Salary Structure found for employee {0} for the given dates","",Untranslated
+8961,"No additional expenses has been added","",Untranslated
+8965,"No advances found","",Untranslated
+8969,"No applicable Earning component found in last salary slip for Gratuity Rule: {0}","",Untranslated
+8973,"No applicable Earning components found for Gratuity Rule: {0}","",Untranslated
+8977,"No applicable slab found for the calculation of gratuity amount as per the Gratuity Rule: {0}","",Untranslated
+8981,"No attendance records found for this criteria.","",Untranslated
+8985,"No attendance records found.","",Untranslated
+8989,"No attendance records to create","",Untranslated
+8993,"No changes found in timings.","",Untranslated
+8997,"No employees found","",Untranslated
+9001,"No employees found for the mentioned criteria:<br>Company: {0}<br> Currency: {1}<br>Payroll Payable Account: {2}","",Untranslated
+9005,"No employees found for the selected criteria","",Untranslated
+9009,"No employees found with selected filters and active salary structure","",Untranslated
+9013,"No expenses added","",Untranslated
+9017,"No feedback has been received yet","",Untranslated
+9021,"No items selected","",Untranslated
+9025,"No leave record found for employee {0} on {1}","",Untranslated
+9029,"No leaves have been allocated.","",Untranslated
+9034,"No more updates","",Untranslated
+9038,"No of. Positions","",Untranslated
+9042,"No record found","ไม่พบบันทึก",Translated
+9046,"No replies from","",Untranslated
+9050,"No salary slip found to submit for the above selected criteria OR salary slip already submitted","",Untranslated
+9054,"No salary slips found","",Untranslated
+9058,"No taxes added","",Untranslated
+9062,"No valid shift found for log time","",Untranslated
+9066,"No {0} Selected","",Untranslated
+9070,"No {0} added","",Untranslated
+9076,"No {0} found","ไม่พบ {0}",Translated
+9081,"Non Diary","",Untranslated
+9085,"Non Taxable Earnings","",Untranslated
+9089,"Non-Billed Hours","",Untranslated
+9094,"Non-Billed Hours (NB)","",Untranslated
+9100,"Non-Encashable Leaves","",Untranslated
+9111,"Non-Vegetarian","",Untranslated
+9115,"Not Allowed","ไม่อนุญาต",Translated
+9120,"Not Permitted","ไม่ได้รับอนุญาต",Translated
+9124,"Not Started","ยังไม่ได้เริ่ม",Translated
+9129,"Note","หมายเหตุ",Translated
+9133,"Note: Shift will not be overwritten in existing attendance records","",Untranslated
+9137,"Note: Total allocated leaves {0} shouldn't be less than already approved leaves {1} for the period","",Untranslated
+9144,""Note: Your salary slip is password protected, the password to unlock the PDF is of the format {0}."","",Untranslated
+9148,"Notes","บันทึก",Translated
+9152,"Nothing to change","",Untranslated
+9156,"Notice Period","",Untranslated
+9160,"Notification Template","",Untranslated
+9169,"Notifications","การแจ้งเตือน",Translated
+9174,"Notify users by email","",Untranslated
+9179,"Nov","",Untranslated
+9185,"Number Of Employees","",Untranslated
+9191,"Number Of Positions","",Untranslated
+9197,"Number of Withholding Cycles","",Untranslated
+9201,"Number of leaves eligible for encashment based on leave type settings","",Untranslated
+9205,"OTP Code","",Untranslated
+9210,"OTP Verification","",Untranslated
+9215,"OUT","",Untranslated
+9220,"Obtained Average Rating","",Untranslated
+9225,"Oct","",Untranslated
+9229,"Odometer Reading","",Untranslated
+9233,"Odometer Value","",Untranslated
+9238,"Off-Shift","",Untranslated
+9244,"Off-shift","",Untranslated
+9252,"Offer Date","",Untranslated
+9257,"Offer Term","",Untranslated
+9262,"Offer Terms","",Untranslated
+9266,"Old Parent","",Untranslated
+9271,"On Date","",Untranslated
+9276,"On Duty","",Untranslated
+9282,"On Hold","",Untranslated
+9287,"On Leave","",Untranslated
+9293,"Onboarding","",Untranslated
+9299,"Onboarding Activities","",Untranslated
+9303,"Onboarding Begins On","",Untranslated
+9307,"Only Approvers can Approve this Request.","",Untranslated
+9311,"Only Completed documents can be submitted","",Untranslated
+9315,"Only Employee Grievance with status {0} or {1} can be submitted","",Untranslated
+9319,"Only Interviewer Are allowed to submit Interview Feedback","",Untranslated
+9323,"Only Interviews with Cleared or Rejected status can be submitted.","",Untranslated
+9327,"Only Leave Applications with status 'Approved' and 'Rejected' can be submitted","",Untranslated
+9332,"Only Shift Request with status 'Approved' and 'Rejected' can be submitted","",Untranslated
+9336,"Only Tax Impact (Cannot Claim But Part of Taxable Income)","",Untranslated
+9340,"Only expired allocation can be cancelled","",Untranslated
+9344,"Only interviewers can submit feedback","",Untranslated
+9348,"Only users with the {0} role can create backdated leave applications","",Untranslated
+9364,"Only {0} Goals can be {1}","",Untranslated
+9369,"Open","",Untranslated
+9373,"Open & Approved","",Untranslated
+9377,"Open Feedback","",Untranslated
+9381,"Open Now","",Untranslated
+9387,"Opening Balance","",Untranslated
+9392,"Opening Balances","",Untranslated
+9396,"Opening closed.","",Untranslated
+9400,"Optional Holiday List not set for leave period {0}","",Untranslated
+9405,"Optional Leaves are holidays that Employees can choose to avail from a list of holidays published by the company.","",Untranslated
+9409,"Orange","สีส้ม",Translated
+9419,"Organizational Chart","",Untranslated
+9424,"Other Details","รายละเอียดอื่นๆ",Translated
+9430,"Other Reports","",Untranslated
+9436,"Other Settings","การตั้งค่าอื่นๆ",Translated
+9440,"Other Taxes and Charges","",Untranslated
+9446,"Others","",Untranslated
+9451,"Out Time","",Untranslated
+9456,"Out of 5","",Untranslated
+9460,"Outgoing Salary","",Untranslated
+9464,"Outstanding Amount","จำนวนเงินค้างชำระ",Translated
+9468,"Over Allocation","",Untranslated
+9472,"Overall Average Rating","",Untranslated
+9476,"Overlapping Attendance Request","",Untranslated
+9480,"Overlapping Shift Attendance","",Untranslated
+9484,"Overlapping Shift Requests","",Untranslated
+9498,"Overlapping Shifts","",Untranslated
+9506,"Overview","ภาพรวม",Translated
+9511,"Overwrite Salary Structure Amount","",Untranslated
+9515,"Owned","เป็นเจ้าของ",Translated
+9519,"PAN Number","",Untranslated
+9523,"PF Account","",Untranslated
+9527,"PF Amount","",Untranslated
+9532,"PF Loan","",Untranslated
+9549,"PWA Notification","",Untranslated
+9561,"Paid","ชำระแล้ว",Translated
+9567,"Paid Amount","จำนวนเงินที่ชำระแล้ว",Translated
+9571,"Paid via Salary Slip","",Untranslated
+9576,"Parameter","พารามิเตอร์",Translated
+9580,"Parent Goal","",Untranslated
+9584,"Part-time","",Untranslated
+9589,"Partial Success","สำเร็จบางส่วน",Translated
+9595,""Partially Sponsored, Require Partial Funding"","",Untranslated
+9600,"Partly Claimed and Returned","",Untranslated
+9604,"Passport Number","หมายเลขหนังสือเดินทาง",Translated
+9609,"Password","รหัสผ่าน",Translated
+9613,"Password Policy","",Untranslated
+9617,"Password policy cannot contain spaces or simultaneous hyphens. The format will be restructured automatically","",Untranslated
+9629,"Password policy for Salary Slips is not set","",Untranslated
+9635,"Pay Against Benefit Claim","",Untranslated
+9640,"Pay Via Payment Entry","",Untranslated
+9649,"Pay via Salary Slip","",Untranslated
+9653,"Payable Account","บัญชีเจ้าหนี้",Translated
+9659,"Payable Account is mandatory to submit an Expense Claim","",Untranslated
+9667,"Payables","เจ้าหนี้",Translated
+9674,"Payment","การชำระเงิน",Translated
+9678,"Payment Account","บัญชีการชำระเงิน",Translated
+9682,"Payment Account is mandatory","",Untranslated
+9689,"Payment Date","",Untranslated
+9695,"Payment Days","",Untranslated
+9699,"Payment Days Calculation Help","",Untranslated
+9703,"Payment Days Dependency","",Untranslated
+9712,"Payment Days calculations are based on these Payroll Settings","",Untranslated
+9717,"Payment Entry","รายการชำระเงิน",Translated
+9721,"Payment and Accounting","",Untranslated
+9730,"Payment of {0} from {1} to {2}","",Untranslated
+9734,"Payroll","",Untranslated
+9738,"Payroll Based On","",Untranslated
+9744,"Payroll Cost Center","",Untranslated
+9749,"Payroll Cost Centers","",Untranslated
+9758,"Payroll Dashboard","",Untranslated
+9763,"Payroll Date","",Untranslated
+9774,"Payroll Employee Detail","",Untranslated
+9778,"Payroll Entry","รายการบัญชีเงินเดือน",Translated
+9790,"Payroll Entry cancellation is queued. It may take a few minutes","",Untranslated
+9796,"Payroll Frequency","",Untranslated
+9800,"Payroll Info","",Untranslated
+9806,"Payroll Number","",Untranslated
+9818,"Payroll Payable","เงินเดือนค้างจ่าย",Translated
+9838,"Payroll Payable Account","",Untranslated
+9843,"Payroll Period","",Untranslated
+9850,"Payroll Period Date","",Untranslated
+9855,"Payroll Periods","",Untranslated
+9862,"Payroll Reports","",Untranslated
+9866,"Payroll Settings","",Untranslated
+9870,"Payroll date can not be greater than employee's relieving date.","",Untranslated
+9887,"Payroll date can not be less than employee's joining date.","",Untranslated
+9893,"Pending","",Untranslated
+9898,"Pending (unpaid) amount from previous advances","",Untranslated
+9902,"Pending Amount","",Untranslated
+9906,"Pending Asset Returns","",Untranslated
+9910,"Pending FnF","",Untranslated
+9914,"Pending Interviews","",Untranslated
+9920,"Pending Questionnaires","",Untranslated
+9926,"Percent","",Untranslated
+9931,"Percent Deduction","",Untranslated
+9936,"Percentage (%)","",Untranslated
+9940,"Performance","",Untranslated
+9944,"Permanently cancel {0}","",Untranslated
+9949,"Permanently submit {0}","",Untranslated
+9953,"Phone Number","หมายเลขโทรศัพท์",Translated
+9958,"Piecework","",Untranslated
+9963,"Pink","สีชมพู",Translated
+9967,"Planned number of Positions","",Untranslated
+9971,"Please Enable Auto Attendance and complete the setup first.","",Untranslated
+9975,"Please Select Company First","",Untranslated
+9979,"Please add the remaining benefits {0} to any of the existing component","",Untranslated
+9983,"Please add the remaining benefits {0} to the application as pro-rata component","",Untranslated
+9987,"Please assign a Salary Structure for Employee {0} applicable from or before {1} first","",Untranslated
+9991,"Please check if employee is on leave or attendance with the same status exists for selected day(s).","",Untranslated
+9995,"Please confirm once you have completed your training","",Untranslated
+9999,"Please create a new {0} for the date {1} first.","",Untranslated
+10003,"Please delete the Employee {0} to cancel this document","",Untranslated
+10007,"Please enable default incoming account before creating Daily Work Summary Group","",Untranslated
+10011,"Please enter the designation","",Untranslated
+10015,"Please reduce {0} to avoid shift time overlapping with itself","",Untranslated
+10019,"Please see attachment","",Untranslated
+10023,"Please select Company and Designation","",Untranslated
+10028,"Please select Employee","",Untranslated
+10032,"Please select Employee first.","",Untranslated
+10036,"Please select From Date and Payroll Frequency first","",Untranslated
+10040,"Please select From Date.","",Untranslated
+10044,"Please select Shift Schedule and assignment date(s).","",Untranslated
+10048,"Please select Shift Type and assignment date(s).","",Untranslated
+10052,"Please select a Company","โปรดเลือกบริษัท",Translated
+10057,"Please select a company first","",Untranslated
+10061,"Please select a company first.","",Untranslated
+10065,"Please select a csv file","",Untranslated
+10069,"Please select a date.","",Untranslated
+10073,"Please select an Applicant","",Untranslated
+10077,"Please select at least one Shift Request to perform this action.","",Untranslated
+10081,"Please select at least one employee to perform this action.","",Untranslated
+10085,"Please select at least one row to perform this action.","",Untranslated
+10090,"Please select company.","",Untranslated
+10094,"Please select employee first","",Untranslated
+10098,"Please select employees to create appraisals for","",Untranslated
+10102,"Please select half day attendance status.","",Untranslated
+10106,"Please select month and year.","",Untranslated
+10110,"Please select the Appraisal Cycle first.","",Untranslated
+10114,"Please select the attendance status.","",Untranslated
+10118,"Please select the employees you want to mark attendance for.","",Untranslated
+10122,"Please select the salary slips to email","",Untranslated
+10126,"Please select {0}","โปรดเลือก {0}",Translated
+10130,""Please set \""Default Payroll Payable Account\"" in Company Defaults"","",Untranslated
+10134,"Please set Basic and HRA component in Company {0}","",Untranslated
+10138,"Please set Earning Component for Leave type: {0}.","",Untranslated
+10142,"Please set Payroll based on in Payroll settings","",Untranslated
+10147,"Please set Relieving Date for employee: {0}","",Untranslated
+10151,"Please set a Default Cash Account in Company defaults","",Untranslated
+10155,"Please set account in Salary Component {0}","",Untranslated
+10159,"Please set default template for Leave Approval Notification in HR Settings.","",Untranslated
+10163,"Please set default template for Leave Status Notification in HR Settings.","",Untranslated
+10167,"Please set the Appraisal Template for all the {0} or select the template in the Employees table below.","",Untranslated
+10171,"Please set the Company","",Untranslated
+10175,"Please set the Date Of Joining for employee {0}","",Untranslated
+10180,"Please set the Holiday List.","",Untranslated
+10184,"Please set the relieving date for employee {0}","",Untranslated
+10188,"Please set {0} and {1} in {2}.","",Untranslated
+10192,"Please set {0} for Employee {1}","",Untranslated
+10197,"Please set {0} for the Employee: {1}","",Untranslated
+10201,"Please set {0}.","",Untranslated
+10205,"Please setup Employee Naming System in Human Resource > HR Settings","",Untranslated
+10209,"Please setup numbering series for Attendance via Setup > Numbering Series","",Untranslated
+10213,"Please share your feedback to the training by clicking on 'Training Feedback' and then 'New'","",Untranslated
+10217,"Please specify the job applicant to be updated.","",Untranslated
+10221,""Please specify {0} and {1} (if any), for the correct tax calculation in future salary slips."","",Untranslated
+10225,"Please submit the {0} before marking the cycle as Completed","",Untranslated
+10230,"Please update your status for this training event","",Untranslated
+10255,"Posted On","",Untranslated
+10260,"Posting Date","วันที่โพสต์",Translated
+10266,"Posting date","",Untranslated
+10285,"Preferred Area for Lodging","",Untranslated
+10289,"Present","",Untranslated
+10295,"Present Records","",Untranslated
+10301,"Prevent self approval for leaves even if user has permissions","",Untranslated
+10306,"Preview Salary Slip","",Untranslated
+10311,"Principal Amount","",Untranslated
+10315,"Print Heading","หัวข้อการพิมพ์",Translated
+10320,"Printed On {0}","",Untranslated
+10324,"Printing Details","รายละเอียดการพิมพ์",Translated
+10328,"Privilege Leave","",Untranslated
+10332,"Probation","",Untranslated
+10337,"Probationary Period","",Untranslated
+10344,"Process Attendance After","",Untranslated
+10350,"Process Payroll Accounting Entry based on Employee","",Untranslated
+10355,"Process Requests","",Untranslated
+10361,"Process Shift Requests","",Untranslated
+10365,"Process leave encashment via a separate Payment Entry instead of Salary Slip","",Untranslated
+10369,"Process {0} Shift Request(s) as <b>{1}</b>?","",Untranslated
+10373,"Processing Requests","",Untranslated
+10377,"Processing Requests...","",Untranslated
+10384,"Processing of Shift Requests has been queued. It may take a few minutes.","",Untranslated
+10389,"Professional Tax Deductions","",Untranslated
+10393,"Proficiency","",Untranslated
+10397,"Profile","โปรไฟล์",Translated
+10402,"Profit","",Untranslated
+10422,"Progress","ความคืบหน้า",Translated
+10429,"Project","โครงการ",Translated
+10434,"Project Profitability","",Untranslated
+10439,"Promotion","",Untranslated
+10444,"Promotion Date","",Untranslated
+10448,"Property","คุณสมบัติ",Translated
+10455,"Property already added","",Untranslated
+10461,"Provident Fund Deductions","",Untranslated
+10466,"Publish Applications Received","",Untranslated
+10471,"Publish Salary Range","",Untranslated
+10476,"Publish on website","",Untranslated
+10482,"Purpose","วัตถุประสงค์",Translated
+10492,"Purpose & Amount","",Untranslated
+10496,"Purpose of Travel","",Untranslated
+10500,"Push Notification permission denied","",Untranslated
+10504,"Push notifications disabled","",Untranslated
+10512,"Push notifications have been disabled on your site","",Untranslated
+10518,"Quarterly","รายไตรมาส",Translated
+10523,"Questionnaire Email Sent","",Untranslated
+10535,"Queued","อยู่ในคิว",Translated
+10539,"Quick Filters","",Untranslated
+10544,"Quick Links","",Untranslated
+10549,"Radius within which check-in is allowed (in meters)","",Untranslated
+10554,"Raised By","",Untranslated
+10559,"Rate","",Untranslated
+10567,"Rate Goals Manually","",Untranslated
+10572,"Rating","",Untranslated
+10579,"Rating Criteria","",Untranslated
+10584,"Ratings","",Untranslated
+10589,"Re-allocate Leaves","",Untranslated
+10607,"Read","",Untranslated
+10612,"Reason","เหตุผล",Translated
+10618,"Reason for Requesting","",Untranslated
+10622,"Reason for Withholding Salary","",Untranslated
+10628,"Reason for skipping auto attendance:","",Untranslated
+10632,"Receivables","ลูกหนี้",Translated
+10636,"Recent Attendance Requests","",Untranslated
+10640,"Recent Expenses","",Untranslated
+10644,"Recent Leaves","",Untranslated
+10650,"Recent Shift Requests","",Untranslated
+10655,"Recommended for a single biometric device / checkins via mobile app","",Untranslated
+10660,"Recover Cost","",Untranslated
+10669,"Recruitment","",Untranslated
+10674,"Recruitment Analytics","",Untranslated
+10681,"Red","สีแดง",Translated
+10689,"Reference","อ้างอิง",Translated
+10698,"Reference Document","เอกสารอ้างอิง",Translated
+10711,"Reference Document Name","ชื่อเอกสารอ้างอิง",Translated
+10718,"Reference Document Type","ประเภทเอกสารอ้างอิง",Translated
+10727,"Reference: {0}","",Untranslated
+10733,"References","การอ้างอิง",Translated
+10739,"Referral Bonus Payment Status","",Untranslated
+10744,"Referral Details","",Untranslated
+10750,"Referrer","ผู้แนะนำ",Translated
+10755,"Referrer Details","",Untranslated
+10761,"Referrer Name","",Untranslated
+10767,"Reflections","",Untranslated
+10772,"Refuelling Details","",Untranslated
+10776,"Reject","ปฏิเสธ",Translated
+10800,"Reject Employee Referral","",Untranslated
+10804,"Rejected","ถูกปฏิเสธ",Translated
+10808,"Rejection","",Untranslated
+10813,"Release Withheld Salaries","",Untranslated
+10822,"Released","",Untranslated
+10828,"Relieving Date","วันที่ปลดปล่อย",Translated
+10833,"Relieving Date ","",Untranslated
+10837,"Relieving Date Missing","",Untranslated
+10843,"Reload","โหลดใหม่",Translated
+10851,"Remaining Benefits (Yearly)","",Untranslated
+10856,"Remark","ข้อสังเกต",Translated
+10861,"Remarks","ข้อสังเกต",Translated
+10866,"Remind Before","",Untranslated
+10872,"Reminded","",Untranslated
+10878,"Reminder","การเตือน",Translated
+10884,"Reminders","",Untranslated
+10889,"Remove if Zero Valued","",Untranslated
+10893,"Rented Car","",Untranslated
+10897,"Reopen","เปิดใหม่",Translated
+10901,"Repay From Salary","",Untranslated
+10907,"Repay From Salary can be selected only for term loans","",Untranslated
+10912,"Repay Unclaimed Amount from Salary","",Untranslated
+10917,"Repeat On Days","",Untranslated
+10921,"Replied","ตอบกลับแล้ว",Translated
+10939,"Replies","",Untranslated
+10948,"Reports","รายงาน",Translated
+10952,"Reports To","",Untranslated
+10956,"Request Attendance","",Untranslated
+10960,"Request Leave","",Untranslated
+10965,"Request a Leave","",Untranslated
+10970,"Request a Shift","",Untranslated
+10977,"Request an Advance","",Untranslated
+10982,"Requested By","",Untranslated
+10987,"Requested By (Name)","",Untranslated
+10991,"Require Full Funding","",Untranslated
+10997,"Required Skills","",Untranslated
+11001,"Required for Employee Creation","",Untranslated
+11005,"Reschedule Interview","",Untranslated
+11011,"Reset Password","",Untranslated
+11016,"Resignation Letter Date","วันที่จดหมายลาออก",Translated
+11024,"Resolution Date","วันที่แก้ไขปัญหา",Translated
+11029,"Resolution Details","รายละเอียดการแก้ไขปัญหา",Translated
+11034,"Resolved","แก้ไขแล้ว",Translated
+11038,"Resolved By","แก้ไขโดย",Translated
+11044,"Responsibilities","",Untranslated
+11050,"Restrict Backdated Leave Application","",Untranslated
+11058,"Result","ผลลัพธ์",Translated
+11063,"Resume","ดำเนินการต่อ",Translated
+11070,"Resume Attachment","",Untranslated
+11075,"Resume Link","",Untranslated
+11079,"Resume link","",Untranslated
+11086,"Retained","",Untranslated
+11091,"Retention Bonus","",Untranslated
+11097,"Retirement Age (In Years)","",Untranslated
+11101,"Return","คืน",Translated
+11109,"Return amount cannot be greater than unclaimed amount","",Untranslated
+11117,"Returned","คืนแล้ว",Translated
+11121,"Returned Amount","จำนวนเงินที่คืน",Translated
+11127,"Review various other settings related to Employee Leaves and Expense Claim","",Untranslated
+11133,"Reviewer","",Untranslated
+11138,"Reviewer Name","",Untranslated
+11143,"Revised CTC","",Untranslated
+11148,"Right","ขวา",Translated
+11155,"Role","บทบาท",Translated
+11161,"Role Allowed to Create Backdated Leave Application","",Untranslated
+11166,"Roster","",Untranslated
+11171,"Roster Color","",Untranslated
+11177,"Round Name","",Untranslated
+11183,"Round off Work Experience","",Untranslated
+11188,"Round to the Nearest Integer","",Untranslated
+11193,"Rounded Total","ยอดรวมปัดเศษ",Translated
+11198,"Rounded Total (Company Currency)","ยอดรวมปัดเศษ (สกุลเงินบริษัท)",Translated
+11203,"Rounding","",Untranslated
+11209,"Route","เส้นทาง",Translated
+11213,"Route to the custom Job Application Webform","",Untranslated
+11217,"Row #{0}: Cannot set amount or formula for Salary Component {1} with Variable Based On Taxable Salary","",Untranslated
+11221,"Row #{0}: The {1} Component has the options {2} and {3} enabled.","",Untranslated
+11225,"Row #{0}: Timesheet amount will overwrite the Earning component amount for the Salary Component {1}","",Untranslated
+11229,"Row No {0}: Amount cannot be greater than the Outstanding Amount against Expense Claim {1}. Outstanding Amount is {2}","",Untranslated
+11233,"Row {0}# Allocated amount {1} cannot be greater than unclaimed amount {2}","",Untranslated
+11237,"Row {0}# Paid Amount cannot be greater than Encashment amount","",Untranslated
+11241,"Row {0}# Paid Amount cannot be greater than Total amount","",Untranslated
+11245,"Row {0}# Paid Amount cannot be greater than requested advance amount","แถว {0}# จำนวนเงินที่จ่ายไม่สามารถมากกว่าจำนวนเงินล่วงหน้าที่ร้องขอได้",Translated
+11249,"Row {0}: Cost Center {1} does not belong to Company {2}","แถว {0}: ศูนย์ต้นทุน {1} ไม่ได้เป็นของบริษัท {2}",Translated
+11253,"Row {0}: From (Year) can not be greater than To (Year)","",Untranslated
+11257,"Row {0}: Goal Score cannot be greater than 5","",Untranslated
+11261,"Row {0}: Paid amount {1} is greater than pending accrued amount {2} against loan {3}","",Untranslated
+11265,"Row {0}: {1}","",Untranslated
+11271,"Row {0}: {1} is required in the expenses table to book an expense claim.","",Untranslated
+11278,"Rules","",Untranslated
+11296,"Salary","เงินเดือน",Translated
+11302,"Salary Component","",Untranslated
+11307,"Salary Component ","",Untranslated
+11312,"Salary Component Account","",Untranslated
+11318,"Salary Component Type","",Untranslated
+11322,"Salary Component for timesheet based payroll.","",Untranslated
+11327,"Salary Component {0} is currently not used in any Salary Structure.","",Untranslated
+11332,"Salary Currency","สกุลเงินเงินเดือน",Translated
+11338,"Salary Detail","",Untranslated
+11344,"Salary Details","",Untranslated
+11348,"Salary Expectation","",Untranslated
+11353,"Salary Information","",Untranslated
+11360,"Salary Paid Per","",Untranslated
+11367,"Salary Payments Based On Payment Mode","",Untranslated
+11372,"Salary Payments via ECS","",Untranslated
+11376,"Salary Payout","",Untranslated
+11384,"Salary Range","",Untranslated
+11399,"Salary Register","",Untranslated
+11411,"Salary Slip","",Untranslated
+11415,"Salary Slip Based on Timesheet","",Untranslated
+11420,"Salary Slip ID","",Untranslated
+11425,"Salary Slip Leave","",Untranslated
+11432,"Salary Slip Loan","",Untranslated
+11436,"Salary Slip Timesheet","",Untranslated
+11440,"Salary Slip already exists for {0} for the given dates","",Untranslated
+11444,"Salary Slip creation is queued. It may take a few minutes","",Untranslated
+11448,"Salary Slip of employee {0} already created for this period","",Untranslated
+11452,"Salary Slip of employee {0} already created for time sheet {1}","",Untranslated
+11456,"Salary Slip submission is queued. It may take a few minutes","",Untranslated
+11460,"Salary Slip {0} failed for Payroll Entry {1}","",Untranslated
+11464,"Salary Slip {0} failed. You can resolve the {1} and retry {0}.","",Untranslated
+11469,"Salary Slips","",Untranslated
+11474,"Salary Slips Created","",Untranslated
+11478,"Salary Slips Submitted","",Untranslated
+11482,""Salary Slips already exist for employees {}, and will not be processed by this payroll."","",Untranslated
+11498,"Salary Slips submitted for period from {0} to {1}","",Untranslated
+11506,"Salary Structure","",Untranslated
+11510,"Salary Structure Assignment","",Untranslated
+11514,"Salary Structure Assignment field","",Untranslated
+11518,"Salary Structure Assignment for Employee already exists","",Untranslated
+11522,"Salary Structure Missing","",Untranslated
+11526,"Salary Structure must be submitted before submission of {0}","",Untranslated
+11530,"Salary Structure not found for employee {0} and date {1}","",Untranslated
+11534,"Salary Structure should have flexible benefit component(s) to dispense benefit amount","",Untranslated
+11538,"Salary Structure {0} does not belong to company {1}","",Untranslated
+11547,"Salary Structures updated successfully","",Untranslated
+11554,"Salary Withholding","",Untranslated
+11558,"Salary Withholding Cycle","",Untranslated
+11562,"Salary Withholding {0} already exists for employee {1} for the selected period","",Untranslated
+11568,""Salary already processed for period between {0} and {1}, Leave application period cannot be between this date range."","",Untranslated
+11574,"Salary breakup based on Earning and Deduction.","",Untranslated
+11578,"Salary components should be part of the Salary Structure.","",Untranslated
+11582,"Salary slip emails have been enqueued for sending. Check {0} for status.","",Untranslated
+11586,"Sales Invoice","ใบแจ้งหนี้ขาย",Translated
+11591,"Same Company is entered more than once","บริษัทเดียวกันถูกป้อนมากกว่าหนึ่งครั้ง",Translated
+11598,"Sanctioned","ได้รับอนุมัติ",Translated
+11602,"Sanctioned Amount","",Untranslated
+11607,"Sanctioned Amount cannot be greater than Claim Amount in Row {0}.","",Untranslated
+11616,"Saturday","วันเสาร์",Translated
+11621,"Scheduled","",Untranslated
+11626,"Scheduled On","",Untranslated
+11631,"Score (0-5)","",Untranslated
+11635,"Score Earned","",Untranslated
+11639,"Score must be less than or equal to 5","",Untranslated
+11643,"Scores","",Untranslated
+11648,"Search for Jobs","",Untranslated
+11664,"Select Company","",Untranslated
+11668,"Select Employees","",Untranslated
+11672,"Select Interview Round First","",Untranslated
+11677,"Select Interview first","",Untranslated
+11681,"Select Payment Account to make Bank Entry","",Untranslated
+11685,"Select Payroll Frequency.","",Untranslated
+11689,"Select Payroll Period","",Untranslated
+11693,"Select Property","",Untranslated
+11698,"Select Shift Requests","",Untranslated
+11704,"Select Terms and Conditions","",Untranslated
+11708,"Select Users","",Untranslated
+11712,"Select an employee to get the employee advance.","",Untranslated
+11716,"Select the Employee for which you want to allocate leaves.","",Untranslated
+11720,"Select the Employee.","",Untranslated
+11724,""Select the Leave Type like Sick leave, Privilege Leave, Casual Leave, etc."","",Untranslated
+11728,"Select the date after which this Leave Allocation will expire.","",Untranslated
+11732,"Select the date from which this Leave Allocation will be valid.","",Untranslated
+11736,"Select the end date for your Leave Application.","",Untranslated
+11742,"Select the start date for your Leave Application.","",Untranslated
+11746,"Select this if you want shift assignments to be automatically created indefinitely.","",Untranslated
+11750,""Select type of leave the employee wants to apply for, like Sick Leave, Privilege Leave, Casual Leave, etc."","",Untranslated
+11755,"Select your Leave Approver i.e. the person who approves or rejects your leaves.","",Untranslated
+11761,"Select {0}","เลือก {0}",Translated
+11765,"Self Appraisal","",Untranslated
+11769,"Self Appraisal Pending: {0}","",Untranslated
+11774,"Self Appraisal Score","",Untranslated
+11779,"Self Score","",Untranslated
+11783,"Self-Study","",Untranslated
+11788,"Self-approval for leaves is not allowed","",Untranslated
+11794,"Seminar","",Untranslated
+11798,"Send Emails At","",Untranslated
+11802,"Send Exit Questionnaire","",Untranslated
+11808,"Send Exit Questionnaires","",Untranslated
+11813,"Send Interview Feedback Reminder","",Untranslated
+11818,"Send Interview Reminder","",Untranslated
+11826,"Send Leave Notification","",Untranslated
+11834,"Sender","ผู้ส่ง",Translated
+11838,"Sender Email","อีเมลผู้ส่ง",Translated
+11843,"Sending Failed due to missing email information for employee(s): {1}","",Untranslated
+11847,"Sent","ส่งแล้ว",Translated
+11852,"Sent Successfully: {0}","",Untranslated
+11858,"Sep","",Untranslated
+11864,"Separation Activities","",Untranslated
+11883,"Separation Begins On","",Untranslated
+11888,"Series","",Untranslated
+11893,"Service","บริการ",Translated
+11897,"Service Details","",Untranslated
+11901,"Service Expense","",Untranslated
+11908,"Service Expenses","",Untranslated
+11914,"Service Item","",Untranslated
+11920,""Set \""From(Year)\"" and \""To(Year)\"" to 0 for no upper and lower limit."","",Untranslated
+11926,"Set Assignment Details","",Untranslated
+11930,"Set Leave Details","",Untranslated
+11936,"Set Relieving Date for Employee: {0}","",Untranslated
+11942,"Set filters to fetch employees","",Untranslated
+11948,"Set opening balances for earnings and taxes from the previous employer","",Untranslated
+11952,"Set optional filters to fetch employees in the appraisee list","",Untranslated
+11957,"Set the default account for the {0} {1}","",Untranslated
+11963,"Set the frequency for holiday reminders","",Untranslated
+11967,"Set the properties that should be updated in the Employee master on promotion submission","",Untranslated
+11971,"Set the status to {0} if required.","",Untranslated
+11981,"Set {0} for selected employees","",Untranslated
+11985,"Settings","การตั้งค่า",Translated
+11989,"Settings Missing","",Untranslated
+11993,"Settle against Advances","",Untranslated
+11999,"Settle all Payables and Receivables before submission","",Untranslated
+12006,"Settled","ตกลงแล้ว",Translated
+12010,"Setup","การตั้งค่า",Translated
+12028,"Shared document with the user {0} with 'Submit' permission","",Untranslated
+12033,"Shift","กะ",Translated
+12038,"Shift & Attendance","",Untranslated
+12042,"Shift Actual End","",Untranslated
+12048,"Shift Actual End Time","",Untranslated
+12052,"Shift Actual Start","",Untranslated
+12059,"Shift Actual Start Time","",Untranslated
+12065,"Shift Assignment","",Untranslated
+12069,"Shift Assignment Details","",Untranslated
+12077,"Shift Assignment History","",Untranslated
+12081,"Shift Assignment Tool","",Untranslated
+12088,"Shift Assignment: {0} created for Employee: {1}","",Untranslated
+12097,"Shift Attendance","",Untranslated
+12102,"Shift Details","",Untranslated
+12106,"Shift End","",Untranslated
+12120,"Shift End Time","",Untranslated
+12131,"Shift Location","",Untranslated
+12135,"Shift Request","",Untranslated
+12141,"Shift Request Approver","",Untranslated
+12147,"Shift Request Filters","",Untranslated
+12152,"Shift Requests ending before this date will be excluded.","",Untranslated
+12164,"Shift Requests starting after this date will be excluded.","",Untranslated
+12174,"Shift Schedule","",Untranslated
+12180,"Shift Schedule Assignment","",Untranslated
+12185,"Shift Settings","",Untranslated
+12189,"Shift Start","",Untranslated
+12195,"Shift Start Time","",Untranslated
+12201,"Shift Status","",Untranslated
+12206,"Shift Timings","",Untranslated
+12227,"Shift Tools","",Untranslated
+12231,"Shift Type","",Untranslated
+12236,"Shift has been successfully updated to {0}.","",Untranslated
+12240,"Shifts","",Untranslated
+12246,"Show Employee","",Untranslated
+12252,"Show Leave Balances in Salary Slip","",Untranslated
+12256,"Show Leaves Of All Department Members In Calendar","",Untranslated
+12260,"Show Salary Slip","",Untranslated
+12264,"Showing","",Untranslated
+12268,"Sick Leave","",Untranslated
+12281,"Single Assignment","",Untranslated
+12290,"Skill","",Untranslated
+12295,"Skill Assessment","",Untranslated
+12301,"Skill Name","",Untranslated
+12307,"Skills","",Untranslated
+12311,"Skip Auto Attendance","",Untranslated
+12318,""Skipping Salary Structure Assignment for the following employees, as Salary Structure Assignment records already exists against them. {0}"","",Untranslated
+12325,"Source","",Untranslated
+12331,"Source Name","ชื่อต้นทาง",Translated
+12335,"Source and Rating","",Untranslated
+12341,"Source and target shifts cannot be the same","",Untranslated
+12346,"Sponsored Amount","",Untranslated
+12356,"Staffing Details","",Untranslated
+12361,"Staffing Plan","",Untranslated
+12365,"Staffing Plan Detail","",Untranslated
+12374,"Staffing Plan {0} already exist for designation {1}","",Untranslated
+12381,"Standard Tax Exemption Amount","",Untranslated
+12387,"Standard Working Hours","",Untranslated
+12412,"Start","",Untranslated
+12421,"Start Date","",Untranslated
+12425,"Start Time","",Untranslated
+12429,""Start and end dates not in a valid Payroll Period, cannot calculate {0}"","",Untranslated
+12433,""Start and end dates not in a valid Payroll Period, cannot calculate {0}."","",Untranslated
+12437,"Start date: {0}","",Untranslated
+12445,"Start time and end time cannot be same.","",Untranslated
+12522,"Statistical Component","",Untranslated
+12530,"Status","สถานะ",Translated
+12534,"Status for Other Half","",Untranslated
+12540,"Stock Options","",Untranslated
+12546,"Stop users from making Leave Applications on following days.","",Untranslated
+12550,"Strictly based on Log Type in Employee Checkin","",Untranslated
+12557,"Structures have been assigned successfully","",Untranslated
+12563,"Subject","หัวข้อ",Translated
+12567,"Submission Date","",Untranslated
+12571,"Submission Failed","",Untranslated
+12577,"Submission of {0} before {1} is not allowed","",Untranslated
+12583,"Submit","ส่ง",Translated
+12587,"Submit Feedback","",Untranslated
+12591,"Submit Now","",Untranslated
+12595,"Submit Proof","",Untranslated
+12599,"Submit Salary Slip","",Untranslated
+12603,"Submit this Leave Application to confirm.","",Untranslated
+12616,"Submit this to create the Employee record","",Untranslated
+12620,"Submitted","ส่งแล้ว",Translated
+12624,"Submitting Salary Slips and creating Journal Entry...","",Untranslated
+12628,"Submitting Salary Slips...","",Untranslated
+12641,"Subsidiary companies have already planned for {1} vacancies at a budget of {2}. Staffing Plan for {0} should allocate more vacancies and budget for {3} than planned for its subsidiary companies","",Untranslated
+12645,"Success","สำเร็จ",Translated
+12649,"Successfully created {0} for employees:","",Untranslated
+12655,"Successfully {0} {1} for the following employees:","",Untranslated
+12659,"Sum of all previous slabs","",Untranslated
+12664,"Summarized View","",Untranslated
+12673,"Sunday","",Untranslated
+12679,"Supplier","",Untranslated
+12683,"Suspended","ถูกระงับ",Translated
+12687,"Sync {0}","",Untranslated
+12691,"Syntax error","",Untranslated
+12748,"Syntax error in condition: {0} in Income Tax Slab","",Untranslated
+12754,"System Manager","ผู้จัดการระบบ",Translated
+12763,"Take Exact Completed Years","",Untranslated
+12769,"Task","",Untranslated
+12774,"Task Weight","",Untranslated
+12781,"Tax & Benefits","",Untranslated
+12787,"Tax Deducted Till Date","",Untranslated
+12796,"Tax Exemption Category","",Untranslated
+12802,"Tax Exemption Declaration","",Untranslated
+12807,"Tax Exemption Proofs","",Untranslated
+12813,"Tax Setup","",Untranslated
+12819,"Tax on additional salary","",Untranslated
+12826,"Tax on flexible benefit","",Untranslated
+12831,"Taxable Earnings Till Date","",Untranslated
+12836,"Taxable Income Relief Threshold Limit","",Untranslated
+12843,"Taxable Salary Slab","",Untranslated
+12850,"Taxable Salary Slabs","",Untranslated
+12856,"Taxes & Charges","",Untranslated
+12861,"Taxes and Charges on Income Tax","",Untranslated
+12865,"Taxi","",Untranslated
+12869,"Team Advances","",Untranslated
+12873,"Team Claims","",Untranslated
+12877,"Team Leaves","",Untranslated
+12881,"Team Requests","",Untranslated
+12887,"Team Updates","",Untranslated
+12894,"Template Name","",Untranslated
+12899,"Terms","เงื่อนไข",Translated
+12903,"Terms and Conditions","ข้อกำหนดและเงื่อนไข",Translated
+12907,"Thank you","ขอบคุณ",Translated
+12913,"The currency of {0} should be same as the company's default currency. Please select another account.","",Untranslated
+12918,"The date on which Salary Component with Amount will contribute for Earnings/Deduction in Salary Slip. ","",Untranslated
+12922,"The day of the month when leaves should be allocated","",Untranslated
+12926,"The day(s) on which you are applying for leave are holidays. You need not apply for leave.","",Untranslated
+12930,"The days between {0} to {1} are not valid holidays.","",Untranslated
+12934,"The first Approver in the list will be set as the default Approver.","",Untranslated
+12940,"The fraction of Daily Salary per Leave should be between 0 and 1","",Untranslated
+12944,"The fraction of daily wages to be paid for half-day attendance","",Untranslated
+12948,"The metrics for this report are calculated based on the {0}. Please set {0} in {1}.","",Untranslated
+12954,"The metrics for this report are calculated based on {0}. Please set {0} in {1}.","",Untranslated
+12960,""The salary slip emailed to the employee will be password protected, the password will be generated based on the password policy."","",Untranslated
+12966,"The time after the shift start time when check-in is considered as late (in minutes).","",Untranslated
+12972,"The time before the shift end time when check-out is considered as early (in minutes).","",Untranslated
+12977,"The time before the shift start time during which Employee Check-in is considered for attendance.","",Untranslated
+12981,"Theory","",Untranslated
+12985,"There are more holidays than working days this month.","",Untranslated
+12991,"There are no vacancies under staffing plan {0}","",Untranslated
+12995,"There is no Salary Structure assigned to {0}. First assign a Salary Stucture.","",Untranslated
+13000,"There's no Employee with Salary Structure: {0}. Assign {1} to an Employee to preview Salary Slip","",Untranslated
+13004,""These leaves are holidays permitted by the company however, availing it is optional for an Employee."","",Untranslated
+13008,"This action will prevent making changes to the linked appraisal feedback/goals.","",Untranslated
+13012,""This check-in is outside assigned shift hours and will not be considered for attendance. If a shift is assigned, adjust its time window and Fetch Shift again."","",Untranslated
+13016,"This compensatory leave will be applicable from {0}.","",Untranslated
+13020,"This employee already has a log with the same timestamp.{0}","",Untranslated
+13024,"This error can be due to invalid formula or condition.","",Untranslated
+13028,"This error can be due to invalid syntax.","",Untranslated
+13032,"This error can be due to missing or deleted field.","",Untranslated
+13036,"This field allows you to set the maximum number of consecutive leaves an Employee can apply for.","",Untranslated
+13040,"This field allows you to set the maximum number of leaves that can be allocated annually for this Leave Type while creating the Leave Policy","",Untranslated
+13044,"This is based on the attendance of this Employee","",Untranslated
+13048,"This method is only meant for developer mode","",Untranslated
+13052,"This will overwrite the tax component {0} in the salary slip and tax won't be calculated based on the Income Tax Slabs","",Untranslated
+13057,"This will submit Salary Slips and create accrual Journal Entry. Do you want to proceed?","",Untranslated
+13064,"Thursday","",Untranslated
+13068,"Time","",Untranslated
+13073,"Time Interval","",Untranslated
+13079,"Time Sheet","",Untranslated
+13085,"Time after the end of shift during which check-out is considered for attendance.","",Untranslated
+13090,"Time taken to fill the open positions","",Untranslated
+13096,"Time to Fill","",Untranslated
+13102,"Timelines","",Untranslated
+13108,"Timesheet","",Untranslated
+13112,"Timesheet Details","",Untranslated
+13127,"Timing","",Untranslated
+13131,"Title","",Untranslated
+13136,"To","",Untranslated
+13178,"To Amount","",Untranslated
+13184,"To Date","",Untranslated
+13188,"To Date cannot be before From Date","",Untranslated
+13193,"To Date should be greater than From Date","",Untranslated
+13198,"To Time","ถึงเวลา",Translated
+13202,"To User","",Untranslated
+13206,""To allow this, enable {0} under {1}."","",Untranslated
+13210,"To apply for a Half Day check 'Half Day' and select the Half Day Date","",Untranslated
+13214,"To date can not be equal or less than from date","",Untranslated
+13218,"To date can not be greater than employee's relieving date.","",Untranslated
+13222,"To date can not be less than from date","",Untranslated
+13227,"To date can not greater than employee's relieving date","",Untranslated
+13231,"To date cannot be before from date","",Untranslated
+13236,""To overwrite the salary component amount for a tax component, please enable {0}"","",Untranslated
+13240,"To(Year)","",Untranslated
+13244,"To(Year) year can not be less than From(year)","",Untranslated
+13248,"Today is {0}'s birthday 🎉","",Untranslated
+13252,"Today {0} at our Company! 🎉","",Untranslated
+13260,"Today {0} completed {1} year(s) at our Company! 🎉","",Untranslated
+13264,"Total","รวม",Translated
+13270,"Total Absent","",Untranslated
+13276,"Total Actual Amount","",Untranslated
+13282,"Total Advance Amount","",Untranslated
+13286,"Total Allocated Leave(s)","",Untranslated
+13297,"Total Allocated Leaves","",Untranslated
+13303,"Total Amount","จำนวนเงินรวม",Translated
+13307,"Total Amount Reimbursed","",Untranslated
+13313,"Total Amount cannot be zero","",Untranslated
+13318,"Total Asset Recovery Cost","",Untranslated
+13324,"Total Billed Hours","รวมชั่วโมงที่เรียกเก็บ",Translated
+13330,"Total Claimed Amount","",Untranslated
+13339,"Total Declared Amount","",Untranslated
+13344,"Total Deduction","",Untranslated
+13348,"Total Deduction (Company Currency)","",Untranslated
+13353,"Total Early Exits","",Untranslated
+13358,"Total Earning","",Untranslated
+13364,"Total Earnings","",Untranslated
+13370,"Total Estimated Budget","",Untranslated
+13379,"Total Estimated Cost","",Untranslated
+13383,"Total Exemption Amount","",Untranslated
+13387,"Total Expense Amount","",Untranslated
+13391,"Total Expense Claim (via Expense Claim)","",Untranslated
+13397,"Total Expense Claim (via Expense Claims)","",Untranslated
+13401,"Total Goal Score","",Untranslated
+13405,"Total Gross Pay","",Untranslated
+13409,"Total Holidays","รวมวันหยุด",Translated
+13414,"Total Hours (T)","",Untranslated
+13418,"Total Income Tax","",Untranslated
+13422,"Total Interest Amount","",Untranslated
+13427,"Total Late Entries","",Untranslated
+13431,"Total Leave Days","",Untranslated
+13435,"Total Leaves","",Untranslated
+13441,"Total Leaves ({0})","",Untranslated
+13447,"Total Leaves Allocated","",Untranslated
+13451,"Total Leaves Encashed","",Untranslated
+13455,"Total Loan Repayment","",Untranslated
+13459,"Total Net Pay","",Untranslated
+13465,"Total Non-Billed Hours","",Untranslated
+13470,"Total Payable Amount","",Untranslated
+13474,"Total Payment","",Untranslated
+13478,"Total Present","",Untranslated
+13484,"Total Principal Amount","",Untranslated
+13488,"Total Receivable Amount","",Untranslated
+13494,"Total Resignations","",Untranslated
+13500,"Total Sanctioned Amount","",Untranslated
+13505,"Total Score","",Untranslated
+13511,"Total Self Score","",Untranslated
+13517,"Total Taxes and Charges","รวมภาษีและค่าธรรมเนียม",Translated
+13521,"Total Working Hours","รวมชั่วโมงทำงาน",Translated
+13525,"Total advance amount cannot be greater than total sanctioned amount","",Untranslated
+13529,"Total allocated leaves are more than maximum allocation allowed for {0} leave type for employee {1} in the period","",Untranslated
+13533,"Total allocated leaves {0} cannot be less than already approved leaves {1} for the period","",Untranslated
+13538,"Total flexible benefit component amount {0} should not be less than max benefits {1}","",Untranslated
+13543,"Total in words","",Untranslated
+13547,"Total in words (Company Currency)","",Untranslated
+13551,"Total leaves allocated cannot exceed annual allocation of {0}.","",Untranslated
+13555,"Total leaves allocated is mandatory for Leave Type {0}","",Untranslated
+13561,"Total percentage against cost centers should be 100","เปอร์เซ็นต์รวมต่อศูนย์ต้นทุนควรเป็น 100",Translated
+13566,"Total salary booked against this component for this employee from the beginning of the year (payroll period or fiscal year) up to the current salary slip's end date.","",Untranslated
+13571,"Total salary booked for this employee from the beginning of the month up to the current salary slip's end date.","",Untranslated
+13575,"Total salary booked for this employee from the beginning of the year (payroll period or fiscal year) up to the current salary slip's end date.","",Untranslated
+13581,""Total weightage for all {0} must add up to 100. Currently, it is {1}%"","",Untranslated
+13585,"Total working Days Per Year","",Untranslated
+13599,"Total working hours should not be greater than max working hours {0}","",Untranslated
+13604,"Totals","รวมทั้งหมด",Translated
+13611,"Train","",Untranslated
+13620,"Trainer Email","",Untranslated
+13628,"Trainer Name","",Untranslated
+13633,"Training","",Untranslated
+13647,"Training Date","",Untranslated
+13652,"Training Event","",Untranslated
+13656,"Training Event Employee","",Untranslated
+13660,"Training Event:","",Untranslated
+13668,"Training Events","",Untranslated
+13678,"Training Feedback","",Untranslated
+13686,"Training Program","",Untranslated
+13691,"Training Result","",Untranslated
+13698,"Training Result Employee","",Untranslated
+13704,"Trainings","",Untranslated
+13712,"Transaction Date","วันที่ธุรกรรม",Translated
+13719,"Transaction Name","",Untranslated
+13723,"Transaction Type","ประเภทธุรกรรม",Translated
+13727,"Transactions","ธุรกรรม",Translated
+13732,"Transactions cannot be created for an Inactive Employee {0}.","",Untranslated
+13737,"Transfer Date","",Untranslated
+13743,"Travel","",Untranslated
+13748,"Travel Advance Required","",Untranslated
+13753,"Travel From","",Untranslated
+13761,"Travel Funding","",Untranslated
+13770,"Travel Itinerary","",Untranslated
+13775,"Travel Request","",Untranslated
+13780,"Travel Request Costing","",Untranslated
+13785,"Travel To","",Untranslated
+13790,"Travel Type","",Untranslated
+13800,"Tuesday","",Untranslated
+13806,"Type","",Untranslated
+13810,"Type of Proof","",Untranslated
+13814,"Unable to find Salary Component {0}","",Untranslated
+13818,"Unable to retrieve your location","",Untranslated
+13825,"Unarchive","",Untranslated
+13830,"Unclaimed Amount","",Untranslated
+13836,"Under Review","",Untranslated
+13840,"Unlink Payment","",Untranslated
+13844,"Unlinked Attendance record from Employee Checkins: {}","",Untranslated
+13848,"Unlinked logs","",Untranslated
+13852,"Unmarked Attendance for days","",Untranslated
+13857,"Unmarked Check-in Logs Found","",Untranslated
+13863,"Unmarked Days","",Untranslated
+13869,"Unmarked Employee Header","",Untranslated
+13874,"Unmarked Employees HTML","",Untranslated
+13891,"Unmarked days","",Untranslated
+13898,"Unpaid","ยังไม่ได้ชำระ",Translated
+13904,"Unpaid Expense Claim","",Untranslated
+13908,"Unsettled","",Untranslated
+13912,"Unsettled Transactions","",Untranslated
+13916,"Unsubmitted Appraisals","",Untranslated
+13920,"Untracked Hours","",Untranslated
+13925,"Untracked Hours (U)","",Untranslated
+13929,"Unused leaves","",Untranslated
+13933,"Upcoming Holidays","",Untranslated
+13937,"Upcoming Holidays Reminder","",Untranslated
+13944,"Upcoming Shifts","",Untranslated
+13948,"Update","อัปเดต",Translated
+13952,"Update Expense","",Untranslated
+13956,"Update Job Applicant","",Untranslated
+13960,"Update Progress","",Untranslated
+13964,"Update Response","",Untranslated
+13968,"Update Salary Structures","",Untranslated
+13972,"Update Status","",Untranslated
+13976,"Update Tax","",Untranslated
+13980,"Updated status from {0} to {1} for date {2} in the attendance record {3}","",Untranslated
+13984,"Updated the Job Applicant status to {0}","",Untranslated
+13988,"Updated the status of Job Offer {0} for the linked Job Applicant {1} to {2}","",Untranslated
+13995,"Updated the status of linked Job Applicant {0} to {1}","",Untranslated
+14000,"Upload Attendance","",Untranslated
+14004,"Upload HTML","",Untranslated
+14009,"Upload images or documents","",Untranslated
+14016,"Uploading...","",Untranslated
+14021,"Upper Range","",Untranslated
+14025,"Used Leave(s)","",Untranslated
+14038,"Used Leaves","",Untranslated
+14043,"User","ผู้ใช้",Translated
+14047,"Users","ผู้ใช้",Translated
+14054,"Utilization","การใช้งาน",Translated
+14058,"Vacancies","",Untranslated
+14062,"Vacancies cannot be lower than the current openings","",Untranslated
+14067,"Vacancies fulfilled","",Untranslated
+14071,"Validate Attendance","",Untranslated
+14076,"Validating Employee Attendance...","",Untranslated
+14080,"Value / Description","",Untranslated
+14087,"Value missing","",Untranslated
+14097,"Variable","",Untranslated
+14103,"Variable Based On Taxable Salary","",Untranslated
+14110,"Vegetarian","",Untranslated
+14118,"Vehicle","ยานพาหนะ",Translated
+14128,"Vehicle Expenses","",Untranslated
+14133,"Vehicle Log","",Untranslated
+14140,"Vehicle Service","",Untranslated
+14144,"Vehicle Service Item","",Untranslated
+14156,"Verify","ตรวจสอบ",Translated
+14160,"View","ดู",Translated
+14165,"View All","ดูทั้งหมด",Translated
+14169,"View Goals","",Untranslated
+14173,"View Leave History","",Untranslated
+14178,"View Ledger","ดูบัญชีแยกประเภท",Translated
+14182,"View List","ดูรายการ",Translated
+14187,"View Salary Slips","",Untranslated
+14191,"Violet","",Untranslated
+14195,"WARNING: Loan Management module has been separated from ERPNext.","",Untranslated
+14204,"Walk In","",Untranslated
+14208,"Warning","คำเตือน",Translated
+14212,"Warning: Insufficient leave balance for Leave Type {0} in this allocation.","",Untranslated
+14216,"Warning: Insufficient leave balance for Leave Type {0}.","",Untranslated
+14220,"Warning: Leave application contains following block dates","",Untranslated
+14224,"Warning: {0} already has an active Shift Assignment {1} for some/all of these dates.","",Untranslated
+14229,"Website Listing","",Untranslated
+14245,"Wednesday","วันพุธ",Translated
+14258,"Weekly","รายสัปดาห์",Translated
+14264,"Weightage (%)","",Untranslated
+14268,""When set to 'Inactive', employees with conflicting active shifts will not be excluded."","",Untranslated
+14274,"Whereas allocation for Compensatory Leaves is automatically created or updated on submission of Compensatory Leave Request.","",Untranslated
+14281,"Why is this Candidate Qualified for this Position?","",Untranslated
+14287,"Withheld","",Untranslated
+14292,"Work Anniversaries ","",Untranslated
+14298,"Work Anniversary Reminder","",Untranslated
+14304,"Work End Date","",Untranslated
+14310,"Work Experience Calculation Method","",Untranslated
+14320,"Work From Date","",Untranslated
+14326,"Work From Home","",Untranslated
+14330,"Work References","",Untranslated
+14336,"Work Summary for {0}","",Untranslated
+14341,"Worked On Holiday","",Untranslated
+14347,"Working Days","",Untranslated
+14355,"Working Days and Hours","",Untranslated
+14361,"Working Hours","ชั่วโมงทำงาน",Translated
+14367,"Working Hours Calculation Based On","",Untranslated
+14373,"Working Hours Threshold for Absent","",Untranslated
+14379,"Working Hours Threshold for Half Day","",Untranslated
+14385,"Working hours below which Absent is marked. (Zero to disable)","",Untranslated
+14390,"Working hours below which Half Day is marked. (Zero to disable)","",Untranslated
+14397,"Workshop","",Untranslated
+14405,"Year","ปี",Translated
+14410,"Year To Date","",Untranslated
+14418,"Year To Date(Company Currency)","",Untranslated
+14423,"Yearly","รายปี",Translated
+14431,"Yellow","สีเหลือง",Translated
+14435,"Yes","ใช่",Translated
+14439,""Yes, Proceed"","",Untranslated
+14443,"You are not authorized to approve leaves on Block Dates","",Untranslated
+14447,"You are not present all day(s) between compensatory leave request days","",Untranslated
+14451,""You can claim only an amount of {0}, the rest amount {1} should be in the application as pro-rata component"","",Untranslated
+14455,"You can not define multiple slabs if you have a slab with no lower and upper limits.","",Untranslated
+14459,"You can not request for your Default Shift: {0}","",Untranslated
+14463,"You can only plan for upto {0} vacancies and budget {1} for {2} as per staffing plan {3} for parent company {4}.","",Untranslated
+14467,"You can only submit Leave Encashment for a valid encashment amount","",Untranslated
+14471,""You can only upload JPG, PNG, PDF, TXT or Microsoft documents."","",Untranslated
+14475,"You do not have permission to complete this action","",Untranslated
+14479,"You have no advances","",Untranslated
+14483,"You have no leaves allocated","",Untranslated
+14487,"You have no notifications","",Untranslated
+14491,"You have no requests","",Untranslated
+14495,"You have no upcoming holidays","",Untranslated
+14499,"You have no upcoming shifts","",Untranslated
+14503,""You may add additional details, if any, and submit the offer."","",Untranslated
+14507,"You must be within {0} meters of your shift location to check in.","",Untranslated
+14511,"You were only present for Half Day on {}. Cannot apply for a full day compensatory leave","",Untranslated
+14515,"Your Interview session is rescheduled from {0} {1} - {2} to {3} {4} - {5}","",Untranslated
+14519,"Your password has expired. Please reset your password to continue","",Untranslated
+14523,"active","",Untranslated
+14527,"based on","",Untranslated
+14531,"cancellation","",Untranslated
+14535,"cancelled","",Untranslated
+14539,"changed the status from {0} to {1} via Attendance Request","",Untranslated
+14543,"create/submit","",Untranslated
+14549,"created","",Untranslated
+14553,"email","อีเมล",Translated
+14558,"johndoe@mail.com","",Untranslated
+14562,"modify_half_day_status","",Untranslated
+14566,"or for the Employee's Department: {0}","",Untranslated
+14570,"process","",Untranslated
+14574,"processed","",Untranslated
+14578,"result","",Untranslated
+14582,"results","",Untranslated
+14586,"review","",Untranslated
+14590,"reviews","",Untranslated
+14594,"submitted","",Untranslated
+14600,"via Salary Component sync","",Untranslated
+14604,"{0} & {1}","",Untranslated
+14608,"{0} & {1} more","",Untranslated
+14612,"{0} <br> This error can be due to missing or deleted field.","",Untranslated
+14616,"{0} Appraisal(s) are not submitted yet","",Untranslated
+14620,"{0} Field","",Untranslated
+14624,"{0} Missing","",Untranslated
+14628,"{0} Row #{1}: Formula is set but {2} is disabled for the Salary Component {3}.","",Untranslated
+14632,"{0} Row #{1}: {2} needs to be enabled for the formula to be considered.","",Untranslated
+14636,"{0} Unread","",Untranslated
+14640,"{0} already allocated for Employee {1} for period {2} to {3}","",Untranslated
+14644,"{0} already exists for employee {1} and period {2}","",Untranslated
+14648,"{0} already has an active Shift Assignment {1} for some/all of these dates.","",Untranslated
+14653,"{0} applicable after {1} working days","",Untranslated
+14657,"{0} balance","",Untranslated
+14661,"{0} completed {1} year(s)","",Untranslated
+14665,"{0} created successfully!","",Untranslated
+14670,"{0} deleted successfully!","",Untranslated
+14674,"{0} failed!","",Untranslated
+14678,"{0} has {1} enabled","",Untranslated
+14682,"{0} is mandatory","{0} เป็นสิ่งจำเป็น",Translated
+14686,"{0} is not a holiday.","",Untranslated
+14690,"{0} is not allowed to submit Interview Feedback for the Interview: {1}","",Untranslated
+14694,"{0} is not in Optional Holiday List","",Untranslated
+14698,"{0} is not in a valid Payroll Period","",Untranslated
+14702,"{0} is required","{0} เป็นสิ่งจำเป็น",Translated
+14706,"{0} leaves allocated successfully","",Untranslated
+14710,"{0} leaves from allocation for {1} leave type have expired and will be processed during the next scheduled job. It is recommended to expire them now before creating new leave policy assignments.","",Untranslated
+14715,"{0} leaves were manually allocated by {1} on {2}","",Untranslated
+14719,"{0} must be submitted","",Untranslated
+14723,"{0} of {1} Completed","",Untranslated
+14727,"{0} successful!","",Untranslated
+14731,"{0} successfully!","",Untranslated
+14735,"{0} to {1} employee(s)?","",Untranslated
+14739,"{0} updated successfully!","",Untranslated
+14743,"{0} vacancies and {1} budget for {2} already planned for subsidiary companies of {3}. You can only plan for upto {4} vacancies and and budget {5} as per staffing plan {6} for parent company {3}.","",Untranslated
+14747,"{0} will be updated for the following Salary Structures: {1}.","",Untranslated
+14751,"{0} {1} {2}?","",Untranslated
+14755,""{0}: Employee email not found, hence email not sent"","",Untranslated
+14759,"{0}: From {0} of type {1}","",Untranslated
+14766,"{0}: {1}","",Untranslated
+14771,"{0}d","",Untranslated
+14776,"{} ","",Untranslated
+14781,"{} Accepted","",Untranslated
+14788,"{} Active","",Untranslated
+14799,"{} Draft","",Untranslated
+14810,"{} Open","",Untranslated
+14815,"{} Pending","",Untranslated
+14819,"{} Unclaimed","",Untranslated
+14823,"{} is an invalid Attendance Status.","",Untranslated
+14826,"{} {} open for this position.","",Untranslated
