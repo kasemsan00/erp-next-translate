@@ -1,0 +1,1699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="110" original="/[frappe.drive] develop/drive/locale/main.pot" source-language="en" target-language="th" datatype="plaintext" project-id="639578" tool-id="crowdin">
+    <header>
+      <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.1"/>
+    </header>
+    <body>
+      <trans-unit id="156794" resname="&lt;span class=&quot;h4&quot;&gt;Drive&lt;/span&gt;">
+        <source>&lt;span class=&quot;h4&quot;&gt;Drive&lt;/span&gt;</source>
+        <target state="needs-translation">&lt;span class=&quot;h4&quot;&gt;Drive&lt;/span&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Header text in the Drive Workspace
+#: drive/drive/workspace/drive/drive.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156796" resname="AWS Key">
+        <source>AWS Key</source>
+        <target state="needs-translation">AWS Key</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the aws_key (Data) field in DocType 'Drive S3 Settings'
+#: drive/drive/doctype/drive_s3_settings/drive_s3_settings.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156798" resname="AWS Secret">
+        <source>AWS Secret</source>
+        <target state="needs-translation">AWS Secret</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the aws_secret (Password) field in DocType 'Drive S3 Settings'
+#: drive/drive/doctype/drive_s3_settings/drive_s3_settings.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156800" resname="Accepted" approved="yes">
+        <source>Accepted</source>
+        <target state="final">ตอบรับแล้ว</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Option for the 'Status' (Select) field in DocType 'Drive User Invitation'
+#: drive/drive/doctype/drive_user_invitation/drive_user_invitation.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156802" resname="Accepted On">
+        <source>Accepted On</source>
+        <target state="needs-translation">Accepted On</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the accepted_on (Datetime) field in DocType 'Drive User Invitation'
+#: drive/drive/doctype/drive_user_invitation/drive_user_invitation.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156804" resname="Access Level">
+        <source>Access Level</source>
+        <target state="needs-translation">Access Level</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the access_level (Int) field in DocType 'Drive Team Member'
+#: drive/drive/doctype/drive_team_member/drive_team_member.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156806" resname="Account Request">
+        <source>Account Request</source>
+        <target state="needs-translation">Account Request</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Name of a DocType
+#: drive/drive/doctype/account_request/account_request.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156808" resname="Action Type">
+        <source>Action Type</source>
+        <target state="needs-translation">Action Type</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the action_type (Select) field in DocType 'Drive Entity Activity
+#. Log'
+#: drive/drive/doctype/drive_entity_activity_log/drive_entity_activity_log.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156810" resname="Activity" approved="yes">
+        <source>Activity</source>
+        <target state="final">กิจกรรม</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/InfoSidebar.vue:197
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156812" resname="Add Image">
+        <source>Add Image</source>
+        <target state="needs-translation">Add Image</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/Settings/ProfileSettings.vue:77
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156814" resname="Added">
+        <source>Added</source>
+        <target state="needs-translation">Added</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/InfoPopup.vue:55
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156816" resname="All" approved="yes">
+        <source>All</source>
+        <target state="final">ทั้งหมด</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Name of a role
+#: drive/drive/doctype/drive_document/drive_document.json
+#: drive/drive/doctype/drive_document_version/drive_document_version.json
+#: drive/drive/doctype/drive_entity_activity_log/drive_entity_activity_log.json
+#: drive/drive/doctype/drive_entity_log/drive_entity_log.json
+#: drive/drive/doctype/drive_favourite/drive_favourite.json
+#: drive/drive/doctype/drive_file/drive_file.json
+#: drive/drive/doctype/drive_notification/drive_notification.json
+#: drive/drive/doctype/drive_permission/drive_permission.json
+#: drive/drive/doctype/drive_settings/drive_settings.json
+#: drive/drive/doctype/drive_tag/drive_tag.json
+#: drive/drive/doctype/drive_team/drive_team.json
+#: drive/drive/doctype/drive_user_invitation/drive_user_invitation.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156818" resname="Auto Detect Links">
+        <source>Auto Detect Links</source>
+        <target state="needs-translation">Auto Detect Links</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the auto_detect_links (Check) field in DocType 'Drive Settings'
+#: drive/drive/doctype/drive_settings/drive_settings.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156820" resname="By">
+        <source>By</source>
+        <target state="needs-translation">By</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/DriveToolBar.vue:19
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156822" resname="Can contain whatever meta value needed for the access log. Ex: Used to store access level 1,2,3 etc on a DriveDocShare">
+        <source>Can contain whatever meta value needed for the access log. Ex: Used to store access level 1,2,3 etc on a DriveDocShare</source>
+        <target state="needs-translation">Can contain whatever meta value needed for the access log. Ex: Used to store access level 1,2,3 etc on a DriveDocShare</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Description of the 'Meta Value' (Data) field in DocType 'Drive Entity
+#. Activity Log'
+#: drive/drive/doctype/drive_entity_activity_log/drive_entity_activity_log.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156824" resname="Clear" approved="yes">
+        <source>Clear</source>
+        <target state="final">ล้างข้อมูล</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/Navbar.vue:302
+#: frontend/src/components/Navbar.vue:308
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156826" resname="Color" approved="yes">
+        <source>Color</source>
+        <target state="final">สี</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the color (Data) field in DocType 'Drive File'
+#. Label of the color (Data) field in DocType 'Drive Tag'
+#: drive/drive/doctype/drive_file/drive_file.json
+#: drive/drive/doctype/drive_tag/drive_tag.json
+#: frontend/src/components/TagColorInput.vue:8
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156828" resname="Comment" approved="yes">
+        <source>Comment</source>
+        <target state="final">ความคิดเห็น</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the comment (Check) field in DocType 'Drive Permission'
+#: drive/drive/doctype/drive_permission/drive_permission.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156830" resname="Comments" approved="yes">
+        <source>Comments</source>
+        <target state="final">ความคิดเห็น</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the comments (Table) field in DocType 'Drive Document'
+#. Label of the comments2 (JSON) field in DocType 'Drive Document'
+#. Label of the comments (Table) field in DocType 'Drive File'
+#: drive/drive/doctype/drive_document/drive_document.json
+#: drive/drive/doctype/drive_file/drive_file.json
+#: frontend/src/components/InfoSidebar.vue:131
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156832" resname="Confirm" approved="yes">
+        <source>Confirm</source>
+        <target state="final">ยืนยัน</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/Settings/NewTagDialog.vue:30
+#: frontend/src/components/Settings/ProfileSettings.vue:30
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156834" resname="Content" approved="yes">
+        <source>Content</source>
+        <target state="final">เนื้อหา</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the content (Text Editor) field in DocType 'Drive Comment'
+#. Label of the content (Long Text) field in DocType 'Drive Document'
+#: drive/drive/doctype/drive_comment/drive_comment.json
+#: drive/drive/doctype/drive_document/drive_document.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156836" resname="Copy Link" approved="yes">
+        <source>Copy Link</source>
+        <target state="final">คัดลอกลิงก์</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/GenericPage.vue:239
+#: frontend/src/components/Navbar.vue:203
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156838" resname="Core" approved="yes">
+        <source>Core</source>
+        <target state="final">แกนหลัก</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the core_section (Section Break) field in DocType 'Account Request'
+#: drive/drive/doctype/account_request/account_request.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156840" resname="Default Team">
+        <source>Default Team</source>
+        <target state="needs-translation">Default Team</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the default_team (Link) field in DocType 'Drive Settings'
+#: drive/drive/doctype/drive_settings/drive_settings.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156842" resname="Defaults to &quot;s3v4&quot;. Some providers only support &quot;s3&quot;.">
+        <source>Defaults to &quot;s3v4&quot;. Some providers only support &quot;s3&quot;.</source>
+        <target state="needs-translation">Defaults to &quot;s3v4&quot;. Some providers only support &quot;s3&quot;.</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Description of the 'Signature Version' (Data) field in DocType 'Drive S3
+#. Settings'
+#: drive/drive/doctype/drive_s3_settings/drive_s3_settings.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156844" resname="Delete" approved="yes">
+        <source>Delete</source>
+        <target state="final">ลบ</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/GenericPage.vue:311
+#: frontend/src/components/Navbar.vue:267
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156846" resname="DocType Name">
+        <source>DocType Name</source>
+        <target state="needs-translation">DocType Name</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the notif_doctype_name (Dynamic Link) field in DocType 'Drive
+#. Notification'
+#: drive/drive/doctype/drive_notification/drive_notification.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156848" resname="Document">
+        <source>Document</source>
+        <target state="needs-translation">Document</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the document (Link) field in DocType 'Drive File'
+#: drive/drive/doctype/drive_file/drive_file.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156850" resname="Document Field">
+        <source>Document Field</source>
+        <target state="needs-translation">Document Field</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the document_field (Data) field in DocType 'Drive Entity Activity
+#. Log'
+#: drive/drive/doctype/drive_entity_activity_log/drive_entity_activity_log.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156852" resname="Document Type" approved="yes">
+        <source>Document Type</source>
+        <target state="final">ประเภทเอกสาร</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the notif_doctype (Link) field in DocType 'Drive Notification'
+#: drive/drive/doctype/drive_notification/drive_notification.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156854" resname="Documentation" approved="yes">
+        <source>Documentation</source>
+        <target state="final">เอกสารประกอบ</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/PrimaryDropdown.vue:120
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156856" resname="Download" approved="yes">
+        <source>Download</source>
+        <target state="final">ดาวน์โหลด</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/GenericPage.vue:231
+#: frontend/src/components/Navbar.vue:197
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156858" resname="Drive">
+        <source>Drive</source>
+        <target state="needs-translation">Drive</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Name of a Workspace
+#: drive/config/desktop.py:11 drive/drive/workspace/drive/drive.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156860" resname="Drive Comment">
+        <source>Drive Comment</source>
+        <target state="needs-translation">Drive Comment</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Name of a DocType
+#: drive/drive/doctype/drive_comment/drive_comment.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156862" resname="Drive Document">
+        <source>Drive Document</source>
+        <target state="needs-translation">Drive Document</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Name of a DocType
+#: drive/drive/doctype/drive_document/drive_document.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156864" resname="Drive Document Version">
+        <source>Drive Document Version</source>
+        <target state="needs-translation">Drive Document Version</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Name of a DocType
+#: drive/drive/doctype/drive_document_version/drive_document_version.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156866" resname="Drive Entity Activity Log">
+        <source>Drive Entity Activity Log</source>
+        <target state="needs-translation">Drive Entity Activity Log</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Name of a DocType
+#: drive/drive/doctype/drive_entity_activity_log/drive_entity_activity_log.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156868" resname="Drive Entity Log">
+        <source>Drive Entity Log</source>
+        <target state="needs-translation">Drive Entity Log</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Name of a DocType
+#: drive/drive/doctype/drive_entity_log/drive_entity_log.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156870" resname="Drive Entity Tag">
+        <source>Drive Entity Tag</source>
+        <target state="needs-translation">Drive Entity Tag</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Name of a DocType
+#: drive/drive/doctype/drive_entity_tag/drive_entity_tag.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156872" resname="Drive Favourite">
+        <source>Drive Favourite</source>
+        <target state="needs-translation">Drive Favourite</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Name of a DocType
+#: drive/drive/doctype/drive_favourite/drive_favourite.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156874" resname="Drive File">
+        <source>Drive File</source>
+        <target state="needs-translation">Drive File</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the entity (Link) field in DocType 'Drive Favourite'
+#. Name of a DocType
+#: drive/drive/doctype/drive_favourite/drive_favourite.json
+#: drive/drive/doctype/drive_file/drive_file.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156876" resname="Drive Notification">
+        <source>Drive Notification</source>
+        <target state="needs-translation">Drive Notification</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Name of a DocType
+#: drive/drive/doctype/drive_notification/drive_notification.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156878" resname="Drive Permission">
+        <source>Drive Permission</source>
+        <target state="needs-translation">Drive Permission</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Name of a DocType
+#: drive/drive/doctype/drive_permission/drive_permission.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156880" resname="Drive S3 Settings">
+        <source>Drive S3 Settings</source>
+        <target state="needs-translation">Drive S3 Settings</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Name of a DocType
+#: drive/drive/doctype/drive_s3_settings/drive_s3_settings.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156882" resname="Drive Settings">
+        <source>Drive Settings</source>
+        <target state="needs-translation">Drive Settings</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Name of a DocType
+#: drive/drive/doctype/drive_settings/drive_settings.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156884" resname="Drive Site Settings">
+        <source>Drive Site Settings</source>
+        <target state="needs-translation">Drive Site Settings</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Name of a DocType
+#: drive/drive/doctype/drive_site_settings/drive_site_settings.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156886" resname="Drive Tag">
+        <source>Drive Tag</source>
+        <target state="needs-translation">Drive Tag</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Name of a DocType
+#: drive/drive/doctype/drive_tag/drive_tag.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156888" resname="Drive Team">
+        <source>Drive Team</source>
+        <target state="needs-translation">Drive Team</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Name of a DocType
+#: drive/drive/doctype/drive_team/drive_team.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156890" resname="Drive Team Member">
+        <source>Drive Team Member</source>
+        <target state="needs-translation">Drive Team Member</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Name of a DocType
+#: drive/drive/doctype/drive_team_member/drive_team_member.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156892" resname="Drive User Invitation">
+        <source>Drive User Invitation</source>
+        <target state="needs-translation">Drive User Invitation</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Name of a DocType
+#: drive/drive/doctype/drive_user_invitation/drive_user_invitation.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156894" resname="Edit Profile" approved="yes">
+        <source>Edit Profile</source>
+        <target state="final">แก้ไขโปรไฟล์</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/Settings/ProfileSettings.vue:26
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156896" resname="Edit profile">
+        <source>Edit profile</source>
+        <target state="needs-translation">Edit profile</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/Settings/ProfileSettings.vue:20
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156898" resname="Email" approved="yes">
+        <source>Email</source>
+        <target state="final">อีเมล</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the email (Data) field in DocType 'Account Request'
+#. Label of the email (Data) field in DocType 'Drive User Invitation'
+#: drive/drive/doctype/account_request/account_request.json
+#: drive/drive/doctype/drive_user_invitation/drive_user_invitation.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156900" resname="Empty" approved="yes">
+        <source>Empty</source>
+        <target state="final">ว่างเปล่า</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/Navbar.vue:314
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156902" resname="Enabled" approved="yes">
+        <source>Enabled</source>
+        <target state="final">เปิดใช้งานแล้ว</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the enabled (Check) field in DocType 'Drive S3 Settings'
+#: drive/drive/doctype/drive_s3_settings/drive_s3_settings.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156904" resname="Endpoint URL" approved="yes">
+        <source>Endpoint URL</source>
+        <target state="final">URL ปลายทาง</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the endpoint_url (Data) field in DocType 'Drive S3 Settings'
+#: drive/drive/doctype/drive_s3_settings/drive_s3_settings.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156906" resname="Entity" approved="yes">
+        <source>Entity</source>
+        <target state="final">เอนทิตี</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the entity (Link) field in DocType 'Drive Entity Activity Log'
+#. Label of the entity (Link) field in DocType 'Drive Permission'
+#: drive/drive/doctype/drive_entity_activity_log/drive_entity_activity_log.json
+#: drive/drive/doctype/drive_permission/drive_permission.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156908" resname="Entity Name" approved="yes">
+        <source>Entity Name</source>
+        <target state="final">ชื่อเอนทิตี</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the entity_name (Link) field in DocType 'Drive Entity Log'
+#: drive/drive/doctype/drive_entity_log/drive_entity_log.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156910" resname="Entity Type" approved="yes">
+        <source>Entity Type</source>
+        <target state="final">ประเภทเอนทิตี</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the entity_type (Data) field in DocType 'Drive Notification'
+#: drive/drive/doctype/drive_notification/drive_notification.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156912" resname="Example format: https://s3.ap-south-1.amazonaws.com">
+        <source>Example format: https://s3.ap-south-1.amazonaws.com</source>
+        <target state="needs-translation">Example format: https://s3.ap-south-1.amazonaws.com</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Description of the 'Endpoint URL' (Data) field in DocType 'Drive S3
+#. Settings'
+#: drive/drive/doctype/drive_s3_settings/drive_s3_settings.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156914" resname="Expired" approved="yes">
+        <source>Expired</source>
+        <target state="final">หมดอายุ</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Option for the 'Status' (Select) field in DocType 'Drive User Invitation'
+#: drive/drive/doctype/drive_user_invitation/drive_user_invitation.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156916" resname="Favourite">
+        <source>Favourite</source>
+        <target state="needs-translation">Favourite</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/GenericPage.vue:272
+#: frontend/src/components/Navbar.vue:238
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156918" resname="File Size">
+        <source>File Size</source>
+        <target state="needs-translation">File Size</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the file_size (Int) field in DocType 'Drive File'
+#: drive/drive/doctype/drive_file/drive_file.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156920" resname="First Name" approved="yes">
+        <source>First Name</source>
+        <target state="final">ชื่อแรก</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/Settings/ProfileSettings.vue:83
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156922" resname="From User" approved="yes">
+        <source>From User</source>
+        <target state="final">จากผู้ใช้</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the from_user (Link) field in DocType 'Drive Notification'
+#: drive/drive/doctype/drive_notification/drive_notification.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156924" resname="General">
+        <source>General</source>
+        <target state="needs-translation">General</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/InfoPopup.vue:88
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156926" resname="Geo Location">
+        <source>Geo Location</source>
+        <target state="needs-translation">Geo Location</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the geo_location (Code) field in DocType 'Account Request'
+#: drive/drive/doctype/account_request/account_request.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156928" resname="Go">
+        <source>Go</source>
+        <target state="needs-translation">Go</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/Sidebar.vue:14
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156930" resname="Go to Drive">
+        <source>Go to Drive</source>
+        <target state="needs-translation">Go to Drive</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of a shortcut in the Drive Workspace
+#: drive/drive/workspace/drive/drive.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156932" resname="Guest">
+        <source>Guest</source>
+        <target state="needs-translation">Guest</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Name of a role
+#: drive/drive/doctype/drive_document/drive_document.json
+#: drive/drive/doctype/drive_file/drive_file.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156934" resname="Hide Info">
+        <source>Hide Info</source>
+        <target state="needs-translation">Hide Info</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/GenericPage.vue:266
+#: frontend/src/components/Navbar.vue:232
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156936" resname="Home" approved="yes">
+        <source>Home</source>
+        <target state="final">หน้าแรก</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/utils/files.js:219
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156938" resname="IP Address" approved="yes">
+        <source>IP Address</source>
+        <target state="final">ที่อยู่ IP</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the ip_address (Data) field in DocType 'Account Request'
+#: drive/drive/doctype/account_request/account_request.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156940" resname="In MB">
+        <source>In MB</source>
+        <target state="needs-translation">In MB</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Description of the 'Storage' (Int) field in DocType 'Drive Team'
+#. Description of the 'Quota' (Int) field in DocType 'Drive Team'
+#: drive/drive/doctype/drive_team/drive_team.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156942" resname="Information">
+        <source>Information</source>
+        <target state="needs-translation">Information</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/InfoSidebar.vue:15
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156944" resname="Invite">
+        <source>Invite</source>
+        <target state="needs-translation">Invite</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the invite (Link) field in DocType 'Account Request'
+#: drive/drive/doctype/account_request/account_request.json
+#: frontend/src/components/Settings/UserListSettings.vue:13
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156946" resname="Is Active">
+        <source>Is Active</source>
+        <target state="needs-translation">Is Active</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the is_active (Int) field in DocType 'Drive File'
+#: drive/drive/doctype/drive_file/drive_file.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156948" resname="Is Admin">
+        <source>Is Admin</source>
+        <target state="needs-translation">Is Admin</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the is_admin (Check) field in DocType 'Drive Team Member'
+#: drive/drive/doctype/drive_team_member/drive_team_member.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156950" resname="Is Group" approved="yes">
+        <source>Is Group</source>
+        <target state="final">เป็นกลุ่ม</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the is_group (Check) field in DocType 'Drive File'
+#: drive/drive/doctype/drive_file/drive_file.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156952" resname="Is Link">
+        <source>Is Link</source>
+        <target state="needs-translation">Is Link</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the is_link (Check) field in DocType 'Drive File'
+#: drive/drive/doctype/drive_file/drive_file.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156954" resname="Is Private" approved="yes">
+        <source>Is Private</source>
+        <target state="final">เป็นส่วนตัว</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the is_private (Check) field in DocType 'Drive File'
+#: drive/drive/doctype/drive_file/drive_file.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156956" resname="Is Resolved">
+        <source>Is Resolved</source>
+        <target state="needs-translation">Is Resolved</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the resolved (Check) field in DocType 'Drive Comment'
+#: drive/drive/doctype/drive_comment/drive_comment.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156958" resname="JWT Key">
+        <source>JWT Key</source>
+        <target state="needs-translation">JWT Key</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the jwt_key (Password) field in DocType 'Drive Site Settings'
+#: drive/drive/doctype/drive_site_settings/drive_site_settings.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156960" resname="Last Accessed">
+        <source>Last Accessed</source>
+        <target state="needs-translation">Last Accessed</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/ListView.vue:195
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156962" resname="Last Interaction">
+        <source>Last Interaction</source>
+        <target state="needs-translation">Last Interaction</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the last_interaction (Datetime) field in DocType 'Drive Entity Log'
+#: drive/drive/doctype/drive_entity_log/drive_entity_log.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156964" resname="Last Modified">
+        <source>Last Modified</source>
+        <target state="needs-translation">Last Modified</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/ListView.vue:187
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156966" resname="Last Name" approved="yes">
+        <source>Last Name</source>
+        <target state="final">นามสกุล</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/Settings/ProfileSettings.vue:88
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156968" resname="Log out" approved="yes">
+        <source>Log out</source>
+        <target state="final">ออกจากระบบ</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/PrimaryDropdown.vue:146
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156970" resname="Login Count">
+        <source>Login Count</source>
+        <target state="needs-translation">Login Count</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the login_count (Int) field in DocType 'Account Request'
+#: drive/drive/doctype/account_request/account_request.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156972" resname="MIME Type">
+        <source>MIME Type</source>
+        <target state="needs-translation">MIME Type</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the mime_type (Data) field in DocType 'Drive File'
+#: drive/drive/doctype/drive_file/drive_file.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156974" resname="Manage" approved="yes">
+        <source>Manage</source>
+        <target state="final">จัดการ</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/InfoPopup.vue:72
+#: frontend/src/components/InfoSidebar.vue:64
+#: frontend/src/components/PrimaryDropdown.vue:109
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156976" resname="Mention" approved="yes">
+        <source>Mention</source>
+        <target state="final">กล่าวถึง</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Option for the 'Type' (Select) field in DocType 'Drive Notification'
+#: drive/drive/doctype/drive_notification/drive_notification.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156978" resname="Mentions" approved="yes">
+        <source>Mentions</source>
+        <target state="final">การกล่าวถึง</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the mentions (JSON) field in DocType 'Drive Document'
+#: drive/drive/doctype/drive_document/drive_document.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156980" resname="Message" approved="yes">
+        <source>Message</source>
+        <target state="final">ข้อความ</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the snapshot_message (Text) field in DocType 'Drive Document
+#. Version'
+#. Label of the message (Data) field in DocType 'Drive Entity Activity Log'
+#. Label of the message (Text) field in DocType 'Drive Notification'
+#: drive/drive/doctype/drive_document_version/drive_document_version.json
+#: drive/drive/doctype/drive_entity_activity_log/drive_entity_activity_log.json
+#: drive/drive/doctype/drive_notification/drive_notification.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156982" resname="Meta Value">
+        <source>Meta Value</source>
+        <target state="needs-translation">Meta Value</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the meta_value (Data) field in DocType 'Drive Entity Activity Log'
+#: drive/drive/doctype/drive_entity_activity_log/drive_entity_activity_log.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156984" resname="Modified">
+        <source>Modified</source>
+        <target state="needs-translation">Modified</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/DriveToolBar.vue:328
+#: frontend/src/components/InfoPopup.vue:51
+#: frontend/src/components/InfoSidebar.vue:103
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156986" resname="Move" approved="yes">
+        <source>Move</source>
+        <target state="final">ย้าย</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/GenericPage.vue:246
+#: frontend/src/components/Navbar.vue:214
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156988" resname="Name" approved="yes">
+        <source>Name</source>
+        <target state="final">ชื่อ</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/DriveToolBar.vue:320
+#: frontend/src/components/ListView.vue:131
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156990" resname="Never share this publicly! This gives complete read access to all files in your site.">
+        <source>Never share this publicly! This gives complete read access to all files in your site.</source>
+        <target state="needs-translation">Never share this publicly! This gives complete read access to all files in your site.</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Description of the 'JWT Key' (Password) field in DocType 'Drive Site
+#. Settings'
+#: drive/drive/doctype/drive_site_settings/drive_site_settings.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156992" resname="New" approved="yes">
+        <source>New</source>
+        <target state="final">ใหม่</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/Settings/TagSettings.vue:12
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156994" resname="New Tag">
+        <source>New Tag</source>
+        <target state="needs-translation">New Tag</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/Settings/NewTagDialog.vue:4
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156996" resname="New Value" approved="yes">
+        <source>New Value</source>
+        <target state="final">ค่าใหม่</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the new_value (Data) field in DocType 'Drive Entity Activity Log'
+#: drive/drive/doctype/drive_entity_activity_log/drive_entity_activity_log.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="156998" resname="OAuth Signup">
+        <source>OAuth Signup</source>
+        <target state="needs-translation">OAuth Signup</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the oauth_signup (Check) field in DocType 'Account Request'
+#: drive/drive/doctype/account_request/account_request.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157000" resname="OTP">
+        <source>OTP</source>
+        <target state="needs-translation">OTP</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the otp (Data) field in DocType 'Account Request'
+#: drive/drive/doctype/account_request/account_request.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157002" resname="OTP Generated at">
+        <source>OTP Generated at</source>
+        <target state="needs-translation">OTP Generated at</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the otp_generated_at (Datetime) field in DocType 'Account Request'
+#: drive/drive/doctype/account_request/account_request.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157004" resname="Old Name">
+        <source>Old Name</source>
+        <target state="needs-translation">Old Name</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the old_name (Data) field in DocType 'Drive File'
+#: drive/drive/doctype/drive_file/drive_file.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157006" resname="Old Value">
+        <source>Old Value</source>
+        <target state="needs-translation">Old Value</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the old_value (Data) field in DocType 'Drive Entity Activity Log'
+#: drive/drive/doctype/drive_entity_activity_log/drive_entity_activity_log.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157008" resname="Open">
+        <source>Open</source>
+        <target state="needs-translation">Open</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/GenericPage.vue:217
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157010" resname="Others">
+        <source>Others</source>
+        <target state="needs-translation">Others</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/PrimaryDropdown.vue:136
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157012" resname="Owner" approved="yes">
+        <source>Owner</source>
+        <target state="final">เจ้าของ</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/DriveToolBar.vue:324
+#: frontend/src/components/InfoPopup.vue:33
+#: frontend/src/components/InfoSidebar.vue:114
+#: frontend/src/components/ListView.vue:145
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157014" resname="Parent Document" approved="yes">
+        <source>Parent Document</source>
+        <target state="final">เอกสารผู้ปกครอง</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the parent_document (Link) field in DocType 'Drive Document
+#. Version'
+#: drive/drive/doctype/drive_document_version/drive_document_version.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157016" resname="Parent Entity">
+        <source>Parent Entity</source>
+        <target state="needs-translation">Parent Entity</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the parent_entity (Link) field in DocType 'Drive Document Version'
+#. Label of the parent_entity (Link) field in DocType 'Drive File'
+#: drive/drive/doctype/drive_document_version/drive_document_version.json
+#: drive/drive/doctype/drive_file/drive_file.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157018" resname="Path" approved="yes">
+        <source>Path</source>
+        <target state="final">เส้นทาง</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the path (Text) field in DocType 'Drive File'
+#: drive/drive/doctype/drive_file/drive_file.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157020" resname="Pending">
+        <source>Pending</source>
+        <target state="needs-translation">Pending</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Option for the 'Status' (Select) field in DocType 'Drive User Invitation'
+#: drive/drive/doctype/drive_user_invitation/drive_user_invitation.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157022" resname="Preferences">
+        <source>Preferences</source>
+        <target state="needs-translation">Preferences</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/Settings/ProfileSettings.vue:95
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157024" resname="Preview" approved="yes">
+        <source>Preview</source>
+        <target state="final">ดูตัวอย่าง</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/GenericPage.vue:211
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157026" resname="Profile" approved="yes">
+        <source>Profile</source>
+        <target state="final">โปรไฟล์</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/Settings/ProfileSettings.vue:3
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157028" resname="Properties">
+        <source>Properties</source>
+        <target state="needs-translation">Properties</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/InfoSidebar.vue:79
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157030" resname="Proposed">
+        <source>Proposed</source>
+        <target state="needs-translation">Proposed</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Option for the 'Status' (Select) field in DocType 'Drive User Invitation'
+#: drive/drive/doctype/drive_user_invitation/drive_user_invitation.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157032" resname="Quota">
+        <source>Quota</source>
+        <target state="needs-translation">Quota</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the quota (Int) field in DocType 'Drive Team'
+#: drive/drive/doctype/drive_team/drive_team.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157034" resname="Raw Content">
+        <source>Raw Content</source>
+        <target state="needs-translation">Raw Content</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the raw_content (Long Text) field in DocType 'Drive Document'
+#: drive/drive/doctype/drive_document/drive_document.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157036" resname="Read">
+        <source>Read</source>
+        <target state="needs-translation">Read</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the read (Check) field in DocType 'Drive Notification'
+#. Label of the read (Check) field in DocType 'Drive Permission'
+#: drive/drive/doctype/drive_notification/drive_notification.json
+#: drive/drive/doctype/drive_permission/drive_permission.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157038" resname="Referral Source">
+        <source>Referral Source</source>
+        <target state="needs-translation">Referral Source</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the referral_source (Data) field in DocType 'Account Request'
+#: drive/drive/doctype/account_request/account_request.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157040" resname="Referrer Data">
+        <source>Referrer Data</source>
+        <target state="needs-translation">Referrer Data</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the referrer_data (Section Break) field in DocType 'Account
+#. Request'
+#: drive/drive/doctype/account_request/account_request.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157042" resname="Referrer ID">
+        <source>Referrer ID</source>
+        <target state="needs-translation">Referrer ID</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the referrer_id (Data) field in DocType 'Account Request'
+#: drive/drive/doctype/account_request/account_request.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157044" resname="Remove from Recents">
+        <source>Remove from Recents</source>
+        <target state="needs-translation">Remove from Recents</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/GenericPage.vue:298
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157046" resname="Rename" approved="yes">
+        <source>Rename</source>
+        <target state="final">เปลี่ยนชื่อ</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/GenericPage.vue:254
+#: frontend/src/components/Navbar.vue:220
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157048" resname="Replies">
+        <source>Replies</source>
+        <target state="needs-translation">Replies</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the replies (Table) field in DocType 'Drive Comment'
+#: drive/drive/doctype/drive_comment/drive_comment.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157050" resname="Request Key">
+        <source>Request Key</source>
+        <target state="needs-translation">Request Key</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the request_key (Data) field in DocType 'Account Request'
+#: drive/drive/doctype/account_request/account_request.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157052" resname="S3 Bucket">
+        <source>S3 Bucket</source>
+        <target state="needs-translation">S3 Bucket</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the bucket (Data) field in DocType 'Drive S3 Settings'
+#: drive/drive/doctype/drive_s3_settings/drive_s3_settings.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157054" resname="Search">
+        <source>Search</source>
+        <target state="needs-translation">Search</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/DriveToolBar.vue:42
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157056" resname="Set Color">
+        <source>Set Color</source>
+        <target state="needs-translation">Set Color</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/TagColorInput.vue:36
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157058" resname="Settings" approved="yes">
+        <source>Settings</source>
+        <target state="final">การตั้งค่า</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the settings (JSON) field in DocType 'Drive Document'
+#: drive/drive/doctype/drive_document/drive_document.json
+#: frontend/src/components/PrimaryDropdown.vue:141
+#: frontend/src/components/Settings/SettingsDialog.vue:15
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157060" resname="Setup S3">
+        <source>Setup S3</source>
+        <target state="needs-translation">Setup S3</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of a shortcut in the Drive Workspace
+#: drive/drive/workspace/drive/drive.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157062" resname="Share" approved="yes">
+        <source>Share</source>
+        <target state="final">แชร์</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Option for the 'Type' (Select) field in DocType 'Drive Notification'
+#. Label of the share (Check) field in DocType 'Drive Permission'
+#: drive/drive/doctype/drive_notification/drive_notification.json
+#: drive/drive/doctype/drive_permission/drive_permission.json
+#: frontend/src/components/GenericPage.vue:224
+#: frontend/src/components/Navbar.vue:191
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157064" resname="Shared" approved="yes">
+        <source>Shared</source>
+        <target state="final">แชร์</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/InfoPopup.vue:109
+#: frontend/src/components/ListView.vue:165 frontend/src/utils/files.js:204
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157066" resname="Show Info">
+        <source>Show Info</source>
+        <target state="needs-translation">Show Info</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/GenericPage.vue:260
+#: frontend/src/components/Navbar.vue:226
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157068" resname="Signature Version">
+        <source>Signature Version</source>
+        <target state="needs-translation">Signature Version</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the signature_version (Data) field in DocType 'Drive S3 Settings'
+#: drive/drive/doctype/drive_s3_settings/drive_s3_settings.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157070" resname="Signed Up">
+        <source>Signed Up</source>
+        <target state="needs-translation">Signed Up</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the signed_up (Check) field in DocType 'Account Request'
+#: drive/drive/doctype/account_request/account_request.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157072" resname="Single Click">
+        <source>Single Click</source>
+        <target state="needs-translation">Single Click</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the single_click (Check) field in DocType 'Drive Settings'
+#: drive/drive/doctype/drive_settings/drive_settings.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157074" resname="Size" approved="yes">
+        <source>Size</source>
+        <target state="final">ขนาด</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/DriveToolBar.vue:332
+#: frontend/src/components/InfoPopup.vue:45
+#: frontend/src/components/InfoSidebar.vue:93
+#: frontend/src/components/ListView.vue:203
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157076" resname="Smart sort">
+        <source>Smart sort</source>
+        <target state="needs-translation">Smart sort</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/DriveToolBar.vue:348
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157078" resname="Snapshot Data">
+        <source>Snapshot Data</source>
+        <target state="needs-translation">Snapshot Data</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the snapshot_data (Long Text) field in DocType 'Drive Document
+#. Version'
+#: drive/drive/doctype/drive_document_version/drive_document_version.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157080" resname="Snapshot Size">
+        <source>Snapshot Size</source>
+        <target state="needs-translation">Snapshot Size</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the snapshot_size (Int) field in DocType 'Drive Document Version'
+#: drive/drive/doctype/drive_document_version/drive_document_version.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157082" resname="Status" approved="yes">
+        <source>Status</source>
+        <target state="final">สถานะ</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the status (Select) field in DocType 'Drive User Invitation'
+#: drive/drive/doctype/drive_user_invitation/drive_user_invitation.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157084" resname="Storage">
+        <source>Storage</source>
+        <target state="needs-translation">Storage</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the storage (Int) field in DocType 'Drive Team'
+#: drive/drive/doctype/drive_team/drive_team.json
+#: frontend/src/components/Settings/StorageSettings.vue:3
+#: frontend/src/components/StorageBar.vue:8
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157086" resname="Support" approved="yes">
+        <source>Support</source>
+        <target state="final">การสนับสนุน</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/PrimaryDropdown.vue:125
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157088" resname="System Manager" approved="yes">
+        <source>System Manager</source>
+        <target state="final">ผู้จัดการระบบ</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Name of a role
+#: drive/drive/doctype/account_request/account_request.json
+#: drive/drive/doctype/drive_document_version/drive_document_version.json
+#: drive/drive/doctype/drive_entity_activity_log/drive_entity_activity_log.json
+#: drive/drive/doctype/drive_entity_log/drive_entity_log.json
+#: drive/drive/doctype/drive_notification/drive_notification.json
+#: drive/drive/doctype/drive_permission/drive_permission.json
+#: drive/drive/doctype/drive_s3_settings/drive_s3_settings.json
+#: drive/drive/doctype/drive_settings/drive_settings.json
+#: drive/drive/doctype/drive_site_settings/drive_site_settings.json
+#: drive/drive/doctype/drive_team/drive_team.json
+#: drive/drive/doctype/drive_user_invitation/drive_user_invitation.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157090" resname="Tag">
+        <source>Tag</source>
+        <target state="needs-translation">Tag</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the tag (Link) field in DocType 'Drive Entity Tag'
+#: drive/drive/doctype/drive_entity_tag/drive_entity_tag.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157092" resname="Tags">
+        <source>Tags</source>
+        <target state="needs-translation">Tags</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the tags (Table) field in DocType 'Drive File'
+#: drive/drive/doctype/drive_file/drive_file.json
+#: frontend/src/components/InfoSidebar.vue:70
+#: frontend/src/components/Settings/TagSettings.vue:4
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157094" resname="Team">
+        <source>Team</source>
+        <target state="needs-translation">Team</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the team (Link) field in DocType 'Drive File'
+#. Option for the 'Type' (Select) field in DocType 'Drive Notification'
+#. Label of the team (Link) field in DocType 'Drive User Invitation'
+#: drive/drive/doctype/drive_file/drive_file.json
+#: drive/drive/doctype/drive_notification/drive_notification.json
+#: drive/drive/doctype/drive_user_invitation/drive_user_invitation.json
+#: frontend/src/components/Settings/StorageSettings.vue:24
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157096" resname="Team Domain">
+        <source>Team Domain</source>
+        <target state="needs-translation">Team Domain</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the team_domain (Data) field in DocType 'Drive Team'
+#: drive/drive/doctype/drive_team/drive_team.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157098" resname="Title">
+        <source>Title</source>
+        <target state="needs-translation">Title</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the title (Data) field in DocType 'Drive File'
+#. Label of the title (Data) field in DocType 'Drive Tag'
+#. Label of the title (Small Text) field in DocType 'Drive Team'
+#: drive/drive/doctype/drive_file/drive_file.json
+#: drive/drive/doctype/drive_tag/drive_tag.json
+#: drive/drive/doctype/drive_team/drive_team.json
+#: frontend/src/components/Settings/NewTagDialog.vue:19
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157100" resname="To User">
+        <source>To User</source>
+        <target state="needs-translation">To User</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the to_user (Link) field in DocType 'Drive Notification'
+#: drive/drive/doctype/drive_notification/drive_notification.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157102" resname="Type">
+        <source>Type</source>
+        <target state="needs-translation">Type</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the type (Select) field in DocType 'Drive Notification'
+#: drive/drive/doctype/drive_notification/drive_notification.json
+#: frontend/src/components/DriveToolBar.vue:336
+#: frontend/src/components/InfoPopup.vue:41
+#: frontend/src/components/InfoSidebar.vue:82
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157104" resname="URL Args">
+        <source>URL Args</source>
+        <target state="needs-translation">URL Args</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the url_args (Code) field in DocType 'Account Request'
+#: drive/drive/doctype/account_request/account_request.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157106" resname="Unfavourite">
+        <source>Unfavourite</source>
+        <target state="needs-translation">Unfavourite</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/GenericPage.vue:285
+#: frontend/src/components/Navbar.vue:249
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157108" resname="Upload" approved="yes">
+        <source>Upload</source>
+        <target state="final">อัปโหลด</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the upload (Check) field in DocType 'Drive Permission'
+#: drive/drive/doctype/drive_permission/drive_permission.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157110" resname="Uploaded">
+        <source>Uploaded</source>
+        <target state="needs-translation">Uploaded</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/InfoSidebar.vue:109
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157112" resname="User" approved="yes">
+        <source>User</source>
+        <target state="final">ผู้ใช้</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the user (Link) field in DocType 'Drive Entity Log'
+#. Label of the user (Link) field in DocType 'Drive Favourite'
+#. Label of the user (Data) field in DocType 'Drive Permission'
+#. Label of the user (Link) field in DocType 'Drive Settings'
+#. Label of the user (Link) field in DocType 'Drive Team Member'
+#: drive/drive/doctype/drive_entity_log/drive_entity_log.json
+#: drive/drive/doctype/drive_favourite/drive_favourite.json
+#: drive/drive/doctype/drive_permission/drive_permission.json
+#: drive/drive/doctype/drive_settings/drive_settings.json
+#: drive/drive/doctype/drive_team_member/drive_team_member.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157114" resname="Users" approved="yes">
+        <source>Users</source>
+        <target state="final">ผู้ใช้</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the users (Table MultiSelect) field in DocType 'Drive Team'
+#: drive/drive/doctype/drive_team/drive_team.json
+#: frontend/src/components/Settings/UserListSettings.vue:4
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157116" resname="Valid Until">
+        <source>Valid Until</source>
+        <target state="needs-translation">Valid Until</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the valid_until (Datetime) field in DocType 'Drive Permission'
+#: drive/drive/doctype/drive_permission/drive_permission.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157118" resname="Version" approved="yes">
+        <source>Version</source>
+        <target state="final">เวอร์ชัน</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the version (Int) field in DocType 'Drive Document'
+#: drive/drive/doctype/drive_document/drive_document.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157120" resname="With you">
+        <source>With you</source>
+        <target state="needs-translation">With you</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/DriveToolBar.vue:27
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157122" resname="Write" approved="yes">
+        <source>Write</source>
+        <target state="final">เขียน</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Label of the write (Check) field in DocType 'Drive Permission'
+#: drive/drive/doctype/drive_permission/drive_permission.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157124" resname="You" approved="yes">
+        <source>You</source>
+        <target state="final">คุณ</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/Settings/StorageSettings.vue:21
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157126" resname="comment" approved="yes">
+        <source>comment</source>
+        <target state="final">ความคิดเห็น</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Option for the 'Action Type' (Select) field in DocType 'Drive Entity
+#. Activity Log'
+#: drive/drive/doctype/drive_entity_activity_log/drive_entity_activity_log.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157128" resname="create" approved="yes">
+        <source>create</source>
+        <target state="final">สร้าง</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Option for the 'Action Type' (Select) field in DocType 'Drive Entity
+#. Activity Log'
+#: drive/drive/doctype/drive_entity_activity_log/drive_entity_activity_log.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157130" resname="delete" approved="yes">
+        <source>delete</source>
+        <target state="final">ลบ</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Option for the 'Action Type' (Select) field in DocType 'Drive Entity
+#. Activity Log'
+#: drive/drive/doctype/drive_entity_activity_log/drive_entity_activity_log.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157132" resname="edit" approved="yes">
+        <source>edit</source>
+        <target state="final">แก้ไข</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Option for the 'Action Type' (Select) field in DocType 'Drive Entity
+#. Activity Log'
+#: drive/drive/doctype/drive_entity_activity_log/drive_entity_activity_log.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157134" resname="item" approved="yes">
+        <source>item</source>
+        <target state="final">รายการ</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/DriveToolBar.vue:8
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157136" resname="items" approved="yes">
+        <source>items</source>
+        <target state="final">รายการ</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/DriveToolBar.vue:8
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157138" resname="move" approved="yes">
+        <source>move</source>
+        <target state="final">ย้าย</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Option for the 'Action Type' (Select) field in DocType 'Drive Entity
+#. Activity Log'
+#: drive/drive/doctype/drive_entity_activity_log/drive_entity_activity_log.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157140" resname="people">
+        <source>people</source>
+        <target state="needs-translation">people</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/InfoPopup.vue:118
+#: frontend/src/components/ListView.vue:174
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157142" resname="person">
+        <source>person</source>
+        <target state="needs-translation">person</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/InfoPopup.vue:117
+#: frontend/src/components/ListView.vue:174
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157144" resname="rename" approved="yes">
+        <source>rename</source>
+        <target state="final">เปลี่ยนชื่อ</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Option for the 'Action Type' (Select) field in DocType 'Drive Entity
+#. Activity Log'
+#: drive/drive/doctype/drive_entity_activity_log/drive_entity_activity_log.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157146" resname="selected">
+        <source>selected</source>
+        <target state="needs-translation">selected</target>
+        <context-group purpose="information">
+          <context context-type="source">#: frontend/src/components/DriveToolBar.vue:9
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157148" resname="share_add">
+        <source>share_add</source>
+        <target state="needs-translation">share_add</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Option for the 'Action Type' (Select) field in DocType 'Drive Entity
+#. Activity Log'
+#: drive/drive/doctype/drive_entity_activity_log/drive_entity_activity_log.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157150" resname="share_edit">
+        <source>share_edit</source>
+        <target state="needs-translation">share_edit</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Option for the 'Action Type' (Select) field in DocType 'Drive Entity
+#. Activity Log'
+#: drive/drive/doctype/drive_entity_activity_log/drive_entity_activity_log.json
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="157152" resname="share_remove">
+        <source>share_remove</source>
+        <target state="needs-translation">share_remove</target>
+        <context-group purpose="information">
+          <context context-type="source">#. Option for the 'Action Type' (Select) field in DocType 'Drive Entity
+#. Activity Log'
+#: drive/drive/doctype/drive_entity_activity_log/drive_entity_activity_log.json
+</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

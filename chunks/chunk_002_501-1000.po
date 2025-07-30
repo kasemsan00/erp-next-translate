@@ -1,0 +1,1225 @@
+msgid ""
+
+#: hrms/hr/doctype/expense_claim/expense_claim.json
+
+#: hrms/hr/workspace/expense_claims/expense_claims.json
+
+msgid "Advances"
+msgstr ""
+
+
+#. Name of a role
+
+#: hrms/hr/doctype/expense_claim/expense_claim.json
+
+#: hrms/hr/doctype/leave_application/leave_application.json
+
+#: hrms/hr/doctype/leave_ledger_entry/leave_ledger_entry.json
+
+msgid "All"
+msgstr ""
+
+
+#: hrms/hr/doctype/goal/goal_tree.js:215
+
+msgid "All Goals"
+msgstr ""
+
+
+#: hrms/hr/doctype/job_opening/job_opening.py:102
+
+msgid "All Jobs"
+msgstr ""
+
+
+#: hrms/hr/doctype/full_and_final_statement/full_and_final_statement.py:66
+
+msgid "All allocated assets should be returned before submission"
+msgstr ""
+
+
+#: hrms/hr/doctype/employee_onboarding/employee_onboarding.py:48
+
+msgid "All the mandatory tasks for employee creation are not completed yet."
+msgstr ""
+
+
+#. Label of the allocate_based_on_leave_policy (Check) field in DocType 'Leave
+
+#. Control Panel'
+
+#: hrms/hr/doctype/leave_control_panel/leave_control_panel.json
+
+msgid "Allocate Based On Leave Policy"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_control_panel/leave_control_panel.js:176
+
+msgid "Allocate Leave"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_allocation/leave_allocation.js:66
+
+msgid "Allocate Leaves"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_control_panel/leave_control_panel.js:192
+
+msgid "Allocate leaves to {0} employee(s)?"
+msgstr ""
+
+
+#. Label of the allocate_on_day (Select) field in DocType 'Leave Type'
+
+#: hrms/hr/doctype/leave_type/leave_type.json
+
+msgid "Allocate on Day"
+msgstr ""
+
+
+#. Label of the allocated_amount (Currency) field in DocType 'Expense Claim
+
+#. Advance'
+
+#: hrms/hr/doctype/expense_claim_advance/expense_claim_advance.json
+
+msgid "Allocated Amount"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_application/leave_application.js:75
+
+msgid "Allocated Leaves"
+msgstr ""
+
+
+#: hrms/hr/utils.py:409
+
+msgid "Allocated {0} leave(s) via scheduler on {1} based on the 'Allocate on Day' option set to {2}"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_control_panel/leave_control_panel.js:205
+
+msgid "Allocating Leave"
+msgstr ""
+
+
+#. Label of the section_break_6 (Section Break) field in DocType 'Leave
+
+#. Allocation'
+
+#. Label of a Card Break in the Leaves Workspace
+
+#: hrms/hr/doctype/leave_allocation/leave_allocation.json
+
+#: hrms/hr/workspace/leaves/leaves.json
+
+msgid "Allocation"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_allocation/leave_allocation.js:128
+
+msgid "Allocation Expired!"
+msgstr ""
+
+
+#. Label of the allow_employee_checkin_from_mobile_app (Check) field in DocType
+
+#. 'HR Settings'
+
+#: hrms/hr/doctype/hr_settings/hr_settings.json
+
+msgid "Allow Employee Checkin from Mobile App"
+msgstr ""
+
+
+#. Label of the allow_encashment (Check) field in DocType 'Leave Type'
+
+#: hrms/hr/doctype/leave_type/leave_type.json
+
+msgid "Allow Encashment"
+msgstr ""
+
+
+#. Label of the allow_geolocation_tracking (Check) field in DocType 'HR
+
+#. Settings'
+
+#: hrms/hr/doctype/hr_settings/hr_settings.json
+
+msgid "Allow Geolocation Tracking"
+msgstr ""
+
+
+#. Label of the applicable_after (Int) field in DocType 'Leave Type'
+
+#: hrms/hr/doctype/leave_type/leave_type.json
+
+msgid "Allow Leave Application After (Working Days)"
+msgstr ""
+
+
+#. Label of the allow_multiple_shift_assignments (Check) field in DocType 'HR
+
+#. Settings'
+
+#: hrms/hr/doctype/hr_settings/hr_settings.json
+
+#: hrms/hr/doctype/shift_assignment/shift_assignment.py:105
+
+msgid "Allow Multiple Shift Assignments for Same Date"
+msgstr ""
+
+
+#. Label of the allow_negative (Check) field in DocType 'Leave Type'
+
+#: hrms/hr/doctype/leave_type/leave_type.json
+
+msgid "Allow Negative Balance"
+msgstr ""
+
+
+#. Label of the allow_over_allocation (Check) field in DocType 'Leave Type'
+
+#: hrms/hr/doctype/leave_type/leave_type.json
+
+msgid "Allow Over Allocation"
+msgstr ""
+
+
+#. Label of the allow_tax_exemption (Check) field in DocType 'Income Tax Slab'
+
+#: hrms/payroll/doctype/income_tax_slab/income_tax_slab.json
+
+msgid "Allow Tax Exemption"
+msgstr ""
+
+
+#. Label of the allow_user (Link) field in DocType 'Leave Block List Allow'
+
+#: hrms/hr/doctype/leave_block_list_allow/leave_block_list_allow.json
+
+msgid "Allow User"
+msgstr ""
+
+
+#. Label of the allow_list (Section Break) field in DocType 'Leave Block List'
+
+#: hrms/hr/doctype/leave_block_list/leave_block_list.json
+
+msgid "Allow Users"
+msgstr ""
+
+
+#. Label of the allow_check_out_after_shift_end_time (Int) field in DocType
+
+#. 'Shift Type'
+
+#: hrms/hr/doctype/shift_type/shift_type.json
+
+msgid "Allow check-out after shift end time (in minutes)"
+msgstr ""
+
+
+#. Description of the 'Allow Users' (Section Break) field in DocType 'Leave
+
+#. Block List'
+
+#: hrms/hr/doctype/leave_block_list/leave_block_list.json
+
+msgid "Allow the following users to approve Leave Applications for block days."
+msgstr ""
+
+
+#. Description of the 'Allow Over Allocation' (Check) field in DocType 'Leave
+
+#. Type'
+
+#: hrms/hr/doctype/leave_type/leave_type.json
+
+msgid "Allows allocating more leaves than the number of days in the allocation period."
+msgstr ""
+
+
+#. Option for the 'Determine Check-in and Check-out' (Select) field in DocType
+
+#. 'Shift Type'
+
+#: hrms/hr/doctype/shift_type/shift_type.json
+
+msgid "Alternating entries as IN and OUT during the same shift"
+msgstr ""
+
+
+#. Label of the amended_from (Link) field in DocType 'Appraisal'
+
+#. Label of the amended_from (Link) field in DocType 'Attendance'
+
+#. Label of the amended_from (Link) field in DocType 'Attendance Request'
+
+#. Label of the amended_from (Link) field in DocType 'Compensatory Leave
+
+#. Request'
+
+#. Label of the amended_from (Link) field in DocType 'Employee Advance'
+
+#. Label of the amended_from (Link) field in DocType 'Employee Grievance'
+
+#. Label of the amended_from (Link) field in DocType 'Employee Onboarding'
+
+#. Label of the amended_from (Link) field in DocType 'Employee Performance
+
+#. Feedback'
+
+#. Label of the amended_from (Link) field in DocType 'Employee Promotion'
+
+#. Label of the amended_from (Link) field in DocType 'Employee Referral'
+
+#. Label of the amended_from (Link) field in DocType 'Employee Separation'
+
+#. Label of the amended_from (Link) field in DocType 'Employee Transfer'
+
+#. Label of the amended_from (Link) field in DocType 'Exit Interview'
+
+#. Label of the amended_from (Link) field in DocType 'Expense Claim'
+
+#. Label of the amended_from (Link) field in DocType 'Full and Final Statement'
+
+#. Label of the amended_from (Link) field in DocType 'Interview'
+
+#. Label of the amended_from (Link) field in DocType 'Interview Feedback'
+
+#. Label of the amended_from (Link) field in DocType 'Job Offer'
+
+#. Label of the amended_from (Link) field in DocType 'Leave Allocation'
+
+#. Label of the amended_from (Link) field in DocType 'Leave Application'
+
+#. Label of the amended_from (Link) field in DocType 'Leave Encashment'
+
+#. Label of the amended_from (Link) field in DocType 'Leave Ledger Entry'
+
+#. Label of the amended_from (Link) field in DocType 'Leave Policy'
+
+#. Label of the amended_from (Link) field in DocType 'Leave Policy Assignment'
+
+#. Label of the amended_from (Link) field in DocType 'Shift Assignment'
+
+#. Label of the amended_from (Link) field in DocType 'Shift Request'
+
+#. Label of the amended_from (Link) field in DocType 'Shift Schedule'
+
+#. Label of the amended_from (Link) field in DocType 'Staffing Plan'
+
+#. Label of the amended_from (Link) field in DocType 'Training Event'
+
+#. Label of the amended_from (Link) field in DocType 'Training Feedback'
+
+#. Label of the amended_from (Link) field in DocType 'Training Program'
+
+#. Label of the amended_from (Link) field in DocType 'Training Result'
+
+#. Label of the amended_from (Link) field in DocType 'Travel Request'
+
+#. Label of the amended_from (Link) field in DocType 'Vehicle Log'
+
+#. Label of the amended_from (Link) field in DocType 'Additional Salary'
+
+#. Label of the amended_from (Link) field in DocType 'Employee Benefit
+
+#. Application'
+
+#. Label of the amended_from (Link) field in DocType 'Employee Benefit Claim'
+
+#. Label of the amended_from (Link) field in DocType 'Employee Incentive'
+
+#. Label of the amended_from (Link) field in DocType 'Employee Other Income'
+
+#. Label of the amended_from (Link) field in DocType 'Employee Tax Exemption
+
+#. Declaration'
+
+#. Label of the amended_from (Link) field in DocType 'Employee Tax Exemption
+
+#. Proof Submission'
+
+#. Label of the amended_from (Link) field in DocType 'Gratuity'
+
+#. Label of the amended_from (Link) field in DocType 'Income Tax Slab'
+
+#. Label of the amended_from (Link) field in DocType 'Payroll Entry'
+
+#. Label of the amended_from (Link) field in DocType 'Retention Bonus'
+
+#. Label of the amended_from (Link) field in DocType 'Salary Slip'
+
+#. Label of the amended_from (Link) field in DocType 'Salary Structure'
+
+#. Label of the amended_from (Link) field in DocType 'Salary Structure
+
+#. Assignment'
+
+#. Label of the amended_from (Link) field in DocType 'Salary Withholding'
+
+#: hrms/hr/doctype/appraisal/appraisal.json
+
+#: hrms/hr/doctype/attendance/attendance.json
+
+#: hrms/hr/doctype/attendance_request/attendance_request.json
+
+#: hrms/hr/doctype/compensatory_leave_request/compensatory_leave_request.json
+
+#: hrms/hr/doctype/employee_advance/employee_advance.json
+
+#: hrms/hr/doctype/employee_grievance/employee_grievance.json
+
+#: hrms/hr/doctype/employee_onboarding/employee_onboarding.json
+
+#: hrms/hr/doctype/employee_performance_feedback/employee_performance_feedback.json
+
+#: hrms/hr/doctype/employee_promotion/employee_promotion.json
+
+#: hrms/hr/doctype/employee_referral/employee_referral.json
+
+#: hrms/hr/doctype/employee_separation/employee_separation.json
+
+#: hrms/hr/doctype/employee_transfer/employee_transfer.json
+
+#: hrms/hr/doctype/exit_interview/exit_interview.json
+
+#: hrms/hr/doctype/expense_claim/expense_claim.json
+
+#: hrms/hr/doctype/full_and_final_statement/full_and_final_statement.json
+
+#: hrms/hr/doctype/interview/interview.json
+
+#: hrms/hr/doctype/interview_feedback/interview_feedback.json
+
+#: hrms/hr/doctype/job_offer/job_offer.json
+
+#: hrms/hr/doctype/leave_allocation/leave_allocation.json
+
+#: hrms/hr/doctype/leave_application/leave_application.json
+
+#: hrms/hr/doctype/leave_encashment/leave_encashment.json
+
+#: hrms/hr/doctype/leave_ledger_entry/leave_ledger_entry.json
+
+#: hrms/hr/doctype/leave_policy/leave_policy.json
+
+#: hrms/hr/doctype/leave_policy_assignment/leave_policy_assignment.json
+
+#: hrms/hr/doctype/shift_assignment/shift_assignment.json
+
+#: hrms/hr/doctype/shift_request/shift_request.json
+
+#: hrms/hr/doctype/shift_schedule/shift_schedule.json
+
+#: hrms/hr/doctype/staffing_plan/staffing_plan.json
+
+#: hrms/hr/doctype/training_event/training_event.json
+
+#: hrms/hr/doctype/training_feedback/training_feedback.json
+
+#: hrms/hr/doctype/training_program/training_program.json
+
+#: hrms/hr/doctype/training_result/training_result.json
+
+#: hrms/hr/doctype/travel_request/travel_request.json
+
+#: hrms/hr/doctype/vehicle_log/vehicle_log.json
+
+#: hrms/payroll/doctype/additional_salary/additional_salary.json
+
+#: hrms/payroll/doctype/employee_benefit_application/employee_benefit_application.json
+
+#: hrms/payroll/doctype/employee_benefit_claim/employee_benefit_claim.json
+
+#: hrms/payroll/doctype/employee_incentive/employee_incentive.json
+
+#: hrms/payroll/doctype/employee_other_income/employee_other_income.json
+
+#: hrms/payroll/doctype/employee_tax_exemption_declaration/employee_tax_exemption_declaration.json
+
+#: hrms/payroll/doctype/employee_tax_exemption_proof_submission/employee_tax_exemption_proof_submission.json
+
+#: hrms/payroll/doctype/gratuity/gratuity.json
+
+#: hrms/payroll/doctype/income_tax_slab/income_tax_slab.json
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.json
+
+#: hrms/payroll/doctype/retention_bonus/retention_bonus.json
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.json
+
+#: hrms/payroll/doctype/salary_structure_assignment/salary_structure_assignment.json
+
+#: hrms/payroll/doctype/salary_withholding/salary_withholding.json
+
+msgid "Amended From"
+msgstr ""
+
+
+#. Label of the amount (Currency) field in DocType 'Expense Claim Detail'
+
+#. Label of the tax_amount (Currency) field in DocType 'Expense Taxes and
+
+#. Charges'
+
+#. Label of the amount (Currency) field in DocType 'Full and Final Outstanding
+
+#. Statement'
+
+#. Label of the amount (Currency) field in DocType 'Additional Salary'
+
+#. Label of the amount (Currency) field in DocType 'Employee Benefit
+
+#. Application Detail'
+
+#. Label of the amount (Currency) field in DocType 'Employee Other Income'
+
+#. Label of the amount (Currency) field in DocType 'Salary Component'
+
+#. Label of the amount (Currency) field in DocType 'Salary Detail'
+
+#: hrms/hr/doctype/expense_claim_detail/expense_claim_detail.json
+
+#: hrms/hr/doctype/expense_taxes_and_charges/expense_taxes_and_charges.json
+
+#: hrms/hr/doctype/full_and_final_outstanding_statement/full_and_final_outstanding_statement.json
+
+#: hrms/payroll/doctype/additional_salary/additional_salary.json
+
+#: hrms/payroll/doctype/employee_benefit_application_detail/employee_benefit_application_detail.json
+
+#: hrms/payroll/doctype/employee_other_income/employee_other_income.json
+
+#: hrms/payroll/doctype/salary_component/salary_component.json
+
+#: hrms/payroll/doctype/salary_detail/salary_detail.json
+
+#: hrms/payroll/report/professional_tax_deductions/professional_tax_deductions.py:32
+
+msgid "Amount"
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.py:49
+
+msgid "Amount Based on Formula"
+msgstr ""
+
+
+#. Label of the amount_based_on_formula (Check) field in DocType 'Salary
+
+#. Component'
+
+#. Label of the amount_based_on_formula (Check) field in DocType 'Salary
+
+#. Detail'
+
+#: hrms/payroll/doctype/salary_component/salary_component.json
+
+#: hrms/payroll/doctype/salary_detail/salary_detail.json
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.py:108
+
+msgid "Amount based on formula"
+msgstr ""
+
+
+#. Description of the 'Claimed Amount' (Currency) field in DocType 'Employee
+
+#. Advance'
+
+#: hrms/hr/doctype/employee_advance/employee_advance.json
+
+msgid "Amount claimed via Expense Claim"
+msgstr ""
+
+
+#. Description of the 'Advance Amount' (Currency) field in DocType 'Employee
+
+#. Advance'
+
+#: hrms/hr/doctype/employee_advance/employee_advance.json
+
+msgid "Amount of expense"
+msgstr ""
+
+
+#. Description of the 'Paid Amount' (Currency) field in DocType 'Leave
+
+#. Encashment'
+
+#: hrms/hr/doctype/leave_encashment/leave_encashment.json
+
+msgid "Amount paid against this encashment"
+msgstr ""
+
+
+#. Description of the 'Returned Amount' (Currency) field in DocType 'Employee
+
+#. Advance'
+
+#: hrms/hr/doctype/employee_advance/employee_advance.json
+
+msgid "Amount scheduled for deduction via salary"
+msgstr ""
+
+
+#: hrms/payroll/doctype/additional_salary/additional_salary.py:36
+
+msgid "Amount should not be less than zero"
+msgstr ""
+
+
+#. Description of the 'Paid Amount' (Currency) field in DocType 'Employee
+
+#. Advance'
+
+#: hrms/hr/doctype/employee_advance/employee_advance.json
+
+msgid "Amount that has been paid against this advance"
+msgstr ""
+
+
+#: hrms/payroll/doctype/employee_benefit_application/employee_benefit_application.py:58
+
+msgid "An amount of {0} already claimed for the component {1}, set the amount equal or greater than {2}"
+msgstr ""
+
+
+#: hrms/hr/doctype/employee_checkin/employee_checkin.py:54
+
+msgid "An attendance record is linked to this checkin. Please cancel the attendance before modifying time."
+msgstr ""
+
+
+#. Label of the annual_allocation (Float) field in DocType 'Leave Policy
+
+#. Detail'
+
+#: hrms/hr/doctype/leave_policy_detail/leave_policy_detail.json
+
+msgid "Annual Allocation"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_allocation/leave_allocation.py:372
+
+msgid "Annual Allocation Exceeded"
+msgstr ""
+
+
+#: hrms/setup.py:397
+
+msgid "Annual Salary"
+msgstr ""
+
+
+#. Label of the annual_taxable_amount (Currency) field in DocType 'Salary Slip'
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+msgid "Annual Taxable Amount"
+msgstr ""
+
+
+#. Label of the description (Small Text) field in DocType 'Travel Request'
+
+#: hrms/hr/doctype/travel_request/travel_request.json
+
+msgid "Any other details"
+msgstr ""
+
+
+#. Description of the 'Remarks' (Text) field in DocType 'Appraisal'
+
+#: hrms/hr/doctype/appraisal/appraisal.json
+
+msgid "Any other remarks, noteworthy effort that should go in the records"
+msgstr ""
+
+
+#. Label of the applicable_earnings_component (Table MultiSelect) field in
+
+#. DocType 'Gratuity Rule'
+
+#: hrms/payroll/doctype/gratuity_rule/gratuity_rule.json
+
+msgid "Applicable Earnings Component"
+msgstr ""
+
+
+#. Label of the applicable_for_tab (Tab Break) field in DocType 'Appraisal
+
+#. Cycle'
+
+#: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.json
+
+msgid "Applicable For"
+msgstr ""
+
+
+#. Description of the 'Required for Employee Creation' (Check) field in DocType
+
+#. 'Employee Boarding Activity'
+
+#: hrms/hr/doctype/employee_boarding_activity/employee_boarding_activity.json
+
+msgid "Applicable in the case of Employee Onboarding"
+msgstr ""
+
+
+#. Label of the applicant_email (Data) field in DocType 'Job Offer'
+
+#: hrms/hr/doctype/job_offer/job_offer.json
+
+msgid "Applicant Email Address"
+msgstr ""
+
+
+#. Label of the applicant_name (Data) field in DocType 'Appointment Letter'
+
+#. Label of the applicant_name (Data) field in DocType 'Job Applicant'
+
+#. Label of the applicant_name (Data) field in DocType 'Job Offer'
+
+#: hrms/hr/doctype/appointment_letter/appointment_letter.json
+
+#: hrms/hr/doctype/job_applicant/job_applicant.json
+
+#: hrms/hr/doctype/job_offer/job_offer.json
+
+msgid "Applicant Name"
+msgstr ""
+
+
+#. Label of the applicant_rating (Rating) field in DocType 'Job Applicant'
+
+#: hrms/hr/doctype/job_applicant/job_applicant.json
+
+msgid "Applicant Rating"
+msgstr ""
+
+
+#. Description of a DocType
+
+#: hrms/hr/doctype/job_applicant/job_applicant.json
+
+msgid "Applicant for a Job"
+msgstr ""
+
+
+#: hrms/hr/report/recruitment_analytics/recruitment_analytics.py:44
+
+msgid "Applicant name"
+msgstr ""
+
+
+#. Label of a Card Break in the Leaves Workspace
+
+#: hrms/hr/workspace/leaves/leaves.json
+
+msgid "Application"
+msgstr ""
+
+
+#: hrms/hr/report/recruitment_analytics/recruitment_analytics.py:46
+
+msgid "Application Status"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_application/leave_application.py:207
+
+msgid "Application period cannot be across two allocation records"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_application/leave_application.py:204
+
+msgid "Application period cannot be outside leave allocation period"
+msgstr ""
+
+
+#: hrms/templates/generators/job_opening.html:162
+
+msgid "Applications Received"
+msgstr ""
+
+
+#: hrms/www/jobs/index.html:235
+
+msgid "Applications received:"
+msgstr ""
+
+
+#. Label of the applies_to_all_departments (Check) field in DocType 'Leave
+
+#. Block List'
+
+#: hrms/hr/doctype/leave_block_list/leave_block_list.json
+
+msgid "Applies to Company"
+msgstr ""
+
+
+#: hrms/www/jobs/index.html:352
+
+msgid "Apply"
+msgstr ""
+
+
+#. Description of a DocType
+
+#: hrms/hr/doctype/leave_application/leave_application.json
+
+msgid "Apply / Approve Leaves"
+msgstr ""
+
+
+#: frontend/src/components/ListFiltersActionSheet.vue:83
+
+msgid "Apply Filters"
+msgstr ""
+
+
+#: hrms/templates/generators/job_opening.html:29
+
+#: hrms/templates/generators/job_opening.html:209
+
+msgid "Apply Now"
+msgstr ""
+
+
+#. Label of a Card Break in the Recruitment Workspace
+
+#: hrms/hr/workspace/recruitment/recruitment.json
+
+msgid "Appointment"
+msgstr ""
+
+
+#. Label of the appointment_date (Date) field in DocType 'Appointment Letter'
+
+#: hrms/hr/doctype/appointment_letter/appointment_letter.json
+
+msgid "Appointment Date"
+msgstr ""
+
+
+#. Name of a DocType
+
+#. Label of a Link in the Recruitment Workspace
+
+#: hrms/hr/doctype/appointment_letter/appointment_letter.json
+
+#: hrms/hr/workspace/recruitment/recruitment.json
+
+msgid "Appointment Letter"
+msgstr ""
+
+
+#. Label of the appointment_letter_template (Link) field in DocType
+
+#. 'Appointment Letter'
+
+#. Name of a DocType
+
+#. Label of a Link in the Recruitment Workspace
+
+#: hrms/hr/doctype/appointment_letter/appointment_letter.json
+
+#: hrms/hr/doctype/appointment_letter_template/appointment_letter_template.json
+
+#: hrms/hr/workspace/recruitment/recruitment.json
+
+msgid "Appointment Letter Template"
+msgstr ""
+
+
+#. Name of a DocType
+
+#: hrms/hr/doctype/appointment_letter_content/appointment_letter_content.json
+
+msgid "Appointment Letter content"
+msgstr ""
+
+
+#. Name of a DocType
+
+#. Label of the appraisal (Link) field in DocType 'Employee Performance
+
+#. Feedback'
+
+#. Label of a Card Break in the Performance Workspace
+
+#. Label of a Link in the Performance Workspace
+
+#. Label of a shortcut in the Performance Workspace
+
+#: hrms/hr/doctype/appraisal/appraisal.json
+
+#: hrms/hr/doctype/employee_performance_feedback/employee_performance_feedback.json
+
+#: hrms/hr/report/appraisal_overview/appraisal_overview.py:44
+
+#: hrms/hr/workspace/performance/performance.json
+
+msgid "Appraisal"
+msgstr ""
+
+
+#. Label of the appraisal_cycle (Link) field in DocType 'Appraisal'
+
+#. Name of a DocType
+
+#. Label of the appraisal_cycle (Link) field in DocType 'Employee Performance
+
+#. Feedback'
+
+#. Label of the appraisal_cycle (Link) field in DocType 'Goal'
+
+#. Label of a Link in the Performance Workspace
+
+#: hrms/hr/doctype/appraisal/appraisal.json
+
+#: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.json
+
+#: hrms/hr/doctype/employee_performance_feedback/employee_performance_feedback.json
+
+#: hrms/hr/doctype/goal/goal.json hrms/hr/doctype/goal/goal_tree.js:17
+
+#: hrms/hr/doctype/goal/goal_tree.js:105
+
+#: hrms/hr/report/appraisal_overview/appraisal_overview.js:18
+
+#: hrms/hr/report/appraisal_overview/appraisal_overview.py:37
+
+#: hrms/hr/workspace/performance/performance.json
+
+msgid "Appraisal Cycle"
+msgstr ""
+
+
+#. Name of a DocType
+
+#: hrms/hr/doctype/appraisal_goal/appraisal_goal.json
+
+msgid "Appraisal Goal"
+msgstr ""
+
+
+#. Name of a DocType
+
+#: hrms/hr/doctype/appraisal_kra/appraisal_kra.json
+
+msgid "Appraisal KRA"
+msgstr ""
+
+
+#. Label of the section_break_cycle (Section Break) field in DocType 'Goal'
+
+#: hrms/hr/doctype/goal/goal.json hrms/hr/doctype/goal/goal_tree.js:96
+
+msgid "Appraisal Linking"
+msgstr ""
+
+
+#. Name of a report
+
+#. Label of a Link in the Performance Workspace
+
+#: hrms/hr/report/appraisal_overview/appraisal_overview.json
+
+#: hrms/hr/workspace/performance/performance.json
+
+msgid "Appraisal Overview"
+msgstr ""
+
+
+#. Label of the appraisal_template (Link) field in DocType 'Appraisal'
+
+#. Name of a DocType
+
+#. Label of the appraisal_template (Link) field in DocType 'Appraisee'
+
+#. Label of a Link in the Performance Workspace
+
+#: hrms/hr/doctype/appraisal/appraisal.json
+
+#: hrms/hr/doctype/appraisal_template/appraisal_template.json
+
+#: hrms/hr/doctype/appraisee/appraisee.json
+
+#: hrms/hr/workspace/performance/performance.json hrms/setup.py:162
+
+msgid "Appraisal Template"
+msgstr ""
+
+
+#. Name of a DocType
+
+#: hrms/hr/doctype/appraisal_template_goal/appraisal_template_goal.json
+
+msgid "Appraisal Template Goal"
+msgstr ""
+
+
+#: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.py:142
+
+msgid "Appraisal Template Missing"
+msgstr ""
+
+
+#. Label of the template_title (Data) field in DocType 'Appraisal Template'
+
+#: hrms/hr/doctype/appraisal_template/appraisal_template.json
+
+msgid "Appraisal Template Title"
+msgstr ""
+
+
+#: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.py:135
+
+msgid "Appraisal Template not found for some designations."
+msgstr ""
+
+
+#: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.py:125
+
+msgid "Appraisal creation is queued. It may take a few minutes."
+msgstr ""
+
+
+#: hrms/hr/doctype/appraisal/appraisal.py:58
+
+msgid "Appraisal {0} already exists for Employee {1} for this Appraisal Cycle or overlapping period"
+msgstr ""
+
+
+#: hrms/hr/doctype/employee_performance_feedback/employee_performance_feedback.py:45
+
+msgid "Appraisal {0} does not belong to Employee {1}"
+msgstr ""
+
+
+#. Name of a DocType
+
+#: hrms/hr/doctype/appraisee/appraisee.json
+
+msgid "Appraisee"
+msgstr ""
+
+
+#: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.js:159
+
+msgid "Appraisees: {0}"
+msgstr ""
+
+
+#: hrms/setup.py:389
+
+msgid "Apprentice"
+msgstr ""
+
+
+#. Label of the section_break_7 (Section Break) field in DocType 'Leave
+
+#. Application'
+
+#: frontend/src/components/RequestActionSheet.vue:290
+
+#: hrms/hr/doctype/leave_application/leave_application.json
+
+msgid "Approval"
+msgstr ""
+
+
+#. Label of the approval_status (Select) field in DocType 'Expense Claim'
+
+#: hrms/hr/doctype/expense_claim/expense_claim.json
+
+msgid "Approval Status"
+msgstr ""
+
+
+#: hrms/hr/doctype/expense_claim/expense_claim.py:118
+
+msgid "Approval Status must be 'Approved' or 'Rejected'"
+msgstr ""
+
+
+#: frontend/src/components/RequestActionSheet.vue:108
+
+#: hrms/hr/doctype/shift_assignment_tool/shift_assignment_tool.js:119
+
+msgid "Approve"
+msgstr ""
+
+
+#. Option for the 'Approval Status' (Select) field in DocType 'Expense Claim'
+
+#. Option for the 'Status' (Select) field in DocType 'Leave Application'
+
+#. Option for the 'Status' (Select) field in DocType 'Shift Request'
+
+#: frontend/src/components/ExpenseClaimSummary.vue:36
+
+#: frontend/src/views/leave/List.vue:30
+
+#: hrms/hr/doctype/expense_claim/expense_claim.json
+
+#: hrms/hr/doctype/leave_application/leave_application.json
+
+#: hrms/hr/doctype/shift_request/shift_request.json
+
+msgid "Approved"
+msgstr ""
+
+
+#. Label of the approver (Link) field in DocType 'Department Approver'
+
+#. Label of the approver (Link) field in DocType 'Shift Assignment Tool'
+
+#. Label of the approver (Link) field in DocType 'Shift Request'
+
+#: hrms/hr/doctype/department_approver/department_approver.json
+
+#: hrms/hr/doctype/shift_assignment_tool/shift_assignment_tool.json
+
+#: hrms/hr/doctype/shift_request/shift_request.json
+
+msgid "Approver"
+msgstr ""
+
+
+#: hrms/setup.py:133 hrms/setup.py:235
+
+msgid "Approvers"
+msgstr ""
+
+
+#: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.js:15
+
+#: hrms/public/js/salary_slip_deductions_report_filters.js:22
+
+msgid "Apr"
+msgstr ""
+
+
+#: hrms/hr/doctype/goal/goal.js:77
+
+msgid "Archive"
+msgstr ""
+
+
+#. Option for the 'Status' (Select) field in DocType 'Goal'
+
+#: hrms/hr/doctype/goal/goal.json
+
+msgid "Archived"
+msgstr ""
+
+
+#: frontend/src/components/FileUploaderView.vue:53
+
+msgid "Are you sure you want to delete the attachment"
+msgstr ""
+
+
+#: frontend/src/components/FormView.vue:223
+
+msgid "Are you sure you want to delete the {0}"
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_slip/salary_slip_list.js:19
+
+msgid "Are you sure you want to email the selected salary slips?"
+msgstr ""
+
+
+#: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.js:134
+
+#: hrms/payroll/doctype/bulk_salary_structure_assignment/bulk_salary_structure_assignment.js:270
+
+#: hrms/payroll/doctype/salary_component/salary_component.js:119
+
+msgid "Are you sure you want to proceed?"
+msgstr "คุณแน่ใจหรือไม่ว่าต้องการดำเนินการต่อ?"
+
+
+#: hrms/hr/doctype/employee_referral/employee_referral.js:9
+
+msgid "Are you sure you want to reject the Employee Referral?"
+msgstr ""
+
+
+#. Label of the arrival_date (Datetime) field in DocType 'Travel Itinerary'
+
+#: hrms/hr/doctype/travel_itinerary/travel_itinerary.json
+
+msgid "Arrival Datetime"
+msgstr ""
+
+
+#: hrms/payroll/doctype/employee_benefit_application/employee_benefit_application.py:41
+
+msgid "As per your assigned Salary Structure you cannot apply for benefits"
+msgstr ""
+
+
+#. Label of the asset_name (Data) field in DocType 'Full and Final Asset'
+
+#: hrms/hr/doctype/full_and_final_asset/full_and_final_asset.json
+
+msgid "Asset Name"
+msgstr "ชื่อสินทรัพย์"
+
+
+#: hrms/hr/doctype/full_and_final_statement/full_and_final_statement.py:97
+
+msgid "Asset Recovery Cost for {0}: {1}"
+msgstr ""
+
+
+#. Label of the section_break_15 (Section Break) field in DocType 'Full and
+
+#. Final Statement'
+
+#: hrms/hr/doctype/full_and_final_statement/full_and_final_statement.json
+
+msgid "Assets Allocated"
+msgstr ""
+
+
+#: hrms/payroll/doctype/bulk_salary_structure_assignment/bulk_salary_structure_assignment.js:283
+
+msgid "Assign Salary Structure to {0} employee(s)?"
+msgstr ""
+
+
+#. Option for the 'Action' (Select) field in DocType 'Shift Assignment Tool'
+
+#: hrms/hr/doctype/shift_assignment_tool/shift_assignment_tool.js:110
+
+#: hrms/hr/doctype/shift_assignment_tool/shift_assignment_tool.json
+
+msgid "Assign Shift"
+msgstr ""
+
+
+#. Option for the 'Action' (Select) field in DocType 'Shift Assignment Tool'
+
+#: hrms/hr/doctype/shift_assignment_tool/shift_assignment_tool.js:114

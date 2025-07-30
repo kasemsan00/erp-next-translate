@@ -1,0 +1,1289 @@
+msgid ""
+
+#. Claim'
+
+#: hrms/hr/doctype/expense_claim/expense_claim.json
+
+msgid "Total Claimed Amount"
+msgstr ""
+
+
+#. Label of the total_declared_amount (Currency) field in DocType 'Employee Tax
+
+#. Exemption Declaration'
+
+#: hrms/payroll/doctype/employee_tax_exemption_declaration/employee_tax_exemption_declaration.json
+
+msgid "Total Declared Amount"
+msgstr ""
+
+
+#. Label of the total_deduction (Currency) field in DocType 'Salary Slip'
+
+#. Label of the total_deduction (Currency) field in DocType 'Salary Structure'
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.json
+
+#: hrms/payroll/report/salary_payments_based_on_payment_mode/salary_payments_based_on_payment_mode.py:148
+
+#: hrms/payroll/report/salary_register/salary_register.py:235
+
+msgid "Total Deduction"
+msgstr ""
+
+
+#. Label of the base_total_deduction (Currency) field in DocType 'Salary Slip'
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+msgid "Total Deduction (Company Currency)"
+msgstr ""
+
+
+#: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.py:146
+
+msgid "Total Early Exits"
+msgstr ""
+
+
+#. Label of the total_earning (Currency) field in DocType 'Salary Structure'
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.json
+
+msgid "Total Earning"
+msgstr ""
+
+
+#. Label of the total_earnings (Currency) field in DocType 'Salary Slip'
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+msgid "Total Earnings"
+msgstr ""
+
+
+#. Label of the total_estimated_budget (Currency) field in DocType 'Staffing
+
+#. Plan'
+
+#: hrms/hr/doctype/staffing_plan/staffing_plan.json
+
+msgid "Total Estimated Budget"
+msgstr ""
+
+
+#. Label of the total_estimated_cost (Currency) field in DocType 'Staffing Plan
+
+#. Detail'
+
+#: hrms/hr/doctype/staffing_plan_detail/staffing_plan_detail.json
+
+msgid "Total Estimated Cost"
+msgstr ""
+
+
+#. Label of the total_exemption_amount (Currency) field in DocType 'Employee
+
+#. Tax Exemption Declaration'
+
+#. Label of the exemption_amount (Currency) field in DocType 'Employee Tax
+
+#. Exemption Proof Submission'
+
+#: hrms/payroll/doctype/employee_tax_exemption_declaration/employee_tax_exemption_declaration.json
+
+#: hrms/payroll/doctype/employee_tax_exemption_proof_submission/employee_tax_exemption_proof_submission.json
+
+msgid "Total Exemption Amount"
+msgstr ""
+
+
+#: frontend/src/components/ExpenseClaimSummary.vue:9
+
+msgid "Total Expense Amount"
+msgstr ""
+
+
+#: hrms/setup.py:292
+
+msgid "Total Expense Claim (via Expense Claim)"
+msgstr ""
+
+
+#: hrms/setup.py:283
+
+msgid "Total Expense Claim (via Expense Claims)"
+msgstr ""
+
+
+#. Label of the total_score (Float) field in DocType 'Appraisal'
+
+#: hrms/hr/doctype/appraisal/appraisal.json
+
+#: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.js:79
+
+msgid "Total Goal Score"
+msgstr ""
+
+
+#: hrms/payroll/report/salary_payments_based_on_payment_mode/salary_payments_based_on_payment_mode.py:141
+
+msgid "Total Gross Pay"
+msgstr ""
+
+
+#: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.py:123
+
+msgid "Total Holidays"
+msgstr "รวมวันหยุด"
+
+
+#: hrms/hr/report/employee_hours_utilization_based_on_timesheet/employee_hours_utilization_based_on_timesheet.py:66
+
+msgid "Total Hours (T)"
+msgstr ""
+
+
+#. Label of the total_income_tax (Currency) field in DocType 'Salary Slip'
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+msgid "Total Income Tax"
+msgstr ""
+
+
+#: hrms/setup.py:795
+
+msgid "Total Interest Amount"
+msgstr ""
+
+
+#: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.py:140
+
+msgid "Total Late Entries"
+msgstr ""
+
+
+#. Label of the total_leave_days (Float) field in DocType 'Leave Application'
+
+#: hrms/hr/doctype/leave_application/leave_application.json
+
+msgid "Total Leave Days"
+msgstr ""
+
+
+#: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.py:120
+
+msgid "Total Leaves"
+msgstr ""
+
+
+#: hrms/hr/report/leave_ledger/leave_ledger.py:192
+
+msgid "Total Leaves ({0})"
+msgstr ""
+
+
+#. Label of the total_leaves_allocated (Float) field in DocType 'Leave
+
+#. Allocation'
+
+#: hrms/hr/doctype/leave_allocation/leave_allocation.json
+
+msgid "Total Leaves Allocated"
+msgstr ""
+
+
+#. Label of the total_leaves_encashed (Float) field in DocType 'Leave
+
+#. Allocation'
+
+#: hrms/hr/doctype/leave_allocation/leave_allocation.json
+
+msgid "Total Leaves Encashed"
+msgstr ""
+
+
+#: hrms/setup.py:809
+
+msgid "Total Loan Repayment"
+msgstr ""
+
+
+#: hrms/payroll/report/salary_payments_based_on_payment_mode/salary_payments_based_on_payment_mode.py:155
+
+msgid "Total Net Pay"
+msgstr ""
+
+
+#: hrms/hr/report/employee_hours_utilization_based_on_timesheet/employee_hours_utilization_based_on_timesheet.py:228
+
+msgid "Total Non-Billed Hours"
+msgstr ""
+
+
+#. Label of the total_payable_amount (Currency) field in DocType 'Full and
+
+#. Final Statement'
+
+#: hrms/hr/doctype/full_and_final_statement/full_and_final_statement.json
+
+msgid "Total Payable Amount"
+msgstr ""
+
+
+#. Label of the total_payment (Currency) field in DocType 'Salary Slip Loan'
+
+#: hrms/payroll/doctype/salary_slip_loan/salary_slip_loan.json
+
+msgid "Total Payment"
+msgstr ""
+
+
+#: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.py:115
+
+msgid "Total Present"
+msgstr ""
+
+
+#: hrms/setup.py:786
+
+msgid "Total Principal Amount"
+msgstr ""
+
+
+#. Label of the total_receivable_amount (Currency) field in DocType 'Full and
+
+#. Final Statement'
+
+#: hrms/hr/doctype/full_and_final_statement/full_and_final_statement.json
+
+msgid "Total Receivable Amount"
+msgstr ""
+
+
+#: hrms/hr/report/employee_exits/employee_exits.py:215
+
+msgid "Total Resignations"
+msgstr ""
+
+
+#. Label of the total_sanctioned_amount (Currency) field in DocType 'Expense
+
+#. Claim'
+
+#: hrms/hr/doctype/expense_claim/expense_claim.json
+
+msgid "Total Sanctioned Amount"
+msgstr ""
+
+
+#. Label of the total_score (Float) field in DocType 'Employee Performance
+
+#. Feedback'
+
+#: hrms/hr/doctype/employee_performance_feedback/employee_performance_feedback.json
+
+msgid "Total Score"
+msgstr ""
+
+
+#. Label of the self_score (Float) field in DocType 'Appraisal'
+
+#: hrms/hr/doctype/appraisal/appraisal.json
+
+msgid "Total Self Score"
+msgstr ""
+
+
+#. Label of the total_taxes_and_charges (Currency) field in DocType 'Expense
+
+#. Claim'
+
+#: hrms/hr/doctype/expense_claim/expense_claim.json
+
+msgid "Total Taxes and Charges"
+msgstr "รวมภาษีและค่าธรรมเนียม"
+
+
+#. Label of the total_working_hours (Float) field in DocType 'Salary Slip'
+
+#: hrms/hr/report/shift_attendance/shift_attendance.py:79
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+msgid "Total Working Hours"
+msgstr "รวมชั่วโมงทำงาน"
+
+
+#: hrms/hr/doctype/expense_claim/expense_claim.py:370
+
+msgid "Total advance amount cannot be greater than total sanctioned amount"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_allocation/leave_allocation.py:73
+
+msgid "Total allocated leaves are more than maximum allocation allowed for {0} leave type for employee {1} in the period"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_allocation/leave_allocation.py:162
+
+msgid "Total allocated leaves {0} cannot be less than already approved leaves {1} for the period"
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_structure/salary_structure.py:170
+
+msgid "Total flexible benefit component amount {0} should not be less than max benefits {1}"
+msgstr ""
+
+
+#. Label of the total_in_words (Data) field in DocType 'Salary Slip'
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+msgid "Total in words"
+msgstr ""
+
+
+#. Label of the base_total_in_words (Data) field in DocType 'Salary Slip'
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+msgid "Total in words (Company Currency)"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_allocation/leave_allocation.py:367
+
+msgid "Total leaves allocated cannot exceed annual allocation of {0}."
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_allocation/leave_allocation.py:253
+
+msgid "Total leaves allocated is mandatory for Leave Type {0}"
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_structure_assignment/salary_structure_assignment.py:148
+
+msgid "Total percentage against cost centers should be 100"
+msgstr "เปอร์เซ็นต์รวมต่อศูนย์ต้นทุนควรเป็น 100"
+
+
+#. Description of the 'Year To Date' (Currency) field in DocType 'Salary
+
+#. Detail'
+
+#: hrms/payroll/doctype/salary_detail/salary_detail.json
+
+msgid "Total salary booked against this component for this employee from the beginning of the year (payroll period or fiscal year) up to the current salary slip's end date."
+msgstr ""
+
+
+#. Description of the 'Month To Date' (Currency) field in DocType 'Salary Slip'
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+msgid "Total salary booked for this employee from the beginning of the month up to the current salary slip's end date."
+msgstr ""
+
+
+#. Description of the 'Year To Date' (Currency) field in DocType 'Salary Slip'
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+msgid "Total salary booked for this employee from the beginning of the year (payroll period or fiscal year) up to the current salary slip's end date."
+msgstr ""
+
+
+#: hrms/hr/doctype/appraisal/appraisal.py:153 hrms/mixins/appraisal.py:17
+
+msgid "Total weightage for all {0} must add up to 100. Currently, it is {1}%"
+msgstr ""
+
+
+#. Label of the total_working_days_per_year (Int) field in DocType 'Gratuity
+
+#. Rule'
+
+#: hrms/payroll/doctype/gratuity_rule/gratuity_rule.json
+
+msgid "Total working Days Per Year"
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.py:168
+
+msgid "Total working hours should not be greater than max working hours {0}"
+msgstr ""
+
+
+#. Label of the transactions_section (Section Break) field in DocType 'Expense
+
+#. Claim'
+
+#. Label of the totals_section (Section Break) field in DocType 'Full and Final
+
+#. Statement'
+
+#. Label of the totals (Section Break) field in DocType 'Employee Benefit
+
+#. Application'
+
+#. Label of the totals (Section Break) field in DocType 'Salary Slip'
+
+#: hrms/hr/doctype/expense_claim/expense_claim.json
+
+#: hrms/hr/doctype/full_and_final_statement/full_and_final_statement.json
+
+#: hrms/payroll/doctype/employee_benefit_application/employee_benefit_application.json
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+msgid "Totals"
+msgstr "รวมทั้งหมด"
+
+
+#. Option for the 'Mode of Travel' (Select) field in DocType 'Travel Itinerary'
+
+#: hrms/hr/doctype/travel_itinerary/travel_itinerary.json
+
+msgid "Train"
+msgstr ""
+
+
+#. Label of the trainer_email (Data) field in DocType 'Training Event'
+
+#. Label of the trainer_email (Data) field in DocType 'Training Program'
+
+#: hrms/hr/doctype/training_event/training_event.json
+
+#: hrms/hr/doctype/training_program/training_program.json
+
+msgid "Trainer Email"
+msgstr ""
+
+
+#. Label of the trainer_name (Data) field in DocType 'Training Event'
+
+#. Label of the trainer_name (Data) field in DocType 'Training Feedback'
+
+#. Label of the trainer_name (Data) field in DocType 'Training Program'
+
+#: hrms/hr/doctype/training_event/training_event.json
+
+#: hrms/hr/doctype/training_feedback/training_feedback.json
+
+#: hrms/hr/doctype/training_program/training_program.json
+
+msgid "Trainer Name"
+msgstr ""
+
+
+#. Label of the training (Link) field in DocType 'Employee Training'
+
+#. Label of a Card Break in the Employee Lifecycle Workspace
+
+#: hrms/hr/doctype/employee_training/employee_training.json
+
+#: hrms/hr/workspace/employee_lifecycle/employee_lifecycle.json
+
+#: hrms/overrides/dashboard_overrides.py:49
+
+msgid "Training"
+msgstr ""
+
+
+#. Label of the training_date (Date) field in DocType 'Employee Training'
+
+#: hrms/hr/doctype/employee_training/employee_training.json
+
+msgid "Training Date"
+msgstr ""
+
+
+#. Name of a DocType
+
+#. Label of the training_event (Link) field in DocType 'Training Feedback'
+
+#. Label of the training_event (Link) field in DocType 'Training Result'
+
+#. Label of a Link in the Employee Lifecycle Workspace
+
+#: hrms/hr/doctype/training_event/training_event.json
+
+#: hrms/hr/doctype/training_feedback/training_feedback.json
+
+#: hrms/hr/doctype/training_feedback/training_feedback.py:14
+
+#: hrms/hr/doctype/training_result/training_result.json
+
+#: hrms/hr/doctype/training_result/training_result.py:16
+
+#: hrms/hr/workspace/employee_lifecycle/employee_lifecycle.json
+
+#: hrms/templates/emails/training_event.html:1
+
+msgid "Training Event"
+msgstr ""
+
+
+#. Name of a DocType
+
+#: hrms/hr/doctype/training_event_employee/training_event_employee.json
+
+msgid "Training Event Employee"
+msgstr ""
+
+
+#: hrms/hr/notification/training_scheduled/training_scheduled.html:7
+
+msgid "Training Event:"
+msgstr ""
+
+
+#: hrms/hr/doctype/training_program/training_program_dashboard.py:8
+
+msgid "Training Events"
+msgstr ""
+
+
+#. Name of a DocType
+
+#. Label of a Link in the Employee Lifecycle Workspace
+
+#: hrms/hr/doctype/training_event/training_event.js:16
+
+#: hrms/hr/doctype/training_feedback/training_feedback.json
+
+#: hrms/hr/workspace/employee_lifecycle/employee_lifecycle.json
+
+msgid "Training Feedback"
+msgstr ""
+
+
+#. Label of the training_program (Link) field in DocType 'Training Event'
+
+#. Name of a DocType
+
+#. Label of the training_program (Data) field in DocType 'Training Program'
+
+#. Label of a Link in the Employee Lifecycle Workspace
+
+#: hrms/hr/doctype/training_event/training_event.json
+
+#: hrms/hr/doctype/training_program/training_program.json
+
+#: hrms/hr/workspace/employee_lifecycle/employee_lifecycle.json
+
+msgid "Training Program"
+msgstr ""
+
+
+#. Name of a DocType
+
+#. Label of a Link in the Employee Lifecycle Workspace
+
+#: hrms/hr/doctype/training_event/training_event.js:10
+
+#: hrms/hr/doctype/training_result/training_result.json
+
+#: hrms/hr/workspace/employee_lifecycle/employee_lifecycle.json
+
+msgid "Training Result"
+msgstr ""
+
+
+#. Name of a DocType
+
+#: hrms/hr/doctype/training_result_employee/training_result_employee.json
+
+msgid "Training Result Employee"
+msgstr ""
+
+
+#. Label of the trainings_section (Section Break) field in DocType 'Employee
+
+#. Skill Map'
+
+#. Label of the trainings (Table) field in DocType 'Employee Skill Map'
+
+#: hrms/hr/doctype/employee_skill_map/employee_skill_map.json
+
+msgid "Trainings"
+msgstr ""
+
+
+#. Label of the transaction_date (Date) field in DocType 'Full and Final
+
+#. Statement'
+
+#: hrms/hr/doctype/full_and_final_statement/full_and_final_statement.json
+
+msgid "Transaction Date"
+msgstr "วันที่ธุรกรรม"
+
+
+#. Label of the transaction_name (Dynamic Link) field in DocType 'Leave Ledger
+
+#. Entry'
+
+#: hrms/hr/doctype/leave_ledger_entry/leave_ledger_entry.json
+
+#: hrms/hr/report/leave_ledger/leave_ledger.js:66
+
+#: hrms/hr/report/leave_ledger/leave_ledger.py:78
+
+msgid "Transaction Name"
+msgstr ""
+
+
+#. Label of the transaction_type (Link) field in DocType 'Leave Ledger Entry'
+
+#: hrms/hr/doctype/leave_ledger_entry/leave_ledger_entry.json
+
+#: hrms/hr/report/leave_ledger/leave_ledger.js:60
+
+#: hrms/hr/report/leave_ledger/leave_ledger.py:72
+
+msgid "Transaction Type"
+msgstr "ประเภทธุรกรรม"
+
+
+#: hrms/hr/doctype/leave_period/leave_period_dashboard.py:7
+
+msgid "Transactions"
+msgstr "ธุรกรรม"
+
+
+#: hrms/hr/utils.py:716
+
+msgid "Transactions cannot be created for an Inactive Employee {0}."
+msgstr ""
+
+
+#. Label of the transfer_date (Date) field in DocType 'Employee Transfer'
+
+#: hrms/hr/doctype/employee_transfer/employee_transfer.json
+
+msgid "Transfer Date"
+msgstr ""
+
+
+#. Label of a Card Break in the Expense Claims Workspace
+
+#: hrms/hr/workspace/expense_claims/expense_claims.json hrms/setup.py:329
+
+msgid "Travel"
+msgstr ""
+
+
+#. Label of the travel_advance_required (Check) field in DocType 'Travel
+
+#. Itinerary'
+
+#: hrms/hr/doctype/travel_itinerary/travel_itinerary.json
+
+msgid "Travel Advance Required"
+msgstr ""
+
+
+#. Label of the travel_from (Data) field in DocType 'Travel Itinerary'
+
+#: hrms/hr/doctype/travel_itinerary/travel_itinerary.json
+
+msgid "Travel From"
+msgstr ""
+
+
+#. Label of the travel_funding (Select) field in DocType 'Travel Request'
+
+#: hrms/hr/doctype/travel_request/travel_request.json
+
+msgid "Travel Funding"
+msgstr ""
+
+
+#. Name of a DocType
+
+#. Label of the travel_itinerary (Section Break) field in DocType 'Travel
+
+#. Request'
+
+#: hrms/hr/doctype/travel_itinerary/travel_itinerary.json
+
+#: hrms/hr/doctype/travel_request/travel_request.json
+
+msgid "Travel Itinerary"
+msgstr ""
+
+
+#. Name of a DocType
+
+#. Label of a Link in the Expense Claims Workspace
+
+#. Label of a Link in the Overview Workspace
+
+#: hrms/hr/doctype/travel_request/travel_request.json
+
+#: hrms/hr/workspace/expense_claims/expense_claims.json
+
+#: hrms/hr/workspace/overview/overview.json
+
+msgid "Travel Request"
+msgstr ""
+
+
+#. Name of a DocType
+
+#: hrms/hr/doctype/travel_request_costing/travel_request_costing.json
+
+msgid "Travel Request Costing"
+msgstr ""
+
+
+#. Label of the travel_to (Data) field in DocType 'Travel Itinerary'
+
+#: hrms/hr/doctype/travel_itinerary/travel_itinerary.json
+
+msgid "Travel To"
+msgstr ""
+
+
+#. Label of the travel_type (Select) field in DocType 'Travel Request'
+
+#: hrms/hr/doctype/travel_request/travel_request.json
+
+msgid "Travel Type"
+msgstr ""
+
+
+#: frontend/src/components/AttendanceCalendar.vue:114
+
+#: hrms/hr/doctype/leave_block_list/leave_block_list.js:42
+
+msgid "Tuesday"
+msgstr ""
+
+
+#. Label of the type (Select) field in DocType 'Training Event'
+
+#. Label of the type (Select) field in DocType 'Vehicle Service'
+
+#. Label of the type (Select) field in DocType 'Salary Component'
+
+#: hrms/hr/doctype/training_event/training_event.json
+
+#: hrms/hr/doctype/vehicle_service/vehicle_service.json
+
+#: hrms/payroll/doctype/salary_component/salary_component.json
+
+#: hrms/payroll/report/salary_payments_via_ecs/salary_payments_via_ecs.js:12
+
+msgid "Type"
+msgstr ""
+
+
+#. Label of the type_of_proof (Data) field in DocType 'Employee Tax Exemption
+
+#. Proof Submission Detail'
+
+#: hrms/payroll/doctype/employee_tax_exemption_proof_submission_detail/employee_tax_exemption_proof_submission_detail.json
+
+msgid "Type of Proof"
+msgstr ""
+
+
+#: hrms/payroll/doctype/employee_benefit_claim/employee_benefit_claim.py:116
+
+msgid "Unable to find Salary Component {0}"
+msgstr ""
+
+
+#: hrms/public/js/utils/index.js:206
+
+msgid "Unable to retrieve your location"
+msgstr ""
+
+
+#: hrms/hr/doctype/goal/goal.js:55
+
+msgid "Unarchive"
+msgstr ""
+
+
+#. Label of the unclaimed_amount (Currency) field in DocType 'Expense Claim
+
+#. Advance'
+
+#: frontend/src/components/ExpenseAdvancesTable.vue:36
+
+#: hrms/hr/doctype/expense_claim_advance/expense_claim_advance.json
+
+msgid "Unclaimed Amount"
+msgstr ""
+
+
+#. Option for the 'Status' (Select) field in DocType 'Interview'
+
+#: hrms/hr/doctype/interview/interview.json
+
+msgid "Under Review"
+msgstr ""
+
+
+#. Label of the unlink_payment_section (Section Break) field in DocType 'HR
+
+#. Settings'
+
+#: hrms/hr/doctype/hr_settings/hr_settings.json
+
+msgid "Unlink Payment"
+msgstr ""
+
+
+#: hrms/hr/doctype/attendance/attendance.py:230
+
+msgid "Unlinked Attendance record from Employee Checkins: {}"
+msgstr ""
+
+
+#: hrms/hr/doctype/attendance/attendance.py:233
+
+msgid "Unlinked logs"
+msgstr ""
+
+
+#: hrms/hr/doctype/attendance/attendance_list.js:84
+
+msgid "Unmarked Attendance for days"
+msgstr ""
+
+
+#: hrms/hr/doctype/shift_type/shift_type.py:87
+
+msgid "Unmarked Check-in Logs Found"
+msgstr ""
+
+
+#: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.py:129
+
+#: hrms/public/js/templates/employees_with_unmarked_attendance.html:19
+
+msgid "Unmarked Days"
+msgstr ""
+
+
+#. Label of the unmarked_employee_header (HTML) field in DocType 'Employee
+
+#. Attendance Tool'
+
+#: hrms/hr/doctype/employee_attendance_tool/employee_attendance_tool.json
+
+msgid "Unmarked Employee Header"
+msgstr ""
+
+
+#. Label of the unmarked_employees_html (HTML) field in DocType 'Employee
+
+#. Attendance Tool'
+
+#: hrms/hr/doctype/employee_attendance_tool/employee_attendance_tool.json
+
+msgid "Unmarked Employees HTML"
+msgstr ""
+
+
+#. Label of the unmarked_days (Float) field in DocType 'Salary Slip'
+
+#: hrms/payroll/doctype/salary_slip/salary_slip.json
+
+msgid "Unmarked days"
+msgstr ""
+
+
+#. Option for the 'Status' (Select) field in DocType 'Employee Advance'
+
+#. Option for the 'Referral Bonus Payment Status' (Select) field in DocType
+
+#. 'Employee Referral'
+
+#. Option for the 'Status' (Select) field in DocType 'Expense Claim'
+
+#. Option for the 'Status' (Select) field in DocType 'Full and Final Statement'
+
+#. Option for the 'Status' (Select) field in DocType 'Leave Encashment'
+
+#. Option for the 'Status' (Select) field in DocType 'Gratuity'
+
+#: frontend/src/views/employee_advance/List.vue:42
+
+#: hrms/hr/doctype/employee_advance/employee_advance.json
+
+#: hrms/hr/doctype/employee_referral/employee_referral.json
+
+#: hrms/hr/doctype/expense_claim/expense_claim.json
+
+#: hrms/hr/doctype/full_and_final_statement/full_and_final_statement.json
+
+#: hrms/hr/doctype/leave_encashment/leave_encashment.json
+
+#: hrms/payroll/doctype/gratuity/gratuity.json
+
+msgid "Unpaid"
+msgstr "ยังไม่ได้ชำระ"
+
+
+#. Name of a report
+
+#. Label of a Link in the Expense Claims Workspace
+
+#: hrms/hr/report/unpaid_expense_claim/unpaid_expense_claim.json
+
+#: hrms/hr/workspace/expense_claims/expense_claims.json
+
+msgid "Unpaid Expense Claim"
+msgstr ""
+
+
+#. Option for the 'Status' (Select) field in DocType 'Full and Final
+
+#. Outstanding Statement'
+
+#: hrms/hr/doctype/full_and_final_outstanding_statement/full_and_final_outstanding_statement.json
+
+msgid "Unsettled"
+msgstr ""
+
+
+#: hrms/hr/doctype/full_and_final_statement/full_and_final_statement.py:52
+
+msgid "Unsettled Transactions"
+msgstr ""
+
+
+#: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.py:158
+
+msgid "Unsubmitted Appraisals"
+msgstr ""
+
+
+#: hrms/hr/report/employee_hours_utilization_based_on_timesheet/employee_hours_utilization_based_on_timesheet.py:251
+
+msgid "Untracked Hours"
+msgstr ""
+
+
+#: hrms/hr/report/employee_hours_utilization_based_on_timesheet/employee_hours_utilization_based_on_timesheet.py:80
+
+msgid "Untracked Hours (U)"
+msgstr ""
+
+
+#. Label of the unused_leaves (Float) field in DocType 'Leave Allocation'
+
+#: hrms/hr/doctype/leave_allocation/leave_allocation.json
+
+msgid "Unused leaves"
+msgstr ""
+
+
+#: frontend/src/components/Holidays.vue:4
+
+msgid "Upcoming Holidays"
+msgstr ""
+
+
+#: hrms/controllers/employee_reminders.py:69
+
+msgid "Upcoming Holidays Reminder"
+msgstr ""
+
+
+#: frontend/src/views/attendance/Dashboard.vue:23
+
+msgid "Upcoming Shifts"
+msgstr ""
+
+
+#: hrms/hr/doctype/goal/goal_tree.js:251
+
+#: hrms/payroll/doctype/bulk_salary_structure_assignment/bulk_salary_structure_assignment.js:208
+
+#: hrms/payroll/doctype/bulk_salary_structure_assignment/bulk_salary_structure_assignment.js:226
+
+#: hrms/payroll/doctype/bulk_salary_structure_assignment/bulk_salary_structure_assignment.js:235
+
+msgid "Update"
+msgstr "อัปเดต"
+
+
+#: frontend/src/components/ExpensesTable.vue:123
+
+msgid "Update Expense"
+msgstr ""
+
+
+#: hrms/hr/doctype/interview/interview.py:71
+
+msgid "Update Job Applicant"
+msgstr ""
+
+
+#: hrms/hr/doctype/goal/goal_tree.js:232 hrms/hr/doctype/goal/goal_tree.js:238
+
+msgid "Update Progress"
+msgstr ""
+
+
+#: hrms/templates/emails/training_event.html:11
+
+msgid "Update Response"
+msgstr ""
+
+
+#: hrms/payroll/doctype/salary_component/salary_component.js:104
+
+msgid "Update Salary Structures"
+msgstr ""
+
+
+#: hrms/hr/doctype/goal/goal_list.js:35
+
+msgid "Update Status"
+msgstr ""
+
+
+#: frontend/src/components/ExpenseTaxesTable.vue:118
+
+msgid "Update Tax"
+msgstr ""
+
+
+#: hrms/hr/doctype/attendance_request/attendance_request.py:108
+
+msgid "Updated status from {0} to {1} for date {2} in the attendance record {3}"
+msgstr ""
+
+
+#: hrms/hr/doctype/interview/interview.py:198
+
+msgid "Updated the Job Applicant status to {0}"
+msgstr ""
+
+
+#: hrms/overrides/employee_master.py:77
+
+msgid "Updated the status of Job Offer {0} for the linked Job Applicant {1} to {2}"
+msgstr ""
+
+
+#: hrms/overrides/employee_master.py:63
+
+msgid "Updated the status of linked Job Applicant {0} to {1}"
+msgstr ""
+
+
+#. Name of a DocType
+
+#. Label of a Link in the Shift & Attendance Workspace
+
+#: hrms/hr/doctype/upload_attendance/upload_attendance.json
+
+#: hrms/hr/workspace/shift_&_attendance/shift_&_attendance.json
+
+msgid "Upload Attendance"
+msgstr ""
+
+
+#. Label of the upload_html (HTML) field in DocType 'Upload Attendance'
+
+#: hrms/hr/doctype/upload_attendance/upload_attendance.json
+
+msgid "Upload HTML"
+msgstr ""
+
+
+#: frontend/src/components/FileUploaderView.vue:11
+
+msgid "Upload images or documents"
+msgstr ""
+
+
+#: frontend/src/components/FormView.vue:119
+
+#: frontend/src/components/FormView.vue:158
+
+msgid "Uploading..."
+msgstr ""
+
+
+#. Label of the upper_range (Currency) field in DocType 'Job Applicant'
+
+#. Label of the upper_range (Currency) field in DocType 'Job Opening'
+
+#: hrms/hr/doctype/job_applicant/job_applicant.json
+
+#: hrms/hr/doctype/job_opening/job_opening.json
+
+msgid "Upper Range"
+msgstr ""
+
+
+#. Label of the used_leaves (Float) field in DocType 'Salary Slip Leave'
+
+#: hrms/payroll/doctype/salary_slip_leave/salary_slip_leave.json
+
+msgid "Used Leave(s)"
+msgstr ""
+
+
+#: hrms/hr/doctype/leave_application/leave_application_dashboard.html:9
+
+msgid "Used Leaves"
+msgstr ""
+
+
+#. Label of the user (Link) field in DocType 'Daily Work Summary Group User'
+
+#. Label of the user (Link) field in DocType 'Employee Boarding Activity'
+
+#. Label of the user (Link) field in DocType 'Employee Performance Feedback'
+
+#. Label of the user (Data) field in DocType 'Goal'
+
+#. Label of the user (Link) field in DocType 'Interviewer'
+
+#: hrms/hr/doctype/daily_work_summary_group_user/daily_work_summary_group_user.json
+
+#: hrms/hr/doctype/employee_boarding_activity/employee_boarding_activity.json
+
+#: hrms/hr/doctype/employee_performance_feedback/employee_performance_feedback.json
+
+#: hrms/hr/doctype/goal/goal.json hrms/hr/doctype/interviewer/interviewer.json
+
+#: hrms/hr/report/daily_work_summary_replies/daily_work_summary_replies.py:20
+
+msgid "User"
+msgstr "ผู้ใช้"
+
+
+#. Label of the users (Table) field in DocType 'Daily Work Summary Group'
+
+#: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
+
+msgid "Users"
+msgstr "ผู้ใช้"
+
+
+#: hrms/hr/report/project_profitability/project_profitability.py:188
+
+msgid "Utilization"
+msgstr "การใช้งาน"
+
+
+#. Label of the vacancies (Int) field in DocType 'Job Opening'
+
+#. Label of the vacancies (Int) field in DocType 'Staffing Plan Detail'
+
+#: hrms/hr/doctype/job_opening/job_opening.json
+
+#: hrms/hr/doctype/staffing_plan_detail/staffing_plan_detail.json
+
+msgid "Vacancies"
+msgstr ""
+
+
+#: hrms/hr/doctype/staffing_plan/staffing_plan.js:81
+
+msgid "Vacancies cannot be lower than the current openings"
+msgstr ""
+
+
+#: hrms/hr/doctype/job_opening/job_opening.py:88
+
+msgid "Vacancies fulfilled"
+msgstr ""
+
+
+#. Label of the validate_attendance (Check) field in DocType 'Payroll Entry'
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.json
+
+msgid "Validate Attendance"
+msgstr ""
+
+
+#: hrms/payroll/doctype/payroll_entry/payroll_entry.js:383
+
+msgid "Validating Employee Attendance..."
+msgstr ""
+
+
+#. Label of the value (Small Text) field in DocType 'Job Offer Term'
+
+#: hrms/hr/doctype/job_offer_term/job_offer_term.json
+
+msgid "Value / Description"
+msgstr ""
+
+
+#: hrms/hr/employee_property_update.js:196
+
+msgid "Value missing"
+msgstr ""
+
+
+#. Label of the variable (Currency) field in DocType 'Salary Structure
+
+#. Assignment'
+
+#: hrms/payroll/doctype/bulk_salary_structure_assignment/bulk_salary_structure_assignment.js:185
+
+#: hrms/payroll/doctype/salary_structure_assignment/salary_structure_assignment.json
+
+msgid "Variable"
+msgstr ""
+
+
+#. Label of the variable_based_on_taxable_salary (Check) field in DocType
+
+#. 'Salary Component'
+
+#. Label of the variable_based_on_taxable_salary (Check) field in DocType
+
+#. 'Salary Detail'
+
+#: hrms/payroll/doctype/additional_salary/additional_salary.py:176
+
+#: hrms/payroll/doctype/salary_component/salary_component.json
+
+#: hrms/payroll/doctype/salary_detail/salary_detail.json
+
+msgid "Variable Based On Taxable Salary"
+msgstr ""
+
+
+#. Option for the 'Meal Preference' (Select) field in DocType 'Travel
+
+#. Itinerary'
+
+#: hrms/hr/doctype/travel_itinerary/travel_itinerary.json
+
+msgid "Vegetarian"
+msgstr ""
+
+
+#. Label of a Link in the Expense Claims Workspace
+
+#: hrms/hr/report/vehicle_expenses/vehicle_expenses.js:51
+
+#: hrms/hr/report/vehicle_expenses/vehicle_expenses.py:27
+
+#: hrms/hr/workspace/expense_claims/expense_claims.json

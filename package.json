@@ -1,0 +1,40 @@
+{
+  "name": "xliff-split-merge-tool",
+  "version": "1.0.0",
+  "description": "A tool to split large XLIFF files into smaller chunks for easier translation and merge them back",
+  "main": "split_xliff.js",
+  "bin": {
+    "xliff-tool": "./split_xliff.js"
+  },
+  "scripts": {
+    "start": "node split_xliff.js",
+    "test": "node test_xliff.js",
+    "split": "node split_xliff.js split",
+    "merge": "node split_xliff.js merge"
+  },
+  "keywords": [
+    "xliff",
+    "translation",
+    "localization",
+    "split",
+    "merge",
+    "xml"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "@xmldom/xmldom": "^0.8.10",
+    "xml2js": "^0.6.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/xliff-split-merge-tool.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/xliff-split-merge-tool/issues"
+  },
+  "homepage": "https://github.com/yourusername/xliff-split-merge-tool#readme"
+}

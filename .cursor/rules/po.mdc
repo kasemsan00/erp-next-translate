@@ -1,0 +1,8 @@
+---
+globs: *.po
+alwaysApply: false
+---
+
+when translate po file
+msgid is original english
+msgstr is need translate
