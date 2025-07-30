@@ -1,4 +1,4 @@
-﻿msgstr "อัตราต่อชั่วโมง"
+msgstr "อัตราต่อชั่วโมง"
 
 msgid "Hourly"
 msgstr "รายชั่วโมง"
@@ -25,19 +25,19 @@ msgid "Human Resources"
 msgstr "ทรัพยากรบุคคล"
 
 msgid "Hundredweight (UK)"
-msgstr ""
+msgstr "เซ็นต์เวท (สหราชอาณาจักร)"
 
 msgid "Hundredweight (US)"
-msgstr ""
+msgstr "เซ็นต์เวท (สหรัฐอเมริกา)"
 
 msgid "I - J"
-msgstr ""
+msgstr "I - J"
 
 msgid "I - K"
-msgstr ""
+msgstr "I - K"
 
 msgid "IBAN"
-msgstr ""
+msgstr "IBAN"
 
 msgid "IBAN is not valid"
 msgstr "IBAN ไม่ถูกต้อง"
@@ -49,19 +49,19 @@ msgid "IP Address"
 msgstr "ที่อยู่ IP"
 
 msgid "IRS 1099"
-msgstr ""
+msgstr "IRS 1099"
 
 msgid "ISBN"
-msgstr ""
+msgstr "ISBN"
 
 msgid "ISBN-10"
-msgstr ""
+msgstr "ISBN-10"
 
 msgid "ISBN-13"
-msgstr ""
+msgstr "ISBN-13"
 
 msgid "ISSN"
-msgstr ""
+msgstr "ISSN"
 
 msgid "Iches Of Water"
 msgstr ""

@@ -1,4 +1,4 @@
-﻿
+
 msgid "Cable Length (US)"
 msgstr ""
 
@@ -156,7 +156,7 @@ msgid "Can't change the valuation method, as there are transactions against some
 msgstr ""
 
 msgid "Cancel"
-msgstr ""
+msgstr "ยกเลิก"
 
 msgid "Cancel At End Of Period"
 msgstr ""
@@ -180,7 +180,7 @@ msgid "Canceled"
 msgstr ""
 
 msgid "Cancelled"
-msgstr ""
+msgstr "ยกเลิกแล้ว"
 
 msgid "Cannot Assign Cashier"
 msgstr ""

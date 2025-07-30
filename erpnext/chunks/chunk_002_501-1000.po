@@ -29,22 +29,22 @@ msgid "A - C"
 msgstr ""
 
 msgid "A Customer Group exists with same name please change the Customer name or rename the Customer Group"
-msgstr ""
+msgstr "มีกลุ่มลูกค้าที่มีชื่อเดียวกันอยู่แล้ว โปรดเปลี่ยนชื่อลูกค้าหรือเปลี่ยนชื่อกลุ่มลูกค้า"
 
 msgid "A Holiday List can be added to exclude counting these days for the Workstation."
-msgstr ""
+msgstr "สามารถเพิ่มรายการวันหยุดเพื่อยกเว้นการนับวันเหล่านี้สำหรับสถานีงานได้"
 
 msgid "A Lead requires either a person's name or an organization's name"
-msgstr ""
+msgstr "ลูกค้าเป้าหมายต้องการชื่อบุคคลหรือชื่อองค์กร"
 
 msgid "A Packing Slip can only be created for Draft Delivery Note."
-msgstr ""
+msgstr "ใบจัดสินค้าสามารถสร้างได้จากใบส่งของฉบับร่างเท่านั้น"
 
 msgid "A Price List is a collection of Item Prices either Selling, Buying, or both"
-msgstr ""
+msgstr "รายการราคาคือชุดของราคาสินค้าซึ่งอาจเป็นการขาย, การซื้อ, หรือทั้งสองอย่าง"
 
 msgid "A Product or a Service that is bought, sold or kept in stock."
-msgstr ""
+msgstr "ผลิตภัณฑ์หรือบริการที่ซื้อ, ขาย หรือเก็บไว้ในสต็อก"
 
 msgid "A Reconciliation Job {0} is running for the same filters. Cannot reconcile now"
 msgstr ""
@@ -116,7 +116,7 @@ msgid "Abbr"
 msgstr "ตัวย่อ"
 
 msgid "Abbreviation"
-msgstr ""
+msgstr "ตัวย่อ"
 
 msgid "Abbreviation already used for another company"
 msgstr ""
@@ -161,7 +161,7 @@ msgid "Accepted Qty in Stock UOM"
 msgstr ""
 
 msgid "Accepted Quantity"
-msgstr ""
+msgstr "ปริมาณที่ยอมรับ"
 
 msgid "Accepted Warehouse"
 msgstr ""
@@ -182,13 +182,13 @@ msgid "Account"
 msgstr "บัญชี"
 
 msgid "Account Balance"
-msgstr ""
+msgstr "ยอดคงเหลือในบัญชี"
 
 msgid "Account Closing Balance"
-msgstr ""
+msgstr "ยอดคงเหลือปิดบัญชี"
 
 msgid "Account Currency"
-msgstr ""
+msgstr "สกุลเงินของบัญชี"
 
 msgid "Account Currency (From)"
 msgstr ""
@@ -197,7 +197,7 @@ msgid "Account Currency (To)"
 msgstr ""
 
 msgid "Account Details"
-msgstr ""
+msgstr "รายละเอียดบัญชี"
 
 msgid "Account Head"
 msgstr "หัวบัญชี"

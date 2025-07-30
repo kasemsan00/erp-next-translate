@@ -1,7 +1,7 @@
-﻿msgstr ""
+msgstr ""
 
 msgid "Caution"
-msgstr ""
+msgstr "ข้อควรระวัง"
 
 msgid "Caution: This might alter frozen accounts."
 msgstr ""
@@ -28,16 +28,16 @@ msgid "Centimeter"
 msgstr ""
 
 msgid "Certificate"
-msgstr ""
+msgstr "ใบรับรอง"
 
 msgid "Certificate Details"
-msgstr ""
+msgstr "รายละเอียดใบรับรอง"
 
 msgid "Certificate Limit"
 msgstr ""
 
 msgid "Certificate No"
-msgstr ""
+msgstr "เลขที่ใบรับรอง"
 
 msgid "Certificate Required"
 msgstr ""
@@ -64,7 +64,7 @@ msgid "Changed customer name to '{}' as '{}' already exists."
 msgstr ""
 
 msgid "Changes"
-msgstr ""
+msgstr "การเปลี่ยนแปลง"
 
 msgid "Changes in {0}"
 msgstr ""

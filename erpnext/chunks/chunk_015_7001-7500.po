@@ -1,4 +1,4 @@
-﻿msgstr ""
+msgstr ""
 
 msgid "Dependant SLE Voucher Detail No"
 msgstr ""
@@ -19,7 +19,7 @@ msgid "Depends on Tasks"
 msgstr ""
 
 msgid "Deposit"
-msgstr ""
+msgstr "เงินฝาก"
 
 msgid "Depreciate based on daily pro-rata"
 msgstr ""
@@ -91,7 +91,7 @@ msgid "Depreciation eliminated via reversal"
 msgstr ""
 
 msgid "Description"
-msgstr ""
+msgstr "คำอธิบาย"
 
 msgid "Description of Content"
 msgstr ""
@@ -109,7 +109,7 @@ msgid "Detailed Reason"
 msgstr ""
 
 msgid "Details"
-msgstr ""
+msgstr "รายละเอียด"
 
 msgid "Determine Address Tax Category From"
 msgstr ""
@@ -118,7 +118,7 @@ msgid "Diesel"
 msgstr ""
 
 msgid "Difference"
-msgstr ""
+msgstr "ส่วนต่าง"
 
 msgid "Difference (Dr - Cr)"
 msgstr ""
@@ -181,7 +181,7 @@ msgid "Dimension-wise Accounts Balance Report"
 msgstr ""
 
 msgid "Dimensions"
-msgstr ""
+msgstr "มิติ"
 
 msgid "Direct Expense"
 msgstr ""

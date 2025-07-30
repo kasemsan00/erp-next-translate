@@ -83,7 +83,7 @@ msgid "Current State"
 msgstr ""
 
 msgid "Current Status"
-msgstr ""
+msgstr "สถานะปัจจุบัน"
 
 msgid "Current Stock"
 msgstr ""
@@ -116,7 +116,7 @@ msgid "Custom?"
 msgstr ""
 
 msgid "Customer"
-msgstr ""
+msgstr "ลูกค้า"
 
 msgid "Customer "
 msgstr ""

@@ -1,4 +1,4 @@
-﻿msgid "Amount (AED)"
+msgid "Amount (AED)"
 msgstr ""
 
 msgid "Amount (Company Currency)"
@@ -23,7 +23,7 @@ msgid "Amount in Account Currency"
 msgstr ""
 
 msgid "Amount in Words"
-msgstr ""
+msgstr "จำนวนเงิน (ตัวอักษร)"
 
 msgid "Amount in party's bank account currency"
 msgstr ""
@@ -50,7 +50,7 @@ msgid "Amount {0} {1} {2} {3}"
 msgstr ""
 
 msgid "Amounts"
-msgstr ""
+msgstr "จำนวนเงิน"
 
 msgid "Ampere"
 msgstr ""
@@ -80,7 +80,7 @@ msgid "An error occurred for certain Items while creating Material Requests base
 msgstr ""
 
 msgid "Analysis Chart"
-msgstr ""
+msgstr "แผนภูมิการวิเคราะห์"
 
 msgid "Analyst"
 msgstr ""
@@ -89,7 +89,7 @@ msgid "Analytics"
 msgstr ""
 
 msgid "Annual"
-msgstr ""
+msgstr "ประจำปี"
 
 msgid "Annual Billing: {0}"
 msgstr ""
@@ -137,10 +137,10 @@ msgid "Applicable For"
 msgstr "ใช้สำหรับ"
 
 msgid "Applicable Holiday List"
-msgstr ""
+msgstr "รายการวันหยุดที่เกี่ยวข้อง"
 
 msgid "Applicable Modules"
-msgstr ""
+msgstr "โมดูลที่เกี่ยวข้อง"
 
 msgid "Applicable On Account"
 msgstr ""

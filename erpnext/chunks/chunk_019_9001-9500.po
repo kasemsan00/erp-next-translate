@@ -1,24 +1,24 @@
-﻿
+
 msgid "For Supplier"
-msgstr ""
+msgstr "สำหรับผู้จัดจำหน่าย"
 
 msgid "For Warehouse"
-msgstr ""
+msgstr "สำหรับคลังสินค้า"
 
 msgid "For Work Order"
-msgstr ""
+msgstr "สำหรับใบสั่งงาน"
 
 msgid "For an item {0}, quantity must be negative number"
-msgstr ""
+msgstr "สำหรับรายการ {0} ปริมาณต้องเป็นจำนวนลบ"
 
 msgid "For an item {0}, quantity must be positive number"
-msgstr ""
+msgstr "สำหรับรายการ {0} ปริมาณต้องเป็นจำนวนบวก"
 
 msgid "For dunning fee and interest"
-msgstr ""
+msgstr "สำหรับค่าธรรมเนียมการทวงหนี้และดอกเบี้ย"
 
 msgid "For e.g. 2012, 2012-13"
-msgstr ""
+msgstr "ตัวอย่างเช่น 2555, 2555-56"
 
 msgid "For how much spent = 1 Loyalty Point"
 msgstr "สำหรับจำนวนเงินที่ใช้จ่าย = 1 คะแนนสะสม"
@@ -36,7 +36,7 @@ msgid "For operation {0}: Quantity ({1}) can not be greater than pending quantit
 msgstr "สำหรับการดำเนินการ {0}: ปริมาณ ({1}) ไม่สามารถมากกว่าปริมาณที่ค้างอยู่ ({2})"
 
 msgid "For project {0}, update your status"
-msgstr ""
+msgstr "สำหรับโครงการ {0} อัปเดตสถานะของคุณ"
 
 msgid "For quantity {0} should not be greater than allowed quantity {1}"
 msgstr "สำหรับปริมาณ {0} ไม่ควรมากกว่าปริมาณที่อนุญาต {1}"
@@ -76,7 +76,7 @@ msgid "Forecast"
 msgstr "การพยากรณ์"
 
 msgid "Forecasting"
-msgstr ""
+msgstr "การพยากรณ์"
 
 msgid "Foreign Trade Details"
 msgstr "รายละเอียดการค้าต่างประเทศ"
@@ -94,10 +94,10 @@ msgid "Forum URL"
 msgstr "URL ฟอรัม"
 
 msgid "Free Alongside Ship"
-msgstr ""
+msgstr "ส่งมอบข้างเรือ"
 
 msgid "Free Carrier"
-msgstr ""
+msgstr "ส่งมอบให้ผู้รับขนส่ง"
 
 msgid "Free Item"
 msgstr "รายการฟรี"
@@ -106,7 +106,7 @@ msgid "Free Item Rate"
 msgstr "อัตรารายการฟรี"
 
 msgid "Free On Board"
-msgstr ""
+msgstr "ส่งมอบบนเรือ"
 
 msgid "Free item code is not selected"
 msgstr "ไม่ได้เลือกรหัสรายการฟรี"

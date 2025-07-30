@@ -1,5 +1,5 @@
-﻿msgid "Company field is required"
-msgstr ""
+msgid "Company field is required"
+msgstr "ต้องระบุฟิลด์บริษัท"
 
 msgid "Company is mandatory"
 msgstr ""
@@ -44,7 +44,7 @@ msgid "Company {} does not match with POS Profile Company {}"
 msgstr ""
 
 msgid "Competitor"
-msgstr ""
+msgstr "คู่แข่ง"
 
 msgid "Competitor Detail"
 msgstr ""
@@ -56,7 +56,7 @@ msgid "Competitors"
 msgstr ""
 
 msgid "Complete"
-msgstr ""
+msgstr "เสร็จสมบูรณ์"
 
 msgid "Complete Job"
 msgstr ""
@@ -65,7 +65,7 @@ msgid "Complete Order"
 msgstr ""
 
 msgid "Completed"
-msgstr ""
+msgstr "เสร็จสมบูรณ์แล้ว"
 
 msgid "Completed By"
 msgstr ""
@@ -131,7 +131,7 @@ msgid "Conditions will be applied on all the selected items combined. "
 msgstr ""
 
 msgid "Configuration"
-msgstr ""
+msgstr "การกำหนดค่า"
 
 msgid "Configure Product Assembly"
 msgstr ""

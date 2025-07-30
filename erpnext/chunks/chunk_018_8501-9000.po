@@ -1,4 +1,4 @@
-﻿msgid "External Work History"
+msgid "External Work History"
 msgstr "ประวัติการทำงานภายนอก"
 
 msgid "Extra Consumed Qty"
@@ -14,34 +14,34 @@ msgid "Extra Small"
 msgstr "เล็กมาก"
 
 msgid "FIFO"
-msgstr ""
+msgstr "เข้าก่อนออกก่อน"
 
 msgid "FIFO Queue"
-msgstr ""
+msgstr "คิวเข้าก่อนออกก่อน"
 
 msgid "FIFO Queue vs Qty After Transaction Comparison"
-msgstr ""
+msgstr "การเปรียบเทียบคิวเข้าก่อนออกก่อนกับปริมาณหลังธุรกรรม"
 
 msgid "FIFO Stock Queue (qty, rate)"
-msgstr ""
+msgstr "คิวสต็อกเข้าก่อนออกก่อน (ปริมาณ, อัตรา)"
 
 msgid "FIFO/LIFO Queue"
-msgstr ""
+msgstr "คิวเข้าก่อนออกก่อน/เข้าหลังออกก่อน"
 
 msgid "Fahrenheit"
-msgstr ""
+msgstr "ฟาเรนไฮต์"
 
 msgid "Failed"
-msgstr ""
+msgstr "ล้มเหลว"
 
 msgid "Failed Entries"
-msgstr ""
+msgstr "รายการที่ล้มเหลว"
 
 msgid "Failed to Authenticate the API key."
-msgstr ""
+msgstr "ไม่สามารถตรวจสอบสิทธิ์คีย์ API ได้"
 
 msgid "Failed to erase demo data, please delete the demo company manually."
-msgstr ""
+msgstr "ไม่สามารถลบข้อมูลสาธิตได้ โปรดลบบริษัทสาธิตด้วยตนเอง"
 
 msgid "Failed to install presets"
 msgstr "ล้มเหลวในการติดตั้งค่าที่ตั้งไว้ล่วงหน้า"
@@ -50,7 +50,7 @@ msgid "Failed to login"
 msgstr "ล้มเหลวในการเข้าสู่ระบบ"
 
 msgid "Failed to parse MT940 format. Error: {0}"
-msgstr ""
+msgstr "ไม่สามารถแยกวิเคราะห์รูปแบบ MT940 ได้ ข้อผิดพลาด: {0}"
 
 msgid "Failed to post depreciation entries"
 msgstr "ล้มเหลวในการโพสต์รายการค่าเสื่อมราคา"
@@ -80,10 +80,10 @@ msgid "Family Background"
 msgstr "ภูมิหลังครอบครัว"
 
 msgid "Faraday"
-msgstr ""
+msgstr "ฟาราเดย์"
 
 msgid "Fathom"
-msgstr ""
+msgstr "ฟาทอม"
 
 msgid "Fax"
 msgstr "แฟกซ์"
@@ -143,61 +143,61 @@ msgid "Fetching..."
 msgstr "กำลังดึงข้อมูล..."
 
 msgid "Field"
-msgstr ""
+msgstr "ฟิลด์"
 
 msgid "Field Mapping"
-msgstr ""
+msgstr "การจับคู่ฟิลด์"
 
 msgid "Field Name"
 msgstr "ชื่อฟิลด์"
 
 msgid "Field in Bank Transaction"
-msgstr ""
+msgstr "ฟิลด์ในธุรกรรมธนาคาร"
 
 msgid "Fieldname"
-msgstr ""
+msgstr "ชื่อฟิลด์"
 
 msgid "Fields"
-msgstr ""
+msgstr "ฟิลด์"
 
 msgid "Fields will be copied over only at time of creation."
-msgstr ""
+msgstr "ฟิลด์จะถูกคัดลอกเมื่อสร้างเท่านั้น"
 
 msgid "Fieldtype"
-msgstr ""
+msgstr "ประเภทฟิลด์"
 
 msgid "File to Rename"
-msgstr ""
+msgstr "ไฟล์ที่จะเปลี่ยนชื่อ"
 
 msgid "Filter"
-msgstr ""
+msgstr "ตัวกรอง"
 
 msgid "Filter Based On"
-msgstr ""
+msgstr "กรองตาม"
 
 msgid "Filter Duration (Months)"
-msgstr ""
+msgstr "ระยะเวลาการกรอง (เดือน)"
 
 msgid "Filter Total Zero Qty"
-msgstr ""
+msgstr "กรองปริมาณรวมที่เป็นศูนย์"
 
 msgid "Filter by Reference Date"
-msgstr ""
+msgstr "กรองตามวันที่อ้างอิง"
 
 msgid "Filter by invoice status"
-msgstr ""
+msgstr "กรองตามสถานะใบแจ้งหนี้"
 
 msgid "Filter on Invoice"
-msgstr ""
+msgstr "กรองในใบแจ้งหนี้"
 
 msgid "Filter on Payment"
-msgstr ""
+msgstr "กรองในการชำระเงิน"
 
 msgid "Filters"
-msgstr ""
+msgstr "ตัวกรอง"
 
 msgid "Filters missing"
-msgstr ""
+msgstr "ไม่มีตัวกรอง"
 
 msgid "Final BOM"
 msgstr ""

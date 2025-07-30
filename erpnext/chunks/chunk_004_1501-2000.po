@@ -1,4 +1,4 @@
-﻿msgstr ""
+msgstr ""
 
 msgid "Against Blanket Order"
 msgstr ""
@@ -46,7 +46,7 @@ msgid "Against Sales Invoice Item"
 msgstr ""
 
 msgid "Against Sales Order"
-msgstr ""
+msgstr "อ้างอิงใบสั่งขาย"
 
 msgid "Against Sales Order Item"
 msgstr ""
@@ -67,7 +67,7 @@ msgid "Against Voucher Type"
 msgstr ""
 
 msgid "Age"
-msgstr ""
+msgstr "อายุ"
 
 msgid "Age (Days)"
 msgstr ""
@@ -88,7 +88,7 @@ msgid "Agenda"
 msgstr ""
 
 msgid "Agent"
-msgstr ""
+msgstr "ตัวแทน"
 
 msgid "Agent Busy Message"
 msgstr ""
@@ -118,7 +118,7 @@ msgid "Algorithm"
 msgstr ""
 
 msgid "All"
-msgstr ""
+msgstr "ทั้งหมด"
 
 msgid "All Accounts"
 msgstr "ทุกบัญชี"
@@ -142,7 +142,7 @@ msgid "All Customer Groups"
 msgstr ""
 
 msgid "All Day"
-msgstr ""
+msgstr "ทั้งวัน"
 
 msgid "All Departments"
 msgstr ""
@@ -154,7 +154,7 @@ msgid "All Item Groups"
 msgstr ""
 
 msgid "All Items"
-msgstr ""
+msgstr "ทุกรายการ"
 
 msgid "All Lead (Open)"
 msgstr ""
@@ -181,7 +181,7 @@ msgid "All Territories"
 msgstr ""
 
 msgid "All Warehouses"
-msgstr ""
+msgstr "ทุกคลังสินค้า"
 
 msgid "All allocations have been successfully reconciled"
 msgstr ""

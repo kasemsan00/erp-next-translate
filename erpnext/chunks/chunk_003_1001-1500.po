@@ -1,4 +1,4 @@
-﻿
+
 msgid "Acre"
 msgstr ""
 
@@ -6,7 +6,7 @@ msgid "Acre (US)"
 msgstr ""
 
 msgid "Action"
-msgstr ""
+msgstr "การดำเนินการ"
 
 msgid "Action If Quality Inspection Is Not Submitted"
 msgstr ""
@@ -60,7 +60,7 @@ msgid "Actions performed"
 msgstr ""
 
 msgid "Active"
-msgstr ""
+msgstr "ใช้งาน"
 
 msgid "Active Leads"
 msgstr ""
@@ -72,7 +72,7 @@ msgid "Activities"
 msgstr "กิจกรรม"
 
 msgid "Activity"
-msgstr ""
+msgstr "กิจกรรม"
 
 msgid "Activity Cost"
 msgstr ""
@@ -87,7 +87,7 @@ msgid "Activity Type"
 msgstr ""
 
 msgid "Actual"
-msgstr ""
+msgstr "ตามจริง"
 
 msgid "Actual Balance Qty"
 msgstr ""
@@ -174,7 +174,7 @@ msgid "Actual type tax cannot be included in Item rate in row {0}"
 msgstr ""
 
 msgid "Add"
-msgstr ""
+msgstr "เพิ่ม"
 
 msgid "Add / Edit Prices"
 msgstr ""
@@ -186,19 +186,19 @@ msgid "Add Columns in Transaction Currency"
 msgstr ""
 
 msgid "Add Comment"
-msgstr ""
+msgstr "เพิ่มความคิดเห็น"
 
 msgid "Add Corrective Operation Cost in Finished Good Valuation"
 msgstr ""
 
 msgid "Add Customers"
-msgstr ""
+msgstr "เพิ่มลูกค้า"
 
 msgid "Add Discount"
-msgstr ""
+msgstr "เพิ่มส่วนลด"
 
 msgid "Add Employees"
-msgstr ""
+msgstr "เพิ่มพนักงาน"
 
 msgid "Add Item"
 msgstr ""

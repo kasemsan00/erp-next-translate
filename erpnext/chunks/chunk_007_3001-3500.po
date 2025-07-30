@@ -1,4 +1,4 @@
-﻿msgstr ""
+msgstr ""
 
 msgid "B+"
 msgstr ""
@@ -13,7 +13,7 @@ msgid "BIN Qty"
 msgstr ""
 
 msgid "BOM"
-msgstr ""
+msgstr "รายการวัตถุดิบ"
 
 msgid "BOM 1"
 msgstr ""
@@ -184,7 +184,7 @@ msgid "Backflush Raw Materials of Subcontract Based On"
 msgstr ""
 
 msgid "Balance"
-msgstr ""
+msgstr "ยอดคงเหลือ"
 
 msgid "Balance (Dr - Cr)"
 msgstr ""

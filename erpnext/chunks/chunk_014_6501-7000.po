@@ -1,4 +1,4 @@
-﻿
+
 msgid "Debtor/Creditor"
 msgstr "ลูกหนี้/เจ้าหนี้"
 
@@ -36,7 +36,7 @@ msgid "Default Account"
 msgstr "บัญชีเริ่มต้น"
 
 msgid "Default Accounts"
-msgstr ""
+msgstr "บัญชีเริ่มต้น"
 
 msgid "Default Activity Cost exists for Activity Type - {0}"
 msgstr ""
@@ -51,7 +51,7 @@ msgid "Default Advance Received Account"
 msgstr ""
 
 msgid "Default BOM"
-msgstr ""
+msgstr "BOM เริ่มต้น"
 
 msgid "Default BOM ({0}) must be active for this item or its template"
 msgstr ""
@@ -66,7 +66,7 @@ msgid "Default BOM not found for Item {0} and Project {1}"
 msgstr ""
 
 msgid "Default Bank Account"
-msgstr ""
+msgstr "บัญชีธนาคารเริ่มต้น"
 
 msgid "Default Billing Rate"
 msgstr ""
@@ -87,13 +87,13 @@ msgid "Default Common Code"
 msgstr ""
 
 msgid "Default Company"
-msgstr ""
+msgstr "บริษัทเริ่มต้น"
 
 msgid "Default Company Bank Account"
 msgstr ""
 
 msgid "Default Cost Center"
-msgstr ""
+msgstr "ศูนย์ต้นทุนเริ่มต้น"
 
 msgid "Default Cost of Goods Sold Account"
 msgstr ""

@@ -1,4 +1,4 @@
-﻿msgid "Don't Reserve Sales Order Qty on Sales Return"
+msgid "Don't Reserve Sales Order Qty on Sales Return"
 msgstr "อย่าสำรองปริมาณคำสั่งขายในการคืนสินค้า"
 
 msgid "Don't Send Emails"
@@ -53,10 +53,10 @@ msgid "Downtime Reason"
 msgstr "เหตุผลของเวลาหยุดทำงาน"
 
 msgid "Dr"
-msgstr ""
+msgstr "เดบิต"
 
 msgid "Dr/Cr"
-msgstr ""
+msgstr "เดบิต/เครดิต"
 
 msgid "Draft"
 msgstr "ร่าง"

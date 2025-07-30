@@ -1,4 +1,4 @@
-﻿
+
 msgid "Enable Fuzzy Matching"
 msgstr "เปิดใช้งานการจับคู่แบบคลุมเครือ"
 
@@ -57,16 +57,16 @@ msgid "Encashment Date"
 msgstr "วันที่แลกเป็นเงินสด"
 
 msgid "End Date"
-msgstr ""
+msgstr "วันที่สิ้นสุด"
 
 msgid "End Date cannot be before Start Date."
-msgstr ""
+msgstr "วันที่สิ้นสุดต้องไม่ก่อนวันที่เริ่มต้น"
 
 msgid "End Time"
 msgstr "เวลาสิ้นสุด"
 
 msgid "End Transit"
-msgstr ""
+msgstr "สิ้นสุดการขนส่ง"
 
 msgid "End Year"
 msgstr "ปีสิ้นสุด"
@@ -87,13 +87,13 @@ msgid "End of the current subscription period"
 msgstr "สิ้นสุดรอบการสมัครสมาชิกปัจจุบัน"
 
 msgid "Energy"
-msgstr ""
+msgstr "พลังงาน"
 
 msgid "Enforce Time Logs"
 msgstr "บังคับบันทึกเวลา"
 
 msgid "Engineer"
-msgstr ""
+msgstr "วิศวกร"
 
 msgid "Enough Parts to Build"
 msgstr "มีชิ้นส่วนเพียงพอสำหรับการสร้าง"
@@ -160,7 +160,8 @@ msgstr "ป้อนหมายเลขหนังสือค้ำประ
 
 msgid "Enter the Operation, the table will fetch the Operation details like Hourly Rate, Workstation automatically.\n\n"
 " After that, set the Operation Time in minutes and the table will calculate the Operation Costs based on the Hourly Rate and Operation Time."
-msgstr ""
+msgstr "ป้อนการดำเนินงาน ตารางจะดึงรายละเอียดการดำเนินงาน เช่น อัตรารายชั่วโมง, สถานีงานโดยอัตโนมัติ\n\n"
+" หลังจากนั้น ตั้งเวลาการดำเนินงานเป็นนาที และตารางจะคำนวณต้นทุนการดำเนินงานตามอัตรารายชั่วโมงและเวลาการดำเนินงาน"
 
 msgid "Enter the name of the Beneficiary before submitting."
 msgstr "ป้อนชื่อผู้รับผลประโยชน์ก่อนส่ง"
@@ -181,7 +182,7 @@ msgid "Enter {0} amount."
 msgstr "ป้อนจำนวนเงิน {0}"
 
 msgid "Entertainment & Leisure"
-msgstr ""
+msgstr "บันเทิงและสันทนาการ"
 
 msgid "Entertainment Expenses"
 msgstr "ค่ารับรอง"

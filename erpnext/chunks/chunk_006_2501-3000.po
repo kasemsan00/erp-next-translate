@@ -1,4 +1,4 @@
-﻿
+
 msgid "Asset Shift Factor"
 msgstr "ปัจจัยกะสินทรัพย์"
 
@@ -132,16 +132,16 @@ msgid "Assign Job to Employee"
 msgstr ""
 
 msgid "Assign To"
-msgstr ""
+msgstr "มอบหมายให้"
 
 msgid "Assign to Name"
 msgstr ""
 
 msgid "Assigned To"
-msgstr ""
+msgstr "มอบหมายให้"
 
 msgid "Assignment"
-msgstr ""
+msgstr "การมอบหมาย"
 
 msgid "Assignment Conditions"
 msgstr ""

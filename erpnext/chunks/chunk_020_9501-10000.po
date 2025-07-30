@@ -1,138 +1,138 @@
-﻿
+
 msgid "Get Finished Goods"
-msgstr ""
+msgstr "รับสินค้าสำเร็จรูป"
 
 msgid "Get Finished Goods for Manufacture"
-msgstr ""
+msgstr "รับสินค้าสำเร็จรูปเพื่อการผลิต"
 
 msgid "Get Invoices"
-msgstr ""
+msgstr "รับใบแจ้งหนี้"
 
 msgid "Get Invoices based on Filters"
-msgstr ""
+msgstr "รับใบแจ้งหนี้ตามตัวกรอง"
 
 msgid "Get Item Locations"
-msgstr ""
+msgstr "รับตำแหน่งสินค้า"
 
 msgid "Get Items"
-msgstr ""
+msgstr "รับรายการ"
 
 msgid "Get Items From"
-msgstr ""
+msgstr "รับรายการจาก"
 
 msgid "Get Items From Receipts"
-msgstr ""
+msgstr "รับรายการจากใบเสร็จ"
 
 msgid "Get Items for Purchase / Transfer"
-msgstr ""
+msgstr "รับรายการสำหรับการซื้อ / โอน"
 
 msgid "Get Items for Purchase Only"
-msgstr ""
+msgstr "รับรายการสำหรับการซื้อเท่านั้น"
 
 msgid "Get Items from BOM"
-msgstr ""
+msgstr "รับรายการจาก BOM"
 
 msgid "Get Items from Material Requests against this Supplier"
-msgstr ""
+msgstr "รับรายการจากใบขอวัสดุเทียบกับผู้จัดจำหน่ายรายนี้"
 
 msgid "Get Items from Open Material Requests"
-msgstr ""
+msgstr "รับรายการจากใบขอวัสดุที่เปิดอยู่"
 
 msgid "Get Items from Product Bundle"
-msgstr ""
+msgstr "รับรายการจากชุดผลิตภัณฑ์"
 
 msgid "Get Latest Query"
-msgstr ""
+msgstr "รับคำค้นหาล่าสุด"
 
 msgid "Get Material Request"
-msgstr ""
+msgstr "รับใบขอวัสดุ"
 
 msgid "Get Outstanding Invoices"
-msgstr ""
+msgstr "รับใบแจ้งหนี้ค้างชำระ"
 
 msgid "Get Outstanding Orders"
-msgstr ""
+msgstr "รับใบสั่งซื้อค้างส่ง"
 
 msgid "Get Payment Entries"
-msgstr ""
+msgstr "รับรายการชำระเงิน"
 
 msgid "Get Payments from"
-msgstr ""
+msgstr "รับการชำระเงินจาก"
 
 msgid "Get Raw Materials Cost from Consumption Entry"
-msgstr ""
+msgstr "รับต้นทุนวัตถุดิบจากรายการเบิกใช้"
 
 msgid "Get Sales Orders"
-msgstr ""
+msgstr "รับใบสั่งขาย"
 
 msgid "Get Scrap Items"
-msgstr ""
+msgstr "รับรายการเศษซาก"
 
 msgid "Get Started Sections"
-msgstr ""
+msgstr "ส่วนเริ่มต้น"
 
 msgid "Get Stock"
-msgstr ""
+msgstr "รับสต็อก"
 
 msgid "Get Sub Assembly Items"
-msgstr ""
+msgstr "รับรายการชิ้นส่วนประกอบย่อย"
 
 msgid "Get Supplier Group Details"
-msgstr ""
+msgstr "รับรายละเอียดกลุ่มผู้จัดจำหน่าย"
 
 msgid "Get Suppliers"
-msgstr ""
+msgstr "รับผู้จัดจำหน่าย"
 
 msgid "Get Suppliers By"
-msgstr ""
+msgstr "รับผู้จัดจำหน่ายโดย"
 
 msgid "Get Timesheets"
-msgstr ""
+msgstr "รับตารางเวลางาน"
 
 msgid "Get Unreconciled Entries"
-msgstr ""
+msgstr "รับรายการที่ยังไม่ได้กระทบยอด"
 
 msgid "Get stops from"
-msgstr ""
+msgstr "รับจุดจอดจาก"
 
 msgid "Getting Scrap Items"
-msgstr ""
+msgstr "กำลังรับรายการเศษซาก"
 
 msgid "Gift Card"
-msgstr ""
+msgstr "บัตรของขวัญ"
 
 msgid "Give free item for every N quantity"
-msgstr ""
+msgstr "ให้สินค้าฟรีทุกๆ N จำนวน"
 
 msgid "Global Defaults"
-msgstr ""
+msgstr "ค่าเริ่มต้นทั่วไป"
 
 msgid "Go back"
-msgstr ""
+msgstr "กลับไป"
 
 msgid "Go to {0} List"
-msgstr ""
+msgstr "ไปที่รายการ {0}"
 
 msgid "Goal"
-msgstr ""
+msgstr "เป้าหมาย"
 
 msgid "Goal and Procedure"
-msgstr ""
+msgstr "เป้าหมายและขั้นตอน"
 
 msgid "Goals"
 msgstr "เป้าหมาย"
 
 msgid "Goods"
-msgstr ""
+msgstr "สินค้า"
 
 msgid "Goods In Transit"
-msgstr ""
+msgstr "สินค้าระหว่างการขนส่ง"
 
 msgid "Goods Transferred"
-msgstr ""
+msgstr "สินค้าที่โอนแล้ว"
 
 msgid "Goods are already received against the outward entry {0}"
-msgstr ""
+msgstr "ได้รับสินค้าสำหรับรายการส่งออก {0} แล้ว"
 
 msgid "Government"
 msgstr "รัฐบาล"
@@ -144,34 +144,34 @@ msgid "Graduate"
 msgstr "บัณฑิต"
 
 msgid "Grain"
-msgstr ""
+msgstr "เกรน"
 
 msgid "Grain/Cubic Foot"
-msgstr ""
+msgstr "เกรน/ลูกบาศก์ฟุต"
 
 msgid "Grain/Gallon (UK)"
-msgstr ""
+msgstr "เกรน/แกลลอน (สหราชอาณาจักร)"
 
 msgid "Grain/Gallon (US)"
-msgstr ""
+msgstr "เกรน/แกลลอน (สหรัฐอเมริกา)"
 
 msgid "Gram"
-msgstr ""
+msgstr "กรัม"
 
 msgid "Gram-Force"
-msgstr ""
+msgstr "แรงกรัม"
 
 msgid "Gram/Cubic Centimeter"
-msgstr ""
+msgstr "กรัม/ลูกบาศก์เซนติเมตร"
 
 msgid "Gram/Cubic Meter"
-msgstr ""
+msgstr "กรัม/ลูกบาศก์เมตร"
 
 msgid "Gram/Cubic Millimeter"
-msgstr ""
+msgstr "กรัม/ลูกบาศก์มิลลิเมตร"
 
 msgid "Gram/Litre"
-msgstr ""
+msgstr "กรัม/ลิตร"
 
 msgid "Grand Total"
 msgstr "ยอดรวมทั้งหมด"
@@ -201,13 +201,13 @@ msgid "Greetings Section"
 msgstr "ส่วนข้อความทักทาย"
 
 msgid "Grocery"
-msgstr ""
+msgstr "ของชำ"
 
 msgid "Gross Margin"
 msgstr "กำไรขั้นต้น"
 
 msgid "Gross Margin %"
-msgstr ""
+msgstr "% กำไรขั้นต้น"
 
 msgid "Gross Profit"
 msgstr "กำไรขั้นต้น"
@@ -291,13 +291,13 @@ msgid "Growth View"
 msgstr "มุมมองการเติบโต"
 
 msgid "H - F"
-msgstr ""
+msgstr "H - F"
 
 msgid "HR Manager"
-msgstr ""
+msgstr "ผู้จัดการฝ่ายบุคคล"
 
 msgid "HR User"
-msgstr ""
+msgstr "ผู้ใช้ฝ่ายบุคคล"
 
 msgid "Half Yearly"
 msgstr "ครึ่งปี"
@@ -309,7 +309,7 @@ msgid "Half-yearly"
 msgstr "ครึ่งปี"
 
 msgid "Hand"
-msgstr ""
+msgstr "มือ"
 
 msgid "Handle Employee Advances"
 msgstr "จัดการเงินล่วงหน้าของพนักงาน"
@@ -324,7 +324,7 @@ msgid "Has Batch No"
 msgstr "มีหมายเลขแบทช์"
 
 msgid "Has Certificate "
-msgstr ""
+msgstr "มีใบรับรอง "
 
 msgid "Has Corrective Cost"
 msgstr "มีค่าใช้จ่ายแก้ไข"
@@ -348,19 +348,19 @@ msgid "Has Unit Price Items"
 msgstr "มีรายการราคาต่อหน่วย"
 
 msgid "Has Variants"
-msgstr "มีตัวเลือก"
+msgstr "มีตัวแปร"
 
 msgid "Have Default Naming Series for Batch ID?"
 msgstr "มีชุดการตั้งชื่อเริ่มต้นสำหรับ Batch ID หรือไม่?"
 
 msgid "Head of Marketing and Sales"
-msgstr ""
+msgstr "หัวหน้าฝ่ายการตลาดและการขาย"
 
 msgid "Heads (or groups) against which Accounting Entries are made and balances are maintained."
 msgstr "หัวข้อ (หรือกลุ่ม) ที่ใช้ในการทำรายการบัญชีและรักษายอดคงเหลือ"
 
 msgid "Health Care"
-msgstr ""
+msgstr "การดูแลสุขภาพ"
 
 msgid "Health Details"
 msgstr "รายละเอียดสุขภาพ"
@@ -369,16 +369,16 @@ msgid "Heatmap"
 msgstr "แผนที่ความร้อน"
 
 msgid "Hectare"
-msgstr ""
+msgstr "เฮกตาร์"
 
 msgid "Hectogram/Litre"
-msgstr ""
+msgstr "เฮกโตกรัม/ลิตร"
 
 msgid "Hectometer"
-msgstr ""
+msgstr "เฮกโตเมตร"
 
 msgid "Hectopascal"
-msgstr ""
+msgstr "เฮกโตปาสคาล"
 
 msgid "Height (cm)"
 msgstr "ความสูง (ซม.)"
@@ -426,7 +426,7 @@ msgid "Here, your weekly offs are pre-populated based on the previous selections
 msgstr "ที่นี่ วันหยุดประจำสัปดาห์ของคุณจะถูกเติมล่วงหน้าตามการเลือกก่อนหน้า คุณสามารถเพิ่มแถวเพิ่มเติมเพื่อเพิ่มวันหยุดสาธารณะและวันหยุดประจำชาติได้เป็นรายบุคคล"
 
 msgid "Hertz"
-msgstr ""
+msgstr "เฮิรตซ์"
 
 msgid "Hi,"
 msgstr "สวัสดี,"
@@ -489,12 +489,13 @@ msgid "Home"
 msgstr "หน้าแรก"
 
 msgid "Horsepower"
-msgstr ""
+msgstr "แรงม้า"
 
 msgid "Horsepower-Hours"
-msgstr ""
+msgstr "แรงม้า-ชั่วโมง"
 
 msgid "Hour"
-msgstr ""
+msgstr "ชั่วโมง"
 
 msgid "Hour Rate"
+msgstr "อัตราต่อชั่วโมง"

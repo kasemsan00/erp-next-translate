@@ -1,4 +1,4 @@
-﻿msgid "Cost Configuration"
+msgid "Cost Configuration"
 msgstr "การกำหนดค่าต้นทุน"
 
 msgid "Cost Per Unit"
@@ -83,10 +83,10 @@ msgid "Coulomb"
 msgstr ""
 
 msgid "Count"
-msgstr ""
+msgstr "จำนวน"
 
 msgid "Country"
-msgstr ""
+msgstr "ประเทศ"
 
 msgid "Country Code in File does not match with country code set up in the system"
 msgstr ""
@@ -113,13 +113,13 @@ msgid "Cr"
 msgstr ""
 
 msgid "Create"
-msgstr ""
+msgstr "สร้าง"
 
 msgid "Create Chart Of Accounts Based On"
 msgstr "สร้างผังบัญชีตาม"
 
 msgid "Create Delivery Note"
-msgstr ""
+msgstr "สร้างบันทึกการส่งมอบ"
 
 msgid "Create Delivery Trip"
 msgstr ""
@@ -128,7 +128,7 @@ msgid "Create Depreciation Entry"
 msgstr ""
 
 msgid "Create Employee"
-msgstr ""
+msgstr "สร้างพนักงาน"
 
 msgid "Create Employee Records"
 msgstr ""

@@ -1,4 +1,4 @@
-﻿msgid "Batch No."
+msgid "Batch No."
 msgstr ""
 
 msgid "Batch Nos"
@@ -71,10 +71,10 @@ msgid "Bill for Rejected Quantity in Purchase Invoice"
 msgstr ""
 
 msgid "Bill of Materials"
-msgstr ""
+msgstr "รายการวัตถุดิบ"
 
 msgid "Billed"
-msgstr ""
+msgstr "เรียกเก็บเงินแล้ว"
 
 msgid "Billed Amount"
 msgstr ""
@@ -92,7 +92,7 @@ msgid "Billed, Received & Returned"
 msgstr ""
 
 msgid "Billing Address"
-msgstr ""
+msgstr "ที่อยู่สำหรับเรียกเก็บเงิน"
 
 msgid "Billing Address Details"
 msgstr ""
@@ -104,7 +104,7 @@ msgid "Billing Address does not belong to the {0}"
 msgstr ""
 
 msgid "Billing Amount"
-msgstr ""
+msgstr "จำนวนเงินที่เรียกเก็บ"
 
 msgid "Billing City"
 msgstr ""
@@ -158,7 +158,7 @@ msgid "Billing currency must be equal to either default company's currency or pa
 msgstr ""
 
 msgid "Bin"
-msgstr ""
+msgstr "ถัง"
 
 msgid "Bin Qty Recalculated"
 msgstr ""

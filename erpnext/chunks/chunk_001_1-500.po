@@ -113,7 +113,7 @@ msgid "% of materials billed against this Sales Order"
 msgstr "% ของวัสดุที่ถูกเรียกเก็บเงินตามใบสั่งขายนี้"
 
 msgid "% of materials delivered against this Pick List"
-msgstr ""
+msgstr "% ของวัสดุที่จัดส่งตามรายการเลือกสินค้านี้"
 
 msgid "% of materials delivered against this Sales Order"
 msgstr "% ของวัสดุที่ถูกเรียกเก็บเงินตามใบสั่งขายนี้"
@@ -398,16 +398,16 @@ msgid "<li>Item {0} in row(s) {1} billed more than {2}</li>"
 msgstr ""
 
 msgid "<li>Payment document required for row(s): {0}</li>"
-msgstr ""
+msgstr "<li>ต้องการเอกสารการชำระเงินสำหรับแถว: {0}</li>"
 
 msgid "<li>{}</li>"
 msgstr ""
 
 msgid "<p>Cannot overbill for the following Items:</p>"
-msgstr ""
+msgstr "<p>ไม่สามารถเรียกเก็บเงินเกินสำหรับรายการสินค้าต่อไปนี้:</p>"
 
 msgid "<p>Following {0}s doesn't belong to Company {1} :</p>"
-msgstr ""
+msgstr "<p>{0} ต่อไปนี้ไม่ได้เป็นของบริษัท {1} :</p>"
 
 msgid "<p>In your <b>Email Template</b>, you can use the following special variables:\n"
 "</p>\n"
@@ -461,20 +461,20 @@ msgstr ""
 msgid "<span class=\"h4\"><b>Masters &amp; Reports</b></span>"
 msgstr "<span class=\"h4\"><b>Masters &amp; Reports</b></span>"
 
-msgid "<span class=\"h4\"><b>Quick Access</b></span>"
-msgstr ""
+msgid "<span class="h4"><b>Quick Access</b></span>"
+msgstr "<span class=\"h4\"><b>เข้าถึงด่วน</b></span>"
 
-msgid "<span class=\"h4\"><b>Reports & Masters</b></span>"
-msgstr ""
+msgid "<span class="h4"><b>Reports & Masters</b></span>"
+msgstr "<span class=\"h4\"><b>รายงานและข้อมูลหลัก</b></span>"
 
 msgid "<span class=\"h4\"><b>Reports &amp; Masters</b></span>"
 msgstr ""
 
 msgid "<span class=\"h4\"><b>Settings</b></span>"
-msgstr ""
+msgstr "<span class=\"h4\"><b>การตั้งค่า</b></span>"
 
 msgid "<span class=\"h4\"><b>Shortcuts</b></span>"
-msgstr ""
+msgstr "<span class=\"h4\"><b>ทางลัด</b></span>"
 
 msgid "<span class=\"h4\"><b>Your Shortcuts\n"
 "\t\t\t\n"
@@ -486,13 +486,13 @@ msgid "<span class=\"h4\"><b>Your Shortcuts\n"
 msgstr ""
 
 msgid "<span class=\"h4\"><b>Your Shortcuts</b></span>"
-msgstr ""
+msgstr "<span class=\"h4\"><b>ทางลัดของคุณ</b></span>"
 
 msgid "<strong>Grand Total:</strong> {0}"
-msgstr ""
+msgstr "<strong>ยอดรวมทั้งหมด:</strong> {0}"
 
 msgid "<strong>Outstanding Amount:</strong> {0}"
-msgstr ""
+msgstr "<strong>จำนวนเงินค้างชำระ:</strong> {0}"
 
 msgid "<table class=\"table table-bordered table-condensed\">\n"
 "<thead>\n"
