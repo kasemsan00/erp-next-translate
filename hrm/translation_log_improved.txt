@@ -1,0 +1,8 @@
+<h4>Condition Examples</h4>\n -> เงื่อนไข
+Job profile, qualifications required etc. -> คุณสมบัติ
+Mark as In Progress -> กำลังดำเนินการ
+Maximum Leave Allocation Allowed per Leave Period -> การจัดสรรวันลา
+No of. Positions -> ตำแหน่ง
+Please set the Date Of Joining for employee {0} -> วันที่เริ่มงาน
+Please set the Holiday List. -> รายการวันหยุด
+Please set the relieving date for employee {0} -> วันที่พ้นสภาพ
