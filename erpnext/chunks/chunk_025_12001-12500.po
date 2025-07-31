@@ -1,60 +1,59 @@
-﻿
-msgid "Kilometer"
-msgstr ""
+﻿msgid "Kilometer"
+msgstr "กิโลเมตร"
 
 msgid "Kilometer/Hour"
-msgstr ""
+msgstr "กิโลเมตร/ชั่วโมง"
 
 msgid "Kilopascal"
-msgstr ""
+msgstr "กิโลปาสคาล"
 
 msgid "Kilopond"
-msgstr ""
+msgstr "กิโลปอนด์"
 
 msgid "Kilopound-Force"
-msgstr ""
+msgstr "กิโลปอนด์-แรง"
 
 msgid "Kilowatt"
-msgstr ""
+msgstr "กิโลวัตต์"
 
 msgid "Kilowatt-Hour"
-msgstr ""
+msgstr "กิโลวัตต์-ชั่วโมง"
 
 msgid "Kindly cancel the Manufacturing Entries first against the work order {0}."
-msgstr "กรุณายกเลิกการบันทึกการผลิตก่อนสำหรับคำสั่งงาน {0}"
+msgstr "กรุณายกเลิกรายการการผลิตสำหรับใบสั่งงาน {0} ก่อน"
 
 msgid "Kindly select the company first"
 msgstr "กรุณาเลือกบริษัทก่อน"
 
 msgid "Kip"
-msgstr ""
+msgstr "กิ๊ป"
 
 msgid "Knot"
-msgstr ""
+msgstr "นอต"
 
 msgid "LIFO"
-msgstr ""
+msgstr "เข้าหลัง-ออกก่อน"
 
 msgid "Label"
 msgstr "ป้ายกำกับ"
 
 msgid "Landed Cost Help"
-msgstr "ความช่วยเหลือต้นทุนที่มาถึง"
+msgstr "วิธีใช้ต้นทุนที่ดิน"
 
 msgid "Landed Cost Item"
-msgstr "รายการต้นทุนที่มาถึง"
+msgstr "รายการต้นทุนที่ดิน"
 
 msgid "Landed Cost Purchase Receipt"
-msgstr "ใบรับซื้อต้นทุนที่มาถึง"
+msgstr "ใบรับสินค้าต้นทุนที่ดิน"
 
 msgid "Landed Cost Taxes and Charges"
-msgstr "ภาษีและค่าใช้จ่ายต้นทุนที่มาถึง"
+msgstr "ภาษีและค่าธรรมเนียมต้นทุนที่ดิน"
 
 msgid "Landed Cost Voucher"
-msgstr "ใบสำคัญต้นทุนที่มาถึง"
+msgstr "ใบสำคัญต้นทุนที่ดิน"
 
 msgid "Landed Cost Voucher Amount"
-msgstr "จำนวนเงินใบสำคัญต้นทุนที่มาถึง"
+msgstr "จำนวนเงินในใบสำคัญต้นทุนที่ดิน"
 
 msgid "Landscape"
 msgstr "แนวนอน"
@@ -69,49 +68,49 @@ msgid "Large"
 msgstr "ใหญ่"
 
 msgid "Last Carbon Check"
-msgstr "การตรวจสอบคาร์บอนล่าสุด"
+msgstr "การตรวจสอบคาร์บอนครั้งล่าสุด"
 
 msgid "Last Communication"
-msgstr "การสื่อสารล่าสุด"
+msgstr "การสื่อสารครั้งล่าสุด"
 
 msgid "Last Communication Date"
-msgstr "วันที่การสื่อสารล่าสุด"
+msgstr "วันที่สื่อสารครั้งล่าสุด"
 
 msgid "Last Completion Date"
-msgstr "วันที่เสร็จสิ้นล่าสุด"
+msgstr "วันที่เสร็จสมบูรณ์ครั้งล่าสุด"
 
 msgid "Last GL Entry update was done {}. This operation is not allowed while system is actively being used. Please wait for 5 minutes before retrying."
-msgstr "การอัปเดตรายการบัญชีแยกประเภททั่วไปครั้งล่าสุดเสร็จสิ้น {} การดำเนินการนี้ไม่ได้รับอนุญาตในขณะที่ระบบกำลังใช้งานอยู่ โปรดรอ 5 นาทีก่อนลองอีกครั้ง"
+msgstr "การอัปเดตรายการ GL ครั้งล่าสุดทำเมื่อ {} การดำเนินการนี้ไม่ได้รับอนุญาตในขณะที่ระบบกำลังใช้งานอยู่ กรุณารอ 5 นาทีก่อนลองอีกครั้ง"
 
 msgid "Last Integration Date"
-msgstr "วันที่การรวมล่าสุด"
+msgstr "วันที่เชื่อมต่อครั้งล่าสุด"
 
 msgid "Last Month Downtime Analysis"
-msgstr "การวิเคราะห์เวลาหยุดทำงานเดือนที่แล้ว"
+msgstr "การวิเคราะห์เวลาหยุดทำงานของเดือนที่แล้ว"
 
 msgid "Last Name"
 msgstr "นามสกุล"
 
 msgid "Last Name, Email or Phone/Mobile of the user are mandatory to continue."
-msgstr "นามสกุล อีเมล หรือโทรศัพท์/มือถือของผู้ใช้เป็นสิ่งจำเป็นในการดำเนินการต่อ"
+msgstr "ต้องระบุนามสกุล, อีเมล หรือโทรศัพท์/มือถือของผู้ใช้เพื่อดำเนินการต่อ"
 
 msgid "Last Order Amount"
-msgstr "จำนวนคำสั่งซื้อครั้งล่าสุด"
+msgstr "จำนวนเงินในใบสั่งซื้อล่าสุด"
 
 msgid "Last Order Date"
-msgstr "วันที่คำสั่งซื้อครั้งล่าสุด"
+msgstr "วันที่ในใบสั่งซื้อล่าสุด"
 
 msgid "Last Purchase Rate"
-msgstr "อัตราการซื้อครั้งล่าสุด"
+msgstr "อัตราซื้อล่าสุด"
 
 msgid "Last Stock Transaction for item {0} under warehouse {1} was on {2}."
-msgstr "ธุรกรรมสต็อกครั้งล่าสุดสำหรับรายการ {0} ภายใต้คลังสินค้า {1} คือวันที่ {2}"
+msgstr "ธุรกรรมสต็อกล่าสุดสำหรับสินค้า {0} ในคลังสินค้า {1} คือวันที่ {2}"
 
 msgid "Last carbon check date cannot be a future date"
 msgstr "วันที่ตรวจสอบคาร์บอนครั้งล่าสุดต้องไม่เป็นวันที่ในอนาคต"
 
 msgid "Last transacted"
-msgstr "ธุรกรรมครั้งล่าสุด"
+msgstr "ทำธุรกรรมล่าสุด"
 
 msgid "Latest"
 msgstr "ล่าสุด"
@@ -123,34 +122,34 @@ msgid "Latitude"
 msgstr "ละติจูด"
 
 msgid "Lead"
-msgstr "ลูกค้าเป้าหมาย"
+msgstr "ลีด"
 
 msgid "Lead -> Prospect"
-msgstr "ลูกค้าเป้าหมาย -> ผู้มีโอกาสเป็นลูกค้า"
+msgstr "ลีด -> ลูกค้ามุ่งหวัง"
 
 msgid "Lead Conversion Time"
-msgstr "เวลาการแปลงลูกค้าเป้าหมาย"
+msgstr "เวลาในการเปลี่ยนสถานะลีด"
 
 msgid "Lead Count"
-msgstr "จำนวนลูกค้าเป้าหมาย"
+msgstr "จำนวนลีด"
 
 msgid "Lead Details"
-msgstr "รายละเอียดลูกค้าเป้าหมาย"
+msgstr "รายละเอียดลีด"
 
 msgid "Lead Name"
-msgstr "ชื่อลูกค้าเป้าหมาย"
+msgstr "ชื่อลีด"
 
 msgid "Lead Owner"
-msgstr "เจ้าของลูกค้าเป้าหมาย"
+msgstr "เจ้าของลีด"
 
 msgid "Lead Owner Efficiency"
-msgstr "ประสิทธิภาพของเจ้าของลูกค้าเป้าหมาย"
+msgstr "ประสิทธิภาพของเจ้าของลีด"
 
 msgid "Lead Owner cannot be same as the Lead Email Address"
-msgstr "เจ้าของลูกค้าเป้าหมายไม่สามารถเป็นที่อยู่อีเมลของลูกค้าเป้าหมายได้"
+msgstr "เจ้าของลีดต้องไม่ซ้ำกับที่อยู่อีเมลของลีด"
 
 msgid "Lead Source"
-msgstr ""
+msgstr "แหล่งที่มาของลีด"
 
 msgid "Lead Time"
 msgstr "เวลานำ"
@@ -162,56 +161,55 @@ msgid "Lead Time (in mins)"
 msgstr "เวลานำ (นาที)"
 
 msgid "Lead Time Date"
-msgstr "วันที่เวลานำ"
+msgstr "วันที่ของเวลานำ"
 
 msgid "Lead Time Days"
-msgstr "วันเวลานำ"
+msgstr "จำนวนวันของเวลานำ"
 
 msgid "Lead Time in days"
 msgstr "เวลานำเป็นวัน"
 
 msgid "Lead Type"
-msgstr "ประเภทลูกค้าเป้าหมาย"
+msgstr "ประเภทลีด"
 
 msgid "Lead {0} has been added to prospect {1}."
-msgstr "ลูกค้าเป้าหมาย {0} ถูกเพิ่มในผู้มีโอกาสเป็นลูกค้า {1}"
+msgstr "ลีด {0} ถูกเพิ่มไปยังลูกค้ามุ่งหวัง {1}"
 
 msgid "Leads"
-msgstr "ลูกค้าเป้าหมาย"
+msgstr "ลีด"
 
 msgid "Leads help you get business, add all your contacts and more as your leads"
-msgstr "ลูกค้าเป้าหมายช่วยให้คุณได้รับธุรกิจ เพิ่มผู้ติดต่อทั้งหมดของคุณและอื่น ๆ เป็นลูกค้าเป้าหมายของคุณ"
+msgstr "ลีดช่วยให้คุณได้ธุรกิจ เพิ่มผู้ติดต่อและอื่นๆ ทั้งหมดของคุณเป็นลีด"
 
 msgid "Learn Accounting"
-msgstr ""
+msgstr "เรียนรู้การบัญชี"
 
 msgid "Learn Inventory Management"
-msgstr ""
+msgstr "เรียนรู้การจัดการสินค้าคงคลัง"
 
 msgid "Learn Manufacturing"
-msgstr ""
+msgstr "เรียนรู้การผลิต"
 
 msgid "Learn Procurement"
-msgstr ""
+msgstr "เรียนรู้การจัดซื้อ"
 
 msgid "Learn Project Management"
-msgstr ""
+msgstr "เรียนรู้การจัดการโครงการ"
 
 msgid "Learn Sales Management"
-msgstr ""
+msgstr "เรียนรู้การจัดการการขาย"
 
 msgid "Learn about <a href=\"https://docs.erpnext.com/docs/v13/user/manual/en/accounts/articles/common_party_accounting#:~:text=Common%20Party%20Accounting%20in%20ERPNext,Invoice%20against%20a%20primary%20Supplier.\">Common Party</a>"
-msgstr ""
+msgstr "เรียนรู้เกี่ยวกับ <a href=\"https://docs.erpnext.com/docs/v13/user/manual/en/accounts/articles/common_party_accounting#:~:text=Common%20Party%20Accounting%20in%20ERPNext,Invoice%20against%20a%20primary%20Supplier.\">คู่ค้าร่วม</a>"
 
 msgid "Leave Encashed?"
-msgstr "เงินสดที่เหลือ?"
+msgstr "แลกวันลาเป็นเงิน?"
 
-msgid "Leave blank for home.\n"
-"This is relative to site URL, for example \"about\" will redirect to \"https://yoursitename.com/about\""
-msgstr ""
+msgid "Leave blank for home.\nThis is relative to site URL, for example \"about\" will redirect to \"https://yoursitename.com/about\""
+msgstr "เว้นว่างไว้สำหรับหน้าแรก\nซึ่งจะอ้างอิงกับ URL ของเว็บไซต์ เช่น \"about\" จะเปลี่ยนเส้นทางไปยัง \"https://yoursitename.com/about\""
 
 msgid "Leave blank if the Supplier is blocked indefinitely"
-msgstr "เว้นว่างไว้หากผู้จัดจำหน่ายถูกบล็อกอย่างไม่มีกำหนด"
+msgstr "เว้นว่างไว้หากซัพพลายเออร์ถูกระงับอย่างไม่มีกำหนด"
 
 msgid "Leave blank to use the standard Delivery Note format"
 msgstr "เว้นว่างไว้เพื่อใช้รูปแบบใบส่งของมาตรฐาน"
@@ -220,46 +218,46 @@ msgid "Ledger"
 msgstr "บัญชีแยกประเภท"
 
 msgid "Ledger Health"
-msgstr "สุขภาพบัญชีแยกประเภท"
+msgstr "สถานภาพบัญชีแยกประเภท"
 
 msgid "Ledger Health Monitor"
-msgstr "ตัวตรวจสอบสุขภาพบัญชีแยกประเภท"
+msgstr "ตัวตรวจสอบสถานภาพบัญชีแยกประเภท"
 
 msgid "Ledger Health Monitor Company"
-msgstr "บริษัทตัวตรวจสอบสุขภาพบัญชีแยกประเภท"
+msgstr "บริษัทในตัวตรวจสอบสถานภาพบัญชีแยกประเภท"
 
 msgid "Ledger Merge"
 msgstr "การรวมบัญชีแยกประเภท"
 
 msgid "Ledger Merge Accounts"
-msgstr "การรวมบัญชีแยกประเภท"
+msgstr "การรวมบัญชีของบัญชีแยกประเภท"
 
 msgid "Ledgers"
-msgstr ""
+msgstr "บัญชีแยกประเภท"
 
 msgid "Left"
 msgstr "ซ้าย"
 
 msgid "Left Child"
-msgstr "ลูกซ้าย"
+msgstr "โหนดลูกซ้าย"
 
 msgid "Left Index"
 msgstr "ดัชนีซ้าย"
 
 msgid "Legacy Fields"
-msgstr "ฟิลด์เก่า"
+msgstr "ฟิลด์ดั้งเดิม"
 
 msgid "Legal"
 msgstr "กฎหมาย"
 
 msgid "Legal Entity / Subsidiary with a separate Chart of Accounts belonging to the Organization."
-msgstr "นิติบุคคล / บริษัทในเครือที่มีผังบัญชีแยกต่างหากที่เป็นขององค์กร"
+msgstr "นิติบุคคล / บริษัทย่อยที่มีผังบัญชีแยกต่างหากซึ่งเป็นขององค์กร"
 
 msgid "Legal Expenses"
 msgstr "ค่าใช้จ่ายทางกฎหมาย"
 
 msgid "Legend"
-msgstr "คำอธิบาย"
+msgstr "คำอธิบายสัญลักษณ์"
 
 msgid "Length"
 msgstr "ความยาว"
@@ -268,13 +266,13 @@ msgid "Length (cm)"
 msgstr "ความยาว (ซม.)"
 
 msgid "Less Than Amount"
-msgstr "น้อยกว่าจำนวนเงิน"
+msgstr "จำนวนเงินที่น้อยกว่า"
 
 msgid "Letter Head"
 msgstr "หัวจดหมาย"
 
 msgid "Letter or Email Body Text"
-msgstr "ข้อความในจดหมายหรืออีเมล"
+msgstr "ข้อความเนื้อหาในจดหมายหรืออีเมล"
 
 msgid "Letter or Email Closing Text"
 msgstr "ข้อความปิดท้ายในจดหมายหรืออีเมล"
@@ -292,7 +290,7 @@ msgid "Liabilities"
 msgstr "หนี้สิน"
 
 msgid "Liability"
-msgstr "ความรับผิดชอบ"
+msgstr "หนี้สิน"
 
 msgid "License Details"
 msgstr "รายละเอียดใบอนุญาต"
@@ -304,130 +302,130 @@ msgid "License Plate"
 msgstr "ป้ายทะเบียน"
 
 msgid "Likes"
-msgstr "การถูกใจ"
+msgstr "ถูกใจ"
 
 msgid "Limit Crossed"
 msgstr "เกินขีดจำกัด"
 
 msgid "Limit timeslot for Stock Reposting"
-msgstr "จำกัดช่วงเวลาสำหรับการโพสต์สต็อกใหม่"
+msgstr "จำกัดช่วงเวลาสำหรับการลงรายการสต็อกใหม่"
 
 msgid "Limited to 12 characters"
-msgstr "จำกัดไว้ที่ 12 ตัวอักษร"
+msgstr "จำกัดที่ 12 ตัวอักษร"
 
 msgid "Limits don't apply on"
-msgstr "ขีดจำกัดไม่ใช้กับ"
+msgstr "ขีดจำกัดไม่มีผลกับ"
 
 msgid "Line spacing for amount in words"
-msgstr "ระยะห่างระหว่างบรรทัดสำหรับจำนวนเงินในคำ"
+msgstr "ระยะห่างบรรทัดสำหรับจำนวนเงินตัวอักษร"
 
 msgid "Link"
 msgstr "ลิงก์"
 
 msgid "Link Options"
-msgstr "ตัวเลือกการลิงก์"
+msgstr "ตัวเลือกลิงก์"
 
 msgid "Link a new bank account"
-msgstr "ลิงก์บัญชีธนาคารใหม่"
+msgstr "เชื่อมโยงบัญชีธนาคารใหม่"
 
 msgid "Link existing Quality Procedure."
-msgstr "ลิงก์ขั้นตอนคุณภาพที่มีอยู่"
+msgstr "เชื่อมโยงกระบวนการคุณภาพที่มีอยู่"
 
 msgid "Link to Material Request"
-msgstr "ลิงก์ไปยังคำขอวัสดุ"
+msgstr "เชื่อมโยงไปยังใบขอวัสดุ"
 
 msgid "Link to Material Requests"
-msgstr "ลิงก์ไปยังคำขอวัสดุ"
+msgstr "เชื่อมโยงไปยังใบขอวัสดุ"
 
 msgid "Link with Customer"
-msgstr "ลิงก์กับลูกค้า"
+msgstr "เชื่อมโยงกับลูกค้า"
 
 msgid "Link with Supplier"
-msgstr "ลิงก์กับผู้จัดจำหน่าย"
+msgstr "เชื่อมโยงกับซัพพลายเออร์"
 
 msgid "Linked Documents"
-msgstr "เอกสารที่ลิงก์"
+msgstr "เอกสารที่เชื่อมโยง"
 
 msgid "Linked Invoices"
-msgstr "ใบแจ้งหนี้ที่ลิงก์"
+msgstr "ใบแจ้งหนี้ที่เชื่อมโยง"
 
 msgid "Linked Location"
-msgstr "ตำแหน่งที่ลิงก์"
+msgstr "สถานที่ที่เชื่อมโยง"
 
 msgid "Linked with submitted documents"
-msgstr "ลิงก์กับเอกสารที่ส่งแล้ว"
+msgstr "เชื่อมโยงกับเอกสารที่ส่งแล้ว"
 
 msgid "Linking Failed"
-msgstr "การลิงก์ล้มเหลว"
+msgstr "การเชื่อมโยงล้มเหลว"
 
 msgid "Linking to Customer Failed. Please try again."
-msgstr "การลิงก์กับลูกค้าล้มเหลว โปรดลองอีกครั้ง"
+msgstr "การเชื่อมโยงกับลูกค้าล้มเหลว กรุณาลองอีกครั้ง"
 
 msgid "Linking to Supplier Failed. Please try again."
-msgstr "การลิงก์กับผู้จัดจำหน่ายล้มเหลว โปรดลองอีกครั้ง"
+msgstr "การเชื่อมโยงกับซัพพลายเออร์ล้มเหลว กรุณาลองอีกครั้ง"
 
 msgid "Links"
 msgstr "ลิงก์"
 
 msgid "List items that form the package."
-msgstr ""
+msgstr "แสดงรายการสินค้าที่เป็นส่วนประกอบของแพ็กเกจ"
 
 msgid "Litre"
-msgstr ""
+msgstr "ลิตร"
 
 msgid "Litre-Atmosphere"
-msgstr ""
+msgstr "ลิตร-บรรยากาศ"
 
 msgid "Load All Criteria"
-msgstr ""
+msgstr "โหลดเกณฑ์ทั้งหมด"
 
 msgid "Loading Invoices! Please Wait..."
-msgstr ""
+msgstr "กำลังโหลดใบแจ้งหนี้! กรุณารอสักครู่..."
 
 msgid "Loading import file..."
-msgstr ""
+msgstr "กำลังโหลดไฟล์นำเข้า..."
 
 msgid "Loan"
 msgstr "เงินกู้"
 
 msgid "Loan End Date"
-msgstr ""
+msgstr "วันที่สิ้นสุดเงินกู้"
 
 msgid "Loan Period (Days)"
-msgstr ""
+msgstr "ระยะเวลาเงินกู้ (วัน)"
 
 msgid "Loan Start Date"
-msgstr ""
+msgstr "วันที่เริ่มเงินกู้"
 
 msgid "Loan Start Date and Loan Period are mandatory to save the Invoice Discounting"
-msgstr ""
+msgstr "ต้องระบุวันที่เริ่มเงินกู้และระยะเวลาเงินกู้เพื่อบันทึกการขายลดใบแจ้งหนี้"
 
 msgid "Loans (Liabilities)"
-msgstr "สินเชื่อ (หนี้สิน)"
+msgstr "เงินกู้ (หนี้สิน)"
 
 msgid "Loans and Advances (Assets)"
-msgstr ""
+msgstr "เงินให้กู้และเงินทดรองจ่าย (สินทรัพย์)"
 
 msgid "Local"
-msgstr ""
+msgstr "ท้องถิ่น"
 
 msgid "Location"
-msgstr ""
+msgstr "สถานที่"
 
 msgid "Location Details"
-msgstr ""
+msgstr "รายละเอียดสถานที่"
 
 msgid "Location Name"
-msgstr ""
+msgstr "ชื่อสถานที่"
 
 msgid "Locked"
-msgstr ""
+msgstr "ถูกล็อก"
 
 msgid "Log Entries"
 msgstr "รายการบันทึก"
 
 msgid "Log the selling and buying rate of an Item"
-msgstr "บันทึกอัตราการขายและการซื้อของรายการ"
+msgstr "บันทึกอัตราการขายและการซื้อของสินค้า"
 
 msgid "Logo"
 msgstr "โลโก้"
@@ -436,43 +434,43 @@ msgid "Longitude"
 msgstr "ลองจิจูด"
 
 msgid "Lost"
-msgstr "สูญหาย"
+msgstr "สูญเสีย"
 
 msgid "Lost Opportunity"
-msgstr "โอกาสที่สูญหาย"
+msgstr "โอกาสทางการขายที่สูญเสียไป"
 
 msgid "Lost Quotation"
-msgstr "ใบเสนอราคาที่สูญหาย"
+msgstr "ใบเสนอราคาที่สูญเสียไป"
 
 msgid "Lost Quotations"
-msgstr "ใบเสนอราคาที่สูญหาย"
+msgstr "ใบเสนอราคาที่สูญเสียไป"
 
 msgid "Lost Quotations %"
-msgstr ""
+msgstr "% ใบเสนอราคาที่สูญเสียไป"
 
 msgid "Lost Reason"
-msgstr "เหตุผลที่สูญหาย"
+msgstr "เหตุผลที่สูญเสีย"
 
 msgid "Lost Reason Detail"
-msgstr "รายละเอียดเหตุผลที่สูญหาย"
+msgstr "รายละเอียดเหตุผลที่สูญเสีย"
 
 msgid "Lost Reasons"
-msgstr "เหตุผลที่สูญหาย"
+msgstr "เหตุผลที่สูญเสีย"
 
 msgid "Lost Reasons are required in case opportunity is Lost."
-msgstr "ต้องการเหตุผลที่สูญหายในกรณีที่โอกาสสูญหาย"
+msgstr "ต้องระบุเหตุผลที่สูญเสียในกรณีที่โอกาสทางการขายสูญเสียไป"
 
 msgid "Lost Value"
-msgstr "มูลค่าที่สูญหาย"
+msgstr "มูลค่าที่สูญเสีย"
 
 msgid "Lost Value %"
-msgstr ""
+msgstr "% มูลค่าที่สูญเสีย"
 
 msgid "Low"
 msgstr "ต่ำ"
 
 msgid "Lower Deduction Certificate"
-msgstr "ใบรับรองการหักลดหย่อนต่ำ"
+msgstr "หนังสือรับรองการหักลดหย่อนที่ต่ำกว่า"
 
 msgid "Lower Income"
 msgstr "รายได้ต่ำ"
@@ -481,10 +479,10 @@ msgid "Loyalty Amount"
 msgstr "จำนวนเงินสะสมคะแนน"
 
 msgid "Loyalty Point Entry"
-msgstr "การป้อนคะแนนสะสม"
+msgstr "รายการคะแนนสะสม"
 
 msgid "Loyalty Point Entry Redemption"
-msgstr "การแลกคะแนนสะสม"
+msgstr "การแลกรายการคะแนนสะสม"
 
 msgid "Loyalty Points"
 msgstr "คะแนนสะสม"
@@ -493,8 +491,7 @@ msgid "Loyalty Points Redemption"
 msgstr "การแลกคะแนนสะสม"
 
 msgid "Loyalty Points will be calculated from the spent done (via the Sales Invoice), based on collection factor mentioned."
-msgstr "คะแนนสะสมจะถูกคำนวณจากการใช้จ่าย (ผ่านใบแจ้งหนี้ขาย) ตามปัจจัยการสะสมที่ระบุไว้"
+msgstr "คะแนนสะสมจะถูกคำนวณจากยอดใช้จ่าย (ผ่านใบแจ้งหนี้การขาย) ตามปัจจัยการสะสมที่ระบุไว้"
 
 msgid "Loyalty Points: {0}"
 msgstr "คะแนนสะสม: {0}"
-

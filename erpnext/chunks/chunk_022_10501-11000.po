@@ -1,54 +1,53 @@
-﻿
-msgid "Incentives"
-msgstr "แรงจูงใจ"
+﻿msgid "Incentives"
+msgstr "เงินรางวัลจูงใจ"
 
 msgid "Inch"
-msgstr ""
+msgstr "นิ้ว"
 
 msgid "Inch Pound-Force"
-msgstr ""
+msgstr "นิ้ว-ปอนด์-แรง"
 
 msgid "Inch/Minute"
-msgstr ""
+msgstr "นิ้ว/นาที"
 
 msgid "Inch/Second"
-msgstr ""
+msgstr "นิ้ว/วินาที"
 
 msgid "Inches Of Mercury"
-msgstr ""
+msgstr "นิ้วปรอท"
 
 msgid "Include Account Currency"
-msgstr ""
+msgstr "รวมสกุลเงินของบัญชี"
 
 msgid "Include Ageing Summary"
-msgstr ""
+msgstr "รวมสรุปอายุหนี้"
 
 msgid "Include Closed Orders"
-msgstr ""
+msgstr "รวมใบสั่งซื้อที่ปิดแล้ว"
 
 msgid "Include Default FB Assets"
-msgstr ""
+msgstr "รวมสินทรัพย์ FB เริ่มต้น"
 
 msgid "Include Default FB Entries"
-msgstr ""
+msgstr "รวมรายการ FB เริ่มต้น"
 
 msgid "Include Disabled"
-msgstr ""
+msgstr "รวมรายการที่ปิดใช้งาน"
 
 msgid "Include Expired"
-msgstr ""
+msgstr "รวมรายการที่หมดอายุ"
 
 msgid "Include Expired Batches"
 msgstr "รวมแบทช์ที่หมดอายุ"
 
 msgid "Include Exploded Items"
-msgstr "รวมรายการที่ระเบิดออก"
+msgstr "รวมรายการที่แตกย่อย"
 
 msgid "Include Item In Manufacturing"
-msgstr "รวมรายการในการผลิต"
+msgstr "รวมสินค้าในการผลิต"
 
 msgid "Include Non Stock Items"
-msgstr "รวมรายการที่ไม่ใช่สต็อก"
+msgstr "รวมสินค้าที่ไม่ใช่สต็อก"
 
 msgid "Include POS Transactions"
 msgstr "รวมธุรกรรม POS"
@@ -63,22 +62,22 @@ msgid "Include Reconciled Entries"
 msgstr "รวมรายการที่กระทบยอดแล้ว"
 
 msgid "Include Safety Stock in Required Qty Calculation"
-msgstr "รวมสต็อกความปลอดภัยในการคำนวณปริมาณที่ต้องการ"
+msgstr "รวมสต็อกปลอดภัยในการคำนวณปริมาณที่ต้องการ"
 
 msgid "Include Sub-assembly Raw Materials"
-msgstr "รวมวัตถุดิบชุดย่อย"
+msgstr "รวมวัตถุดิบของส่วนประกอบย่อย"
 
 msgid "Include Subcontracted Items"
-msgstr "รวมรายการที่จ้างช่วง"
+msgstr "รวมสินค้าจ้างเหมาช่วง"
 
 msgid "Include Timesheets in Draft Status"
-msgstr "รวมตารางเวลางานในสถานะร่าง"
+msgstr "รวมใบบันทึกเวลาในสถานะฉบับร่าง"
 
 msgid "Include UOM"
 msgstr "รวมหน่วยวัด"
 
 msgid "Include Zero Stock Items"
-msgstr "รวมรายการที่ไม่มีสต็อก"
+msgstr "รวมสินค้าที่สต็อกเป็นศูนย์"
 
 msgid "Include in gross"
 msgstr "รวมในยอดรวม"
@@ -87,7 +86,7 @@ msgid "Included in Gross Profit"
 msgstr "รวมอยู่ในกำไรขั้นต้น"
 
 msgid "Including items for sub assemblies"
-msgstr "รวมรายการสำหรับชุดย่อย"
+msgstr "รวมสินค้าสำหรับส่วนประกอบย่อย"
 
 msgid "Income"
 msgstr "รายได้"
@@ -99,7 +98,7 @@ msgid "Incoming"
 msgstr "ขาเข้า"
 
 msgid "Incoming Call Handling Schedule"
-msgstr "ตารางการจัดการสายเรียกเข้"
+msgstr "ตารางการจัดการสายเรียกเข้า"
 
 msgid "Incoming Call Settings"
 msgstr "การตั้งค่าสายเรียกเข้า"
@@ -108,16 +107,16 @@ msgid "Incoming Rate"
 msgstr "อัตราขาเข้า"
 
 msgid "Incoming Rate (Costing)"
-msgstr "อัตราขาเข้า (การคำนวณต้นทุน)"
+msgstr "อัตราขาเข้า (การคิดต้นทุน)"
 
 msgid "Incoming call from {0}"
 msgstr "สายเรียกเข้าจาก {0}"
 
 msgid "Incompatible Setting Detected"
-msgstr "ตรวจพบการตั้งค่าที่ไม่เข้ากัน"
+msgstr "ตรวจพบการตั้งค่าที่เข้ากันไม่ได้"
 
 msgid "Incorrect Balance Qty After Transaction"
-msgstr "ปริมาณคงเหลือไม่ถูกต้องหลังธุรกรรม"
+msgstr "ปริมาณคงเหลือหลังธุรกรรมไม่ถูกต้อง"
 
 msgid "Incorrect Batch Consumed"
 msgstr "แบทช์ที่ใช้ไม่ถูกต้อง"
@@ -138,16 +137,16 @@ msgid "Incorrect Payment Type"
 msgstr "ประเภทการชำระเงินไม่ถูกต้อง"
 
 msgid "Incorrect Reference Document (Purchase Receipt Item)"
-msgstr "เอกสารอ้างอิงไม่ถูกต้อง (รายการใบรับซื้อ)"
+msgstr "เอกสารอ้างอิงไม่ถูกต้อง (รายการในใบรับสินค้า)"
 
 msgid "Incorrect Serial No Valuation"
-msgstr "การประเมินหมายเลขซีเรียลไม่ถูกต้อง"
+msgstr "การประเมินค่าหมายเลขซีเรียลไม่ถูกต้อง"
 
 msgid "Incorrect Serial Number Consumed"
 msgstr "หมายเลขซีเรียลที่ใช้ไม่ถูกต้อง"
 
 msgid "Incorrect Serial and Batch Bundle"
-msgstr "ชุดหมายเลขซีเรียลและแบทช์ไม่ถูกต้อง"
+msgstr "ชุดซีเรียลและแบทช์ไม่ถูกต้อง"
 
 msgid "Incorrect Stock Value Report"
 msgstr "รายงานมูลค่าสต็อกไม่ถูกต้อง"
@@ -162,28 +161,28 @@ msgid "Incorrect number of General Ledger Entries found. You might have selected
 msgstr "พบจำนวนรายการบัญชีแยกประเภททั่วไปไม่ถูกต้อง คุณอาจเลือกบัญชีผิดในธุรกรรม"
 
 msgid "Incoterm"
-msgstr ""
+msgstr "อินโคเทอม"
 
 msgid "Increase In Asset Life (Months)"
-msgstr "เพิ่มอายุการใช้งานสินทรัพย์ (เดือน)"
+msgstr "การเพิ่มอายุสินทรัพย์ (เดือน)"
 
 msgid "Increase In Asset Life(Months)"
-msgstr "เพิ่มอายุการใช้งานสินทรัพย์ (เดือน)"
+msgstr "การเพิ่มอายุสินทรัพย์ (เดือน)"
 
 msgid "Increment"
-msgstr "การเพิ่มขึ้น"
+msgstr "ส่วนเพิ่ม"
 
 msgid "Increment cannot be 0"
-msgstr "การเพิ่มขึ้นต้องไม่เป็น 0"
+msgstr "ส่วนเพิ่มต้องไม่เป็น 0"
 
 msgid "Increment for Attribute {0} cannot be 0"
-msgstr "การเพิ่มขึ้นสำหรับ Attribute {0} ต้องไม่เป็น 0"
+msgstr "ส่วนเพิ่มสำหรับคุณลักษณะ {0} ต้องไม่เป็น 0"
 
 msgid "Indent"
-msgstr "เยื้อง"
+msgstr "การย่อหน้า"
 
 msgid "Indicates that the package is a part of this delivery (Only Draft)"
-msgstr "ระบุว่าแพ็คเกจเป็นส่วนหนึ่งของการจัดส่งนี้ (เฉพาะร่าง)"
+msgstr "ระบุว่าพัสดุเป็นส่วนหนึ่งของการจัดส่งนี้ (เฉพาะฉบับร่าง)"
 
 msgid "Indicator Color"
 msgstr "สีตัวบ่งชี้"
@@ -198,13 +197,13 @@ msgid "Indirect Income"
 msgstr "รายได้ทางอ้อม"
 
 msgid "Individual"
-msgstr "บุคคล"
+msgstr "รายบุคคล"
 
 msgid "Individual GL Entry cannot be cancelled."
-msgstr "ไม่สามารถยกเลิกรายการบัญชีแยกประเภททั่วไปของบุคคลได้"
+msgstr "ไม่สามารถยกเลิกรายการ GL รายบุคคลได้"
 
 msgid "Individual Stock Ledger Entry cannot be cancelled."
-msgstr "ไม่สามารถยกเลิกรายการบัญชีแยกประเภทสต็อกของบุคคลได้"
+msgstr "ไม่สามารถยกเลิกรายการบัญชีแยกประเภทสต็อกรายบุคคลได้"
 
 msgid "Industry"
 msgstr "อุตสาหกรรม"
@@ -213,7 +212,7 @@ msgid "Industry Type"
 msgstr "ประเภทอุตสาหกรรม"
 
 msgid "Initial Email Notification Sent"
-msgstr "ส่งการแจ้งเตือนทางอีเมลครั้งแรกแล้ว"
+msgstr "ส่งการแจ้งเตือนทางอีเมลเบื้องต้นแล้ว"
 
 msgid "Initialize Summary Table"
 msgstr "เริ่มต้นตารางสรุป"
@@ -222,7 +221,7 @@ msgid "Initiated"
 msgstr "เริ่มต้นแล้ว"
 
 msgid "Insert New Records"
-msgstr "แทรกบันทึกใหม่"
+msgstr "แทรกระเบียนใหม่"
 
 msgid "Inspected By"
 msgstr "ตรวจสอบโดย"
@@ -231,16 +230,16 @@ msgid "Inspection Rejected"
 msgstr "การตรวจสอบถูกปฏิเสธ"
 
 msgid "Inspection Required"
-msgstr "ต้องการการตรวจสอบ"
+msgstr "ต้องมีการตรวจสอบ"
 
 msgid "Inspection Required before Delivery"
-msgstr "ต้องการการตรวจสอบก่อนการจัดส่ง"
+msgstr "ต้องมีการตรวจสอบก่อนส่งมอบ"
 
 msgid "Inspection Required before Purchase"
-msgstr "ต้องการการตรวจสอบก่อนการซื้อ"
+msgstr "ต้องมีการตรวจสอบก่อนซื้อ"
 
 msgid "Inspection Submission"
-msgstr "การส่งการตรวจสอบ"
+msgstr "การส่งผลการตรวจสอบ"
 
 msgid "Inspection Type"
 msgstr "ประเภทการตรวจสอบ"
@@ -252,28 +251,28 @@ msgid "Installation Note"
 msgstr "บันทึกการติดตั้ง"
 
 msgid "Installation Note Item"
-msgstr "รายการบันทึกการติดตั้ง"
+msgstr "รายการในบันทึกการติดตั้ง"
 
 msgid "Installation Note {0} has already been submitted"
-msgstr "บันทึกการติดตั้ง {0} ได้ถูกส่งแล้ว"
+msgstr "บันทึกการติดตั้ง {0} ถูกส่งแล้ว"
 
 msgid "Installation Status"
 msgstr "สถานะการติดตั้ง"
 
 msgid "Installation Time"
-msgstr "เวลาการติดตั้ง"
+msgstr "เวลาติดตั้ง"
 
 msgid "Installation date cannot be before delivery date for Item {0}"
-msgstr "วันที่ติดตั้งต้องไม่อยู่ก่อนวันที่จัดส่งสำหรับรายการ {0}"
+msgstr "วันที่ติดตั้งต้องไม่มาก่อนวันที่จัดส่งสำหรับสินค้า {0}"
 
 msgid "Installed Qty"
 msgstr "ปริมาณที่ติดตั้ง"
 
 msgid "Installing presets"
-msgstr "กำลังติดตั้งค่าที่ตั้งไว้ล่วงหน้า"
+msgstr "กำลังติดตั้งค่าที่ตั้งไว้"
 
 msgid "Instruction"
-msgstr "คำแนะนำ"
+msgstr "คำสั่ง"
 
 msgid "Instructions"
 msgstr "คำแนะนำ"
@@ -294,7 +293,7 @@ msgid "Insurance"
 msgstr "ประกันภัย"
 
 msgid "Insurance Company"
-msgstr "บริษัทประกันภัย"
+msgstr "บริษัทประกัน"
 
 msgid "Insurance Details"
 msgstr "รายละเอียดประกันภัย"
@@ -303,40 +302,40 @@ msgid "Insurance End Date"
 msgstr "วันที่สิ้นสุดประกันภัย"
 
 msgid "Insurance Start Date"
-msgstr "วันที่เริ่มต้นประกันภัย"
+msgstr "วันที่เริ่มประกันภัย"
 
 msgid "Insurance Start date should be less than Insurance End date"
-msgstr "วันที่เริ่มต้นประกันภัยควรน้อยกว่าวันที่สิ้นสุดประกันภัย"
+msgstr "วันที่เริ่มประกันภัยควรมาก่อนวันที่สิ้นสุดประกันภัย"
 
 msgid "Insured value"
-msgstr "มูลค่าประกัน"
+msgstr "มูลค่าที่เอาประกัน"
 
 msgid "Insurer"
-msgstr "ผู้ประกัน"
+msgstr "ผู้รับประกัน"
 
 msgid "Integration Details"
-msgstr "รายละเอียดการรวม"
+msgstr "รายละเอียดการเชื่อมต่อ"
 
 msgid "Integration ID"
-msgstr "รหัสการรวม"
+msgstr "รหัสการเชื่อมต่อ"
 
 msgid "Inter Company Invoice Reference"
-msgstr "การอ้างอิงใบแจ้งหนี้ระหว่างบริษัท"
+msgstr "อ้างอิงใบแจ้งหนี้ระหว่างบริษัท"
 
 msgid "Inter Company Journal Entry"
-msgstr "รายการบัญชีระหว่างบริษัท"
+msgstr "รายการสมุดรายวันระหว่างบริษัท"
 
 msgid "Inter Company Journal Entry Reference"
-msgstr "การอ้างอิงรายการบัญชีระหว่างบริษัท"
+msgstr "อ้างอิงรายการสมุดรายวันระหว่างบริษัท"
 
 msgid "Inter Company Order Reference"
-msgstr "การอ้างอิงคำสั่งซื้อระหว่างบริษัท"
+msgstr "อ้างอิงใบสั่งซื้อระหว่างบริษัท"
 
 msgid "Inter Company Reference"
-msgstr "การอ้างอิงระหว่างบริษัท"
+msgstr "อ้างอิงระหว่างบริษัท"
 
 msgid "Inter Transfer Reference"
-msgstr "การอ้างอิงการโอนระหว่าง"
+msgstr "อ้างอิงการโอนระหว่างกัน"
 
 msgid "Inter Warehouse Transfer Settings"
 msgstr "การตั้งค่าการโอนระหว่างคลังสินค้า"
@@ -345,7 +344,7 @@ msgid "Interest"
 msgstr "ดอกเบี้ย"
 
 msgid "Interest and/or dunning fee"
-msgstr "ดอกเบี้ยและ/หรือค่าธรรมเนียมการทวงถาม"
+msgstr "ดอกเบี้ยและ/หรือค่าธรรมเนียมการทวงหนี้"
 
 msgid "Interested"
 msgstr "สนใจ"
@@ -357,25 +356,25 @@ msgid "Internal Customer"
 msgstr "ลูกค้าภายใน"
 
 msgid "Internal Customer for company {0} already exists"
-msgstr "ลูกค้าภายในสำหรับบริษัท {0} มีอยู่แล้ว"
+msgstr "มีลูกค้าภายในสำหรับบริษัท {0} อยู่แล้ว"
 
 msgid "Internal Sale or Delivery Reference missing."
-msgstr "การอ้างอิงการขายหรือการจัดส่งภายในหายไป"
+msgstr "ไม่มีการอ้างอิงการขายหรือการจัดส่งภายใน"
 
 msgid "Internal Sales Reference Missing"
-msgstr "การอ้างอิงการขายภายในหายไป"
+msgstr "ไม่มีการอ้างอิงการขายภายใน"
 
 msgid "Internal Supplier"
-msgstr "ผู้จัดจำหน่ายภายใน"
+msgstr "ซัพพลายเออร์ภายใน"
 
 msgid "Internal Supplier for company {0} already exists"
-msgstr "ผู้จัดจำหน่ายภายในสำหรับบริษัท {0} มีอยู่แล้ว"
+msgstr "มีซัพพลายเออร์ภายในสำหรับบริษัท {0} อยู่แล้ว"
 
 msgid "Internal Transfer"
 msgstr "การโอนภายใน"
 
 msgid "Internal Transfer Reference Missing"
-msgstr "การอ้างอิงการโอนภายในหายไป"
+msgstr "ไม่มีการอ้างอิงการโอนภายใน"
 
 msgid "Internal Transfers"
 msgstr "การโอนภายใน"
@@ -387,13 +386,13 @@ msgid "Internal transfers can only be done in company's default currency"
 msgstr "การโอนภายในสามารถทำได้เฉพาะในสกุลเงินเริ่มต้นของบริษัทเท่านั้น"
 
 msgid "Internet Publishing"
-msgstr ""
+msgstr "การเผยแพร่ทางอินเทอร์เน็ต"
 
 msgid "Interval should be between 1 to 59 MInutes"
 msgstr "ช่วงเวลาควรอยู่ระหว่าง 1 ถึง 59 นาที"
 
 msgid "Introduction"
-msgstr "การแนะนำ"
+msgstr "บทนำ"
 
 msgid "Invalid"
 msgstr "ไม่ถูกต้อง"
@@ -408,19 +407,19 @@ msgid "Invalid Amount"
 msgstr "จำนวนเงินไม่ถูกต้อง"
 
 msgid "Invalid Attribute"
-msgstr "แอตทริบิวต์ไม่ถูกต้อง"
+msgstr "คุณลักษณะไม่ถูกต้อง"
 
 msgid "Invalid Auto Repeat Date"
 msgstr "วันที่ทำซ้ำอัตโนมัติไม่ถูกต้อง"
 
 msgid "Invalid Barcode. There is no Item attached to this barcode."
-msgstr "บาร์โค้ดไม่ถูกต้อง ไม่มีรายการที่แนบมากับบาร์โค้ดนี้"
+msgstr "บาร์โค้ดไม่ถูกต้อง ไม่มีสินค้าที่ผูกกับบาร์โค้ดนี้"
 
 msgid "Invalid Blanket Order for the selected Customer and Item"
-msgstr "คำสั่งซื้อแบบครอบคลุมไม่ถูกต้องสำหรับลูกค้าและรายการที่เลือก"
+msgstr "ใบสั่งซื้อแบบครอบคลุมไม่ถูกต้องสำหรับลูกค้าและสินค้าที่เลือก"
 
 msgid "Invalid Child Procedure"
-msgstr "กระบวนการย่อยไม่ถูกต้อง"
+msgstr "ขั้นตอนย่อยไม่ถูกต้อง"
 
 msgid "Invalid Company for Inter Company Transaction."
 msgstr "บริษัทไม่ถูกต้องสำหรับธุรกรรมระหว่างบริษัท"
@@ -450,31 +449,31 @@ msgid "Invalid Gross Purchase Amount"
 msgstr "จำนวนเงินซื้อรวมไม่ถูกต้อง"
 
 msgid "Invalid Group By"
-msgstr "จัดกลุ่มตามไม่ถูกต้อง"
+msgstr "การจัดกลุ่มตามไม่ถูกต้อง"
 
 msgid "Invalid Item"
-msgstr "รายการไม่ถูกต้อง"
+msgstr "สินค้าไม่ถูกต้อง"
 
 msgid "Invalid Item Defaults"
-msgstr "ค่าเริ่มต้นของรายการไม่ถูกต้อง"
+msgstr "ค่าเริ่มต้นสินค้าไม่ถูกต้อง"
 
 msgid "Invalid Ledger Entries"
 msgstr "รายการบัญชีแยกประเภทไม่ถูกต้อง"
 
 msgid "Invalid Opening Entry"
-msgstr "รายการเปิดไม่ถูกต้อง"
+msgstr "รายการยอดยกมาไม่ถูกต้อง"
 
 msgid "Invalid POS Invoices"
 msgstr "ใบแจ้งหนี้ POS ไม่ถูกต้อง"
 
 msgid "Invalid Parent Account"
-msgstr "บัญชีหลักไม่ถูกต้อง"
+msgstr "บัญชีแม่ไม่ถูกต้อง"
 
 msgid "Invalid Part Number"
 msgstr "หมายเลขชิ้นส่วนไม่ถูกต้อง"
 
 msgid "Invalid Posting Time"
-msgstr "เวลาการโพสต์ไม่ถูกต้อง"
+msgstr "เวลาลงรายการไม่ถูกต้อง"
 
 msgid "Invalid Primary Role"
 msgstr "บทบาทหลักไม่ถูกต้อง"
@@ -483,7 +482,7 @@ msgid "Invalid Priority"
 msgstr "ลำดับความสำคัญไม่ถูกต้อง"
 
 msgid "Invalid Process Loss Configuration"
-msgstr "การกำหนดค่าการสูญเสียกระบวนการไม่ถูกต้อง"
+msgstr "การกำหนดค่าการสูญเสียจากกระบวนการไม่ถูกต้อง"
 
 msgid "Invalid Purchase Invoice"
 msgstr "ใบแจ้งหนี้ซื้อไม่ถูกต้อง"
@@ -498,3 +497,4 @@ msgid "Invalid Return"
 msgstr "การคืนไม่ถูกต้อง"
 
 msgid "Invalid Sales Invoices"
+msgstr "ใบแจ้งหนี้การขายไม่ถูกต้อง"

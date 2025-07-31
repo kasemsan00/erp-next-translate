@@ -1,190 +1,188 @@
-msgstr ""
-
 msgid "Dependant SLE Voucher Detail No"
-msgstr ""
+msgstr "เลขที่รายละเอียดใบสำคัญ SLE ที่อ้างอิง"
 
 msgid "Dependencies"
-msgstr ""
+msgstr "รายการที่ต้องทำก่อน"
 
 msgid "Dependent Task"
-msgstr ""
+msgstr "งานที่ต้องทำก่อน"
 
 msgid "Dependent Task {0} is not a Template Task"
-msgstr ""
+msgstr "งานที่ต้องทำก่อน {0} ไม่ใช่งานเทมเพลต"
 
 msgid "Dependent Tasks"
-msgstr ""
+msgstr "งานที่ต้องทำก่อน"
 
 msgid "Depends on Tasks"
-msgstr ""
+msgstr "ขึ้นอยู่กับงาน"
 
 msgid "Deposit"
 msgstr "เงินฝาก"
 
 msgid "Depreciate based on daily pro-rata"
-msgstr ""
+msgstr "คิดค่าเสื่อมราคาตามสัดส่วนรายวัน"
 
 msgid "Depreciate based on shifts"
-msgstr ""
+msgstr "คิดค่าเสื่อมราคาตามกะการทำงาน"
 
 msgid "Depreciated Amount"
-msgstr ""
+msgstr "จำนวนเงินที่คิดค่าเสื่อมราคาแล้ว"
 
 msgid "Depreciation"
 msgstr "ค่าเสื่อมราคา"
 
 msgid "Depreciation Amount"
-msgstr ""
+msgstr "จำนวนค่าเสื่อมราคา"
 
 msgid "Depreciation Amount during the period"
-msgstr ""
+msgstr "จำนวนค่าเสื่อมราคาในระหว่างงวด"
 
 msgid "Depreciation Date"
-msgstr ""
+msgstr "วันที่คิดค่าเสื่อมราคา"
 
 msgid "Depreciation Details"
-msgstr ""
+msgstr "รายละเอียดค่าเสื่อมราคา"
 
 msgid "Depreciation Eliminated due to disposal of assets"
-msgstr ""
+msgstr "ค่าเสื่อมราคาที่ถูกตัดออกเนื่องจากการจำหน่ายสินทรัพย์"
 
 msgid "Depreciation Entry"
-msgstr ""
+msgstr "รายการค่าเสื่อมราคา"
 
 msgid "Depreciation Entry Posting Status"
-msgstr ""
+msgstr "สถานะการลงรายการค่าเสื่อมราคา"
 
 msgid "Depreciation Expense Account"
-msgstr ""
+msgstr "บัญชีค่าใช้จ่ายค่าเสื่อมราคา"
 
 msgid "Depreciation Expense Account should be an Income or Expense Account."
-msgstr ""
+msgstr "บัญชีค่าใช้จ่ายค่าเสื่อมราคาควรเป็นบัญชีรายได้หรือค่าใช้จ่าย"
 
 msgid "Depreciation Method"
-msgstr ""
+msgstr "วิธีการคิดค่าเสื่อมราคา"
 
 msgid "Depreciation Options"
-msgstr ""
+msgstr "ตัวเลือกค่าเสื่อมราคา"
 
 msgid "Depreciation Posting Date"
-msgstr ""
+msgstr "วันที่ลงรายการค่าเสื่อมราคา"
 
 msgid "Depreciation Posting Date cannot be before Available-for-use Date"
-msgstr ""
+msgstr "วันที่ลงรายการค่าเสื่อมราคาต้องไม่มาก่อนวันที่พร้อมใช้งาน"
 
 msgid "Depreciation Row {0}: Depreciation Posting Date cannot be before Available-for-use Date"
-msgstr ""
+msgstr "แถวค่าเสื่อมราคา {0}: วันที่ลงรายการค่าเสื่อมราคาต้องไม่มาก่อนวันที่พร้อมใช้งาน"
 
 msgid "Depreciation Row {0}: Expected value after useful life must be greater than or equal to {1}"
-msgstr ""
+msgstr "แถวค่าเสื่อมราคา {0}: มูลค่าคาดหวังหลังสิ้นสุดอายุการใช้งานต้องมากกว่าหรือเท่ากับ {1}"
 
 msgid "Depreciation Schedule"
-msgstr ""
+msgstr "ตารางค่าเสื่อมราคา"
 
 msgid "Depreciation Schedule View"
-msgstr ""
+msgstr "มุมมองตารางค่าเสื่อมราคา"
 
 msgid "Depreciation cannot be calculated for fully depreciated assets"
-msgstr ""
+msgstr "ไม่สามารถคำนวณค่าเสื่อมราคาสำหรับสินทรัพย์ที่คิดค่าเสื่อมราคาเต็มจำนวนแล้ว"
 
 msgid "Depreciation eliminated via reversal"
-msgstr ""
+msgstr "ค่าเสื่อมราคาถูกตัดออกผ่านการกลับรายการ"
 
 msgid "Description"
 msgstr "คำอธิบาย"
 
 msgid "Description of Content"
-msgstr ""
+msgstr "คำอธิบายเนื้อหา"
 
 msgid "Designation"
-msgstr ""
+msgstr "ตำแหน่ง"
 
 msgid "Designer"
-msgstr ""
+msgstr "นักออกแบบ"
 
 msgid "Desk User"
-msgstr ""
+msgstr "ผู้ใช้ Desk"
 
 msgid "Detailed Reason"
-msgstr ""
+msgstr "เหตุผลโดยละเอียด"
 
 msgid "Details"
 msgstr "รายละเอียด"
 
 msgid "Determine Address Tax Category From"
-msgstr ""
+msgstr "กำหนดหมวดหมู่ภาษีตามที่อยู่จาก"
 
 msgid "Diesel"
-msgstr ""
+msgstr "ดีเซล"
 
 msgid "Difference"
 msgstr "ส่วนต่าง"
 
 msgid "Difference (Dr - Cr)"
-msgstr ""
+msgstr "ผลต่าง (เดบิต - เครดิต)"
 
 msgid "Difference Account"
-msgstr ""
+msgstr "บัญชีผลต่าง"
 
 msgid "Difference Account in Items Table"
-msgstr ""
+msgstr "บัญชีผลต่างในตารางสินค้า"
 
 msgid "Difference Account must be a Asset/Liability type account (Temporary Opening), since this Stock Entry is an Opening Entry"
-msgstr ""
+msgstr "บัญชีผลต่างต้องเป็นบัญชีประเภทสินทรัพย์/หนี้สิน (ยอดยกมา) เนื่องจากรายการสต็อกนี้เป็นรายการยอดยกมา"
 
 msgid "Difference Account must be a Asset/Liability type account, since this Stock Reconciliation is an Opening Entry"
-msgstr ""
+msgstr "บัญชีผลต่างต้องเป็นบัญชีประเภทสินทรัพย์/หนี้สิน เนื่องจากรายการกระทบยอดสต็อกนี้เป็นรายการยอดยกมา"
 
 msgid "Difference Amount"
-msgstr ""
+msgstr "จำนวนเงินผลต่าง"
 
 msgid "Difference Amount (Company Currency)"
-msgstr ""
+msgstr "จำนวนเงินผลต่าง (สกุลเงินบริษัท)"
 
 msgid "Difference Amount must be zero"
-msgstr ""
+msgstr "จำนวนเงินผลต่างต้องเป็นศูนย์"
 
 msgid "Difference In"
-msgstr ""
+msgstr "ผลต่างใน"
 
 msgid "Difference Posting Date"
-msgstr ""
+msgstr "วันที่ลงรายการผลต่าง"
 
 msgid "Difference Qty"
-msgstr ""
+msgstr "ปริมาณผลต่าง"
 
 msgid "Difference Value"
-msgstr ""
+msgstr "มูลค่าผลต่าง"
 
 msgid "Different 'Source Warehouse' and 'Target Warehouse' can be set for each row."
-msgstr ""
+msgstr "สามารถตั้งค่า 'คลังสินค้าต้นทาง' และ 'คลังสินค้าปลายทาง' ที่แตกต่างกันสำหรับแต่ละแถวได้"
 
 msgid "Different UOM for items will lead to incorrect (Total) Net Weight value. Make sure that Net Weight of each item is in the same UOM."
-msgstr ""
+msgstr "หน่วยวัดที่แตกต่างกันสำหรับสินค้าจะทำให้ค่า (รวม) น้ำหนักสุทธิไม่ถูกต้อง โปรดตรวจสอบให้แน่ใจว่าน้ำหนักสุทธิของแต่ละสินค้าอยู่ในหน่วยวัดเดียวกัน"
 
 msgid "Dimension Defaults"
-msgstr ""
+msgstr "ค่าเริ่มต้นมิติ"
 
 msgid "Dimension Details"
-msgstr ""
+msgstr "รายละเอียดมิติ"
 
 msgid "Dimension Filter"
-msgstr ""
+msgstr "ตัวกรองมิติ"
 
 msgid "Dimension Filter Help"
-msgstr ""
+msgstr "วิธีใช้ตัวกรองมิติ"
 
 msgid "Dimension Name"
-msgstr ""
+msgstr "ชื่อมิติ"
 
 msgid "Dimension-wise Accounts Balance Report"
-msgstr ""
+msgstr "รายงานยอดคงเหลือบัญชีตามมิติ"
 
 msgid "Dimensions"
 msgstr "มิติ"
 
 msgid "Direct Expense"
-msgstr ""
+msgstr "ค่าใช้จ่ายทางตรง"
 
 msgid "Direct Expenses"
 msgstr "ค่าใช้จ่ายทางตรง"
@@ -196,283 +194,283 @@ msgid "Disable"
 msgstr "ปิดใช้งาน"
 
 msgid "Disable Capacity Planning"
-msgstr ""
+msgstr "ปิดใช้งานการวางแผนกำลังการผลิต"
 
 msgid "Disable In Words"
-msgstr ""
+msgstr "ปิดใช้งานจำนวนเงินตัวอักษร"
 
 msgid "Disable Last Purchase Rate"
-msgstr ""
+msgstr "ปิดใช้งานอัตราซื้อล่าสุด"
 
 msgid "Disable Rounded Total"
 msgstr "ปิดใช้งานยอดรวมปัดเศษ"
 
 msgid "Disable Serial No And Batch Selector"
-msgstr ""
+msgstr "ปิดใช้งานตัวเลือกหมายเลขซีเรียลและแบทช์"
 
 msgid "Disabled"
-msgstr ""
+msgstr "ปิดใช้งานแล้ว"
 
 msgid "Disabled Account Selected"
-msgstr ""
+msgstr "เลือกบัญชีที่ปิดใช้งานแล้ว"
 
 msgid "Disabled Warehouse {0} cannot be used for this transaction."
-msgstr ""
+msgstr "ไม่สามารถใช้คลังสินค้าที่ปิดใช้งาน {0} สำหรับธุรกรรมนี้ได้"
 
 msgid "Disabled pricing rules since this {} is an internal transfer"
-msgstr ""
+msgstr "ปิดใช้งานกฎการกำหนดราคาเนื่องจาก {} นี้เป็นการโอนภายใน"
 
 msgid "Disabled tax included prices since this {} is an internal transfer"
-msgstr ""
+msgstr "ปิดใช้งานราคาที่รวมภาษีแล้วเนื่องจาก {} นี้เป็นการโอนภายใน"
 
 msgid "Disabled template must not be default template"
-msgstr ""
+msgstr "เทมเพลตที่ปิดใช้งานต้องไม่ใช่เทมเพลตเริ่มต้น"
 
 msgid "Disables auto-fetching of existing quantity"
-msgstr ""
+msgstr "ปิดใช้งานการดึงปริมาณที่มีอยู่โดยอัตโนมัติ"
 
 msgid "Disassemble"
-msgstr ""
+msgstr "ถอดประกอบ"
 
 msgid "Disassemble Order"
-msgstr ""
+msgstr "ใบสั่งถอดประกอบ"
 
 msgid "Disassembled Qty"
-msgstr ""
+msgstr "ปริมาณที่ถอดประกอบ"
 
 msgid "Disburse Loan"
-msgstr ""
+msgstr "เบิกจ่ายเงินกู้"
 
 msgid "Disbursed"
-msgstr ""
+msgstr "เบิกจ่ายแล้ว"
 
 msgid "Discard Changes and Load New Invoice"
-msgstr ""
+msgstr "ยกเลิกการเปลี่ยนแปลงและโหลดใบแจ้งหนี้ใหม่"
 
 msgid "Discount"
-msgstr ""
+msgstr "ส่วนลด"
 
 msgid "Discount (%)"
-msgstr ""
+msgstr "ส่วนลด (%)"
 
 msgid "Discount (%) on Price List Rate with Margin"
-msgstr ""
+msgstr "ส่วนลด (%) จากอัตรารายการราคาพร้อมกำไร"
 
 msgid "Discount Account"
-msgstr ""
+msgstr "บัญชีส่วนลด"
 
 msgid "Discount Amount"
-msgstr ""
+msgstr "จำนวนส่วนลด"
 
 msgid "Discount Amount in Transaction"
-msgstr ""
+msgstr "จำนวนส่วนลดในธุรกรรม"
 
 msgid "Discount Date"
-msgstr ""
+msgstr "วันที่ให้ส่วนลด"
 
 msgid "Discount Percentage"
-msgstr ""
+msgstr "เปอร์เซ็นต์ส่วนลด"
 
 msgid "Discount Percentage in Transaction"
-msgstr ""
+msgstr "เปอร์เซ็นต์ส่วนลดในธุรกรรม"
 
 msgid "Discount Settings"
-msgstr ""
+msgstr "การตั้งค่าส่วนลด"
 
 msgid "Discount Type"
-msgstr ""
+msgstr "ประเภทส่วนลด"
 
 msgid "Discount Validity"
-msgstr ""
+msgstr "ระยะเวลาที่ส่วนลดมีผล"
 
 msgid "Discount Validity Based On"
-msgstr ""
+msgstr "ระยะเวลาที่ส่วนลดมีผลอ้างอิงจาก"
 
 msgid "Discount and Margin"
-msgstr ""
+msgstr "ส่วนลดและกำไร"
 
 msgid "Discount cannot be greater than 100%"
-msgstr ""
+msgstr "ส่วนลดต้องไม่เกิน 100%"
 
 msgid "Discount cannot be greater than 100%."
-msgstr ""
+msgstr "ส่วนลดต้องไม่เกิน 100%"
 
 msgid "Discount must be less than 100"
-msgstr ""
+msgstr "ส่วนลดต้องน้อยกว่า 100"
 
 msgid "Discount of {} applied as per Payment Term"
-msgstr ""
+msgstr "ใช้ส่วนลด {} ตามเงื่อนไขการชำระเงิน"
 
 msgid "Discount on Other Item"
-msgstr ""
+msgstr "ส่วนลดสำหรับสินค้าอื่น"
 
 msgid "Discount on Price List Rate (%)"
-msgstr ""
+msgstr "ส่วนลดจากอัตรารายการราคา (%)"
 
 msgid "Discounted Amount"
-msgstr ""
+msgstr "จำนวนเงินหลังหักส่วนลด"
 
 msgid "Discounted Invoice"
-msgstr ""
+msgstr "ใบแจ้งหนี้ที่ลดราคาแล้ว"
 
 msgid "Discounts"
-msgstr ""
+msgstr "ส่วนลด"
 
 msgid "Discounts to be applied in sequential ranges like buy 1 get 1, buy 2 get 2, buy 3 get 3 and so on"
-msgstr ""
+msgstr "ส่วนลดที่จะใช้ในช่วงตามลำดับ เช่น ซื้อ 1 แถม 1, ซื้อ 2 แถม 2, ซื้อ 3 แถม 3 และอื่นๆ"
 
 msgid "Discrepancy between General and Payment Ledger"
-msgstr ""
+msgstr "ความคลาดเคลื่อนระหว่างบัญชีแยกประเภททั่วไปและบัญชีแยกประเภทการชำระเงิน"
 
 msgid "Discretionary Reason"
-msgstr ""
+msgstr "เหตุผลตามดุลยพินิจ"
 
 msgid "Dislikes"
-msgstr ""
+msgstr "ไม่ชอบ"
 
 msgid "Dispatch"
-msgstr ""
+msgstr "การจัดส่ง"
 
 msgid "Dispatch Address"
-msgstr ""
+msgstr "ที่อยู่จัดส่ง"
 
 msgid "Dispatch Address Details"
-msgstr ""
+msgstr "รายละเอียดที่อยู่จัดส่ง"
 
 msgid "Dispatch Address Name"
-msgstr ""
+msgstr "ชื่อที่อยู่จัดส่ง"
 
 msgid "Dispatch Address Template"
-msgstr ""
+msgstr "เทมเพลตที่อยู่จัดส่ง"
 
 msgid "Dispatch Information"
-msgstr ""
+msgstr "ข้อมูลการจัดส่ง"
 
 msgid "Dispatch Notification"
-msgstr ""
+msgstr "การแจ้งเตือนการจัดส่ง"
 
 msgid "Dispatch Notification Attachment"
-msgstr ""
+msgstr "ไฟล์แนบการแจ้งเตือนการจัดส่ง"
 
 msgid "Dispatch Notification Template"
-msgstr ""
+msgstr "เทมเพลตการแจ้งเตือนการจัดส่ง"
 
 msgid "Dispatch Settings"
-msgstr ""
+msgstr "การตั้งค่าการจัดส่ง"
 
 msgid "Disposal Date"
-msgstr ""
+msgstr "วันที่จำหน่าย"
 
 msgid "Disposal date {0} cannot be before {1} date {2} of the asset."
-msgstr ""
+msgstr "วันที่จำหน่าย {0} ต้องไม่มาก่อนวันที่ {1} {2} ของสินทรัพย์"
 
 msgid "Distance"
-msgstr ""
+msgstr "ระยะทาง"
 
 msgid "Distance UOM"
-msgstr ""
+msgstr "หน่วยวัดระยะทาง"
 
 msgid "Distance from left edge"
-msgstr ""
+msgstr "ระยะห่างจากขอบซ้าย"
 
 msgid "Distance from top edge"
-msgstr ""
+msgstr "ระยะห่างจากขอบบน"
 
 msgid "Distinct Item and Warehouse"
-msgstr ""
+msgstr "สินค้าและคลังสินค้าที่แตกต่างกัน"
 
 msgid "Distinct unit of an Item"
-msgstr ""
+msgstr "หน่วยที่แตกต่างของสินค้า"
 
 msgid "Distribute Additional Costs Based On "
-msgstr ""
+msgstr "กระจายต้นทุนเพิ่มเติมตาม "
 
 msgid "Distribute Charges Based On"
-msgstr ""
+msgstr "กระจายค่าใช้จ่ายตาม"
 
 msgid "Distribute Manually"
-msgstr ""
+msgstr "กระจายด้วยตนเอง"
 
 msgid "Distributed Discount Amount"
-msgstr ""
+msgstr "จำนวนส่วนลดที่กระจายแล้ว"
 
 msgid "Distribution Name"
-msgstr ""
+msgstr "ชื่อการกระจาย"
 
 msgid "Distributor"
-msgstr ""
+msgstr "ผู้จัดจำหน่าย"
 
 msgid "Dividends Paid"
-msgstr "เงินปันผล"
+msgstr "เงินปันผลจ่าย"
 
 msgid "Divorced"
-msgstr ""
+msgstr "หย่าร้าง"
 
 msgid "Do Not Contact"
-msgstr ""
+msgstr "ห้ามติดต่อ"
 
 msgid "Do Not Explode"
-msgstr ""
+msgstr "ห้ามแตกรายการ"
 
 msgid "Do Not Update Serial / Batch on Creation of Auto Bundle"
-msgstr ""
+msgstr "ห้ามอัปเดตซีเรียล / แบทช์เมื่อสร้างชุดอัตโนมัติ"
 
 msgid "Do Not Use Batch-wise Valuation"
-msgstr ""
+msgstr "ห้ามใช้การประเมินค่าตามแบทช์"
 
 msgid "Do not show any symbol like $ etc next to currencies."
-msgstr ""
+msgstr "ห้ามแสดงสัญลักษณ์ใดๆ เช่น $ ข้างสกุลเงิน"
 
 msgid "Do not update variants on save"
-msgstr ""
+msgstr "ห้ามอัปเดตตัวแปรเมื่อบันทึก"
 
 msgid "Do you really want to restore this scrapped asset?"
-msgstr ""
+msgstr "คุณต้องการกู้คืนสินทรัพย์ที่จำหน่ายแล้วนี้จริงๆ หรือ?"
 
 msgid "Do you still want to enable immutable ledger?"
-msgstr ""
+msgstr "คุณยังต้องการเปิดใช้งานบัญชีแยกประเภทที่เปลี่ยนแปลงไม่ได้หรือไม่?"
 
 msgid "Do you still want to enable negative inventory?"
-msgstr ""
+msgstr "คุณยังต้องการเปิดใช้งานสต็อกติดลบหรือไม่?"
 
 msgid "Do you want to change valuation method?"
-msgstr ""
+msgstr "คุณต้องการเปลี่ยนวิธีการประเมินค่าหรือไม่?"
 
 msgid "Do you want to notify all the customers by email?"
-msgstr ""
+msgstr "คุณต้องการแจ้งลูกค้าทั้งหมดทางอีเมลหรือไม่?"
 
 msgid "Do you want to submit the material request"
-msgstr ""
+msgstr "คุณต้องการส่งใบขอวัสดุหรือไม่"
 
 msgid "Do you want to submit the stock entry?"
-msgstr ""
+msgstr "คุณต้องการส่งรายการสต็อกหรือไม่?"
 
 msgid "DocField"
-msgstr ""
+msgstr "DocField"
 
 msgid "DocType"
-msgstr ""
+msgstr "DocType"
 
 msgid "DocTypes should not be added manually to the 'Excluded DocTypes' table. You are only allowed to remove entries from it."
-msgstr ""
+msgstr "ไม่ควรเพิ่ม DocTypes ลงในตาราง 'Excluded DocTypes' ด้วยตนเอง คุณได้รับอนุญาตให้ลบรายการออกจากตารางเท่านั้น"
 
 msgid "Docs Search"
-msgstr ""
+msgstr "ค้นหาเอกสาร"
 
 msgid "Doctype"
-msgstr ""
+msgstr "ประเภทเอกสาร"
 
 msgid "Document Name"
-msgstr ""
+msgstr "ชื่อเอกสาร"
 
 msgid "Document Type"
-msgstr ""
+msgstr "ประเภทเอกสาร"
 
 msgid "Document Type "
-msgstr ""
+msgstr "ประเภทเอกสาร "
 
 msgid "Document Type already used as a dimension"
-msgstr ""
+msgstr "ประเภทเอกสารถูกใช้เป็นมิติแล้ว"
 
 msgid "Documentation"
 msgstr "เอกสารประกอบ"
@@ -484,7 +482,7 @@ msgid "Documents Processed on each trigger. Queue Size should be between 5 and 1
 msgstr "เอกสารถูกประมวลผลในแต่ละทริกเกอร์ ขนาดคิวควรอยู่ระหว่าง 5 ถึง 100"
 
 msgid "Documents: {0} have deferred revenue/expense enabled for them. Cannot repost."
-msgstr "เอกสาร: {0} มีการเปิดใช้งานรายได้/ค่าใช้จ่ายรอตัดบัญชี ไม่สามารถโพสต์ใหม่ได้"
+msgstr "เอกสาร: {0} มีการเปิดใช้งานรายได้/ค่าใช้จ่ายรอตัดบัญชี ไม่สามารถลงรายการใหม่ได้"
 
 msgid "Domain"
 msgstr "โดเมน"
@@ -493,8 +491,7 @@ msgid "Domain Settings"
 msgstr "การตั้งค่าโดเมน"
 
 msgid "Don't Create Loyalty Points"
-msgstr "อย่าสร้างคะแนนสะสม"
+msgstr "ไม่ต้องสร้างคะแนนสะสม"
 
 msgid "Don't Enforce Free Item Qty"
-msgstr "อย่าบังคับปริมาณรายการฟรี"
-
+msgstr "ไม่ต้องบังคับปริมาณสินค้าฟรี"

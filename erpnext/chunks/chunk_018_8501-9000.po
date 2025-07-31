@@ -5,28 +5,28 @@ msgid "Extra Consumed Qty"
 msgstr "ปริมาณที่ใช้เกิน"
 
 msgid "Extra Job Card Quantity"
-msgstr "ปริมาณบัตรงานเพิ่มเติม"
+msgstr "ปริมาณใบงานเพิ่มเติม"
 
 msgid "Extra Large"
-msgstr "ใหญ่มาก"
+msgstr "ใหญ่พิเศษ"
 
 msgid "Extra Small"
-msgstr "เล็กมาก"
+msgstr "เล็กพิเศษ"
 
 msgid "FIFO"
-msgstr "เข้าก่อนออกก่อน"
+msgstr "เข้าก่อน-ออกก่อน"
 
 msgid "FIFO Queue"
-msgstr "คิวเข้าก่อนออกก่อน"
+msgstr "คิว FIFO"
 
 msgid "FIFO Queue vs Qty After Transaction Comparison"
-msgstr "การเปรียบเทียบคิวเข้าก่อนออกก่อนกับปริมาณหลังธุรกรรม"
+msgstr "การเปรียบเทียบคิว FIFO กับปริมาณหลังธุรกรรม"
 
 msgid "FIFO Stock Queue (qty, rate)"
-msgstr "คิวสต็อกเข้าก่อนออกก่อน (ปริมาณ, อัตรา)"
+msgstr "คิวสต็อก FIFO (ปริมาณ, อัตรา)"
 
 msgid "FIFO/LIFO Queue"
-msgstr "คิวเข้าก่อนออกก่อน/เข้าหลังออกก่อน"
+msgstr "คิว FIFO/LIFO"
 
 msgid "Fahrenheit"
 msgstr "ฟาเรนไฮต์"
@@ -38,31 +38,31 @@ msgid "Failed Entries"
 msgstr "รายการที่ล้มเหลว"
 
 msgid "Failed to Authenticate the API key."
-msgstr "ไม่สามารถตรวจสอบสิทธิ์คีย์ API ได้"
+msgstr "ไม่สามารถยืนยันคีย์ API ได้"
 
 msgid "Failed to erase demo data, please delete the demo company manually."
-msgstr "ไม่สามารถลบข้อมูลสาธิตได้ โปรดลบบริษัทสาธิตด้วยตนเอง"
+msgstr "ไม่สามารถลบข้อมูลตัวอย่างได้ กรุณาลบบริษัทตัวอย่างด้วยตนเอง"
 
 msgid "Failed to install presets"
-msgstr "ล้มเหลวในการติดตั้งค่าที่ตั้งไว้ล่วงหน้า"
+msgstr "ติดตั้งค่าที่ตั้งไว้ล่วงหน้าไม่สำเร็จ"
 
 msgid "Failed to login"
-msgstr "ล้มเหลวในการเข้าสู่ระบบ"
+msgstr "เข้าสู่ระบบไม่สำเร็จ"
 
 msgid "Failed to parse MT940 format. Error: {0}"
 msgstr "ไม่สามารถแยกวิเคราะห์รูปแบบ MT940 ได้ ข้อผิดพลาด: {0}"
 
 msgid "Failed to post depreciation entries"
-msgstr "ล้มเหลวในการโพสต์รายการค่าเสื่อมราคา"
+msgstr "ลงรายการค่าเสื่อมราคาไม่สำเร็จ"
 
 msgid "Failed to setup company"
-msgstr "ล้มเหลวในการตั้งค่าบริษัท"
+msgstr "ตั้งค่าบริษัทไม่สำเร็จ"
 
 msgid "Failed to setup defaults"
-msgstr "ล้มเหลวในการตั้งค่าค่าเริ่มต้น"
+msgstr "ตั้งค่าเริ่มต้นไม่สำเร็จ"
 
 msgid "Failed to setup defaults for country {0}. Please contact support."
-msgstr "ล้มเหลวในการตั้งค่าค่าเริ่มต้นสำหรับประเทศ {0} โปรดติดต่อฝ่ายสนับสนุน"
+msgstr "ตั้งค่าเริ่มต้นสำหรับประเทศ {0} ไม่สำเร็จ กรุณาติดต่อฝ่ายสนับสนุน"
 
 msgid "Failure"
 msgstr "ความล้มเหลว"
@@ -77,7 +77,7 @@ msgid "Failure: {0}"
 msgstr "ความล้มเหลว: {0}"
 
 msgid "Family Background"
-msgstr "ภูมิหลังครอบครัว"
+msgstr "ประวัติครอบครัว"
 
 msgid "Faraday"
 msgstr "ฟาราเดย์"
@@ -92,7 +92,7 @@ msgid "Feedback"
 msgstr "ข้อเสนอแนะ"
 
 msgid "Feedback By"
-msgstr "ข้อเสนอแนะโดย"
+msgstr "เสนอแนะโดย"
 
 msgid "Fees"
 msgstr "ค่าธรรมเนียม"
@@ -104,40 +104,40 @@ msgid "Fetch Customers"
 msgstr "ดึงข้อมูลลูกค้า"
 
 msgid "Fetch Items from Warehouse"
-msgstr "ดึงรายการจากคลังสินค้า"
+msgstr "ดึงสินค้าจากคลังสินค้า"
 
 msgid "Fetch Latest Exchange Rate"
 msgstr "ดึงอัตราแลกเปลี่ยนล่าสุด"
 
 msgid "Fetch Overdue Payments"
-msgstr "ดึงการชำระเงินที่เกินกำหนด"
+msgstr "ดึงการชำระเงินที่ค้างชำระ"
 
 msgid "Fetch Subscription Updates"
 msgstr "ดึงการอัปเดตการสมัครสมาชิก"
 
 msgid "Fetch Timesheet"
-msgstr "ดึงตารางเวลางาน"
+msgstr "ดึงใบบันทึกเวลา"
 
 msgid "Fetch Timesheet in Sales Invoice"
-msgstr "ดึงตารางเวลางานในใบแจ้งหนี้ขาย"
+msgstr "ดึงใบบันทึกเวลาในใบแจ้งหนี้การขาย"
 
 msgid "Fetch Value From"
 msgstr "ดึงค่าจาก"
 
 msgid "Fetch exploded BOM (including sub-assemblies)"
-msgstr "ดึง BOM ที่ระเบิดออก (รวมถึงชุดย่อย)"
+msgstr "ดึง BOM ที่แตกย่อย (รวมส่วนประกอบย่อย)"
 
 msgid "Fetch items based on Default Supplier."
-msgstr "ดึงรายการตามผู้จัดจำหน่ายเริ่มต้น"
+msgstr "ดึงสินค้าตามซัพพลายเออร์เริ่มต้น"
 
 msgid "Fetched only {0} available serial numbers."
-msgstr "ดึงหมายเลขซีเรียลที่มีอยู่เพียง {0} หมายเลข"
+msgstr "ดึงหมายเลขซีเรียลที่ใช้ได้มาเพียง {0} หมายเลข"
 
 msgid "Fetching Error"
 msgstr "ข้อผิดพลาดในการดึงข้อมูล"
 
 msgid "Fetching exchange rates ..."
-msgstr "กำลังดึงอัตราแลกเปลี่ยน ..."
+msgstr "กำลังดึงอัตราแลกเปลี่ยน..."
 
 msgid "Fetching..."
 msgstr "กำลังดึงข้อมูล..."
@@ -176,10 +176,10 @@ msgid "Filter Based On"
 msgstr "กรองตาม"
 
 msgid "Filter Duration (Months)"
-msgstr "ระยะเวลาการกรอง (เดือน)"
+msgstr "ระยะเวลากรอง (เดือน)"
 
 msgid "Filter Total Zero Qty"
-msgstr "กรองปริมาณรวมที่เป็นศูนย์"
+msgstr "กรองปริมาณรวมเป็นศูนย์"
 
 msgid "Filter by Reference Date"
 msgstr "กรองตามวันที่อ้างอิง"
@@ -188,10 +188,10 @@ msgid "Filter by invoice status"
 msgstr "กรองตามสถานะใบแจ้งหนี้"
 
 msgid "Filter on Invoice"
-msgstr "กรองในใบแจ้งหนี้"
+msgstr "ตัวกรองในใบแจ้งหนี้"
 
 msgid "Filter on Payment"
-msgstr "กรองในการชำระเงิน"
+msgstr "ตัวกรองในการชำระเงิน"
 
 msgid "Filters"
 msgstr "ตัวกรอง"
@@ -200,136 +200,136 @@ msgid "Filters missing"
 msgstr "ไม่มีตัวกรอง"
 
 msgid "Final BOM"
-msgstr ""
+msgstr "BOM สุดท้าย"
 
 msgid "Final Product"
-msgstr ""
+msgstr "ผลิตภัณฑ์สุดท้าย"
 
 msgid "Finance Book"
-msgstr ""
+msgstr "สมุดการเงิน"
 
 msgid "Finance Book Detail"
-msgstr ""
+msgstr "รายละเอียดสมุดการเงิน"
 
 msgid "Finance Book Id"
-msgstr ""
+msgstr "รหัสสมุดการเงิน"
 
 msgid "Finance Books"
-msgstr ""
+msgstr "สมุดการเงิน"
 
 msgid "Finance Manager"
-msgstr ""
+msgstr "ผู้จัดการฝ่ายการเงิน"
 
 msgid "Financial Ratios"
-msgstr ""
+msgstr "อัตราส่วนทางการเงิน"
 
 msgid "Financial Reports"
-msgstr ""
+msgstr "รายงานทางการเงิน"
 
 msgid "Financial Services"
-msgstr ""
+msgstr "บริการทางการเงิน"
 
 msgid "Financial Statements"
-msgstr ""
+msgstr "งบการเงิน"
 
 msgid "Financial Year Begins On"
-msgstr ""
+msgstr "ปีการเงินเริ่มต้นเมื่อ"
 
 msgid "Financial reports will be generated using GL Entry doctypes (should be enabled if Period Closing Voucher is not posted for all years sequentially or missing) "
-msgstr ""
+msgstr "รายงานทางการเงินจะถูกสร้างโดยใช้ประเภทเอกสาร GL Entry (ควรเปิดใช้งานหากใบสำคัญปิดงวดไม่ได้ลงรายการสำหรับทุกปีตามลำดับหรือขาดหายไป) "
 
 msgid "Finish"
-msgstr ""
+msgstr "เสร็จสิ้น"
 
 msgid "Finished"
-msgstr ""
+msgstr "เสร็จแล้ว"
 
 msgid "Finished Good"
-msgstr ""
+msgstr "สินค้าสำเร็จรูป"
 
 msgid "Finished Good BOM"
-msgstr ""
+msgstr "BOM สินค้าสำเร็จรูป"
 
 msgid "Finished Good Item"
-msgstr ""
+msgstr "สินค้าสำเร็จรูป"
 
 msgid "Finished Good Item Code"
-msgstr ""
+msgstr "รหัสสินค้าสำเร็จรูป"
 
 msgid "Finished Good Item Qty"
-msgstr ""
+msgstr "ปริมาณสินค้าสำเร็จรูป"
 
 msgid "Finished Good Item Quantity"
-msgstr ""
+msgstr "ปริมาณสินค้าสำเร็จรูป"
 
 msgid "Finished Good Item is not specified for service item {0}"
-msgstr ""
+msgstr "ไม่ได้ระบุสินค้าสำเร็จรูปสำหรับบริการ {0}"
 
 msgid "Finished Good Item {0} Qty can not be zero"
-msgstr ""
+msgstr "ปริมาณสินค้าสำเร็จรูป {0} ต้องไม่เป็นศูนย์"
 
 msgid "Finished Good Item {0} must be a sub-contracted item"
-msgstr ""
+msgstr "สินค้าสำเร็จรูป {0} ต้องเป็นสินค้าจ้างเหมาช่วง"
 
 msgid "Finished Good Qty"
-msgstr ""
+msgstr "ปริมาณสินค้าสำเร็จรูป"
 
 msgid "Finished Good Quantity "
-msgstr ""
+msgstr "ปริมาณสินค้าสำเร็จรูป "
 
 msgid "Finished Good Serial / Batch"
-msgstr ""
+msgstr "ซีเรียล / แบทช์ของสินค้าสำเร็จรูป"
 
 msgid "Finished Good UOM"
-msgstr ""
+msgstr "หน่วยวัดสินค้าสำเร็จรูป"
 
 msgid "Finished Good {0} does not have a default BOM."
-msgstr ""
+msgstr "สินค้าสำเร็จรูป {0} ไม่มี BOM เริ่มต้น"
 
 msgid "Finished Good {0} is disabled."
-msgstr ""
+msgstr "สินค้าสำเร็จรูป {0} ถูกปิดใช้งาน"
 
 msgid "Finished Good {0} must be a stock item."
-msgstr ""
+msgstr "สินค้าสำเร็จรูป {0} ต้องเป็นสินค้าสต็อก"
 
 msgid "Finished Good {0} must be a sub-contracted item."
-msgstr ""
+msgstr "สินค้าสำเร็จรูป {0} ต้องเป็นสินค้าจ้างเหมาช่วง"
 
 msgid "Finished Goods"
-msgstr ""
+msgstr "สินค้าสำเร็จรูป"
 
 msgid "Finished Goods / Semi Finished Goods Item"
-msgstr ""
+msgstr "สินค้าสำเร็จรูป / สินค้ากึ่งสำเร็จรูป"
 
 msgid "Finished Goods Based Operating Cost"
-msgstr ""
+msgstr "ต้นทุนการดำเนินงานตามสินค้าสำเร็จรูป"
 
 msgid "Finished Goods Item"
-msgstr ""
+msgstr "สินค้าสำเร็จรูป"
 
 msgid "Finished Goods Qty"
-msgstr ""
+msgstr "ปริมาณสินค้าสำเร็จรูป"
 
 msgid "Finished Goods Reference"
-msgstr ""
+msgstr "การอ้างอิงสินค้าสำเร็จรูป"
 
 msgid "Finished Goods Value"
-msgstr ""
+msgstr "มูลค่าสินค้าสำเร็จรูป"
 
 msgid "Finished Goods Warehouse"
-msgstr ""
+msgstr "คลังสินค้าสำเร็จรูป"
 
 msgid "Finished Goods based Operating Cost"
-msgstr ""
+msgstr "ต้นทุนการดำเนินงานตามสินค้าสำเร็จรูป"
 
 msgid "Finished Item {0} does not match with Work Order {1}"
-msgstr ""
+msgstr "สินค้าสำเร็จรูป {0} ไม่ตรงกับใบสั่งงาน {1}"
 
 msgid "First Email"
 msgstr "อีเมลแรก"
 
 msgid "First Name"
-msgstr "ชื่อแรก"
+msgstr "ชื่อ"
 
 msgid "First Responded On"
 msgstr "ตอบกลับครั้งแรกเมื่อ"
@@ -341,37 +341,37 @@ msgid "First Response SLA Failed by {}"
 msgstr "SLA การตอบกลับครั้งแรกล้มเหลวโดย {}"
 
 msgid "First Response Time"
-msgstr "เวลาการตอบกลับครั้งแรก"
+msgstr "เวลาตอบกลับครั้งแรก"
 
 msgid "First Response Time for Issues"
-msgstr "เวลาการตอบกลับครั้งแรกสำหรับปัญหา"
+msgstr "เวลาตอบกลับครั้งแรกสำหรับปัญหา"
 
 msgid "First Response Time for Opportunity"
-msgstr "เวลาการตอบกลับครั้งแรกสำหรับโอกาส"
+msgstr "เวลาตอบกลับครั้งแรกสำหรับโอกาสทางการขาย"
 
 msgid "Fiscal Regime is mandatory, kindly set the fiscal regime in the company {0}"
-msgstr "ระบอบการคลังเป็นสิ่งจำเป็น โปรดตั้งค่าระบอบการคลังในบริษัท {0}"
+msgstr "ต้องระบุระเบียบการคลัง กรุณาตั้งค่าระเบียบการคลังในบริษัท {0}"
 
 msgid "Fiscal Year"
 msgstr "ปีงบประมาณ"
 
 msgid "Fiscal Year Company"
-msgstr "บริษัทปีงบประมาณ"
+msgstr "บริษัทในปีงบประมาณ"
 
 msgid "Fiscal Year End Date should be one year after Fiscal Year Start Date"
 msgstr "วันที่สิ้นสุดปีงบประมาณควรเป็นหนึ่งปีหลังจากวันที่เริ่มต้นปีงบประมาณ"
 
 msgid "Fiscal Year Start Date and Fiscal Year End Date are already set in Fiscal Year {0}"
-msgstr "วันที่เริ่มต้นปีงบประมาณและวันที่สิ้นสุดปีงบประมาณถูกตั้งค่าแล้วในปีงบประมาณ {0}"
+msgstr "วันที่เริ่มต้นและวันที่สิ้นสุดปีงบประมาณได้ถูกตั้งค่าแล้วในปีงบประมาณ {0}"
 
 msgid "Fiscal Year {0} Does Not Exist"
-msgstr "ปีงบประมาณ {0} ไม่มีอยู่"
+msgstr "ไม่มีปีงบประมาณ {0}"
 
 msgid "Fiscal Year {0} does not exist"
-msgstr "ปีงบประมาณ {0} ไม่มีอยู่"
+msgstr "ไม่มีปีงบประมาณ {0}"
 
 msgid "Fiscal Year {0} is required"
-msgstr "จำเป็นต้องมีปีงบประมาณ {0}"
+msgstr "ต้องระบุปีงบประมาณ {0}"
 
 msgid "Fixed"
 msgstr "คงที่"
@@ -386,7 +386,7 @@ msgid "Fixed Asset Defaults"
 msgstr "ค่าเริ่มต้นสินทรัพย์ถาวร"
 
 msgid "Fixed Asset Item must be a non-stock item."
-msgstr "รายการสินทรัพย์ถาวรต้องเป็นรายการที่ไม่ใช่สต็อก"
+msgstr "สินค้าสินทรัพย์ถาวรต้องเป็นสินค้าที่ไม่ใช่สต็อก"
 
 msgid "Fixed Asset Register"
 msgstr "ทะเบียนสินทรัพย์ถาวร"
@@ -404,7 +404,7 @@ msgid "Fixed Time"
 msgstr "เวลาคงที่"
 
 msgid "Fleet Manager"
-msgstr "ผู้จัดการยานพาหนะ"
+msgstr "ผู้จัดการกลุ่มยานพาหนะ"
 
 msgid "Floor"
 msgstr "ชั้น"
@@ -413,88 +413,88 @@ msgid "Floor Name"
 msgstr "ชื่อชั้น"
 
 msgid "Fluid Ounce (UK)"
-msgstr ""
+msgstr "ฟลูอิดออนซ์ (UK)"
 
 msgid "Fluid Ounce (US)"
-msgstr ""
+msgstr "ฟลูอิดออนซ์ (US)"
 
 msgid "Focus on Item Group filter"
-msgstr "เน้นที่ตัวกรองกลุ่มรายการ"
+msgstr "เน้นที่ตัวกรองกลุ่มสินค้า"
 
 msgid "Focus on search input"
-msgstr "เน้นที่การป้อนการค้นหา"
+msgstr "เน้นที่ช่องค้นหา"
 
 msgid "Folio no."
-msgstr "หมายเลขโฟลิโอ"
+msgstr "เลขที่โฟลิโอ"
 
 msgid "Follow Calendar Months"
-msgstr "ติดตามเดือนปฏิทิน"
+msgstr "ตามเดือนปฏิทิน"
 
 msgid "Following Material Requests have been raised automatically based on Item's re-order level"
-msgstr "คำขอวัสดุต่อไปนี้ถูกยกขึ้นโดยอัตโนมัติตามระดับการสั่งซื้อใหม่ของรายการ"
+msgstr "ใบขอวัสดุต่อไปนี้ถูกสร้างขึ้นโดยอัตโนมัติตามระดับการสั่งซื้อใหม่ของสินค้า"
 
 msgid "Following fields are mandatory to create address:"
-msgstr "ฟิลด์ต่อไปนี้เป็นสิ่งจำเป็นในการสร้างที่อยู่:"
+msgstr "ฟิลด์ต่อไปนี้เป็นฟิลด์บังคับในการสร้างที่อยู่:"
 
 msgid "Food, Beverage & Tobacco"
-msgstr ""
+msgstr "อาหาร, เครื่องดื่ม และยาสูบ"
 
 msgid "Foot"
-msgstr ""
+msgstr "ฟุต"
 
 msgid "Foot Of Water"
-msgstr ""
+msgstr "ฟุตของน้ำ"
 
 msgid "Foot/Minute"
-msgstr ""
+msgstr "ฟุต/นาที"
 
 msgid "Foot/Second"
-msgstr ""
+msgstr "ฟุต/วินาที"
 
 msgid "For"
-msgstr ""
+msgstr "สำหรับ"
 
 msgid "For 'Product Bundle' items, Warehouse, Serial No and Batch No will be considered from the 'Packing List' table. If Warehouse and Batch No are same for all packing items for any 'Product Bundle' item, those values can be entered in the main Item table, values will be copied to 'Packing List' table."
-msgstr ""
+msgstr "สำหรับสินค้า 'ชุดสินค้า', คลังสินค้า, หมายเลขซีเรียล และหมายเลขแบทช์จะถูกพิจารณาจากตาราง 'รายการบรรจุ'. หากคลังสินค้าและหมายเลขแบทช์เหมือนกันสำหรับสินค้าบรรจุทั้งหมดของ 'ชุดสินค้า' ใดๆ ค่าเหล่านั้นสามารถป้อนในตารางสินค้าหลัก และค่าจะถูกคัดลอกไปยังตาราง 'รายการบรรจุ'."
 
 msgid "For All Stock Asset Accounts"
-msgstr ""
+msgstr "สำหรับทุกบัญชีสินทรัพย์สต็อก"
 
 msgid "For Buying"
-msgstr ""
+msgstr "สำหรับการซื้อ"
 
 msgid "For Company"
-msgstr ""
+msgstr "สำหรับบริษัท"
 
 msgid "For Default Supplier (Optional)"
-msgstr ""
+msgstr "สำหรับซัพพลายเออร์เริ่มต้น (ตัวเลือก)"
 
 msgid "For Item"
-msgstr ""
+msgstr "สำหรับสินค้า"
 
 msgid "For Item {0} cannot be received more than {1} qty against the {2} {3}"
-msgstr ""
+msgstr "สำหรับสินค้า {0} ไม่สามารถรับเกินกว่า {1} หน่วยสำหรับ {2} {3}"
 
 msgid "For Job Card"
-msgstr ""
+msgstr "สำหรับใบงาน"
 
 msgid "For Operation"
-msgstr ""
+msgstr "สำหรับการดำเนินงาน"
 
 msgid "For Price List"
-msgstr ""
+msgstr "สำหรับรายการราคา"
 
 msgid "For Production"
-msgstr ""
+msgstr "สำหรับการผลิต"
 
 msgid "For Quantity (Manufactured Qty) is mandatory"
-msgstr ""
+msgstr "ต้องระบุปริมาณสำหรับ (ปริมาณที่ผลิต)"
 
 msgid "For Raw Materials"
-msgstr ""
+msgstr "สำหรับวัตถุดิบ"
 
 msgid "For Return Invoices with Stock effect, '0' qty Items are not allowed. Following rows are affected: {0}"
-msgstr ""
+msgstr "สำหรับใบแจ้งหนี้คืนสินค้าที่มีผลต่อสต็อก ไม่อนุญาตให้มีสินค้าจำนวน '0' แถวต่อไปนี้ได้รับผลกระทบ: {0}"
 
 msgid "For Selling"
-msgstr ""
+msgstr "สำหรับการขาย"

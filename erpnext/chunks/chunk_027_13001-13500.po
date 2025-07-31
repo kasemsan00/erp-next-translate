@@ -1,24 +1,23 @@
-﻿
-msgid "Maximum Payment Amount"
+﻿msgid "Maximum Payment Amount"
 msgstr "จำนวนเงินชำระสูงสุด"
 
 msgid "Maximum Samples - {0} can be retained for Batch {1} and Item {2}."
-msgstr "ตัวอย่างสูงสุด - {0} สามารถเก็บไว้สำหรับแบทช์ {1} และรายการ {2}"
+msgstr "สามารถเก็บตัวอย่างได้สูงสุด - {0} สำหรับแบทช์ {1} และสินค้า {2}"
 
 msgid "Maximum Samples - {0} have already been retained for Batch {1} and Item {2} in Batch {3}."
-msgstr "ตัวอย่างสูงสุด - {0} ได้ถูกเก็บไว้แล้วสำหรับแบทช์ {1} และรายการ {2} ในแบทช์ {3}"
+msgstr "ตัวอย่างสูงสุด - {0} ได้ถูกเก็บไว้แล้วสำหรับแบทช์ {1} และสินค้า {2} ในแบทช์ {3}"
 
 msgid "Maximum Use"
 msgstr "การใช้งานสูงสุด"
 
 msgid "Maximum Value"
-msgstr "ค่ามากที่สุด"
+msgstr "ค่าสูงสุด"
 
 msgid "Maximum discount for Item {0} is {1}%"
-msgstr ""
+msgstr "ส่วนลดสูงสุดสำหรับสินค้า {0} คือ {1}%"
 
 msgid "Maximum quantity scanned for item {0}."
-msgstr "ปริมาณสูงสุดที่สแกนสำหรับรายการ {0}"
+msgstr "สแกนปริมาณสูงสุดสำหรับสินค้า {0} แล้ว"
 
 msgid "Maximum sample quantity that can be retained"
 msgstr "ปริมาณตัวอย่างสูงสุดที่สามารถเก็บไว้ได้"
@@ -30,31 +29,31 @@ msgid "Meeting"
 msgstr "การประชุม"
 
 msgid "Megacoulomb"
-msgstr ""
+msgstr "เมกะคูลอมบ์"
 
 msgid "Megagram/Litre"
-msgstr ""
+msgstr "เมกะกรัม/ลิตร"
 
 msgid "Megahertz"
-msgstr ""
+msgstr "เมกะเฮิรตซ์"
 
 msgid "Megajoule"
-msgstr ""
+msgstr "เมกะจูล"
 
 msgid "Megawatt"
-msgstr ""
+msgstr "เมกะวัตต์"
 
 msgid "Mention Valuation Rate in the Item master."
-msgstr "ระบุอัตราการประเมินมูลค่าในมาสเตอร์รายการ"
+msgstr "ระบุอัตราการประเมินค่าในข้อมูลหลักของสินค้า"
 
 msgid "Mention if non-standard Receivable account"
-msgstr "ระบุหากเป็นบัญชีลูกหนี้ที่ไม่เป็นมาตรฐาน"
+msgstr "ระบุหากเป็นบัญชีลูกหนี้ที่ไม่ใช่มาตรฐาน"
 
 msgid "Mention if non-standard payable account"
-msgstr "ระบุหากเป็นบัญชีเจ้าหนี้ที่ไม่เป็นมาตรฐาน"
+msgstr "ระบุหากเป็นบัญชีเจ้าหนี้ที่ไม่ใช่มาตรฐาน"
 
 msgid "Mention if non-standard receivable account applicable"
-msgstr "ระบุหากเป็นบัญชีลูกหนี้ที่ไม่เป็นมาตรฐานที่ใช้ได้"
+msgstr "ระบุหากมีบัญชีลูกหนี้ที่ไม่ใช่มาตรฐานที่เกี่ยวข้อง"
 
 msgid "Menu"
 msgstr "เมนู"
@@ -72,7 +71,7 @@ msgid "Merge Progress"
 msgstr "ความคืบหน้าการรวม"
 
 msgid "Merge Similar Account Heads"
-msgstr "รวมหัวบัญชีที่คล้ายกัน"
+msgstr "รวมหัวข้อบัญชีที่คล้ายกัน"
 
 msgid "Merge taxes from multiple documents"
 msgstr "รวมภาษีจากเอกสารหลายฉบับ"
@@ -84,13 +83,13 @@ msgid "Merge with existing"
 msgstr "รวมกับที่มีอยู่"
 
 msgid "Merged"
-msgstr "ถูกรวมแล้ว"
+msgstr "รวมแล้ว"
 
 msgid "Merging is only possible if following properties are same in both records. Is Group, Root Type, Company and Account Currency"
-msgstr "การรวมสามารถทำได้เฉพาะเมื่อคุณสมบัติต่อไปนี้เหมือนกันในทั้งสองระเบียน: เป็นกลุ่ม, ประเภทหลัก, บริษัท และสกุลเงินบัญชี"
+msgstr "การรวมจะทำได้ก็ต่อเมื่อคุณสมบัติต่อไปนี้เหมือนกันทั้งสองระเบียน: เป็นกลุ่ม, ประเภทราก, บริษัท และสกุลเงินบัญชี"
 
 msgid "Merging {0} of {1}"
-msgstr "กำลังรวม {0} ของ {1}"
+msgstr "กำลังรวม {0} จาก {1}"
 
 msgid "Message"
 msgstr "ข้อความ"
@@ -102,43 +101,43 @@ msgid "Message Sent"
 msgstr "ส่งข้อความแล้ว"
 
 msgid "Message for Supplier"
-msgstr "ข้อความสำหรับผู้จัดจำหน่าย"
+msgstr "ข้อความถึงซัพพลายเออร์"
 
 msgid "Message to show"
 msgstr "ข้อความที่จะแสดง"
 
 msgid "Message will be sent to the users to get their status on the Project"
-msgstr "ข้อความจะถูกส่งไปยังผู้ใช้เพื่อรับสถานะของพวกเขาในโครงการ"
+msgstr "จะมีการส่งข้อความไปยังผู้ใช้เพื่อรับทราบสถานะของโครงการ"
 
 msgid "Messages greater than 160 characters will be split into multiple messages"
-msgstr "ข้อความที่ยาวกว่า 160 ตัวอักษรจะถูกแบ่งเป็นหลายข้อความ"
+msgstr "ข้อความที่ยาวเกิน 160 ตัวอักษรจะถูกแบ่งเป็นหลายข้อความ"
 
 msgid "Messaging CRM Campagin"
 msgstr "แคมเปญ CRM การส่งข้อความ"
 
 msgid "Meter"
-msgstr ""
+msgstr "เมตร"
 
 msgid "Meter Of Water"
-msgstr ""
+msgstr "เมตรน้ำ"
 
 msgid "Meter/Second"
-msgstr ""
+msgstr "เมตร/วินาที"
 
 msgid "Microbar"
-msgstr ""
+msgstr "ไมโครบาร์"
 
 msgid "Microgram"
-msgstr ""
+msgstr "ไมโครกรัม"
 
 msgid "Microgram/Litre"
-msgstr ""
+msgstr "ไมโครกรัม/ลิตร"
 
 msgid "Micrometer"
-msgstr ""
+msgstr "ไมโครเมตร"
 
 msgid "Microsecond"
-msgstr ""
+msgstr "ไมโครวินาที"
 
 msgid "Middle Income"
 msgstr "รายได้ปานกลาง"
@@ -147,61 +146,61 @@ msgid "Middle Name"
 msgstr "ชื่อกลาง"
 
 msgid "Mile"
-msgstr ""
+msgstr "ไมล์"
 
 msgid "Mile (Nautical)"
-msgstr ""
+msgstr "ไมล์ทะเล"
 
 msgid "Mile/Hour"
-msgstr ""
+msgstr "ไมล์/ชั่วโมง"
 
 msgid "Mile/Minute"
-msgstr ""
+msgstr "ไมล์/นาที"
 
 msgid "Mile/Second"
-msgstr ""
+msgstr "ไมล์/วินาที"
 
 msgid "Milibar"
-msgstr ""
+msgstr "มิลลิบาร์"
 
 msgid "Milliampere"
-msgstr ""
+msgstr "มิลลิแอมแปร์"
 
 msgid "Millicoulomb"
-msgstr ""
+msgstr "มิลลิคูลอมบ์"
 
 msgid "Milligram"
-msgstr ""
+msgstr "มิลลิกรัม"
 
 msgid "Milligram/Cubic Centimeter"
-msgstr ""
+msgstr "มิลลิกรัม/ลูกบาศก์เซนติเมตร"
 
 msgid "Milligram/Cubic Meter"
-msgstr ""
+msgstr "มิลลิกรัม/ลูกบาศก์เมตร"
 
 msgid "Milligram/Cubic Millimeter"
-msgstr ""
+msgstr "มิลลิกรัม/ลูกบาศก์มิลลิเมตร"
 
 msgid "Milligram/Litre"
-msgstr ""
+msgstr "มิลลิกรัม/ลิตร"
 
 msgid "Millihertz"
-msgstr ""
+msgstr "มิลลิเฮิรตซ์"
 
 msgid "Millilitre"
-msgstr ""
+msgstr "มิลลิลิตร"
 
 msgid "Millimeter"
-msgstr ""
+msgstr "มิลลิเมตร"
 
 msgid "Millimeter Of Mercury"
-msgstr ""
+msgstr "มิลลิเมตรปรอท"
 
 msgid "Millimeter Of Water"
-msgstr ""
+msgstr "มิลลิเมตรน้ำ"
 
 msgid "Millisecond"
-msgstr ""
+msgstr "มิลลิวินาที"
 
 msgid "Min Amount"
 msgstr "จำนวนเงินขั้นต่ำ"
@@ -216,34 +215,34 @@ msgid "Min Grade"
 msgstr "เกรดขั้นต่ำ"
 
 msgid "Min Order Qty"
-msgstr "ปริมาณการสั่งซื้อขั้นต่ำ"
+msgstr "ปริมาณสั่งซื้อขั้นต่ำ"
 
 msgid "Min Qty"
 msgstr "ปริมาณขั้นต่ำ"
 
 msgid "Min Qty (As Per Stock UOM)"
-msgstr "ปริมาณขั้นต่ำ (ตามหน่วยวัดสต็อก)"
+msgstr "ปริมาณขั้นต่ำ (ตามหน่วยสต็อก)"
 
 msgid "Min Qty can not be greater than Max Qty"
 msgstr "ปริมาณขั้นต่ำต้องไม่มากกว่าปริมาณสูงสุด"
 
 msgid "Min Qty should be greater than Recurse Over Qty"
-msgstr "ปริมาณขั้นต่ำควรมากกว่าปริมาณที่วนซ้ำ"
+msgstr "ปริมาณขั้นต่ำควรมากกว่าปริมาณที่เรียกซ้ำ"
 
 msgid "Minimum Invoice Amount"
 msgstr "จำนวนเงินใบแจ้งหนี้ขั้นต่ำ"
 
 msgid "Minimum Lead Age (Days)"
-msgstr "อายุขั้นต่ำของลูกค้าเป้าหมาย (วัน)"
+msgstr "อายุลีดขั้นต่ำ (วัน)"
 
 msgid "Minimum Net Rate"
-msgstr "อัตราสุทธิต่ำสุด"
+msgstr "อัตราสุทธิขั้นต่ำ"
 
 msgid "Minimum Order Qty"
-msgstr "ปริมาณการสั่งซื้อขั้นต่ำ"
+msgstr "ปริมาณสั่งซื้อขั้นต่ำ"
 
 msgid "Minimum Order Quantity"
-msgstr "ปริมาณการสั่งซื้อขั้นต่ำ"
+msgstr "ปริมาณสั่งซื้อขั้นต่ำ"
 
 msgid "Minimum Payment Amount"
 msgstr "จำนวนเงินชำระขั้นต่ำ"
@@ -255,10 +254,10 @@ msgid "Minimum Total Spent"
 msgstr "ยอดใช้จ่ายรวมขั้นต่ำ"
 
 msgid "Minimum Value"
-msgstr "ค่าต่ำสุด"
+msgstr "ค่าขั้นต่ำ"
 
 msgid "Minimum quantity should be as per Stock UOM"
-msgstr "ปริมาณขั้นต่ำควรเป็นไปตามหน่วยวัดสต็อก"
+msgstr "ปริมาณขั้นต่ำควรเป็นไปตามหน่วยสต็อก"
 
 msgid "Minute"
 msgstr "นาที"
@@ -273,55 +272,55 @@ msgid "Mismatch"
 msgstr "ไม่ตรงกัน"
 
 msgid "Missing"
-msgstr "หายไป"
+msgstr "ขาดหาย"
 
 msgid "Missing Account"
-msgstr "บัญชีที่หายไป"
+msgstr "ไม่มีบัญชี"
 
 msgid "Missing Asset"
-msgstr "สินทรัพย์ที่หายไป"
+msgstr "ไม่มีสินทรัพย์"
 
 msgid "Missing Cost Center"
-msgstr "ศูนย์ต้นทุนที่หายไป"
+msgstr "ไม่มีศูนย์ต้นทุน"
 
 msgid "Missing Default in Company"
-msgstr "ค่าเริ่มต้นที่หายไปในบริษัท"
+msgstr "ไม่มีค่าเริ่มต้นในบริษัท"
 
 msgid "Missing Finance Book"
-msgstr "สมุดการเงินที่หายไป"
+msgstr "ไม่มีสมุดการเงิน"
 
 msgid "Missing Finished Good"
-msgstr "สินค้าสำเร็จรูปที่หายไป"
+msgstr "ไม่มีสินค้าสำเร็จรูป"
 
 msgid "Missing Formula"
-msgstr "สูตรที่หายไป"
+msgstr "ไม่มีสูตร"
 
 msgid "Missing Item"
-msgstr "รายการที่หายไป"
+msgstr "ไม่มีสินค้า"
 
 msgid "Missing Payments App"
-msgstr "แอปการชำระเงินที่หายไป"
+msgstr "ไม่มีแอปการชำระเงิน"
 
 msgid "Missing Serial No Bundle"
-msgstr "ชุดหมายเลขซีเรียลที่หายไป"
+msgstr "ไม่มีชุดหมายเลขซีเรียล"
 
 msgid "Missing Values Required"
-msgstr "ค่าที่จำเป็นหายไป"
+msgstr "ต้องการค่าที่ขาดหายไป"
 
 msgid "Missing email template for dispatch. Please set one in Delivery Settings."
-msgstr "ไม่มีแม่แบบอีเมลสำหรับการจัดส่ง โปรดตั้งค่าในการตั้งค่าการจัดส่ง"
+msgstr "ไม่มีเทมเพลตอีเมลสำหรับการจัดส่ง กรุณาตั้งค่าในการตั้งค่าการจัดส่ง"
 
 msgid "Missing value"
-msgstr "ค่าที่หายไป"
+msgstr "ค่าที่ขาดหายไป"
 
 msgid "Mixed Conditions"
-msgstr "เงื่อนไขผสม"
+msgstr "เงื่อนไขแบบผสม"
 
 msgid "Mobile"
 msgstr "มือถือ"
 
 msgid "Mobile No"
-msgstr ""
+msgstr "เบอร์มือถือ"
 
 msgid "Mobile Number"
 msgstr "หมายเลขมือถือ"
@@ -354,7 +353,7 @@ msgid "Modified On"
 msgstr "แก้ไขเมื่อ"
 
 msgid "Module Settings"
-msgstr ""
+msgstr "การตั้งค่าโมดูล"
 
 msgid "Monday"
 msgstr "วันจันทร์"
@@ -363,7 +362,7 @@ msgid "Monitor Progress"
 msgstr "ติดตามความคืบหน้า"
 
 msgid "Monitor for Last 'X' days"
-msgstr "ติดตามสำหรับ 'X' วันที่ผ่านมา"
+msgstr "ติดตามสำหรับ 'X' วันล่าสุด"
 
 msgid "Monitoring Frequency"
 msgstr "ความถี่ในการติดตาม"
@@ -372,13 +371,13 @@ msgid "Month"
 msgstr "เดือน"
 
 msgid "Month(s) after the end of the invoice month"
-msgstr "เดือนหลังจากสิ้นสุดเดือนใบแจ้งหนี้"
+msgstr "เดือนหลังสิ้นเดือนของใบแจ้งหนี้"
 
 msgid "Monthly"
 msgstr "รายเดือน"
 
 msgid "Monthly Completed Work Orders"
-msgstr "คำสั่งงานที่เสร็จสิ้นรายเดือน"
+msgstr "ใบสั่งงานที่เสร็จสมบูรณ์รายเดือน"
 
 msgid "Monthly Distribution"
 msgstr "การกระจายรายเดือน"
@@ -399,7 +398,7 @@ msgid "Monthly Sales Target"
 msgstr "เป้าหมายการขายรายเดือน"
 
 msgid "Monthly Total Work Orders"
-msgstr "คำสั่งงานรวมรายเดือน"
+msgstr "ใบสั่งงานทั้งหมดรายเดือน"
 
 msgid "Months"
 msgstr "เดือน"
@@ -414,19 +413,19 @@ msgid "More/Less than 12 months."
 msgstr "มากกว่า/น้อยกว่า 12 เดือน"
 
 msgid "Motion Picture & Video"
-msgstr ""
+msgstr "ภาพยนตร์และวิดีโอ"
 
 msgid "Move"
 msgstr "ย้าย"
 
 msgid "Move Item"
-msgstr "ย้ายรายการ"
+msgstr "ย้ายสินค้า"
 
 msgid "Move Stock"
 msgstr "ย้ายสต็อก"
 
 msgid "Move to Cart"
-msgstr "ย้ายไปยังรถเข็น"
+msgstr "ย้ายไปที่ตะกร้า"
 
 msgid "Movement"
 msgstr "การเคลื่อนไหว"
@@ -435,46 +434,46 @@ msgid "Moving Average"
 msgstr "ค่าเฉลี่ยเคลื่อนที่"
 
 msgid "Moving up in tree ..."
-msgstr "กำลังเลื่อนขึ้นในโครงสร้างต้นไม้ ..."
+msgstr "กำลังเลื่อนขึ้นในโครงสร้าง..."
 
 msgid "Multi Currency"
 msgstr "หลายสกุลเงิน"
 
 msgid "Multi-level BOM Creator"
-msgstr "ตัวสร้าง BOM หลายระดับ"
+msgstr "เครื่องมือสร้าง BOM หลายระดับ"
 
 msgid "Multiple Loyalty Programs found for Customer {}. Please select manually."
-msgstr "พบโปรแกรมสะสมคะแนนหลายรายการสำหรับลูกค้า {} โปรดเลือกด้วยตนเอง"
+msgstr "พบโปรแกรมสะสมคะแนนหลายรายการสำหรับลูกค้า {} กรุณาเลือกด้วยตนเอง"
 
 msgid "Multiple POS Opening Entry"
-msgstr ""
+msgstr "รายการเปิด POS หลายรายการ"
 
 msgid "Multiple Price Rules exists with same criteria, please resolve conflict by assigning priority. Price Rules: {0}"
-msgstr "มีข้อกำหนดราคาหลายรายการที่มีเกณฑ์เดียวกัน โปรดแก้ไขความขัดแย้งโดยกำหนดลำดับความสำคัญ ข้อกำหนดราคา: {0}"
+msgstr "มีกฎการกำหนดราคาหลายรายการที่มีเกณฑ์เดียวกัน กรุณาแก้ไขความขัดแย้งโดยการกำหนดลำดับความสำคัญ กฎการกำหนดราคา: {0}"
 
 msgid "Multiple Tier Program"
 msgstr "โปรแกรมหลายระดับ"
 
 msgid "Multiple Variants"
-msgstr "ตัวเลือกหลายรายการ"
+msgstr "ตัวแปรหลายรายการ"
 
 msgid "Multiple Warehouse Accounts"
-msgstr "บัญชีคลังสินค้าหลายรายการ"
+msgstr "บัญชีคลังสินค้าหลายบัญชี"
 
 msgid "Multiple fiscal years exist for the date {0}. Please set company in Fiscal Year"
-msgstr "มีปีงบประมาณหลายปีสำหรับวันที่ {0} โปรดตั้งค่าบริษัทในปีงบประมาณ"
+msgstr "มีปีงบประมาณหลายปีสำหรับวันที่ {0} กรุณาตั้งค่าบริษัทในปีงบประมาณ"
 
 msgid "Multiple items cannot be marked as finished item"
-msgstr "ไม่สามารถทำเครื่องหมายรายการหลายรายการเป็นรายการที่เสร็จสิ้นแล้ว"
+msgstr "ไม่สามารถทำเครื่องหมายสินค้าหลายรายการเป็นสินค้าสำเร็จรูปได้"
 
 msgid "Music"
-msgstr ""
+msgstr "ดนตรี"
 
 msgid "Must be Whole Number"
 msgstr "ต้องเป็นจำนวนเต็ม"
 
 msgid "Must be a publicly accessible Google Sheets URL and adding Bank Account column is necessary for importing via Google Sheets"
-msgstr "ต้องเป็น URL Google Sheets ที่เข้าถึงได้สาธารณะและจำเป็นต้องเพิ่มคอลัมน์บัญชีธนาคารสำหรับการนำเข้าผ่าน Google Sheets"
+msgstr "ต้องเป็น URL ของ Google Sheets ที่เข้าถึงได้แบบสาธารณะ และต้องเพิ่มคอลัมน์บัญชีธนาคารเพื่อนำเข้าผ่าน Google Sheets"
 
 msgid "Mute Email"
 msgstr "ปิดเสียงอีเมล"
@@ -492,9 +491,10 @@ msgid "Name of Beneficiary"
 msgstr "ชื่อผู้รับผลประโยชน์"
 
 msgid "Name of new Account. Note: Please don't create accounts for Customers and Suppliers"
-msgstr "ชื่อบัญชีใหม่ หมายเหตุ: โปรดอย่าสร้างบัญชีสำหรับลูกค้าและผู้จัดจำหน่าย"
+msgstr "ชื่อบัญชีใหม่ หมายเหตุ: กรุณาอย่าสร้างบัญชีสำหรับลูกค้าและซัพพลายเออร์"
 
 msgid "Name of the Monthly Distribution"
-msgstr "ชื่อการกระจายรายเดือน"
+msgstr "ชื่อของการกระจายรายเดือน"
 
 msgid "Named Place"
+msgstr "สถานที่ที่ระบุชื่อ"

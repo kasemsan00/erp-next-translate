@@ -1,6 +1,5 @@
-
 msgid "For Supplier"
-msgstr "สำหรับผู้จัดจำหน่าย"
+msgstr "สำหรับซัพพลายเออร์"
 
 msgid "For Warehouse"
 msgstr "สำหรับคลังสินค้า"
@@ -9,68 +8,68 @@ msgid "For Work Order"
 msgstr "สำหรับใบสั่งงาน"
 
 msgid "For an item {0}, quantity must be negative number"
-msgstr "สำหรับรายการ {0} ปริมาณต้องเป็นจำนวนลบ"
+msgstr "สำหรับสินค้า {0} ปริมาณต้องเป็นจำนวนลบ"
 
 msgid "For an item {0}, quantity must be positive number"
-msgstr "สำหรับรายการ {0} ปริมาณต้องเป็นจำนวนบวก"
+msgstr "สำหรับสินค้า {0} ปริมาณต้องเป็นจำนวนบวก"
 
 msgid "For dunning fee and interest"
 msgstr "สำหรับค่าธรรมเนียมการทวงหนี้และดอกเบี้ย"
 
 msgid "For e.g. 2012, 2012-13"
-msgstr "ตัวอย่างเช่น 2555, 2555-56"
+msgstr "ตัวอย่าง 2555, 2555-56"
 
 msgid "For how much spent = 1 Loyalty Point"
-msgstr "สำหรับจำนวนเงินที่ใช้จ่าย = 1 คะแนนสะสม"
+msgstr "ทุกการใช้จ่ายเท่าไหร่ = 1 คะแนนสะสม"
 
 msgid "For individual supplier"
-msgstr "สำหรับผู้จัดจำหน่ายรายบุคคล"
+msgstr "สำหรับซัพพลายเออร์รายบุคคล"
 
 msgid "For item <b>{0}</b>, only <b>{1}</b> asset have been created or linked to <b>{2}</b>. Please create or link <b>{3}</b> more asset with the respective document."
-msgstr "สำหรับรายการ <b>{0}</b> มีเพียง <b>{1}</b> สินทรัพย์ที่ถูกสร้างหรือเชื่อมโยงกับ <b>{2}</b> โปรดสร้างหรือเชื่อมโยง <b>{3}</b> สินทรัพย์เพิ่มเติมกับเอกสารที่เกี่ยวข้อง"
+msgstr "สำหรับสินค้า <b>{0}</b>, มีสินทรัพย์เพียง <b>{1}</b> รายการที่ถูกสร้างหรือเชื่อมโยงกับ <b>{2}</b> กรุณาสร้างหรือเชื่อมโยงสินทรัพย์เพิ่มอีก <b>{3}</b> รายการกับเอกสารที่เกี่ยวข้อง"
 
 msgid "For item {0}, rate must be a positive number. To Allow negative rates, enable {1} in {2}"
-msgstr "สำหรับรายการ {0} อัตราต้องเป็นตัวเลขบวก หากต้องการอนุญาตอัตราเชิงลบ ให้เปิดใช้งาน {1} ใน {2}"
+msgstr "สำหรับสินค้า {0} อัตราต้องเป็นจำนวนบวก หากต้องการอนุญาตอัตราติดลบ กรุณาเปิดใช้งาน {1} ใน {2}"
 
 msgid "For operation {0}: Quantity ({1}) can not be greater than pending quantity({2})"
-msgstr "สำหรับการดำเนินการ {0}: ปริมาณ ({1}) ไม่สามารถมากกว่าปริมาณที่ค้างอยู่ ({2})"
+msgstr "สำหรับการดำเนินงาน {0}: ปริมาณ ({1}) ต้องไม่มากกว่าปริมาณที่ค้างอยู่ ({2})"
 
 msgid "For project {0}, update your status"
-msgstr "สำหรับโครงการ {0} อัปเดตสถานะของคุณ"
+msgstr "สำหรับโครงการ {0} กรุณาอัปเดตสถานะของคุณ"
 
 msgid "For quantity {0} should not be greater than allowed quantity {1}"
-msgstr "สำหรับปริมาณ {0} ไม่ควรมากกว่าปริมาณที่อนุญาต {1}"
+msgstr "ปริมาณ {0} ต้องไม่มากกว่าปริมาณที่อนุญาต {1}"
 
 msgid "For reference"
 msgstr "สำหรับการอ้างอิง"
 
 msgid "For row {0} in {1}. To include {2} in Item rate, rows {3} must also be included"
-msgstr "สำหรับแถว {0} ใน {1} เพื่อรวม {2} ในอัตรารายการ ต้องรวมแถว {3} ด้วย"
+msgstr "สำหรับแถว {0} ใน {1} หากต้องการรวม {2} ในอัตราสินค้า จะต้องรวมแถว {3} ด้วย"
 
 msgid "For row {0}: Enter Planned Qty"
-msgstr "สำหรับแถว {0}: ป้อนปริมาณที่วางแผนไว้"
+msgstr "สำหรับแถว {0}: ป้อนปริมาณที่วางแผน"
 
 msgid "For the 'Apply Rule On Other' condition the field {0} is mandatory"
-msgstr "สำหรับเงื่อนไข 'ใช้กฎกับผู้อื่น' ฟิลด์ {0} เป็นสิ่งจำเป็น"
+msgstr "สำหรับเงื่อนไข 'ใช้กฎกับอื่นๆ' ฟิลด์ {0} เป็นฟิลด์บังคับ"
 
 msgid "For the convenience of customers, these codes can be used in print formats like Invoices and Delivery Notes"
-msgstr "เพื่อความสะดวกของลูกค้า รหัสเหล่านี้สามารถใช้ในรูปแบบการพิมพ์ เช่น ใบแจ้งหนี้และใบส่งของ"
+msgstr "เพื่อความสะดวกของลูกค้า สามารถใช้รหัสเหล่านี้ในรูปแบบการพิมพ์ เช่น ใบแจ้งหนี้และใบส่งของ"
 
 msgid "For the item {0}, the quantity should be {1} according to the BOM {2}."
-msgstr "สำหรับรายการ {0} ปริมาณควรเป็น {1} ตาม BOM {2}"
+msgstr "สำหรับสินค้า {0} ปริมาณควรเป็น {1} ตาม BOM {2}"
 
 msgctxt "Clear payment terms template and/or payment schedule when due date is changed"
 msgid "For the new {0} to take effect, would you like to clear the current {1}?"
-msgstr "สำหรับ {0} ใหม่ที่จะมีผล คุณต้องการล้าง {1} ปัจจุบันหรือไม่?"
+msgstr "เพื่อให้ {0} ใหม่มีผล คุณต้องการล้าง {1} ปัจจุบันหรือไม่?"
 
 msgid "For the {0}, no stock is available for the return in the warehouse {1}."
-msgstr "สำหรับ {0} ไม่มีสต็อกสำหรับการคืนในคลังสินค้า {1}"
+msgstr "สำหรับ {0} ไม่มีสต็อกสำหรับคืนในคลังสินค้า {1}"
 
 msgid "For the {0}, the quantity is required to make the return entry"
-msgstr "สำหรับ {0} จำเป็นต้องมีปริมาณเพื่อทำรายการคืน"
+msgstr "สำหรับ {0} ต้องระบุปริมาณเพื่อสร้างรายการคืน"
 
 msgid "Force-Fetch Subscription Updates"
-msgstr "บังคับดึงการอัปเดตการสมัครสมาชิก"
+msgstr "บังคับดึงข้อมูลอัปเดตการสมัครสมาชิก"
 
 msgid "Forecast"
 msgstr "การพยากรณ์"
@@ -85,10 +84,10 @@ msgid "Formula Based Criteria"
 msgstr "เกณฑ์ตามสูตร"
 
 msgid "Forum Activity"
-msgstr "กิจกรรมฟอรัม"
+msgstr "กิจกรรมในฟอรัม"
 
 msgid "Forum Posts"
-msgstr "โพสต์ฟอรัม"
+msgstr "โพสต์ในฟอรัม"
 
 msgid "Forum URL"
 msgstr "URL ฟอรัม"
@@ -100,22 +99,22 @@ msgid "Free Carrier"
 msgstr "ส่งมอบให้ผู้รับขนส่ง"
 
 msgid "Free Item"
-msgstr "รายการฟรี"
+msgstr "สินค้าฟรี"
 
 msgid "Free Item Rate"
-msgstr "อัตรารายการฟรี"
+msgstr "อัตราสินค้าฟรี"
 
 msgid "Free On Board"
 msgstr "ส่งมอบบนเรือ"
 
 msgid "Free item code is not selected"
-msgstr "ไม่ได้เลือกรหัสรายการฟรี"
+msgstr "ยังไม่ได้เลือกรหัสสินค้าฟรี"
 
 msgid "Free item not set in the pricing rule {0}"
-msgstr "ไม่ได้ตั้งค่ารายการฟรีในกฎการตั้งราคา {0}"
+msgstr "ไม่ได้ตั้งค่าสินค้าฟรีในกฎการกำหนดราคา {0}"
 
 msgid "Freeze Stocks Older Than (Days)"
-msgstr "แช่แข็งสต็อกที่เก่ากว่า (วัน)"
+msgstr "ระงับสต็อกที่เก่ากว่า (วัน)"
 
 msgid "Freight and Forwarding Charges"
 msgstr "ค่าขนส่งและค่าดำเนินการ"
@@ -127,7 +126,7 @@ msgid "Frequency To Collect Progress"
 msgstr "ความถี่ในการรวบรวมความคืบหน้า"
 
 msgid "Frequency of Depreciation (Months)"
-msgstr "ความถี่ของค่าเสื่อมราคา (เดือน)"
+msgstr "ความถี่ในการคิดค่าเสื่อมราคา (เดือน)"
 
 msgid "Frequently Read Articles"
 msgstr "บทความที่อ่านบ่อย"
@@ -145,43 +144,43 @@ msgid "From Company"
 msgstr "จากบริษัท"
 
 msgid "From Corrective Job Card"
-msgstr "จากบัตรงานแก้ไข"
+msgstr "จากใบงานแก้ไข"
 
 msgid "From Currency"
 msgstr "จากสกุลเงิน"
 
 msgid "From Currency and To Currency cannot be same"
-msgstr "จากสกุลเงินและถึงสกุลเงินต้องไม่เหมือนกัน"
+msgstr "สกุลเงินต้นทางและปลายทางต้องไม่ซ้ำกัน"
 
 msgid "From Customer"
 msgstr "จากลูกค้า"
 
 msgid "From Date"
-msgstr "จากวันที่"
+msgstr "ตั้งแต่วันที่"
 
 msgid "From Date and To Date are Mandatory"
-msgstr "จากวันที่และถึงวันที่เป็นสิ่งจำเป็น"
+msgstr "ต้องระบุตั้งแต่วันที่และถึงวันที่"
 
 msgid "From Date and To Date are mandatory"
-msgstr "จากวันที่และถึงวันที่เป็นสิ่งจำเป็น"
+msgstr "ต้องระบุตั้งแต่วันที่และถึงวันที่"
 
 msgid "From Date and To Date lie in different Fiscal Year"
-msgstr "จากวันที่และถึงวันที่อยู่ในปีงบประมาณที่ต่างกัน"
+msgstr "ตั้งแต่วันที่และถึงวันที่อยู่ในปีงบประมาณที่ต่างกัน"
 
 msgid "From Date cannot be greater than To Date"
-msgstr "จากวันที่ต้องไม่มากกว่าถึงวันที่"
+msgstr "ตั้งแต่วันที่ต้องไม่เกินถึงวันที่"
 
 msgid "From Date is mandatory"
-msgstr "จากวันที่เป็นสิ่งจำเป็น"
+msgstr "ต้องระบุตั้งแต่วันที่"
 
 msgid "From Date must be before To Date"
-msgstr "จากวันที่ต้องอยู่ก่อนถึงวันที่"
+msgstr "ตั้งแต่วันที่ต้องมาก่อนถึงวันที่"
 
 msgid "From Date should be within the Fiscal Year. Assuming From Date = {0}"
-msgstr "จากวันที่ควรอยู่ภายในปีงบประมาณ สมมติว่าจากวันที่ = {0}"
+msgstr "ตั้งแต่วันที่ควรอยู่ในปีงบประมาณ สมมติว่าตั้งแต่วันที่ = {0}"
 
 msgid "From Date: {0} cannot be greater than To date: {1}"
-msgstr "จากวันที่: {0} ต้องไม่มากกว่าถึงวันที่: {1}"
+msgstr "ตั้งแต่วันที่: {0} ต้องไม่เกินถึงวันที่: {1}"
 
 msgid "From Datetime"
 msgstr "จากวันที่และเวลา"
@@ -193,7 +192,7 @@ msgid "From Delivery Note"
 msgstr "จากใบส่งของ"
 
 msgid "From Doctype"
-msgstr "จาก Doctype"
+msgstr "จากประเภทเอกสาร"
 
 msgid "From Due Date"
 msgstr "จากวันที่ครบกำหนด"
@@ -202,40 +201,40 @@ msgid "From Employee"
 msgstr "จากพนักงาน"
 
 msgid "From Employee is required while issuing Asset {0}"
-msgstr ""
+msgstr "ต้องระบุ 'จากพนักงาน' ขณะเบิกจ่ายสินทรัพย์ {0}"
 
 msgid "From External Ecomm Platform"
-msgstr "จากแพลตฟอร์ม Ecomm ภายนอก"
+msgstr "จากแพลตฟอร์มอีคอมเมิร์ซภายนอก"
 
 msgid "From Fiscal Year"
 msgstr "จากปีงบประมาณ"
 
 msgid "From Folio No"
-msgstr "จากหมายเลขโฟลิโอ"
+msgstr "จากเลขที่โฟลิโอ"
 
 msgid "From Invoice Date"
-msgstr "จากวันที่ใบแจ้งหนี้"
+msgstr "จากวันที่ในใบแจ้งหนี้"
 
 msgid "From Lead"
 msgstr "จากลีด"
 
 msgid "From No"
-msgstr "จากหมายเลข"
+msgstr "จากเลขที่"
 
 msgid "From Opportunity"
-msgstr "จากโอกาส"
+msgstr "จากโอกาสทางการขาย"
 
 msgid "From Package No."
-msgstr "จากหมายเลขแพ็คเกจ"
+msgstr "จากหมายเลขแพ็กเกจ"
 
 msgid "From Payment Date"
 msgstr "จากวันที่ชำระเงิน"
 
 msgid "From Posting Date"
-msgstr "จากวันที่โพสต์"
+msgstr "จากวันที่ลงรายการ"
 
 msgid "From Prospect"
-msgstr "จากผู้มุ่งหวัง"
+msgstr "จากลูกค้ามุ่งหวัง"
 
 msgid "From Range"
 msgstr "จากช่วง"
@@ -250,25 +249,25 @@ msgid "From Shareholder"
 msgstr "จากผู้ถือหุ้น"
 
 msgid "From Template"
-msgstr "จากแม่แบบ"
+msgstr "จากเทมเพลต"
 
 msgid "From Time"
 msgstr "จากเวลา"
 
 msgid "From Time "
-msgstr ""
+msgstr "จากเวลา "
 
 msgid "From Time Should Be Less Than To Time"
-msgstr "เวลาที่เริ่มต้นควรน้อยกว่าเวลาที่สิ้นสุด"
+msg_str "เวลาเริ่มต้นควรน้อยกว่าเวลาสิ้นสุด"
 
 msgid "From Value"
 msgstr "จากค่า"
 
 msgid "From Voucher Detail No"
-msgstr "จากหมายเลขรายละเอียดใบสำคัญ"
+msgstr "จากเลขที่รายละเอียดใบสำคัญ"
 
 msgid "From Voucher No"
-msgstr "จากหมายเลขใบสำคัญ"
+msgstr "จากเลขที่ใบสำคัญ"
 
 msgid "From Voucher Type"
 msgstr "จากประเภทใบสำคัญ"
@@ -277,19 +276,19 @@ msgid "From Warehouse"
 msgstr "จากคลังสินค้า"
 
 msgid "From and To Dates are required."
-msgstr "จำเป็นต้องระบุวันที่เริ่มต้นและสิ้นสุด"
+msgstr "ต้องระบุวันที่เริ่มต้นและสิ้นสุด"
 
 msgid "From and To dates are required"
-msgstr "จำเป็นต้องระบุวันที่เริ่มต้นและสิ้นสุด"
+msgstr "ต้องระบุวันที่เริ่มต้นและสิ้นสุด"
 
 msgid "From date cannot be greater than To date"
-msgstr "วันที่เริ่มต้นต้องไม่มากกว่าวันที่สิ้นสุด"
+msgstr "วันที่เริ่มต้นต้องไม่เกินวันที่สิ้นสุด"
 
 msgid "From value must be less than to value in row {0}"
-msgstr "ค่าที่เริ่มต้นต้องน้อยกว่าค่าที่สิ้นสุดในแถว {0}"
+msgstr "ค่าเริ่มต้นต้องน้อยกว่าค่าสิ้นสุดในแถว {0}"
 
 msgid "Frozen"
-msgstr "ถูกแช่แข็ง"
+msgstr "ระงับ"
 
 msgid "Fuel Type"
 msgstr "ประเภทเชื้อเพลิง"
@@ -298,67 +297,67 @@ msgid "Fuel UOM"
 msgstr "หน่วยวัดเชื้อเพลิง"
 
 msgid "Fulfilled"
-msgstr "สำเร็จ"
+msgstr "ดำเนินการแล้ว"
 
 msgid "Fulfillment"
-msgstr "การปฏิบัติตาม"
+msgstr "การดำเนินการ"
 
 msgid "Fulfillment User"
-msgstr "ผู้ใช้การปฏิบัติตาม"
+msgstr "ผู้ใช้การดำเนินการ"
 
 msgid "Fulfilment Deadline"
-msgstr "กำหนดเวลาการปฏิบัติตาม"
+msgstr "กำหนดเวลาดำเนินการ"
 
 msgid "Fulfilment Details"
-msgstr "รายละเอียดการปฏิบัติตาม"
+msgstr "รายละเอียดการดำเนินการ"
 
 msgid "Fulfilment Status"
-msgstr "สถานะการปฏิบัติตาม"
+msgstr "สถานะการดำเนินการ"
 
 msgid "Fulfilment Terms"
-msgstr "เงื่อนไขการปฏิบัติตาม"
+msgstr "เงื่อนไขการดำเนินการ"
 
 msgid "Fulfilment Terms and Conditions"
-msgstr "ข้อกำหนดและเงื่อนไขการปฏิบัติตาม"
+msgstr "ข้อกำหนดและเงื่อนไขการดำเนินการ"
 
 msgid "Full Name"
 msgstr "ชื่อเต็ม"
 
 msgid "Full and Final Statement"
-msgstr "คำแถลงสุดท้ายและสมบูรณ์"
+msgstr "ใบแจ้งยอดฉบับสมบูรณ์"
 
 msgid "Fully Billed"
-msgstr "เรียกเก็บเงินเต็มจำนวน"
+msgstr "เรียกเก็บเงินครบถ้วน"
 
 msgid "Fully Completed"
 msgstr "เสร็จสมบูรณ์"
 
 msgid "Fully Delivered"
-msgstr "ส่งมอบเต็มจำนวน"
+msgstr "จัดส่งครบถ้วน"
 
 msgid "Fully Depreciated"
-msgstr "ค่าเสื่อมราคาครบถ้วน"
+msgstr "คิดค่าเสื่อมราคาครบถ้วน"
 
 msgid "Fully Paid"
-msgstr "ชำระเงินเต็มจำนวน"
+msgstr "ชำระครบถ้วน"
 
 msgid "Furlong"
-msgstr ""
+msgstr "เฟอร์ลอง"
 
 msgid "Furniture and Fixtures"
-msgstr "เครื่องตกแต่งและอุปกรณ์"
+msgstr "เฟอร์นิเจอร์และเครื่องตกแต่ง"
 
 msgid "Further accounts can be made under Groups, but entries can be made against non-Groups"
-msgstr "สามารถสร้างบัญชีเพิ่มเติมภายใต้กลุ่มได้ แต่สามารถทำรายการกับที่ไม่ใช่กลุ่มได้"
+msgstr "สามารถสร้างบัญชีเพิ่มเติมภายใต้กลุ่มได้ แต่สามารถลงรายการกับบัญชีที่ไม่ใช่กลุ่มได้"
 
 msgid "Further cost centers can be made under Groups but entries can be made against non-Groups"
-msgstr "สามารถสร้างศูนย์ต้นทุนเพิ่มเติมภายใต้กลุ่มได้ แต่สามารถทำรายการกับที่ไม่ใช่กลุ่มได้"
+msgstr "สามารถสร้างศูนย์ต้นทุนเพิ่มเติมภายใต้กลุ่มได้ แต่สามารถลงรายการกับศูนย์ต้นทุนที่ไม่ใช่กลุ่มได้"
 
 msgid "Further nodes can be only created under 'Group' type nodes"
-msgstr "สามารถสร้างโหนดเพิ่มเติมได้เฉพาะภายใต้โหนดประเภท 'กลุ่ม'"
+msgstr "สามารถสร้างโหนดย่อยได้เฉพาะภายใต้โหนดประเภท 'กลุ่ม' เท่านั้น"
 
 msgid "Future Payment Amount"
-msgstr "จำนวนเงินชำระในอนาคต"
+msgstr "จำนวนเงินที่ชำระในอนาคต"
 
 msgid "Future Payment Ref"
 msgstr "อ้างอิงการชำระเงินในอนาคต"
@@ -370,131 +369,131 @@ msgid "Future date is not allowed"
 msgstr "ไม่อนุญาตให้ใช้วันที่ในอนาคต"
 
 msgid "G - D"
-msgstr ""
+msgstr "G - D"
 
 msgid "GL Balance"
-msgstr ""
+msgstr "ยอดคงเหลือ GL"
 
 msgid "GL Entry"
-msgstr ""
+msgstr "รายการ GL"
 
 msgid "GL Entry Processing Status"
-msgstr ""
+msgstr "สถานะการประมวลผลรายการ GL"
 
 msgid "GL reposting index"
-msgstr ""
+msgstr "ดัชนีการลงรายการ GL ใหม่"
 
 msgid "GS1"
-msgstr ""
+msgstr "GS1"
 
 msgid "GTIN"
-msgstr ""
+msgstr "GTIN"
 
 msgid "Gain/Loss"
-msgstr ""
+msgstr "กำไร/ขาดทุน"
 
 msgid "Gain/Loss Account on Asset Disposal"
-msgstr ""
+msgstr "บัญชีกำไร/ขาดทุนจากการจำหน่ายสินทรัพย์"
 
 msgid "Gain/Loss accumulated in foreign currency account. Accounts with '0' balance in either Base or Account currency"
-msgstr ""
+msgstr "กำไร/ขาดทุนสะสมในบัญชีสกุลเงินต่างประเทศ บัญชีที่มียอดคงเหลือ '0' ในสกุลเงินหลักหรือสกุลเงินบัญชี"
 
 msgid "Gain/Loss already booked"
-msgstr ""
+msgstr "บันทึกกำไร/ขาดทุนแล้ว"
 
 msgid "Gain/Loss from Revaluation"
-msgstr ""
+msgstr "กำไร/ขาดทุนจากการตีราคาใหม่"
 
 msgid "Gain/Loss on Asset Disposal"
-msgstr ""
+msgstr "กำไร/ขาดทุนจากการจำหน่ายสินทรัพย์"
 
 msgid "Gallon (UK)"
-msgstr ""
+msgstr "แกลลอน (UK)"
 
 msgid "Gallon Dry (US)"
-msgstr ""
+msgstr "แกลลอนแห้ง (US)"
 
 msgid "Gallon Liquid (US)"
-msgstr ""
+msgstr "แกลลอนของเหลว (US)"
 
 msgid "Gamma"
-msgstr ""
+msgstr "แกมมา"
 
 msgid "Gantt Chart"
-msgstr ""
+msgstr "แผนภูมิแกนต์"
 
 msgid "Gantt chart of all tasks."
-msgstr ""
+msgstr "แผนภูมิแกนต์ของทุกงาน"
 
 msgid "Gauss"
-msgstr ""
+msgstr "เกาส์"
 
 msgid "Gender"
-msgstr ""
+msgstr "เพศ"
 
 msgid "General"
-msgstr ""
+msgstr "ทั่วไป"
 
 msgid "General Ledger"
-msgstr ""
+msgstr "บัญชีแยกประเภททั่วไป"
 
 msgctxt "Warehouse"
 msgid "General Ledger"
-msgstr ""
+msgstr "บัญชีแยกประเภททั่วไป"
 
 msgid "General Settings"
-msgstr ""
+msgstr "การตั้งค่าทั่วไป"
 
 msgid "General and Payment Ledger Comparison"
-msgstr ""
+msgstr "การเปรียบเทียบบัญชีแยกประเภททั่วไปและการชำระเงิน"
 
 msgid "General and Payment Ledger mismatch"
-msgstr ""
+msgstr "บัญชีแยกประเภททั่วไปและการชำระเงินไม่ตรงกัน"
 
 msgid "Generate Demo Data for Exploration"
-msgstr ""
+msgstr "สร้างข้อมูลตัวอย่างเพื่อสำรวจ"
 
 msgid "Generate E-Invoice"
-msgstr ""
+msgstr "สร้างใบแจ้งหนี้อิเล็กทรอนิกส์"
 
 msgid "Generate Invoice At"
-msgstr ""
+msgstr "สร้างใบแจ้งหนี้ที่"
 
 msgid "Generate New Invoices Past Due Date"
-msgstr ""
+msgstr "สร้างใบแจ้งหนี้ใหม่ที่เลยกำหนดชำระ"
 
 msgid "Generate Schedule"
-msgstr ""
+msgstr "สร้างตารางเวลา"
 
 msgid "Generate Stock Closing Entry"
-msgstr ""
+msgstr "สร้างรายการปิดสต็อก"
 
 msgid "Generate packing slips for packages to be delivered. Used to notify package number, package contents and its weight."
-msgstr ""
+msgstr "สร้างใบจัดสินค้าสำหรับพัสดุที่จะจัดส่ง ใช้เพื่อแจ้งหมายเลขพัสดุ, เนื้อหาในพัสดุ และน้ำหนัก"
 
 msgid "Generated"
-msgstr ""
+msgstr "สร้างแล้ว"
 
 msgid "Generating Preview"
-msgstr ""
+msgstr "กำลังสร้างตัวอย่าง"
 
 msgid "Get Advances Paid"
-msgstr ""
+msgstr "รับเงินจ่ายล่วงหน้า"
 
 msgid "Get Advances Received"
-msgstr ""
+msgstr "รับเงินรับล่วงหน้า"
 
 msgid "Get Allocations"
-msgstr ""
+msgstr "รับการจัดสรร"
 
 msgid "Get Balance"
-msgstr ""
+msgstr "รับยอดคงเหลือ"
 
 msgid "Get Current Stock"
-msgstr ""
+msgstr "รับสต็อกปัจจุบัน"
 
 msgid "Get Customer Group Details"
-msgstr ""
+msgstr "รับรายละเอียดกลุ่มลูกค้า"
 
 msgid "Get Entries"
-msgstr ""
+msgstr "รับรายการ"

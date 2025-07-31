@@ -1,38 +1,38 @@
 msgid "Don't Reserve Sales Order Qty on Sales Return"
-msgstr "อย่าสำรองปริมาณคำสั่งขายในการคืนสินค้า"
+msgstr "ไม่ต้องสำรองปริมาณใบสั่งขายเมื่อมีการคืนสินค้า"
 
 msgid "Don't Send Emails"
-msgstr "อย่าส่งอีเมล"
+msgstr "ไม่ต้องส่งอีเมล"
 
 msgid "Done"
 msgstr "เสร็จสิ้น"
 
 msgid "Dont Recompute tax"
-msgstr "อย่าคำนวณภาษีใหม่"
+msgstr "ไม่ต้องคำนวณภาษีใหม่"
 
 msgid "Doors"
 msgstr "ประตู"
 
 msgid "Double Declining Balance"
-msgstr "ยอดลดลงสองเท่า"
+msgstr "วิธีคิดค่าเสื่อมราคาแบบยอดลดลงทวีคูณ"
 
 msgid "Download"
 msgstr "ดาวน์โหลด"
 
 msgid "Download Backups"
-msgstr "ดาวน์โหลดการสำรองข้อมูล"
+msgstr "ดาวน์โหลดข้อมูลสำรอง"
 
 msgid "Download CSV Template"
-msgstr "ดาวน์โหลดแม่แบบ CSV"
+msgstr "ดาวน์โหลดเทมเพลต CSV"
 
 msgid "Download PDF"
 msgstr "ดาวน์โหลด PDF"
 
 msgid "Download PDF for Supplier"
-msgstr "ดาวน์โหลด PDF สำหรับผู้จัดจำหน่าย"
+msgstr "ดาวน์โหลด PDF สำหรับซัพพลายเออร์"
 
 msgid "Download Required Materials"
-msgstr "ดาวน์โหลดวัสดุที่จำเป็น"
+msgstr "ดาวน์โหลดวัสดุที่ต้องการ"
 
 msgid "Download Template"
 msgstr "ดาวน์โหลดเทมเพลต"
@@ -50,7 +50,7 @@ msgid "Downtime Entry"
 msgstr "รายการเวลาหยุดทำงาน"
 
 msgid "Downtime Reason"
-msgstr "เหตุผลของเวลาหยุดทำงาน"
+msgstr "เหตุผลที่หยุดทำงาน"
 
 msgid "Dr"
 msgstr "เดบิต"
@@ -59,10 +59,10 @@ msgid "Dr/Cr"
 msgstr "เดบิต/เครดิต"
 
 msgid "Draft"
-msgstr "ร่าง"
+msgstr "ฉบับร่าง"
 
 msgid "Dram"
-msgstr ""
+msgstr "แดรม"
 
 msgid "Driver"
 msgstr "คนขับ"
@@ -86,61 +86,61 @@ msgid "Driving License Category"
 msgstr "หมวดหมู่ใบขับขี่"
 
 msgid "Drop Procedures"
-msgstr ""
+msgstr "ขั้นตอนการลบ"
 
 msgid "Drop Ship"
-msgstr "ส่งตรง"
+msgstr "ดรอปชิป"
 
 msgid "Drops existing SQL Procedures and Function setup by Accounts Receivable report"
-msgstr ""
+msgstr "ลบขั้นตอนและฟังก์ชัน SQL ที่มีอยู่ที่ตั้งค่าโดยรายงานลูกหนี้"
 
 msgid "Due Date"
 msgstr "วันที่ครบกำหนด"
 
 msgid "Due Date Based On"
-msgstr "วันที่ครบกำหนดตาม"
+msgstr "วันที่ครบกำหนดอ้างอิงจาก"
 
 msgid "Due Date cannot be after {0}"
 msgstr "วันที่ครบกำหนดต้องไม่เกิน {0}"
 
 msgid "Due Date cannot be before {0}"
-msgstr "วันที่ครบกำหนดต้องไม่ก่อน {0}"
+msgstr "วันที่ครบกำหนดต้องไม่มาก่อน {0}"
 
 msgid "Due to stock closing entry {0}, you cannot repost item valuation before {1}"
-msgstr "เนื่องจากการปิดสต็อก {0} คุณไม่สามารถโพสต์การประเมินมูลค่าสินค้าใหม่ก่อน {1}"
+msgstr "เนื่องจากรายการปิดสต็อก {0} คุณไม่สามารถลงรายการประเมินค่าสินค้าใหม่ก่อน {1}"
 
 msgid "Dunning"
-msgstr "การแจ้งเตือนการชำระเงิน"
+msgstr "การทวงหนี้"
 
 msgid "Dunning Amount"
-msgstr "จำนวนเงินการแจ้งเตือนการชำระเงิน"
+msgstr "จำนวนเงินทวงหนี้"
 
 msgid "Dunning Amount (Company Currency)"
-msgstr "จำนวนเงินการแจ้งเตือนการชำระเงิน (สกุลเงินบริษัท)"
+msgstr "จำนวนเงินทวงหนี้ (สกุลเงินบริษัท)"
 
 msgid "Dunning Fee"
-msgstr "ค่าธรรมเนียมการแจ้งเตือนการชำระเงิน"
+msgstr "ค่าธรรมเนียมการทวงหนี้"
 
 msgid "Dunning Letter"
-msgstr "จดหมายแจ้งเตือนการชำระเงิน"
+msgstr "จดหมายทวงหนี้"
 
 msgid "Dunning Letter Text"
-msgstr "ข้อความจดหมายแจ้งเตือนการชำระเงิน"
+msgstr "ข้อความในจดหมายทวงหนี้"
 
 msgid "Dunning Level"
-msgstr "ระดับการแจ้งเตือนการชำระเงิน"
+msgstr "ระดับการทวงหนี้"
 
 msgid "Dunning Type"
-msgstr "ประเภทการแจ้งเตือนการชำระเงิน"
+msgstr "ประเภทการทวงหนี้"
 
 msgid "Duplicate"
-msgstr "ซ้ำ"
+msgstr "ทำซ้ำ"
 
 msgid "Duplicate Customer Group"
-msgstr "กลุ่มลูกค้าที่ซ้ำกัน"
+msgstr "กลุ่มลูกค้าซ้ำ"
 
 msgid "Duplicate Entry. Please check Authorization Rule {0}"
-msgstr "รายการซ้ำ โปรดตรวจสอบกฎการอนุญาต {0}"
+msgstr "รายการซ้ำ โปรดตรวจสอบกฎการอนุมัติ {0}"
 
 msgid "Duplicate Finance Book"
 msgstr "สมุดการเงินซ้ำ"
@@ -155,28 +155,28 @@ msgid "Duplicate POS Invoices found"
 msgstr "พบใบแจ้งหนี้ POS ซ้ำ"
 
 msgid "Duplicate Project with Tasks"
-msgstr "โครงการซ้ำพร้อมงาน"
+msgstr "ทำซ้ำโครงการพร้อมงาน"
 
 msgid "Duplicate Sales Invoices found"
-msgstr "พบใบแจ้งหนี้ขายซ้ำ"
+msgstr "พบใบแจ้งหนี้การขายซ้ำ"
 
 msgid "Duplicate Stock Closing Entry"
-msgstr "การปิดสต็อกซ้ำ"
+msgstr "รายการปิดสต็อกซ้ำ"
 
 msgid "Duplicate customer group found in the customer group table"
 msgstr "พบกลุ่มลูกค้าซ้ำในตารางกลุ่มลูกค้า"
 
 msgid "Duplicate entry against the item code {0} and manufacturer {1}"
-msgstr "รายการซ้ำกับรหัสสินค้า {0} และผู้ผลิต {1}"
+msgstr "มีรายการซ้ำสำหรับรหัสสินค้า {0} และผู้ผลิต {1}"
 
 msgid "Duplicate item group found in the item group table"
 msgstr "พบกลุ่มสินค้าซ้ำในตารางกลุ่มสินค้า"
 
 msgid "Duplicate project has been created"
-msgstr "สร้างโครงการซ้ำแล้ว"
+msgstr "สร้างโครงการที่ซ้ำกันแล้ว"
 
 msgid "Duplicate row {0} with same {1}"
-msgstr "แถวซ้ำ {0} ที่มี {1} เหมือนกัน"
+msgstr "แถว {0} ซ้ำกับ {1} ที่เหมือนกัน"
 
 msgid "Duplicate {0} found in the table"
 msgstr "พบ {0} ซ้ำในตาราง"
@@ -194,28 +194,28 @@ msgid "Duties and Taxes"
 msgstr "อากรและภาษี"
 
 msgid "Dynamic Condition"
-msgstr "เงื่อนไขไดนามิก"
+msgstr "เงื่อนไขแบบไดนามิก"
 
 msgid "Dyne"
-msgstr ""
+msgstr "ไดน์"
 
 msgid "E-Invoicing Information Missing"
-msgstr "ข้อมูลการออกใบแจ้งหนี้อิเล็กทรอนิกส์หายไป"
+msgstr "ข้อมูลใบแจ้งหนี้อิเล็กทรอนิกส์ขาดหายไป"
 
 msgid "EAN"
-msgstr ""
+msgstr "EAN"
 
 msgid "EAN-12"
-msgstr ""
+msgstr "EAN-12"
 
 msgid "EAN-8"
-msgstr ""
+msgstr "EAN-8"
 
 msgid "EMU Of Charge"
-msgstr ""
+msgstr "EMU ของประจุ"
 
 msgid "EMU of current"
-msgstr ""
+msgstr "EMU ของกระแส"
 
 msgid "ERPNext User ID"
 msgstr "รหัสผู้ใช้ ERPNext"
@@ -254,7 +254,7 @@ msgid "Edit Note"
 msgstr "แก้ไขบันทึก"
 
 msgid "Edit Posting Date and Time"
-msgstr "แก้ไขวันที่และเวลาการโพสต์"
+msgstr "แก้ไขวันที่และเวลาลงรายการ"
 
 msgid "Edit Receipt"
 msgstr "แก้ไขใบเสร็จ"
@@ -266,10 +266,10 @@ msgid "Education"
 msgstr "การศึกษา"
 
 msgid "Educational Qualification"
-msgstr "คุณวุฒิทางการศึกษา"
+msgstr "วุฒิการศึกษา"
 
 msgid "Either 'Selling' or 'Buying' must be selected"
-msgstr "ต้องเลือก 'ขาย' หรือ 'ซื้อ' อย่างใดอย่างหนึ่ง"
+msgstr "ต้องเลือก 'การขาย' หรือ 'การซื้อ' อย่างใดอย่างหนึ่ง"
 
 msgid "Either Workstation or Workstation Type is mandatory"
 msgstr "ต้องระบุสถานีงานหรือประเภทสถานีงาน"
@@ -284,7 +284,7 @@ msgid "Electric"
 msgstr "ไฟฟ้า"
 
 msgid "Electrical"
-msgstr "ไฟฟ้า"
+msgstr "เกี่ยวกับไฟฟ้า"
 
 msgid "Electricity Cost"
 msgstr "ค่าไฟฟ้า"
@@ -293,22 +293,22 @@ msgid "Electricity down"
 msgstr "ไฟฟ้าดับ"
 
 msgid "Electronic Equipment"
-msgstr "อุปกรณ์อิเล็คทรอนิกส์"
+msgstr "อุปกรณ์อิเล็กทรอนิกส์"
 
 msgid "Electronic Invoice Register"
 msgstr "ทะเบียนใบแจ้งหนี้อิเล็กทรอนิกส์"
 
 msgid "Electronics"
-msgstr ""
+msgstr "อิเล็กทรอนิกส์"
 
 msgid "Ells (UK)"
-msgstr ""
+msgstr "เอลล์ (UK)"
 
 msgid "Email"
 msgstr "อีเมล"
 
 msgid "Email / Notifications"
-msgstr ""
+msgstr "อีเมล / การแจ้งเตือน"
 
 msgid "Email Account"
 msgstr "บัญชีอีเมล"
@@ -320,13 +320,13 @@ msgid "Email Address (required)"
 msgstr "ที่อยู่อีเมล (จำเป็น)"
 
 msgid "Email Address must be unique, it is already used in {0}"
-msgstr "ที่อยู่อีเมลต้องไม่ซ้ำกัน มีการใช้งานแล้วใน {0}"
+msgstr "ที่อยู่อีเมลต้องไม่ซ้ำ มีการใช้งานแล้วใน {0}"
 
 msgid "Email Campaign"
 msgstr "แคมเปญอีเมล"
 
 msgid "Email Campaign For "
-msgstr ""
+msgstr "แคมเปญอีเมลสำหรับ "
 
 msgid "Email Details"
 msgstr "รายละเอียดอีเมล"
@@ -350,28 +350,28 @@ msgid "Email Group"
 msgstr "กลุ่มอีเมล"
 
 msgid "Email Id"
-msgstr "รหัสอีเมล"
+msgstr "อีเมลไอดี"
 
 msgid "Email Receipt"
-msgstr "ใบเสร็จอีเมล"
+msgstr "ใบเสร็จทางอีเมล"
 
 msgid "Email Sent"
 msgstr "ส่งอีเมลแล้ว"
 
 msgid "Email Sent to Supplier {0}"
-msgstr "ส่งอีเมลถึงผู้จัดจำหน่าย {0}"
+msgstr "ส่งอีเมลถึงซัพพลายเออร์ {0}"
 
 msgid "Email Settings"
 msgstr "การตั้งค่าอีเมล"
 
 msgid "Email Template"
-msgstr "แม่แบบอีเมล"
+msgstr "เทมเพลตอีเมล"
 
 msgid "Email not sent to {0} (unsubscribed / disabled)"
 msgstr "ไม่ได้ส่งอีเมลถึง {0} (ยกเลิกการสมัคร / ปิดใช้งาน)"
 
 msgid "Email or Phone/Mobile of the Contact are mandatory to continue."
-msgstr "อีเมลหรือโทรศัพท์/มือถือของผู้ติดต่อเป็นสิ่งจำเป็นในการดำเนินการต่อ"
+msgstr "ต้องระบุอีเมลหรือโทรศัพท์/มือถือของผู้ติดต่อเพื่อดำเนินการต่อ"
 
 msgid "Email sent successfully."
 msgstr "ส่งอีเมลสำเร็จ"
@@ -386,7 +386,7 @@ msgid "Email verification failed."
 msgstr "การยืนยันอีเมลล้มเหลว"
 
 msgid "Emails Queued"
-msgstr "อีเมลในคิว"
+msgstr "อีเมลอยู่ในคิว"
 
 msgid "Emergency Contact"
 msgstr "ผู้ติดต่อฉุกเฉิน"
@@ -395,16 +395,16 @@ msgid "Emergency Contact Name"
 msgstr "ชื่อผู้ติดต่อฉุกเฉิน"
 
 msgid "Emergency Phone"
-msgstr "โทรศัพท์ฉุกเฉิน"
+msgstr "เบอร์โทรฉุกเฉิน"
 
 msgid "Employee"
 msgstr "พนักงาน"
 
 msgid "Employee "
-msgstr ""
+msgstr "พนักงาน "
 
 msgid "Employee Advance"
-msgstr "เงินล่วงหน้าพนักงาน"
+msgstr "เงินทดรองจ่ายพนักงาน"
 
 msgid "Employee Advances"
 msgstr "เงินทดรองจ่ายพนักงาน"
@@ -416,7 +416,7 @@ msgid "Employee Education"
 msgstr "การศึกษาของพนักงาน"
 
 msgid "Employee Exit"
-msgstr "การพ้นสภาพของพนักงาน"
+msgstr "การพ้นสภาพพนักงาน"
 
 msgid "Employee External Work History"
 msgstr "ประวัติการทำงานภายนอกของพนักงาน"
@@ -443,16 +443,16 @@ msgid "Employee User Id"
 msgstr "รหัสผู้ใช้พนักงาน"
 
 msgid "Employee cannot report to himself."
-msgstr "พนักงานไม่สามารถรายงานต่อตัวเองได้"
+msgstr "พนักงานไม่สามารถรายงานให้ตัวเองได้"
 
 msgid "Employee is required while issuing Asset {0}"
-msgstr "จำเป็นต้องมีพนักงานในขณะที่ออกสินทรัพย์ {0}"
+msgstr "ต้องระบุพนักงานเมื่อเบิกจ่ายสินทรัพย์ {0}"
 
 msgid "Employee {0} does not belongs to the company {1}"
 msgstr "พนักงาน {0} ไม่ได้เป็นของบริษัท {1}"
 
 msgid "Employee {0} is currently working on another workstation. Please assign another employee."
-msgstr "พนักงาน {0} กำลังทำงานอยู่ที่สถานีงานอื่น โปรดกำหนดพนักงานคนอื่น"
+msgstr "พนักงาน {0} กำลังทำงานอยู่ที่สถานีงานอื่น กรุณามอบหมายพนักงานคนอื่น"
 
 msgid "Employees"
 msgstr "พนักงาน"
@@ -461,10 +461,10 @@ msgid "Empty"
 msgstr "ว่างเปล่า"
 
 msgid "Ems(Pica)"
-msgstr ""
+msgstr "เอ็มส์ (Pica)"
 
 msgid "Enable Allow Partial Reservation in the Stock Settings to reserve partial stock."
-msgstr "เปิดใช้งานอนุญาตการจองบางส่วนในการตั้งค่าสต็อกเพื่อจองสต็อกบางส่วน"
+msgstr "เปิดใช้งาน 'อนุญาตการสำรองบางส่วน' ในการตั้งค่าสต็อกเพื่อสำรองสต็อกบางส่วน"
 
 msgid "Enable Appointment Scheduling"
 msgstr "เปิดใช้งานการจัดตารางนัดหมาย"
@@ -473,19 +473,19 @@ msgid "Enable Auto Email"
 msgstr "เปิดใช้งานอีเมลอัตโนมัติ"
 
 msgid "Enable Auto Re-Order"
-msgstr "เปิดใช้งานการสั่งซื้อใหม่อัตโนมัติ"
+msgstr "เปิดใช้งานการสั่งซื้อซ้ำอัตโนมัติ"
 
 msgid "Enable Automatic Party Matching"
-msgstr "เปิดใช้งานการจับคู่ฝ่ายอัตโนมัติ"
+msgstr "เปิดใช้งานการจับคู่คู่ค้าอัตโนมัติ"
 
 msgid "Enable Capital Work in Progress Accounting"
-msgstr "เปิดใช้งานการบัญชีงานทุนระหว่างดำเนินการ"
+msgstr "เปิดใช้งานการบัญชีงานระหว่างทำประเภททุน"
 
 msgid "Enable Common Party Accounting"
-msgstr "เปิดใช้งานการบัญชีฝ่ายทั่วไป"
+msgstr "เปิดใช้งานการบัญชีคู่ค้าร่วม"
 
 msgid "Enable Cut-Off Date on Bulk Delivery Note Creation"
-msgstr "เปิดใช้งานวันที่ตัดยอดในการสร้างใบส่งของจำนวนมาก"
+msgstr "เปิดใช้งานวันที่ตัดรอบในการสร้างใบส่งของเป็นกลุ่ม"
 
 msgid "Enable Deferred Expense"
 msgstr "เปิดใช้งานค่าใช้จ่ายรอตัดบัญชี"
@@ -497,4 +497,4 @@ msgid "Enable Discount Accounting for Selling"
 msgstr "เปิดใช้งานการบัญชีส่วนลดสำหรับการขาย"
 
 msgid "Enable European Access"
-msgstr "เปิดใช้งานการเข้าถึงในยุโรป"
+msgstr "เปิดใช้งานการเข้าถึงแบบยุโรป"

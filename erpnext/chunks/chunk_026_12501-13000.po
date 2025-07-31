@@ -2,10 +2,10 @@
 msgstr "โปรแกรมสะสมคะแนน"
 
 msgid "Loyalty Program Collection"
-msgstr "การสะสมคะแนนโปรแกรมสะสมคะแนน"
+msgstr "การสะสมคะแนนในโปรแกรมสะสมคะแนน"
 
 msgid "Loyalty Program Help"
-msgstr "ความช่วยเหลือโปรแกรมสะสมคะแนน"
+msgstr "วิธีใช้โปรแกรมสะสมคะแนน"
 
 msgid "Loyalty Program Name"
 msgstr "ชื่อโปรแกรมสะสมคะแนน"
@@ -17,184 +17,184 @@ msgid "Loyalty Program Type"
 msgstr "ประเภทโปรแกรมสะสมคะแนน"
 
 msgid "MT940 file detected. Please enable 'Import MT940 Format' to proceed."
-msgstr ""
+msgstr "ตรวจพบไฟล์ MT940 กรุณาเปิดใช้งาน 'นำเข้ารูปแบบ MT940' เพื่อดำเนินการต่อ"
 
 msgid "Machine"
-msgstr ""
+msgstr "เครื่องจักร"
 
 msgid "Machine Type"
-msgstr ""
+msgstr "ประเภทเครื่องจักร"
 
 msgid "Machine malfunction"
-msgstr ""
+msgstr "เครื่องจักรขัดข้อง"
 
 msgid "Machine operator errors"
-msgstr ""
+msgstr "ข้อผิดพลาดจากผู้ควบคุมเครื่องจักร"
 
 msgid "Main"
-msgstr ""
+msgstr "หลัก"
 
 msgid "Main Cost Center"
-msgstr ""
+msgstr "ศูนย์ต้นทุนหลัก"
 
 msgid "Main Cost Center {0} cannot be entered in the child table"
-msgstr ""
+msgstr "ไม่สามารถป้อนศูนย์ต้นทุนหลัก {0} ในตารางย่อยได้"
 
 msgid "Maintain Asset"
-msgstr ""
+msgstr "บำรุงรักษาสินทรัพย์"
 
 msgid "Maintain Same Rate Throughout Internal Transaction"
-msgstr ""
+msgstr "รักษอัตราเดียวกันตลอดธุรกรรมภายใน"
 
 msgid "Maintain Same Rate Throughout Sales Cycle"
-msgstr ""
+msgstr "รักษอัตราเดียวกันตลอดวงจรการขาย"
 
 msgid "Maintain Same Rate Throughout the Purchase Cycle"
-msgstr ""
+msgstr "รักษอัตราเดียวกันตลอดวงจรการซื้อ"
 
 msgid "Maintain Stock"
-msgstr ""
+msgstr "ดูแลสต็อก"
 
 msgid "Maintenance"
-msgstr ""
+msgstr "การบำรุงรักษา"
 
 msgid "Maintenance Date"
-msgstr ""
+msgstr "วันที่บำรุงรักษา"
 
 msgid "Maintenance Details"
-msgstr ""
+msgstr "รายละเอียดการบำรุงรักษา"
 
 msgid "Maintenance Log"
-msgstr ""
+msgstr "บันทึกการบำรุงรักษา"
 
 msgid "Maintenance Manager"
-msgstr ""
+msgstr "ผู้จัดการฝ่ายบำรุงรักษา"
 
 msgid "Maintenance Manager Name"
-msgstr ""
+msgstr "ชื่อผู้จัดการฝ่ายบำรุงรักษา"
 
 msgid "Maintenance Required"
-msgstr ""
+msgstr "ต้องมีการบำรุงรักษา"
 
 msgid "Maintenance Role"
-msgstr ""
+msgstr "บทบาทการบำรุงรักษา"
 
 msgid "Maintenance Schedule"
-msgstr ""
+msgstr "ตารางการบำรุงรักษา"
 
 msgid "Maintenance Schedule Detail"
-msgstr ""
+msgstr "รายละเอียดตารางการบำรุงรักษา"
 
 msgid "Maintenance Schedule Item"
-msgstr ""
+msgstr "รายการในตารางการบำรุงรักษา"
 
 msgid "Maintenance Schedule is not generated for all the items. Please click on 'Generate Schedule'"
-msgstr ""
+msgstr "ยังไม่ได้สร้างตารางการบำรุงรักษาสำหรับทุกรายการ กรุณาคลิก 'สร้างตารางเวลา'"
 
 msgid "Maintenance Schedule {0} exists against {1}"
-msgstr ""
+msgstr "มีตารางการบำรุงรักษา {0} สำหรับ {1} อยู่แล้ว"
 
 msgid "Maintenance Schedules"
-msgstr ""
+msgstr "ตารางการบำรุงรักษา"
 
 msgid "Maintenance Status"
-msgstr ""
+msgstr "สถานะการบำรุงรักษา"
 
 msgid "Maintenance Status has to be Cancelled or Completed to Submit"
-msgstr ""
+msgstr "สถานะการบำรุงรักษาต้องเป็น 'ยกเลิก' หรือ 'เสร็จสมบูรณ์' เพื่อส่งข้อมูล"
 
 msgid "Maintenance Task"
-msgstr ""
+msgstr "งานบำรุงรักษา"
 
 msgid "Maintenance Tasks"
-msgstr ""
+msgstr "งานบำรุงรักษา"
 
 msgid "Maintenance Team"
-msgstr ""
+msgstr "ทีมบำรุงรักษา"
 
 msgid "Maintenance Team Member"
-msgstr ""
+msgstr "สมาชิกทีมบำรุงรักษา"
 
 msgid "Maintenance Team Members"
-msgstr ""
+msgstr "สมาชิกทีมบำรุงรักษา"
 
 msgid "Maintenance Team Name"
-msgstr ""
+msgstr "ชื่อทีมบำรุงรักษา"
 
 msgid "Maintenance Time"
-msgstr ""
+msgstr "เวลาบำรุงรักษา"
 
 msgid "Maintenance Type"
-msgstr ""
+msgstr "ประเภทการบำรุงรักษา"
 
 msgid "Maintenance User"
-msgstr ""
+msgstr "ผู้ใช้ฝ่ายบำรุงรักษา"
 
 msgid "Maintenance Visit"
-msgstr ""
+msgstr "การเข้าบำรุงรักษา"
 
 msgid "Maintenance Visit Purpose"
-msgstr "วัตถุประสงค์การเยี่ยมบำรุงรักษา"
+msgstr "วัตถุประสงค์การเข้าบำรุงรักษา"
 
 msgid "Maintenance start date can not be before delivery date for Serial No {0}"
-msgstr "วันที่เริ่มต้นการบำรุงรักษาไม่สามารถอยู่ก่อนวันที่จัดส่งสำหรับหมายเลขซีเรียล {0}"
+msgstr "วันที่เริ่มบำรุงรักษาต้องไม่มาก่อนวันที่จัดส่งสำหรับหมายเลขซีเรียล {0}"
 
 msgid "Major/Optional Subjects"
 msgstr "วิชาเอก/วิชาเลือก"
 
 msgid "Make"
-msgstr "สร้าง"
+msgstr "ทำ"
 
 msgid "Make Asset Movement"
-msgstr "สร้างการเคลื่อนย้ายสินทรัพย์"
+msgstr "ทำรายการเคลื่อนย้ายสินทรัพย์"
 
 msgid "Make Depreciation Entry"
-msgstr "สร้างรายการค่าเสื่อมราคา"
+msgstr "ทำรายการค่าเสื่อมราคา"
 
 msgid "Make Difference Entry"
-msgstr "สร้างรายการความแตกต่าง"
+msgstr "ทำรายการผลต่าง"
 
 msgid "Make Payment via Journal Entry"
-msgstr "ชำระเงินผ่านรายการบัญชี"
+msgstr "ชำระเงินผ่านรายการสมุดรายวัน"
 
 msgid "Make Purchase Invoice"
-msgstr "สร้างใบแจ้งหนี้ซื้อ"
+msgstr "ทำใบแจ้งหนี้ซื้อ"
 
 msgid "Make Quotation"
-msgstr "สร้างใบเสนอราคา"
+msgstr "ทำใบเสนอราคา"
 
 msgid "Make Return Entry"
-msgstr "สร้างรายการคืน"
+msgstr "ทำรายการคืน"
 
 msgid "Make Sales Invoice"
-msgstr "สร้างใบแจ้งหนี้ขาย"
+msgstr "ทำใบแจ้งหนี้ขาย"
 
 msgid "Make Serial No / Batch from Work Order"
-msgstr "สร้างหมายเลขซีเรียล / แบทช์จากคำสั่งงาน"
+msgstr "สร้างหมายเลขซีเรียล / แบทช์จากใบสั่งงาน"
 
 msgid "Make Stock Entry"
-msgstr "สร้างรายการสต็อก"
+msgstr "ทำรายการสต็อก"
 
 msgid "Make Subcontracting PO"
-msgstr "สร้างใบสั่งซื้อจ้างช่วง"
+msgstr "ทำใบสั่งซื้อจ้างเหมาช่วง"
 
 msgid "Make Transfer Entry"
-msgstr "สร้างรายการโอน"
+msgstr "ทำรายการโอน"
 
 msgid "Make project from a template."
-msgstr "สร้างโครงการจากแม่แบบ"
+msgstr "สร้างโครงการจากเทมเพลต"
 
 msgid "Make {0}"
-msgstr "สร้าง {0}"
+msgstr "ทำ {0}"
 
 msgid "Make {0} Variant"
-msgstr "สร้างตัวเลือก {0}"
+msgstr "ทำตัวแปร {0}"
 
 msgid "Make {0} Variants"
-msgstr "สร้างตัวเลือก {0} หลายตัว"
+msgstr "ทำตัวแปร {0}"
 
 msgid "Making Journal Entries against advance accounts: {0} is not recommended. These Journals won't be available for Reconciliation."
-msgstr "การสร้างรายการบัญชีต่อบัญชีล่วงหน้า: {0} ไม่แนะนำ รายการเหล่านี้จะไม่สามารถใช้สำหรับการกระทบยอดได้"
+msgstr "ไม่แนะนำให้ทำรายการสมุดรายวันสำหรับบัญชีเงินล่วงหน้า: {0} สมุดรายวันเหล่านี้จะไม่สามารถใช้กระทบยอดได้"
 
 msgid "Manage"
 msgstr "จัดการ"
@@ -203,61 +203,61 @@ msgid "Manage cost of operations"
 msgstr "จัดการต้นทุนการดำเนินงาน"
 
 msgid "Manage your orders"
-msgstr "จัดการคำสั่งซื้อของคุณ"
+msgstr "จัดการใบสั่งซื้อของคุณ"
 
 msgid "Management"
 msgstr "การจัดการ"
 
 msgid "Manager"
-msgstr ""
+msgstr "ผู้จัดการ"
 
 msgid "Managing Director"
-msgstr ""
+msgstr "กรรมการผู้จัดการ"
 
 msgid "Mandatory"
-msgstr "จำเป็น"
+msgstr "บังคับ"
 
 msgid "Mandatory Accounting Dimension"
-msgstr "มิติการบัญชีที่จำเป็น"
+msgstr "มิติทางการบัญชีที่บังคับ"
 
 msgid "Mandatory Depends On"
-msgstr "ขึ้นอยู่กับที่จำเป็น"
+msgstr "บังคับให้ขึ้นอยู่กับ"
 
 msgid "Mandatory Field"
-msgstr "ฟิลด์ที่จำเป็น"
+msgstr "ฟิลด์บังคับ"
 
 msgid "Mandatory For Balance Sheet"
-msgstr "จำเป็นสำหรับงบดุล"
+msgstr "บังคับสำหรับงบดุล"
 
 msgid "Mandatory For Profit and Loss Account"
-msgstr "จำเป็นสำหรับบัญชีกำไรขาดทุน"
+msgstr "บังคับสำหรับบัญชีกำไรขาดทุน"
 
 msgid "Mandatory Missing"
-msgstr "ขาดสิ่งจำเป็น"
+msgstr "ขาดข้อมูลที่บังคับ"
 
 msgid "Mandatory Purchase Order"
-msgstr "ใบสั่งซื้อที่จำเป็น"
+msgstr "ใบสั่งซื้อที่บังคับ"
 
 msgid "Mandatory Purchase Receipt"
-msgstr "ใบรับซื้อที่จำเป็น"
+msgstr "ใบรับสินค้าที่บังคับ"
 
 msgid "Mandatory Section"
-msgstr "ส่วนที่จำเป็น"
+msgstr "ส่วนที่บังคับ"
 
 msgid "Manual"
-msgstr "คู่มือ"
+msgstr "ด้วยตนเอง"
 
 msgid "Manual Inspection"
 msgstr "การตรวจสอบด้วยตนเอง"
 
 msgid "Manual entry cannot be created! Disable automatic entry for deferred accounting in accounts settings and try again"
-msgstr "ไม่สามารถสร้างรายการด้วยตนเองได้! ปิดใช้งานรายการอัตโนมัติสำหรับการบัญชีรอตัดบัญชีในการตั้งค่าบัญชีและลองอีกครั้ง"
+msgstr "ไม่สามารถสร้างรายการด้วยตนเองได้! กรุณาปิดใช้งานการสร้างรายการอัตโนมัติสำหรับการบัญชีรอตัดบัญชีในการตั้งค่าบัญชีแล้วลองอีกครั้ง"
 
 msgid "Manufacture"
 msgstr "ผลิต"
 
 msgid "Manufacture against Material Request"
-msgstr "ผลิตตามคำขอวัสดุ"
+msgstr "ผลิตตามใบขอวัสดุ"
 
 msgid "Manufactured"
 msgstr "ผลิตแล้ว"
@@ -269,13 +269,13 @@ msgid "Manufacturer"
 msgstr "ผู้ผลิต"
 
 msgid "Manufacturer Part Number"
-msgstr "หมายเลขชิ้นส่วนผู้ผลิต"
+msgstr "หมายเลขชิ้นส่วนของผู้ผลิต"
 
 msgid "Manufacturer Part Number <b>{0}</b> is invalid"
-msgstr "หมายเลขชิ้นส่วนผู้ผลิต <b>{0}</b> ไม่ถูกต้อง"
+msgstr "หมายเลขชิ้นส่วนของผู้ผลิต <b>{0}</b> ไม่ถูกต้อง"
 
 msgid "Manufacturers used in Items"
-msgstr "ผู้ผลิตที่ใช้ในรายการ"
+msgstr "ผู้ผลิตที่ใช้ในสินค้า"
 
 msgid "Manufacturing"
 msgstr "การผลิต"
@@ -287,10 +287,10 @@ msgid "Manufacturing Date"
 msgstr "วันที่ผลิต"
 
 msgid "Manufacturing Manager"
-msgstr "ผู้จัดการการผลิต"
+msgstr "ผู้จัดการฝ่ายผลิต"
 
 msgid "Manufacturing Quantity is mandatory"
-msgstr "ปริมาณการผลิตเป็นสิ่งจำเป็น"
+msgstr "ต้องระบุปริมาณการผลิต"
 
 msgid "Manufacturing Section"
 msgstr "ส่วนการผลิต"
@@ -302,193 +302,193 @@ msgid "Manufacturing Type"
 msgstr "ประเภทการผลิต"
 
 msgid "Manufacturing User"
-msgstr "ผู้ใช้การผลิต"
+msgstr "ผู้ใช้ฝ่ายผลิต"
 
 msgid "Mapping Purchase Receipt ..."
-msgstr ""
+msgstr "กำลังจับคู่ใบรับสินค้า..."
 
 msgid "Mapping Subcontracting Order ..."
-msgstr ""
+msgstr "กำลังจับคู่ใบสั่งจ้างเหมาช่วง..."
 
 msgid "Mapping {0} ..."
-msgstr ""
+msgstr "กำลังจับคู่ {0} ..."
 
 msgid "Margin"
-msgstr ""
+msgstr "กำไรส่วนต่าง"
 
 msgid "Margin Money"
-msgstr ""
+msgstr "เงินประกัน"
 
 msgid "Margin Rate or Amount"
-msgstr ""
+msgstr "อัตราหรือจำนวนกำไรส่วนต่าง"
 
 msgid "Margin Type"
-msgstr ""
+msgstr "ประเภทกำไรส่วนต่าง"
 
 msgid "Margin View"
-msgstr ""
+msgstr "มุมมองกำไรส่วนต่าง"
 
 msgid "Marital Status"
-msgstr ""
+msgstr "สถานภาพสมรส"
 
 msgid "Mark As Closed"
-msgstr ""
+msgstr "ทำเครื่องหมายเป็นปิด"
 
 msgid "Market Segment"
-msgstr ""
+msgstr "ส่วนแบ่งตลาด"
 
 msgid "Marketing"
-msgstr ""
+msgstr "การตลาด"
 
 msgid "Marketing Expenses"
-msgstr "ค่าการตลาด"
+msgstr "ค่าใช้จ่ายทางการตลาด"
 
 msgid "Marketing Manager"
-msgstr ""
+msgstr "ผู้จัดการฝ่ายการตลาด"
 
 msgid "Marketing Specialist"
-msgstr ""
+msgstr "ผู้เชี่ยวชาญด้านการตลาด"
 
 msgid "Married"
-msgstr ""
+msgstr "สมรสแล้ว"
 
 msgid "Mask"
-msgstr ""
+msgstr "มาสก์"
 
 msgid "Mass Mailing"
-msgstr ""
+msgstr "การส่งอีเมลจำนวนมาก"
 
 msgid "Master"
-msgstr ""
+msgstr "ข้อมูลหลัก"
 
 msgid "Masters"
-msgstr ""
+msgstr "ข้อมูลหลัก"
 
 msgid "Material"
-msgstr ""
+msgstr "วัสดุ"
 
 msgid "Material Consumption"
-msgstr ""
+msgstr "การใช้วัสดุ"
 
 msgid "Material Consumption for Manufacture"
-msgstr ""
+msgstr "การใช้วัสดุเพื่อการผลิต"
 
 msgid "Material Consumption is not set in Manufacturing Settings."
-msgstr ""
+msgstr "ยังไม่ได้ตั้งค่าการใช้วัสดุในการตั้งค่าการผลิต"
 
 msgid "Material Issue"
-msgstr ""
+msgstr "การเบิกจ่ายวัสดุ"
 
 msgid "Material Receipt"
-msgstr ""
+msgstr "การรับวัสดุ"
 
 msgid "Material Request"
-msgstr ""
+msgstr "ใบขอวัสดุ"
 
 msgid "Material Request Date"
-msgstr ""
+msgstr "วันที่ในใบขอวัสดุ"
 
 msgid "Material Request Detail"
-msgstr ""
+msgstr "รายละเอียดใบขอวัสดุ"
 
 msgid "Material Request Item"
-msgstr ""
+msgstr "รายการในใบขอวัสดุ"
 
 msgid "Material Request No"
-msgstr ""
+msgstr "เลขที่ใบขอวัสดุ"
 
 msgid "Material Request Plan Item"
-msgstr ""
+msgstr "รายการในแผนใบขอวัสดุ"
 
 msgid "Material Request Type"
-msgstr ""
+msgstr "ประเภทใบขอวัสดุ"
 
 msgid "Material Request not created, as quantity for Raw Materials already available."
-msgstr ""
+msgstr "ไม่ได้สร้างใบขอวัสดุ เนื่องจากมีปริมาณวัตถุดิบเพียงพอแล้ว"
 
 msgid "Material Request of maximum {0} can be made for Item {1} against Sales Order {2}"
-msgstr ""
+msgstr "สามารถสร้างใบขอวัสดุได้สูงสุด {0} สำหรับสินค้า {1} ของใบสั่งขาย {2}"
 
 msgid "Material Request used to make this Stock Entry"
-msgstr ""
+msgstr "ใบขอวัสดุที่ใช้สร้างรายการสต็อกนี้"
 
 msgid "Material Request {0} is cancelled or stopped"
-msgstr ""
+msgstr "ใบขอวัสดุ {0} ถูกยกเลิกหรือหยุดแล้ว"
 
 msgid "Material Request {0} submitted."
-msgstr ""
+msgstr "ส่งใบขอวัสดุ {0} แล้ว"
 
 msgid "Material Requested"
-msgstr ""
+msgstr "ขอวัสดุแล้ว"
 
 msgid "Material Requests"
-msgstr ""
+msgstr "ใบขอวัสดุ"
 
 msgid "Material Requests Required"
-msgstr ""
+msgstr "ต้องมีใบขอวัสดุ"
 
 msgid "Material Requests for which Supplier Quotations are not created"
-msgstr ""
+msgstr "ใบขอวัสดุที่ยังไม่ได้สร้างใบเสนอราคาจากซัพพลายเออร์"
 
 msgid "Material Returned from WIP"
-msgstr ""
+msgstr "วัสดุที่คืนจากงานระหว่างทำ"
 
 msgid "Material Transfer"
-msgstr ""
+msgstr "การโอนวัสดุ"
 
 msgid "Material Transfer (In Transit)"
-msgstr ""
+msgstr "การโอนวัสดุ (ระหว่างทาง)"
 
 msgid "Material Transfer for Manufacture"
-msgstr ""
+msgstr "การโอนวัสดุเพื่อการผลิต"
 
 msgid "Material Transferred"
-msgstr ""
+msgstr "โอนวัสดุแล้ว"
 
 msgid "Material Transferred for Manufacture"
-msgstr ""
+msgstr "โอนวัสดุเพื่อการผลิตแล้ว"
 
 msgid "Material Transferred for Manufacturing"
-msgstr ""
+msgstr "โอนวัสดุเพื่อการผลิตแล้ว"
 
 msgid "Material Transferred for Subcontract"
-msgstr ""
+msgstr "โอนวัสดุเพื่อการจ้างเหมาช่วงแล้ว"
 
 msgid "Material to Supplier"
-msgstr ""
+msgstr "วัสดุให้ซัพพลายเออร์"
 
 msgid "Materials are already received against the {0} {1}"
-msgstr ""
+msgstr "ได้รับวัสดุสำหรับ {0} {1} แล้ว"
 
 msgid "Materials needs to be transferred to the work in progress warehouse for the job card {0}"
-msgstr ""
+msgstr "ต้องโอนวัสดุไปยังคลังสินค้าระหว่างทำสำหรับใบงาน {0}"
 
 msgid "Max Amount"
-msgstr ""
+msgstr "จำนวนเงินสูงสุด"
 
 msgid "Max Amt"
-msgstr ""
+msgstr "จำนวนเงินสูงสุด"
 
 msgid "Max Discount (%)"
-msgstr ""
+msgstr "ส่วนลดสูงสุด (%)"
 
 msgid "Max Grade"
-msgstr ""
+msgstr "เกรดสูงสุด"
 
 msgid "Max Qty"
-msgstr ""
+msgstr "ปริมาณสูงสุด"
 
 msgid "Max Qty (As Per Stock UOM)"
-msgstr ""
+msgstr "ปริมาณสูงสุด (ตามหน่วยสต็อก)"
 
 msgid "Max Sample Quantity"
-msgstr ""
+msgstr "ปริมาณตัวอย่างสูงสุด"
 
 msgid "Max Score"
-msgstr ""
+msgstr "คะแนนสูงสุด"
 
 msgid "Max discount allowed for item: {0} is {1}%"
-msgstr ""
+msgstr "ส่วนลดสูงสุดที่อนุญาตสำหรับสินค้า: {0} คือ {1}%"
 
 msgid "Max: {0}"
 msgstr "สูงสุด: {0}"

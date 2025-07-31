@@ -1,5 +1,4 @@
-﻿msgstr "ใบแจ้งหนี้ขายไม่ถูกต้อง"
-
+﻿
 msgid "Invalid Schedule"
 msgstr "ตารางเวลาไม่ถูกต้อง"
 
@@ -7,7 +6,7 @@ msgid "Invalid Selling Price"
 msgstr "ราคาขายไม่ถูกต้อง"
 
 msgid "Invalid Serial and Batch Bundle"
-msgstr "ชุดหมายเลขซีเรียลและแบทช์ไม่ถูกต้อง"
+msgstr "ชุดซีเรียลและแบทช์ไม่ถูกต้อง"
 
 msgid "Invalid URL"
 msgstr "URL ไม่ถูกต้อง"
@@ -25,10 +24,10 @@ msgid "Invalid condition expression"
 msgstr "นิพจน์เงื่อนไขไม่ถูกต้อง"
 
 msgid "Invalid lost reason {0}, please create a new lost reason"
-msgstr "เหตุผลที่สูญหายไม่ถูกต้อง {0} โปรดสร้างเหตุผลที่สูญหายใหม่"
+msgstr "เหตุผลการสูญเสียไม่ถูกต้อง {0}, กรุณาสร้างเหตุผลการสูญเสียใหม่"
 
 msgid "Invalid naming series (. missing) for {0}"
-msgstr "ชุดการตั้งชื่อไม่ถูกต้อง (. หายไป) สำหรับ {0}"
+msgstr "ชุดการตั้งชื่อไม่ถูกต้อง (ขาด .) สำหรับ {0}"
 
 msgid "Invalid reference {0} {1}"
 msgstr "การอ้างอิงไม่ถูกต้อง {0} {1}"
@@ -37,7 +36,7 @@ msgid "Invalid result key. Response:"
 msgstr "คีย์ผลลัพธ์ไม่ถูกต้อง การตอบกลับ:"
 
 msgid "Invalid value {0} for {1} against account {2}"
-msgstr "ค่า {0} ไม่ถูกต้องสำหรับ {1} กับบัญชี {2}"
+msgstr "ค่า {0} ไม่ถูกต้องสำหรับ {1} ของบัญชี {2}"
 
 msgid "Invalid {0}"
 msgstr "{0} ไม่ถูกต้อง"
@@ -46,211 +45,211 @@ msgid "Invalid {0} for Inter Company Transaction."
 msgstr "{0} ไม่ถูกต้องสำหรับธุรกรรมระหว่างบริษัท"
 
 msgid "Invalid {0}: {1}"
-msgstr ""
+msgstr "{0} ไม่ถูกต้อง: {1}"
 
 msgid "Inventory"
-msgstr ""
+msgstr "สินค้าคงคลัง"
 
 msgid "Inventory Dimension"
-msgstr ""
+msgstr "มิติสินค้าคงคลัง"
 
 msgid "Inventory Dimension Negative Stock"
-msgstr ""
+msgstr "สต็อกติดลบในมิติสินค้าคงคลัง"
 
 msgid "Inventory Dimension key"
-msgstr ""
+msgstr "คีย์มิติสินค้าคงคลัง"
 
 msgid "Inventory Settings"
-msgstr ""
+msgstr "การตั้งค่าสินค้าคงคลัง"
 
 msgid "Investment Banking"
-msgstr ""
+msgstr "วาณิชธนกิจ"
 
 msgid "Investments"
 msgstr "การลงทุน"
 
 msgid "Invoice"
-msgstr ""
+msgstr "ใบแจ้งหนี้"
 
 msgid "Invoice Cancellation"
-msgstr ""
+msgstr "การยกเลิกใบแจ้งหนี้"
 
 msgid "Invoice Date"
-msgstr ""
+msgstr "วันที่ในใบแจ้งหนี้"
 
 msgid "Invoice Discounting"
-msgstr ""
+msgstr "การขายลดใบแจ้งหนี้"
 
 msgid "Invoice Document Type Selection Error"
-msgstr ""
+msgstr "ข้อผิดพลาดในการเลือกประเภทเอกสารใบแจ้งหนี้"
 
 msgid "Invoice Grand Total"
-msgstr ""
+msgstr "ยอดรวมทั้งหมดในใบแจ้งหนี้"
 
 msgid "Invoice ID"
-msgstr ""
+msgstr "รหัสใบแจ้งหนี้"
 
 msgid "Invoice Limit"
-msgstr ""
+msgstr "ขีดจำกัดใบแจ้งหนี้"
 
 msgid "Invoice Number"
-msgstr ""
+msgstr "เลขที่ใบแจ้งหนี้"
 
 msgid "Invoice Paid"
-msgstr ""
+msgstr "ชำระใบแจ้งหนี้แล้ว"
 
 msgid "Invoice Portion"
-msgstr ""
+msgstr "ส่วนของใบแจ้งหนี้"
 
 msgid "Invoice Portion (%)"
-msgstr ""
+msgstr "ส่วนของใบแจ้งหนี้ (%)"
 
 msgid "Invoice Posting Date"
-msgstr ""
+msgstr "วันที่ลงรายการใบแจ้งหนี้"
 
 msgid "Invoice Series"
-msgstr ""
+msgstr "ชุดเลขที่ใบแจ้งหนี้"
 
 msgid "Invoice Status"
-msgstr ""
+msgstr "สถานะใบแจ้งหนี้"
 
 msgid "Invoice Type"
-msgstr ""
+msgstr "ประเภทใบแจ้งหนี้"
 
 msgid "Invoice Type Created via POS Screen"
-msgstr ""
+msgstr "ประเภทใบแจ้งหนี้ที่สร้างผ่านหน้าจอ POS"
 
 msgid "Invoice already created for all billing hours"
-msgstr ""
+msgstr "สร้างใบแจ้งหนี้สำหรับชั่วโมงที่เรียกเก็บเงินทั้งหมดแล้ว"
 
 msgid "Invoice and Billing"
-msgstr ""
+msgstr "ใบแจ้งหนี้และการเรียกเก็บเงิน"
 
 msgid "Invoice can't be made for zero billing hour"
-msgstr ""
+msgstr "ไม่สามารถสร้างใบแจ้งหนี้สำหรับชั่วโมงที่เรียกเก็บเงินเป็นศูนย์ได้"
 
 msgid "Invoiced Amount"
-msgstr ""
+msgstr "จำนวนเงินที่ออกใบแจ้งหนี้"
 
 msgid "Invoiced Qty"
-msgstr ""
+msgstr "ปริมาณที่ออกใบแจ้งหนี้"
 
 msgid "Invoices"
-msgstr ""
+msgstr "ใบแจ้งหนี้"
 
 msgid "Invoices and Payments have been Fetched and Allocated"
-msgstr ""
+msgstr "ดึงและจัดสรรใบแจ้งหนี้และการชำระเงินแล้ว"
 
 msgid "Invoicing"
-msgstr ""
+msgstr "การออกใบแจ้งหนี้"
 
 msgid "Invoicing Features"
-msgstr ""
+msgstr "คุณสมบัติการออกใบแจ้งหนี้"
 
 msgid "Inward"
-msgstr ""
+msgstr "ขาเข้า"
 
 msgid "Is Account Payable"
-msgstr ""
+msgstr "เป็นบัญชีเจ้าหนี้"
 
 msgid "Is Active"
-msgstr ""
+msgstr "เปิดใช้งานอยู่"
 
 msgid "Is Additional Item"
-msgstr ""
+msgstr "เป็นสินค้าเพิ่มเติม"
 
 msgid "Is Adjustment Entry"
-msgstr ""
+msgstr "เป็นรายการปรับปรุง"
 
 msgid "Is Advance"
-msgstr ""
+msgstr "เป็นเงินล่วงหน้า"
 
 msgid "Is Alternative"
-msgstr ""
+msgstr "เป็นทางเลือก"
 
 msgid "Is Billable"
-msgstr ""
+msgstr "สามารถเรียกเก็บเงินได้"
 
 msgid "Is Billing Contact"
-msgstr ""
+msgstr "เป็นผู้ติดต่อสำหรับการเรียกเก็บเงิน"
 
 msgid "Is Cancelled"
-msgstr ""
+msgstr "ถูกยกเลิก"
 
 msgid "Is Cash or Non Trade Discount"
-msgstr ""
+msgstr "เป็นส่วนลดเงินสดหรือไม่ใช่ส่วนลดการค้า"
 
 msgid "Is Company"
-msgstr ""
+msgstr "เป็นบริษัท"
 
 msgid "Is Company Account"
-msgstr ""
+msgstr "เป็นบัญชีบริษัท"
 
 msgid "Is Composite Asset"
-msgstr ""
+msgstr "เป็นสินทรัพย์ประกอบ"
 
 msgid "Is Composite Component"
-msgstr ""
+msgstr "เป็นส่วนประกอบของสินทรัพย์ประกอบ"
 
 msgid "Is Consolidated"
-msgstr ""
+msgstr "เป็นการรวมยอด"
 
 msgid "Is Container"
-msgstr ""
+msgstr "เป็นตู้คอนเทนเนอร์"
 
 msgid "Is Corrective Job Card"
-msgstr ""
+msgstr "เป็นใบงานแก้ไข"
 
 msgid "Is Corrective Operation"
-msgstr ""
+msgstr "เป็นการดำเนินงานแก้ไข"
 
 msgid "Is Cumulative"
-msgstr ""
+msgstr "เป็นแบบสะสม"
 
 msgid "Is Customer Provided Item"
-msgstr ""
+msgstr "เป็นสินค้าที่ลูกค้าจัดหาให้"
 
 msgid "Is Default"
-msgstr ""
+msgstr "เป็นค่าเริ่มต้น"
 
 msgid "Is Default Account"
-msgstr ""
+msgstr "เป็นบัญชีเริ่มต้น"
 
 msgid "Is Default Language"
-msgstr ""
+msgstr "เป็นภาษาเริ่มต้น"
 
 msgid "Is Delivery Note Required for Sales Invoice Creation?"
-msgstr ""
+msgstr "จำเป็นต้องมีใบส่งของเพื่อสร้างใบแจ้งหนี้การขายหรือไม่?"
 
 msgid "Is Discounted"
-msgstr ""
+msgstr "มีการลดราคา"
 
 msgid "Is Exchange Gain / Loss?"
-msgstr ""
+msgstr "เป็นกำไร / ขาดทุนจากอัตราแลกเปลี่ยน?"
 
 msgid "Is Existing Asset"
-msgstr ""
+msgstr "เป็นสินทรัพย์ที่มีอยู่"
 
 msgid "Is Expandable"
-msgstr ""
+msgstr "สามารถขยายได้"
 
 msgid "Is Final Finished Good"
-msgstr ""
+msgstr "เป็นสินค้าสำเร็จรูปขั้นสุดท้าย"
 
 msgid "Is Finished Item"
-msgstr ""
+msgstr "เป็นสินค้าสำเร็จรูป"
 
 msgid "Is Fixed Asset"
-msgstr ""
+msgstr "เป็นสินทรัพย์ถาวร"
 
 msgid "Is Free Item"
-msgstr "เป็นรายการฟรี"
+msgstr "เป็นสินค้าฟรี"
 
 msgid "Is Frozen"
-msgstr "ถูกแช่แข็ง"
+msgstr "ถูกระงับ"
 
 msgid "Is Fully Depreciated"
-msgstr "ค่าเสื่อมราคาครบถ้วน"
+msgstr "คิดค่าเสื่อมราคาครบถ้วนแล้ว"
 
 msgid "Is Group"
 msgstr "เป็นกลุ่ม"
@@ -262,28 +261,28 @@ msgid "Is Internal Customer"
 msgstr "เป็นลูกค้าภายใน"
 
 msgid "Is Internal Supplier"
-msgstr "เป็นผู้จัดจำหน่ายภายใน"
+msgstr "เป็นซัพพลายเออร์ภายใน"
 
 msgid "Is Mandatory"
-msgstr "เป็นสิ่งจำเป็น"
+msgstr "เป็นฟิลด์บังคับ"
 
 msgid "Is Milestone"
-msgstr "เป็นเหตุการณ์สำคัญ"
+msgstr "เป็นหลักไมล์"
 
 msgid "Is Old Subcontracting Flow"
-msgstr "เป็นกระบวนการจ้างช่วงเก่า"
+msgstr "เป็นกระบวนการจ้างเหมาช่วงแบบเก่า"
 
 msgid "Is Opening"
-msgstr "เป็นการเปิด"
+msgstr "เป็นรายการยอดยกมา"
 
 msgid "Is Opening Entry"
-msgstr "เป็นรายการเปิด"
+msgstr "เป็นรายการยอดยกมา"
 
 msgid "Is Outward"
 msgstr "เป็นขาออก"
 
 msgid "Is Packed"
-msgstr "ถูกบรรจุ"
+msgstr "บรรจุแล้ว"
 
 msgid "Is Paid"
 msgstr "ชำระแล้ว"
@@ -292,19 +291,19 @@ msgid "Is Paused"
 msgstr "หยุดชั่วคราว"
 
 msgid "Is Period Closing Voucher Entry"
-msgstr "เป็นรายการปิดงวดบัญชี"
+msgstr "เป็นรายการใบสำคัญปิดงวด"
 
 msgid "Is Purchase Order Required for Purchase Invoice & Receipt Creation?"
-msgstr "ต้องการใบสั่งซื้อสำหรับการสร้างใบแจ้งหนี้ซื้อและใบรับซื้อหรือไม่?"
+msgstr "จำเป็นต้องมีใบสั่งซื้อเพื่อสร้างใบแจ้งหนี้ซื้อและใบรับสินค้าหรือไม่?"
 
 msgid "Is Purchase Receipt Required for Purchase Invoice Creation?"
-msgstr "ต้องการใบรับซื้อสำหรับการสร้างใบแจ้งหนี้ซื้อหรือไม่?"
+msgstr "จำเป็นต้องมีใบรับสินค้าเพื่อสร้างใบแจ้งหนี้ซื้อหรือไม่?"
 
 msgid "Is Rate Adjustment Entry (Debit Note)"
-msgstr "เป็นรายการปรับอัตรา (ใบเดบิต)"
+msgstr "เป็นรายการปรับปรุงอัตรา (ใบเพิ่มหนี้)"
 
 msgid "Is Recursive"
-msgstr "เป็นการวนซ้ำ"
+msgstr "เป็นการเรียกซ้ำ"
 
 msgid "Is Rejected"
 msgstr "ถูกปฏิเสธ"
@@ -316,16 +315,16 @@ msgid "Is Return"
 msgstr "เป็นการคืน"
 
 msgid "Is Return (Credit Note)"
-msgstr "เป็นการคืน (ใบเครดิต)"
+msgstr "เป็นการคืน (ใบลดหนี้)"
 
 msgid "Is Return (Debit Note)"
-msgstr "เป็นการคืน (ใบเดบิต)"
+msgstr "เป็นการคืน (ใบเพิ่มหนี้)"
 
 msgid "Is Sales Order Required for Sales Invoice & Delivery Note Creation?"
-msgstr "ต้องการใบสั่งขายสำหรับการสร้างใบแจ้งหนี้ขายและใบส่งของหรือไม่?"
+msgstr "จำเป็นต้องมีใบสั่งขายเพื่อสร้างใบแจ้งหนี้การขายและใบส่งของหรือไม่?"
 
 msgid "Is Scrap Item"
-msgstr "เป็นรายการเศษ"
+msgstr "เป็นสินค้าเศษซาก"
 
 msgid "Is Short/Long Year"
 msgstr "เป็นปีสั้น/ยาว"
@@ -334,19 +333,19 @@ msgid "Is Standard"
 msgstr "เป็นมาตรฐาน"
 
 msgid "Is Stock Item"
-msgstr "เป็นรายการสต็อก"
+msgstr "เป็นสินค้าสต็อก"
 
 msgid "Is Subcontracted"
-msgstr "ถูกจ้างช่วง"
+msgstr "เป็นการจ้างเหมาช่วง"
 
 msgid "Is System Generated"
-msgstr "ถูกสร้างโดยระบบ"
+msgstr "สร้างโดยระบบ"
 
 msgid "Is Tax Withholding Account"
 msgstr "เป็นบัญชีหักภาษี ณ ที่จ่าย"
 
 msgid "Is Template"
-msgstr "เป็นแม่แบบ"
+msgstr "เป็นเทมเพลต"
 
 msgid "Is Transporter"
 msgstr "เป็นผู้ขนส่ง"
@@ -358,7 +357,7 @@ msgid "Is a Subscription"
 msgstr "เป็นการสมัครสมาชิก"
 
 msgid "Is created using POS"
-msgstr "ถูกสร้างโดยใช้ POS"
+msgstr "สร้างโดยใช้ POS"
 
 msgid "Is this Tax included in Basic Rate?"
 msgstr "ภาษีนี้รวมอยู่ในอัตราพื้นฐานหรือไม่?"
@@ -370,19 +369,19 @@ msgid "Issue Analytics"
 msgstr "การวิเคราะห์ปัญหา"
 
 msgid "Issue Credit Note"
-msgstr "ออกใบเครดิต"
+msgstr "ออกใบลดหนี้"
 
 msgid "Issue Date"
 msgstr "วันที่ออก"
 
 msgid "Issue Material"
-msgstr "ออกวัสดุ"
+msgstr "เบิกจ่ายวัสดุ"
 
 msgid "Issue Priority"
 msgstr "ลำดับความสำคัญของปัญหา"
 
 msgid "Issue Split From"
-msgstr "ปัญหาแยกจาก"
+msgstr "ปัญหาที่แยกมาจาก"
 
 msgid "Issue Summary"
 msgstr "สรุปปัญหา"
@@ -391,13 +390,13 @@ msgid "Issue Type"
 msgstr "ประเภทปัญหา"
 
 msgid "Issue a debit note with 0 qty against an existing Sales Invoice"
-msgstr "ออกใบเดบิตที่มีปริมาณ 0 ต่อใบแจ้งหนี้ขายที่มีอยู่"
+msgstr "ออกใบเพิ่มหนี้ที่มีปริมาณเป็น 0 สำหรับใบแจ้งหนี้การขายที่มีอยู่"
 
 msgid "Issued"
 msgstr "ออกแล้ว"
 
 msgid "Issued Items Against Work Order"
-msgstr "รายการที่ออกต่อคำสั่งงาน"
+msgstr "สินค้าที่เบิกจ่ายสำหรับใบสั่งงาน"
 
 msgid "Issues"
 msgstr "ปัญหา"
@@ -406,95 +405,94 @@ msgid "Issuing Date"
 msgstr "วันที่ออก"
 
 msgid "It can take upto few hours for accurate stock values to be visible after merging items."
-msgstr "อาจใช้เวลาสองสามชั่วโมงเพื่อให้ค่าคงคลังที่ถูกต้องปรากฏหลังจากการรวมรายการ"
+msgstr "อาจใช้เวลาถึงสองสามชั่วโมงเพื่อให้มูลค่าสต็อกที่ถูกต้องปรากฏขึ้นหลังจากการรวมสินค้า"
 
 msgid "It is needed to fetch Item Details."
-msgstr "จำเป็นต้องดึงรายละเอียดรายการ"
+msgstr "จำเป็นสำหรับการดึงรายละเอียดสินค้า"
 
 msgid "It's not possible to distribute charges equally when total amount is zero, please set 'Distribute Charges Based On' as 'Quantity'"
-msgstr "ไม่สามารถกระจายค่าใช้จ่ายอย่างเท่าเทียมกันเมื่อจำนวนเงินรวมเป็นศูนย์ โปรดตั้งค่า 'กระจายค่าใช้จ่ายตาม' เป็น 'ปริมาณ'"
+msgstr "ไม่สามารถกระจายค่าใช้จ่ายอย่างเท่าเทียมกันได้เมื่อยอดรวมเป็นศูนย์ กรุณาตั้งค่า 'กระจายค่าใช้จ่ายตาม' เป็น 'ปริมาณ'"
 
 msgid "Item"
-msgstr "รายการ"
+msgstr "สินค้า"
 
 msgid "Item 1"
-msgstr "รายการ 1"
+msgstr "สินค้า 1"
 
 msgid "Item 2"
-msgstr "รายการ 2"
+msgstr "สินค้า 2"
 
 msgid "Item 3"
-msgstr "รายการ 3"
+msgstr "สินค้า 3"
 
 msgid "Item 4"
-msgstr "รายการ 4"
+msgstr "สินค้า 4"
 
 msgid "Item 5"
-msgstr "รายการ 5"
+msgstr "สินค้า 5"
 
 msgid "Item Alternative"
-msgstr "รายการทางเลือก"
+msgstr "สินค้าทดแทน"
 
 msgid "Item Attribute"
-msgstr "แอตทริบิวต์ของรายการ"
+msgstr "คุณลักษณะของสินค้า"
 
 msgid "Item Attribute Value"
-msgstr "ค่าของแอตทริบิวต์ของรายการ"
+msgstr "ค่าคุณลักษณะของสินค้า"
 
 msgid "Item Attribute Values"
-msgstr "ค่าของแอตทริบิวต์ของรายการ"
+msgstr "ค่าคุณลักษณะของสินค้า"
 
 msgid "Item Balance (Simple)"
-msgstr "ยอดคงเหลือของรายการ (ง่าย)"
+msgstr "ยอดคงเหลือสินค้า (อย่างง่าย)"
 
 msgid "Item Barcode"
-msgstr "บาร์โค้ดของรายการ"
+msgstr "บาร์โค้ดสินค้า"
 
 msgid "Item Cart"
-msgstr "ตะกร้ารายการ"
+msgstr "ตะกร้าสินค้า"
 
 msgid "Item Code"
-msgstr "รหัสรายการ"
+msgstr "รหัสสินค้า"
 
 msgid "Item Code (Final Product)"
-msgstr "รหัสรายการ (ผลิตภัณฑ์สุดท้าย)"
+msgstr "รหัสสินค้า (ผลิตภัณฑ์สุดท้าย)"
 
 msgid "Item Code cannot be changed for Serial No."
-msgstr "ไม่สามารถเปลี่ยนรหัสรายการสำหรับหมายเลขซีเรียลได้"
+msgstr "ไม่สามารถเปลี่ยนรหัสสินค้าสำหรับหมายเลขซีเรียลได้"
 
 msgid "Item Code required at Row No {0}"
-msgstr "ต้องการรหัสรายการที่แถวที่ {0}"
+msgstr "ต้องระบุรหัสสินค้าที่แถว {0}"
 
 msgid "Item Code: {0} is not available under warehouse {1}."
-msgstr "รหัสรายการ: {0} ไม่มีในคลังสินค้า {1}"
+msgstr "รหัสสินค้า: {0} ไม่มีในคลังสินค้า {1}"
 
 msgid "Item Customer Detail"
-msgstr "รายละเอียดลูกค้าของรายการ"
+msgstr "รายละเอียดลูกค้าของสินค้า"
 
 msgid "Item Default"
-msgstr "ค่าเริ่มต้นของรายการ"
+msgstr "ค่าเริ่มต้นสินค้า"
 
 msgid "Item Defaults"
-msgstr "ค่าเริ่มต้นของรายการ"
+msgstr "ค่าเริ่มต้นสินค้า"
 
 msgid "Item Description"
-msgstr "คำอธิบายของรายการ"
+msgstr "คำอธิบายสินค้า"
 
 msgid "Item Details"
-msgstr "รายละเอียดของรายการ"
+msgstr "รายละเอียดสินค้า"
 
 msgid "Item Group"
-msgstr "กลุ่มรายการ"
+msgstr "กลุ่มสินค้า"
 
 msgid "Item Group Defaults"
-msgstr "ค่าเริ่มต้นของกลุ่มรายการ"
+msgstr "ค่าเริ่มต้นกลุ่มสินค้า"
 
 msgid "Item Group Name"
-msgstr "ชื่อกลุ่มรายการ"
+msgstr "ชื่อกลุ่มสินค้า"
 
 msgid "Item Group Tree"
-msgstr "โครงสร้างกลุ่มรายการ"
+msgstr "โครงสร้างกลุ่มสินค้า"
 
 msgid "Item Group not mentioned in item master for item {0}"
-msgstr "ไม่ได้ระบุกลุ่มรายการในมาสเตอร์รายการสำหรับรายการ {0}"
-
+msgstr "ไม่ได้ระบุกลุ่มสินค้าในข้อมูลหลักของสินค้าสำหรับสินค้า {0}"

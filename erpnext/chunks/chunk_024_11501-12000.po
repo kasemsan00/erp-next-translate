@@ -1,500 +1,500 @@
 ﻿msgid "Item Group wise Discount"
-msgstr "ส่วนลดตามกลุ่มรายการ"
+msgstr "ส่วนลดตามกลุ่มสินค้า"
 
 msgid "Item Groups"
-msgstr "กลุ่มรายการ"
+msgstr "กลุ่มสินค้า"
 
 msgid "Item Image (if not slideshow)"
-msgstr "ภาพรายการ (ถ้าไม่ใช่สไลด์โชว์)"
+msgstr "รูปภาพสินค้า (หากไม่ใช่สไลด์โชว์)"
 
 msgid "Item Information"
-msgstr "ข้อมูลของรายการ"
+msgstr "ข้อมูลสินค้า"
 
 msgid "Item Locations"
-msgstr "ตำแหน่งของรายการ"
+msgstr "ตำแหน่งสินค้า"
 
 msgid "Item Manager"
-msgstr "ผู้จัดการรายการ"
+msgstr "ผู้จัดการสินค้า"
 
 msgid "Item Manufacturer"
-msgstr "ผู้ผลิตรายการ"
+msgstr "ผู้ผลิตสินค้า"
 
 msgid "Item Name"
-msgstr "ชื่อรายการ"
+msgstr "ชื่อสินค้า"
 
 msgid "Item Naming By"
-msgstr "การตั้งชื่อรายการโดย"
+msgstr "การตั้งชื่อสินค้าโดย"
 
 msgid "Item Price"
-msgstr "ราคาของรายการ"
+msgstr "ราคาสินค้า"
 
 msgid "Item Price Settings"
-msgstr "การตั้งค่าราคาของรายการ"
+msgstr "การตั้งค่าราคาสินค้า"
 
 msgid "Item Price Stock"
-msgstr "ราคาสต็อกของรายการ"
+msgstr "สต็อกราคาสินค้า"
 
 msgid "Item Price added for {0} in Price List {1}"
-msgstr "เพิ่มราคาของรายการ {0} ในรายการราคา {1}"
+msgstr "เพิ่มราคาสินค้าสำหรับ {0} ในรายการราคา {1}"
 
 msgid "Item Price appears multiple times based on Price List, Supplier/Customer, Currency, Item, Batch, UOM, Qty, and Dates."
-msgstr "ราคาของรายการปรากฏหลายครั้งตามรายการราคา ผู้จัดจำหน่าย/ลูกค้า สกุลเงิน รายการ แบทช์ หน่วยวัด ปริมาณ และวันที่"
+msgstr "ราคาสินค้าปรากฏหลายครั้งโดยอ้างอิงจากรายการราคา, ซัพพลายเออร์/ลูกค้า, สกุลเงิน, สินค้า, แบทช์, หน่วยวัด, ปริมาณ และวันที่"
 
 msgid "Item Price updated for {0} in Price List {1}"
-msgstr "อัปเดตราคาของรายการ {0} ในรายการราคา {1}"
+msgstr "อัปเดตราคาสำหรับ {0} ในรายการราคา {1}"
 
 msgid "Item Prices"
-msgstr "ราคาของรายการ"
+msgstr "ราคาสินค้า"
 
 msgid "Item Quality Inspection Parameter"
-msgstr "พารามิเตอร์การตรวจสอบคุณภาพของรายการ"
+msgstr "พารามิเตอร์การตรวจสอบคุณภาพสินค้า"
 
 msgid "Item Reference"
-msgstr "การอ้างอิงของรายการ"
+msgstr "การอ้างอิงสินค้า"
 
 msgid "Item Reorder"
-msgstr "การสั่งซื้อรายการใหม่"
+msgstr "การสั่งซื้อสินค้าใหม่"
 
 msgid "Item Row {0}: {1} {2} does not exist in above '{1}' table"
-msgstr "แถวรายการ {0}: {1} {2} ไม่มีอยู่ในตาราง '{1}' ด้านบน"
+msgstr "แถวสินค้า {0}: {1} {2} ไม่มีอยู่ในตาราง '{1}' ข้างต้น"
 
 msgid "Item Serial No"
-msgstr "หมายเลขซีเรียลของรายการ"
+msgstr "หมายเลขซีเรียลของสินค้า"
 
 msgid "Item Shortage Report"
-msgstr "รายงานการขาดแคลนของรายการ"
+msgstr "รายงานสินค้าขาดแคลน"
 
 msgid "Item Supplier"
-msgstr "ผู้จัดจำหน่ายของรายการ"
+msgstr "ซัพพลายเออร์ของสินค้า"
 
 msgid "Item Tax"
-msgstr "ภาษีของรายการ"
+msgstr "ภาษีสินค้า"
 
 msgid "Item Tax Amount Included in Value"
-msgstr "จำนวนภาษีของรายการรวมอยู่ในมูลค่า"
+msgstr "จำนวนภาษีสินค้าที่รวมอยู่ในมูลค่า"
 
 msgid "Item Tax Rate"
-msgstr "อัตราภาษีของรายการ"
+msgstr "อัตราภาษีสินค้า"
 
 msgid "Item Tax Row {0} must have account of type Tax or Income or Expense or Chargeable"
-msgstr "แถวภาษีของรายการ {0} ต้องมีบัญชีประเภทภาษี รายได้ ค่าใช้จ่าย หรือค่าธรรมเนียม"
+msgstr "แถวภาษีสินค้า {0} ต้องมีบัญชีประเภทภาษี, รายได้, ค่าใช้จ่าย หรือที่เรียกเก็บเงินได้"
 
 msgid "Item Tax Row {0}: Account must belong to Company - {1}"
-msgstr ""
+msgstr "แถวภาษีสินค้า {0}: บัญชีต้องเป็นของบริษัท - {1}"
 
 msgid "Item Tax Template"
-msgstr "แม่แบบภาษีของรายการ"
+msgstr "เทมเพลตภาษีสินค้า"
 
 msgid "Item Tax Template Detail"
-msgstr "รายละเอียดแม่แบบภาษีของรายการ"
+msgstr "รายละเอียดเทมเพลตภาษีสินค้า"
 
 msgid "Item To Manufacture"
-msgstr "รายการที่จะผลิต"
+msgstr "สินค้าที่จะผลิต"
 
 msgid "Item UOM"
-msgstr "หน่วยวัดของรายการ"
+msgstr "หน่วยวัดสินค้า"
 
 msgid "Item Unavailable"
-msgstr "รายการไม่พร้อมใช้งาน"
+msgstr "สินค้าไม่พร้อมใช้งาน"
 
 msgid "Item Variant"
-msgstr "ตัวเลือกของรายการ"
+msgstr "ตัวแปรสินค้า"
 
 msgid "Item Variant Attribute"
-msgstr "แอตทริบิวต์ของตัวเลือกของรายการ"
+msgstr "คุณลักษณะตัวแปรสินค้า"
 
 msgid "Item Variant Details"
-msgstr "รายละเอียดของตัวเลือกของรายการ"
+msgstr "รายละเอียดตัวแปรสินค้า"
 
 msgid "Item Variant Settings"
-msgstr "การตั้งค่าตัวเลือกของรายการ"
+msgstr "การตั้งค่าตัวแปรสินค้า"
 
 msgid "Item Variant {0} already exists with same attributes"
-msgstr "ตัวเลือกของรายการ {0} มีอยู่แล้วพร้อมแอตทริบิวต์เดียวกัน"
+msgstr "ตัวแปรสินค้า {0} ที่มีคุณลักษณะเดียวกันมีอยู่แล้ว"
 
 msgid "Item Variants updated"
-msgstr "อัปเดตตัวเลือกของรายการแล้ว"
+msgstr "อัปเดตตัวแปรสินค้าแล้ว"
 
 msgid "Item Warehouse based reposting has been enabled."
-msgstr "เปิดใช้งานการโพสต์ใหม่ตามคลังสินค้าของรายการแล้ว"
+msgstr "เปิดใช้งานการลงรายการใหม่ตามคลังสินค้าแล้ว"
 
 msgid "Item Website Specification"
-msgstr "ข้อกำหนดเว็บไซต์ของรายการ"
+msgstr "คุณสมบัติสินค้าบนเว็บไซต์"
 
 msgid "Item Weight Details"
-msgstr "รายละเอียดน้ำหนักของรายการ"
+msgstr "รายละเอียดน้ำหนักสินค้า"
 
 msgid "Item Wise Tax Detail"
-msgstr "รายละเอียดภาษีตามรายการ"
+msgstr "รายละเอียดภาษีตามสินค้า"
 
 msgid "Item and Warehouse"
-msgstr "รายการและคลังสินค้า"
+msgstr "สินค้าและคลังสินค้า"
 
 msgid "Item and Warranty Details"
-msgstr "รายการและรายละเอียดการรับประกัน"
+msgstr "รายละเอียดสินค้าและการรับประกัน"
 
 msgid "Item for row {0} does not match Material Request"
-msgstr "รายการสำหรับแถว {0} ไม่ตรงกับคำขอวัสดุ"
+msgstr "สินค้าสำหรับแถว {0} ไม่ตรงกับใบขอวัสดุ"
 
 msgid "Item has variants."
-msgstr "รายการมีตัวเลือก"
+msgstr "สินค้ามีตัวแปร"
 
 msgid "Item is mandatory in Raw Materials table."
-msgstr "รายการเป็นสิ่งจำเป็นในตารางวัตถุดิบ"
+msgstr "ต้องระบุสินค้าในตารางวัตถุดิบ"
 
 msgid "Item is removed since no serial / batch no selected."
-msgstr "รายการถูกลบเนื่องจากไม่มีการเลือกหมายเลขซีเรียล / แบทช์"
+msgstr "สินค้าถูกลบออกเนื่องจากไม่ได้เลือกหมายเลขซีเรียล / แบทช์"
 
 msgid "Item must be added using 'Get Items from Purchase Receipts' button"
-msgstr "ต้องเพิ่มรายการโดยใช้ปุ่ม 'ดึงรายการจากใบรับซื้อ'"
+msgstr "ต้องเพิ่มสินค้าโดยใช้ปุ่ม 'รับสินค้าจากใบรับสินค้า'"
 
 msgid "Item name"
-msgstr "ชื่อรายการ"
+msgstr "ชื่อสินค้า"
 
 msgid "Item operation"
-msgstr "การดำเนินการของรายการ"
+msgstr "การดำเนินงานของสินค้า"
 
 msgid "Item qty can not be updated as raw materials are already processed."
-msgstr "ไม่สามารถอัปเดตปริมาณรายการได้เนื่องจากวัตถุดิบได้รับการประมวลผลแล้ว"
+msgstr "ไม่สามารถอัปเดตปริมาณสินค้าได้เนื่องจากวัตถุดิบถูกประมวลผลแล้ว"
 
 msgid "Item rate has been updated to zero as Allow Zero Valuation Rate is checked for item {0}"
-msgstr "อัตรารายการถูกอัปเดตเป็นศูนย์เนื่องจากเลือกอนุญาตอัตราการประเมินมูลค่าเป็นศูนย์สำหรับรายการ {0}"
+msgstr "อัตราสินค้าถูกอัปเดตเป็นศูนย์เนื่องจากได้เลือก 'อนุญาตอัตราการประเมินค่าเป็นศูนย์' สำหรับสินค้า {0}"
 
 msgid "Item to Manufacture"
-msgstr "รายการที่จะผลิต"
+msgstr "สินค้าที่จะผลิต"
 
 msgid "Item to be manufactured or repacked"
-msgstr "รายการที่จะผลิตหรือบรรจุใหม่"
+msgstr "สินค้าที่จะผลิตหรือบรรจุใหม่"
 
 msgid "Item valuation rate is recalculated considering landed cost voucher amount"
-msgstr "อัตราการประเมินมูลค่าของรายการถูกคำนวณใหม่โดยพิจารณาจากจำนวนเงินในใบสำคัญต้นทุนที่มาถึง"
+msgstr "อัตราการประเมินค่าสินค้าถูกคำนวณใหม่โดยพิจารณาจากจำนวนเงินในใบสำคัญต้นทุนที่ดิน"
 
 msgid "Item valuation reposting in progress. Report might show incorrect item valuation."
-msgstr "กำลังดำเนินการโพสต์ใหม่การประเมินมูลค่าของรายการ รายงานอาจแสดงการประเมินมูลค่าของรายการไม่ถูกต้อง"
+msgstr "กำลังดำเนินการลงรายการประเมินค่าสินค้าใหม่ รายงานอาจแสดงมูลค่าสินค้าไม่ถูกต้อง"
 
 msgid "Item variant {0} exists with same attributes"
-msgstr "ตัวเลือกของรายการ {0} มีอยู่พร้อมแอตทริบิวต์เดียวกัน"
+msgstr "ตัวแปรสินค้า {0} ที่มีคุณลักษณะเดียวกันมีอยู่แล้ว"
 
 msgid "Item {0} cannot be added as a sub-assembly of itself"
-msgstr "ไม่สามารถเพิ่มรายการ {0} เป็นชุดย่อยของตัวเองได้"
+msgstr "ไม่สามารถเพิ่มสินค้า {0} เป็นส่วนประกอบย่อยของตัวเองได้"
 
 msgid "Item {0} cannot be ordered more than {1} against Blanket Order {2}."
-msgstr "ไม่สามารถสั่งซื้อรายการ {0} ได้มากกว่า {1} ต่อคำสั่งซื้อแบบครอบคลุม {2}"
+msgstr "ไม่สามารถสั่งซื้อสินค้า {0} เกิน {1} หน่วยสำหรับใบสั่งซื้อแบบครอบคลุม {2}"
 
 msgid "Item {0} does not exist"
-msgstr "รายการ {0} ไม่มีอยู่"
+msgstr "ไม่มีสินค้า {0}"
 
 msgid "Item {0} does not exist in the system or has expired"
-msgstr "รายการ {0} ไม่มีอยู่ในระบบหรือหมดอายุแล้ว"
+msgstr "ไม่มีสินค้า {0} ในระบบหรือหมดอายุแล้ว"
 
 msgid "Item {0} does not exist."
-msgstr "รายการ {0} ไม่มีอยู่"
+msgstr "ไม่มีสินค้า {0}"
 
 msgid "Item {0} entered multiple times."
-msgstr "รายการ {0} ถูกป้อนหลายครั้ง"
+msgstr "ป้อนสินค้า {0} หลายครั้ง"
 
 msgid "Item {0} has already been returned"
-msgstr "รายการ {0} ถูกคืนแล้ว"
+msgstr "สินค้า {0} ถูกคืนแล้ว"
 
 msgid "Item {0} has been disabled"
-msgstr "รายการ {0} ถูกปิดใช้งาน"
+msgstr "สินค้า {0} ถูกปิดใช้งาน"
 
 msgid "Item {0} has no Serial No. Only serialized items can have delivery based on Serial No"
-msgstr "รายการ {0} ไม่มีหมายเลขซีเรียล เฉพาะรายการที่มีหมายเลขซีเรียลเท่านั้นที่สามารถจัดส่งตามหมายเลขซีเรียลได้"
+msgstr "สินค้า {0} ไม่มีหมายเลขซีเรียล เฉพาะสินค้าที่มีหมายเลขซีเรียลเท่านั้นที่สามารถจัดส่งตามหมายเลขซีเรียลได้"
 
 msgid "Item {0} has reached its end of life on {1}"
-msgstr "รายการ {0} ถึงจุดสิ้นสุดของอายุการใช้งานในวันที่ {1}"
+msgstr "สินค้า {0} ถึงวันสิ้นสุดอายุการใช้งานในวันที่ {1}"
 
 msgid "Item {0} ignored since it is not a stock item"
-msgstr "ละเว้นรายการ {0} เนื่องจากไม่ใช่รายการสต็อก"
+msgstr "ละเว้นสินค้า {0} เนื่องจากไม่ใช่สินค้าสต็อก"
 
 msgid "Item {0} is already reserved/delivered against Sales Order {1}."
-msgstr "รายการ {0} ถูกจอง/จัดส่งแล้วต่อคำสั่งขาย {1}"
+msgstr "สินค้า {0} ถูกสำรอง/จัดส่งแล้วสำหรับใบสั่งขาย {1}"
 
 msgid "Item {0} is cancelled"
-msgstr "รายการ {0} ถูกยกเลิก"
+msgstr "สินค้า {0} ถูกยกเลิก"
 
 msgid "Item {0} is disabled"
-msgstr "รายการ {0} ถูกปิดใช้งาน"
+msgstr "สินค้า {0} ถูกปิดใช้งาน"
 
 msgid "Item {0} is not a serialized Item"
-msgstr "รายการ {0} ไม่ใช่รายการที่มีหมายเลขซีเรียล"
+msgstr "สินค้า {0} ไม่ใช่สินค้าที่มีหมายเลขซีเรียล"
 
 msgid "Item {0} is not a stock Item"
-msgstr "รายการ {0} ไม่ใช่รายการสต็อก"
+msgstr "สินค้า {0} ไม่ใช่สินค้าสต็อก"
 
 msgid "Item {0} is not a subcontracted item"
-msgstr "รายการ {0} ไม่ใช่รายการที่จ้างช่วง"
+msgstr "สินค้า {0} ไม่ใช่สินค้าจ้างเหมาช่วง"
 
 msgid "Item {0} is not active or end of life has been reached"
-msgstr "รายการ {0} ไม่ได้ใช้งานหรือถึงจุดสิ้นสุดของอายุการใช้งานแล้ว"
+msgstr "สินค้า {0} ไม่ได้เปิดใช้งานหรือถึงวันสิ้นสุดอายุการใช้งานแล้ว"
 
 msgid "Item {0} must be a Fixed Asset Item"
-msgstr "รายการ {0} ต้องเป็นรายการสินทรัพย์ถาวร"
+msgstr "สินค้า {0} ต้องเป็นสินทรัพย์ถาวร"
 
 msgid "Item {0} must be a Non-Stock Item"
-msgstr "รายการ {0} ต้องเป็นรายการที่ไม่ใช่สต็อก"
+msgstr "สินค้า {0} ต้องเป็นสินค้าที่ไม่ใช่สต็อก"
 
 msgid "Item {0} must be a Sub-contracted Item"
-msgstr "รายการ {0} ต้องเป็นรายการที่จ้างช่วง"
+msgstr "สินค้า {0} ต้องเป็นสินค้าจ้างเหมาช่วง"
 
 msgid "Item {0} must be a non-stock item"
-msgstr "รายการ {0} ต้องเป็นรายการที่ไม่ใช่สต็อก"
+msgstr "สินค้า {0} ต้องเป็นสินค้าที่ไม่ใช่สต็อก"
 
 msgid "Item {0} not found in 'Raw Materials Supplied' table in {1} {2}"
-msgstr "ไม่พบรายการ {0} ในตาราง 'วัตถุดิบที่จัดหา' ใน {1} {2}"
+msgstr "ไม่พบสินค้า {0} ในตาราง 'วัตถุดิบที่จัดหา' ใน {1} {2}"
 
 msgid "Item {0} not found."
-msgstr "ไม่พบรายการ {0}"
+msgstr "ไม่พบสินค้า {0}"
 
 msgid "Item {0}: Ordered qty {1} cannot be less than minimum order qty {2} (defined in Item)."
-msgstr "รายการ {0}: ปริมาณที่สั่งซื้อ {1} ต้องไม่น้อยกว่าปริมาณการสั่งซื้อขั้นต่ำ {2} (กำหนดในรายการ)"
+msgstr "สินค้า {0}: ปริมาณที่สั่ง {1} ต้องไม่น้อยกว่าปริมาณสั่งซื้อขั้นต่ำ {2} (กำหนดในสินค้า)"
 
 msgid "Item {0}: {1} qty produced. "
-msgstr ""
+msgstr "สินค้า {0}: ผลิตแล้ว {1} หน่วย "
 
 msgid "Item {} does not exist."
-msgstr "รายการ {} ไม่มีอยู่"
+msgstr "ไม่มีสินค้า {}"
 
 msgid "Item-wise Price List Rate"
-msgstr "อัตรารายการราคาตามรายการ"
+msgstr "อัตราตามรายการราคาของสินค้า"
 
 msgid "Item-wise Purchase History"
-msgstr "ประวัติการซื้อสินค้าตามรายการ"
+msgstr "ประวัติการซื้อตามสินค้า"
 
 msgid "Item-wise Purchase Register"
-msgstr "ทะเบียนการซื้อสินค้าตามรายการ"
+msgstr "ทะเบียนการซื้อตามสินค้า"
 
 msgid "Item-wise Sales History"
-msgstr "ประวัติการขายสินค้าตามรายการ"
+msgstr "ประวัติการขายตามสินค้า"
 
 msgid "Item-wise Sales Register"
-msgstr "ทะเบียนการขายสินค้าตามรายการ"
+msgstr "ทะเบียนการขายตามสินค้า"
 
 msgid "Item/Item Code required to get Item Tax Template."
-msgstr ""
+msgstr "ต้องระบุสินค้า/รหัสสินค้าเพื่อรับเทมเพลตภาษีสินค้า"
 
 msgid "Item: {0} does not exist in the system"
-msgstr "รายการ: {0} ไม่มีอยู่ในระบบ"
+msgstr "สินค้า: {0} ไม่มีอยู่ในระบบ"
 
 msgid "Items"
-msgstr "รายการ"
+msgstr "สินค้า"
 
 msgid "Items & Pricing"
-msgstr ""
+msgstr "สินค้าและราคา"
 
 msgid "Items Catalogue"
-msgstr ""
+msgstr "แคตตาล็อกสินค้า"
 
 msgid "Items Filter"
-msgstr "ตัวกรองรายการ"
+msgstr "ตัวกรองสินค้า"
 
 msgid "Items Required"
-msgstr "ต้องการรายการ"
+msgstr "สินค้าที่ต้องการ"
 
 msgid "Items To Be Requested"
-msgstr "รายการที่ต้องการ"
+msgstr "สินค้าที่ต้องขอเบิก"
 
 msgid "Items and Pricing"
-msgstr ""
+msgstr "สินค้าและราคา"
 
 msgid "Items cannot be updated as Subcontracting Order is created against the Purchase Order {0}."
-msgstr "ไม่สามารถอัปเดตรายการได้เนื่องจากมีการสร้างคำสั่งจ้างช่วงต่อใบสั่งซื้อ {0}"
+msgstr "ไม่สามารถอัปเดตสินค้าได้เนื่องจากมีการสร้างใบสั่งจ้างเหมาช่วงสำหรับใบสั่งซื้อ {0} แล้ว"
 
 msgid "Items for Raw Material Request"
-msgstr "รายการสำหรับคำขอวัตถุดิบ"
+msgstr "สินค้าสำหรับใบขอวัตถุดิบ"
 
 msgid "Items rate has been updated to zero as Allow Zero Valuation Rate is checked for the following items: {0}"
-msgstr "อัตรารายการถูกอัปเดตเป็นศูนย์เนื่องจากเลือกอนุญาตอัตราการประเมินมูลค่าเป็นศูนย์สำหรับรายการต่อไปนี้: {0}"
+msgstr "อัตราสินค้าถูกอัปเดตเป็นศูนย์เนื่องจากได้เลือก 'อนุญาตอัตราการประเมินค่าเป็นศูนย์' สำหรับสินค้าต่อไปนี้: {0}"
 
 msgid "Items to Be Repost"
-msgstr "รายการที่จะโพสต์ใหม่"
+msgstr "สินค้าที่จะลงรายการใหม่"
 
 msgid "Items to Manufacture are required to pull the Raw Materials associated with it."
-msgstr "ต้องการรายการที่จะผลิตเพื่อดึงวัตถุดิบที่เกี่ยวข้องกับมัน"
+msgstr "ต้องระบุสินค้าที่จะผลิตเพื่อดึงวัตถุดิบที่เกี่ยวข้อง"
 
 msgid "Items to Order and Receive"
-msgstr ""
+msgstr "สินค้าที่ต้องสั่งซื้อและรับ"
 
 msgid "Items to Reserve"
-msgstr "รายการที่จะสำรอง"
+msgstr "สินค้าที่จะสำรอง"
 
 msgid "Items under this warehouse will be suggested"
-msgstr "จะแนะนำรายการภายใต้คลังสินค้านี้"
+msgstr "สินค้าภายใต้คลังสินค้านี้จะถูกแนะนำ"
 
 msgid "Items {0} do not exist in the Item master."
-msgstr "รายการ {0} ไม่มีอยู่ในมาสเตอร์รายการ"
+msgstr "ไม่มีสินค้า {0} ในข้อมูลหลักของสินค้า"
 
 msgid "Itemwise Discount"
-msgstr "ส่วนลดตามรายการ"
+msgstr "ส่วนลดตามสินค้า"
 
 msgid "Itemwise Recommended Reorder Level"
-msgstr "ระดับการสั่งซื้อใหม่ที่แนะนำตามรายการ"
+msgstr "ระดับการสั่งซื้อใหม่ที่แนะนำตามสินค้า"
 
 msgid "JAN"
-msgstr ""
+msgstr "JAN"
 
 msgid "Job Capacity"
-msgstr ""
+msgstr "กำลังการผลิตของงาน"
 
 msgid "Job Card"
-msgstr ""
+msgstr "ใบงาน"
 
 msgid "Job Card Analysis"
-msgstr ""
+msgstr "การวิเคราะห์ใบงาน"
 
 msgid "Job Card Item"
-msgstr ""
+msgstr "รายการในใบงาน"
 
 msgid "Job Card Operation"
-msgstr ""
+msgstr "การดำเนินงานในใบงาน"
 
 msgid "Job Card Scheduled Time"
-msgstr ""
+msgstr "เวลาที่กำหนดในใบงาน"
 
 msgid "Job Card Scrap Item"
-msgstr ""
+msgstr "สินค้าเศษซากในใบงาน"
 
 msgid "Job Card Summary"
-msgstr ""
+msgstr "สรุปใบงาน"
 
 msgid "Job Card Time Log"
-msgstr ""
+msgstr "บันทึกเวลาในใบงาน"
 
 msgid "Job Card and Capacity Planning"
-msgstr ""
+msgstr "ใบงานและการวางแผนกำลังการผลิต"
 
 msgid "Job Card {0} has been completed"
-msgstr ""
+msgstr "ใบงาน {0} เสร็จสมบูรณ์แล้ว"
 
 msgid "Job Cards"
-msgstr ""
+msgstr "ใบงาน"
 
 msgid "Job Paused"
-msgstr ""
+msgstr "หยุดงานชั่วคราว"
 
 msgid "Job Started"
-msgstr ""
+msgstr "เริ่มงานแล้ว"
 
 msgid "Job Title"
-msgstr "ชื่อตำแหน่งงาน"
+msgstr "ตำแหน่งงาน"
 
 msgid "Job Worker"
-msgstr ""
+msgstr "ผู้รับจ้างงาน"
 
 msgid "Job Worker Address"
-msgstr ""
+msgstr "ที่อยู่ผู้รับจ้างงาน"
 
 msgid "Job Worker Address Details"
-msgstr ""
+msgstr "รายละเอียดที่อยู่ผู้รับจ้างงาน"
 
 msgid "Job Worker Contact"
-msgstr ""
+msgstr "ผู้ติดต่อผู้รับจ้างงาน"
 
 msgid "Job Worker Delivery Note"
-msgstr ""
+msgstr "ใบส่งของผู้รับจ้างงาน"
 
 msgid "Job Worker Name"
-msgstr ""
+msgstr "ชื่อผู้รับจ้างงาน"
 
 msgid "Job Worker Warehouse"
-msgstr ""
+msgstr "คลังสินค้าผู้รับจ้างงาน"
 
 msgid "Job card {0} created"
-msgstr ""
+msgstr "สร้างใบงาน {0} แล้ว"
 
 msgid "Job: {0} has been triggered for processing failed transactions"
-msgstr ""
+msgstr "งาน: {0} ถูกเรียกใช้งานเพื่อประมวลผลธุรกรรมที่ล้มเหลว"
 
 msgid "Joining"
-msgstr ""
+msgstr "การเข้าร่วม"
 
 msgid "Joule"
-msgstr ""
+msgstr "จูล"
 
 msgid "Joule/Meter"
-msgstr ""
+msgstr "จูล/เมตร"
 
 msgid "Journal Entries"
-msgstr ""
+msgstr "รายการสมุดรายวัน"
 
 msgid "Journal Entries {0} are un-linked"
-msgstr ""
+msgstr "รายการสมุดรายวัน {0} ถูกยกเลิกการเชื่อมโยง"
 
 msgid "Journal Entry"
-msgstr ""
+msgstr "รายการสมุดรายวัน"
 
 msgid "Journal Entry Account"
-msgstr ""
+msgstr "บัญชีในรายการสมุดรายวัน"
 
 msgid "Journal Entry Template"
-msgstr ""
+msgstr "เทมเพลตรายการสมุดรายวัน"
 
 msgid "Journal Entry Template Account"
-msgstr ""
+msgstr "บัญชีในเทมเพลตรายการสมุดรายวัน"
 
 msgid "Journal Entry Type"
-msgstr ""
+msgstr "ประเภทรายการสมุดรายวัน"
 
 msgid "Journal Entry for Asset scrapping cannot be cancelled. Please restore the Asset."
-msgstr ""
+msgstr "ไม่สามารถยกเลิกรายการสมุดรายวันสำหรับการจำหน่ายสินทรัพย์ได้ กรุณากู้คืนสินทรัพย์"
 
 msgid "Journal Entry for Scrap"
-msgstr ""
+msgstr "รายการสมุดรายวันสำหรับเศษซาก"
 
 msgid "Journal Entry type should be set as Depreciation Entry for asset depreciation"
-msgstr ""
+msgstr "ประเภทรายการสมุดรายวันควรตั้งเป็น 'รายการค่าเสื่อมราคา' สำหรับการคิดค่าเสื่อมราคาสินทรัพย์"
 
 msgid "Journal Entry {0} does not have account {1} or already matched against other voucher"
-msgstr ""
+msgstr "รายการสมุดรายวัน {0} ไม่มีบัญชี {1} หรือถูกจับคู่กับใบสำคัญอื่นแล้ว"
 
 msgid "Journal entries have been created"
-msgstr ""
+msgstr "สร้างรายการสมุดรายวันแล้ว"
 
 msgid "Journals"
-msgstr ""
+msgstr "สมุดรายวัน"
 
 msgid "Kanban Board"
 msgstr "กระดานคัมบัง"
 
 msgid "Keep Track of Sales Campaigns. Keep track of Leads, Quotations, Sales Order etc from Campaigns to gauge Return on Investment. "
-msgstr ""
+msgstr "ติดตามแคมเปญการขาย ติดตามลีด, ใบเสนอราคา, ใบสั่งขาย ฯลฯ จากแคมเปญเพื่อวัดผลตอบแทนจากการลงทุน "
 
 msgid "Kelvin"
-msgstr ""
+msgstr "เคลวิน"
 
 msgid "Key"
 msgstr "คีย์"
 
 msgid "Key Reports"
-msgstr ""
+msgstr "รายงานสำคัญ"
 
 msgid "Kg"
-msgstr ""
+msgstr "กก."
 
 msgid "Kiloampere"
-msgstr ""
+msgstr "กิโลแอมแปร์"
 
 msgid "Kilocalorie"
-msgstr ""
+msgstr "กิโลแคลอรี"
 
 msgid "Kilocoulomb"
-msgstr ""
+msgstr "กิโลคูลอมบ์"
 
 msgid "Kilogram-Force"
-msgstr ""
+msgstr "กิโลกรัม-แรง"
 
 msgid "Kilogram/Cubic Centimeter"
-msgstr ""
+msgstr "กิโลกรัม/ลูกบาศก์เซนติเมตร"
 
 msgid "Kilogram/Cubic Meter"
-msgstr ""
+msgstr "กิโลกรัม/ลูกบาศก์เมตร"
 
 msgid "Kilogram/Litre"
-msgstr ""
+msgstr "กิโลกรัม/ลิตร"
 
 msgid "Kilohertz"
-msgstr ""
+msgstr "กิโลเฮิรตซ์"
 
 msgid "Kilojoule"
-msgstr ""
+msgstr "กิโลจูล"

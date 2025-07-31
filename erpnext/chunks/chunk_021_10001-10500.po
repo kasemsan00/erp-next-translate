@@ -1,5 +1,3 @@
-msgstr "อัตราต่อชั่วโมง"
-
 msgid "Hourly"
 msgstr "รายชั่วโมง"
 
@@ -16,19 +14,19 @@ msgid "How often should Project and Company be updated based on Sales Transactio
 msgstr "ควรอัปเดตโครงการและบริษัทบ่อยแค่ไหนตามธุรกรรมการขาย?"
 
 msgid "How often should Project be updated of Total Purchase Cost ?"
-msgstr "ควรอัปเดตโครงการบ่อยแค่ไหนเกี่ยวกับต้นทุนการซื้อรวม?"
+msgstr "ควรอัปเดตโครงการเกี่ยวกับต้นทุนการซื้อรวมบ่อยแค่ไหน?"
 
 msgid "Hrs"
-msgstr "ชั่วโมง"
+msgstr "ชม."
 
 msgid "Human Resources"
 msgstr "ทรัพยากรบุคคล"
 
 msgid "Hundredweight (UK)"
-msgstr "เซ็นต์เวท (สหราชอาณาจักร)"
+msgstr "ฮันเดรดเวท (UK)"
 
 msgid "Hundredweight (US)"
-msgstr "เซ็นต์เวท (สหรัฐอเมริกา)"
+msgstr "ฮันเดรดเวท (US)"
 
 msgid "I - J"
 msgstr "I - J"
@@ -43,7 +41,7 @@ msgid "IBAN is not valid"
 msgstr "IBAN ไม่ถูกต้อง"
 
 msgid "ID"
-msgstr "รหัส"
+msgstr "ไอดี"
 
 msgid "IP Address"
 msgstr "ที่อยู่ IP"
@@ -64,53 +62,52 @@ msgid "ISSN"
 msgstr "ISSN"
 
 msgid "Iches Of Water"
-msgstr ""
+msgstr "นิ้วน้ำ"
 
 msgid "Id"
-msgstr "รหัส"
+msgstr "ไอดี"
 
 msgid "Identification of the package for the delivery (for print)"
-msgstr "การระบุแพ็คเกจสำหรับการจัดส่ง (สำหรับการพิมพ์)"
+msgstr "การระบุพัสดุสำหรับการจัดส่ง (สำหรับพิมพ์)"
 
 msgid "Identifying Decision Makers"
-msgstr "การระบุผู้ตัดสินใจ"
+msgstr "การระบุผู้มีอำนาจตัดสินใจ"
 
 msgid "Idle"
 msgstr "ว่าง"
 
 msgid "If \"Months\" is selected, a fixed amount will be booked as deferred revenue or expense for each month irrespective of the number of days in a month. It will be prorated if deferred revenue or expense is not booked for an entire month"
-msgstr ""
+msgstr "หากเลือก \"เดือน\" จำนวนเงินคงที่จะถูกบันทึกเป็นรายได้รอตัดบัญชีหรือค่าใช้จ่ายรอตัดบัญชีสำหรับแต่ละเดือน โดยไม่คำนึงถึงจำนวนวันในเดือนนั้นๆ และจะถูกคำนวณตามสัดส่วนหากรายได้หรือค่าใช้จ่ายรอตัดบัญชีไม่ได้บันทึกเต็มทั้งเดือน"
 
-msgid "If <b>Enabled</b> - Reconciliation happens on the <b>Advance Payment posting date</b><br>\n"
-"If <b>Disabled</b> - Reconciliation happens on oldest of 2 Dates: <b>Invoice Date</b> or the <b>Advance Payment posting date</b><br>\n"
-msgstr ""
+msgid "If <b>Enabled</b> - Reconciliation happens on the <b>Advance Payment posting date</b><br>\nIf <b>Disabled</b> - Reconciliation happens on oldest of 2 Dates: <b>Invoice Date</b> or the <b>Advance Payment posting date</b><br>\n"
+msgstr "หาก <b>เปิดใช้งาน</b> - การกระทบยอดจะเกิดขึ้นใน <b>วันที่ลงรายการชำระเงินล่วงหน้า</b><br>\nหาก <b>ปิดใช้งาน</b> - การกระทบยอดจะเกิดขึ้นในวันที่เก่าที่สุดระหว่าง 2 วัน: <b>วันที่ในใบแจ้งหนี้</b> หรือ <b>วันที่ลงรายการชำระเงินล่วงหน้า</b><br>\n"
 
 msgid "If Auto Opt In is checked, then the customers will be automatically linked with the concerned Loyalty Program (on save)"
-msgstr "หากเลือก Auto Opt In ลูกค้าจะถูกเชื่อมโยงกับโปรแกรมสะสมคะแนนที่เกี่ยวข้องโดยอัตโนมัติ (เมื่อบันทึก)"
+msgstr "หากเลือก 'เข้าร่วมอัตโนมัติ' ลูกค้าจะถูกเชื่อมโยงกับโปรแกรมสะสมคะแนนที่เกี่ยวข้องโดยอัตโนมัติ (เมื่อบันทึก)"
 
 msgid "If Income or Expense"
 msgstr "หากเป็นรายได้หรือค่าใช้จ่าย"
 
 msgid "If an operation is divided into sub operations, they can be added here."
-msgstr "หากการดำเนินการถูกแบ่งออกเป็นการดำเนินการย่อย สามารถเพิ่มได้ที่นี่"
+msgstr "หากการดำเนินงานถูกแบ่งออกเป็นการดำเนินงานย่อย สามารถเพิ่มได้ที่นี่"
 
 msgid "If blank, parent Warehouse Account or company default will be considered in transactions"
-msgstr "หากว่างเปล่า จะพิจารณาบัญชีคลังสินค้าหลักหรือค่าเริ่มต้นของบริษัทในธุรกรรม"
+msgstr "หากเว้นว่าง จะใช้บัญชีคลังสินค้าหลักหรือค่าเริ่มต้นของบริษัทในธุรกรรม"
 
 msgid "If checked, Rejected Quantity will be included while making Purchase Invoice from Purchase Receipt."
-msgstr "หากเลือก ปริมาณที่ถูกปฏิเสธจะถูกรวมไว้ขณะสร้างใบแจ้งหนี้ซื้อจากใบรับซื้อ"
+msgstr "หากเลือก ปริมาณที่ถูกปฏิเสธจะถูกรวมไว้ขณะสร้างใบแจ้งหนี้ซื้อจากใบรับสินค้า"
 
 msgid "If checked, Stock will be reserved on <b>Submit</b>"
-msgstr "หากเลือก สต็อกจะถูกสำรองไว้เมื่อ <b>ส่ง</b>"
+msgstr "หากเลือก สต็อกจะถูกสำรองเมื่อ <b>ส่งข้อมูล</b>"
 
 msgid "If checked, picked qty won't automatically be fulfilled on submit of pick list."
-msgstr "หากเลือก ปริมาณที่เลือกจะไม่ถูกเติมเต็มโดยอัตโนมัติเมื่อส่งรายการเลือก"
+msgstr "หากเลือก ปริมาณที่เลือกจะไม่ถูกดำเนินการโดยอัตโนมัติเมื่อส่งรายการเลือกสินค้า"
 
 msgid "If checked, the tax amount will be considered as already included in the Paid Amount in Payment Entry"
 msgstr "หากเลือก จำนวนภาษีจะถือว่ารวมอยู่ในจำนวนเงินที่ชำระแล้วในรายการชำระเงิน"
 
 msgid "If checked, the tax amount will be considered as already included in the Print Rate / Print Amount"
-msgstr "หากเลือก จำนวนภาษีจะถือว่ารวมอยู่ในอัตราการพิมพ์ / จำนวนเงินพิมพ์แล้ว"
+msgstr "หากเลือก จำนวนภาษีจะถือว่ารวมอยู่ในอัตราพิมพ์ / จำนวนเงินพิมพ์แล้ว"
 
 msgid "If checked, we will create demo data for you to explore the system. This demo data can be erased later."
 msgstr "หากเลือก เราจะสร้างข้อมูลตัวอย่างเพื่อให้คุณสำรวจระบบ ข้อมูลตัวอย่างนี้สามารถลบได้ในภายหลัง"
@@ -119,223 +116,220 @@ msgid "If different than customer address"
 msgstr "หากแตกต่างจากที่อยู่ลูกค้า"
 
 msgid "If disable, 'In Words' field will not be visible in any transaction"
-msgstr "หากปิดใช้งาน ฟิลด์ 'In Words' จะไม่ปรากฏในธุรกรรมใด ๆ"
+msgstr "หากปิดใช้งาน ช่อง 'จำนวนเงินตัวอักษร' จะไม่ปรากฏในธุรกรรมใดๆ"
 
 msgid "If disable, 'Rounded Total' field will not be visible in any transaction"
-msgstr "หากปิดใช้งาน ฟิลด์ 'Rounded Total' จะไม่ปรากฏในธุรกรรมใด ๆ"
+msgstr "หากปิดใช้งาน ช่อง 'ยอดรวมปัดเศษ' จะไม่ปรากฏในธุรกรรมใดๆ"
 
 msgid "If enabled then system won't apply the pricing rule on the delivery note which will be create from the pick list"
-msgstr "หากเปิดใช้งาน ระบบจะไม่ใช้กฎการตั้งราคากับใบส่งของที่จะสร้างจากรายการเลือก"
+msgstr "หากเปิดใช้งาน ระบบจะไม่ใช้กฎการกำหนดราคาในใบส่งของที่สร้างจากรายการเลือกสินค้า"
 
 msgid "If enabled then system won't override the picked qty / batches / serial numbers."
-msgstr "หากเปิดใช้งาน ระบบจะไม่เขียนทับปริมาณ / แบทช์ / หมายเลขซีเรียลที่เลือก"
+msgstr "หากเปิดใช้งาน ระบบจะไม่เขียนทับปริมาณ / แบทช์ / หมายเลขซีเรียลที่เลือกไว้"
 
 msgid "If enabled, a print of this document will be attached to each email"
-msgstr "หากเปิดใช้งาน การพิมพ์เอกสารนี้จะถูกแนบไปกับอีเมลแต่ละฉบับ"
+msgstr "หากเปิดใช้งาน สำเนาของเอกสารนี้จะถูกแนบไปกับอีเมลทุกฉบับ"
 
 msgid "If enabled, additional ledger entries will be made for discounts in a separate Discount Account"
 msgstr "หากเปิดใช้งาน จะมีการสร้างรายการบัญชีเพิ่มเติมสำหรับส่วนลดในบัญชีส่วนลดแยกต่างหาก"
 
 msgid "If enabled, all files attached to this document will be attached to each email"
-msgstr "หากเปิดใช้งาน ไฟล์ทั้งหมดที่แนบมากับเอกสารนี้จะถูกแนบไปกับอีเมลแต่ละฉบับ"
+msgstr "หากเปิดใช้งาน ไฟล์ทั้งหมดที่แนบมากับเอกสารนี้จะถูกแนบไปกับอีเมลทุกฉบับ"
 
-msgid "If enabled, do not update serial / batch values in the stock transactions on creation of auto Serial \n"
-" / Batch Bundle. "
-msgstr ""
+msgid "If enabled, do not update serial / batch values in the stock transactions on creation of auto Serial \n / Batch Bundle. "
+msgstr "หากเปิดใช้งาน จะไม่อัปเดตค่าซีเรียล / แบทช์ในธุรกรรมสต็อกเมื่อสร้างชุดซีเรียล / แบทช์อัตโนมัติ "
 
-msgid "If enabled, formula for <b>Qty to Order</b>: <br>\n"
-"Required Qty (BOM) - <a href=\"https://docs.frappe.io/erpnext/user/manual/en/projected-quantity\">Projected Qty</a>. <br> This helps avoid over-ordering."
-msgstr ""
+msgid "If enabled, formula for <b>Qty to Order</b>: <br>\nRequired Qty (BOM) - <a href=\"https://docs.frappe.io/erpnext/user/manual/en/projected-quantity\">Projected Qty</a>. <br> This helps avoid over-ordering."
+msgstr "หากเปิดใช้งาน สูตรสำหรับ <b>ปริมาณที่ต้องสั่ง</b>: <br>\nปริมาณที่ต้องการ (BOM) - <a href=\"https://docs.frappe.io/erpnext/user/manual/en/projected-quantity\">ปริมาณคาดการณ์</a> <br> ซึ่งจะช่วยหลีกเลี่ยงการสั่งซื้อเกิน"
 
-msgid "If enabled, formula for <b>Required Qty</b>: <br>\n"
-"Required Qty (BOM) - <a href=\"https://docs.frappe.io/erpnext/user/manual/en/projected-quantity\">Projected Qty</a>. <br> This helps avoid over-ordering."
-msgstr ""
+msgid "If enabled, formula for <b>Required Qty</b>: <br>\nRequired Qty (BOM) - <a href=\"https://docs.frappe.io/erpnext/user/manual/en/projected-quantity\">Projected Qty</a>. <br> This helps avoid over-ordering."
+msgstr "หากเปิดใช้งาน สูตรสำหรับ <b>ปริมาณที่ต้องการ</b>: <br>\nปริมาณที่ต้องการ (BOM) - <a href=\"https://docs.frappe.io/erpnext/user/manual/en/projected-quantity\">ปริมาณคาดการณ์</a> <br> ซึ่งจะช่วยหลีกเลี่ยงการสั่งซื้อเกิน"
 
 msgid "If enabled, ledger entries will be posted for change amount in POS transactions"
-msgstr "หากเปิดใช้งาน รายการบัญชีจะถูกโพสต์สำหรับจำนวนเงินเปลี่ยนแปลงในธุรกรรม POS"
+msgstr "หากเปิดใช้งาน รายการบัญชีจะถูกลงสำหรับเงินทอนในธุรกรรม POS"
 
 msgid "If enabled, the consolidated invoices will have rounded total disabled"
-msgstr "หากเปิดใช้งาน ใบแจ้งหนี้รวมจะปิดใช้งานยอดรวมปัดเศษ"
+msgstr "หากเปิดใช้งาน ใบแจ้งหนี้ที่รวมยอดแล้วจะปิดการใช้งานยอดรวมปัดเศษ"
 
 msgid "If enabled, the item rate won't adjust to the valuation rate during internal transfers, but accounting will still use the valuation rate."
-msgstr "หากเปิดใช้งาน อัตรารายการจะไม่ปรับตามอัตราการประเมินมูลค่าระหว่างการโอนภายใน แต่การบัญชีจะยังคงใช้อัตราการประเมินมูลค่า"
+msgstr "หากเปิดใช้งาน อัตราของสินค้าจะไม่ปรับตามอัตราการประเมินค่าระหว่างการโอนภายใน แต่การบัญชีจะยังคงใช้อัตราการประเมินค่า"
 
 msgid "If enabled, the system will allow selecting UOMs in sales and purchase transactions only if the conversion rate is set in the item master."
-msgstr "หากเปิดใช้งาน ระบบจะอนุญาตให้เลือกหน่วยวัดในธุรกรรมการขายและการซื้อได้เฉพาะเมื่อมีการตั้งค่าอัตราการแปลงในมาสเตอร์รายการ"
+msgstr "หากเปิดใช้งาน ระบบจะอนุญาตให้เลือกหน่วยวัดในธุรกรรมการขายและการซื้อได้ก็ต่อเมื่อมีการตั้งค่าอัตราการแปลงในข้อมูลหลักของสินค้า"
 
 msgid "If enabled, the system will generate an accounting entry for materials rejected in the Purchase Receipt."
-msgstr "หากเปิดใช้งาน ระบบจะสร้างรายการบัญชีสำหรับวัสดุที่ถูกปฏิเสธในใบรับซื้อ"
+msgstr "หากเปิดใช้งาน ระบบจะสร้างรายการบัญชีสำหรับวัสดุที่ถูกปฏิเสธในใบรับสินค้า"
 
 msgid "If enabled, the system will use the moving average valuation method to calculate the valuation rate for the batched items and will not consider the individual batch-wise incoming rate."
-msgstr "หากเปิดใช้งาน ระบบจะใช้วิธีการประเมินมูลค่าแบบค่าเฉลี่ยเคลื่อนที่ในการคำนวณอัตราการประเมินมูลค่าสำหรับรายการที่จัดเป็นแบทช์ และจะไม่พิจารณาอัตราขาเข้าตามแบทช์แต่ละรายการ"
+msgstr "หากเปิดใช้งาน ระบบจะใช้วิธีการประเมินค่าแบบถัวเฉลี่ยเคลื่อนที่เพื่อคำนวณอัตราการประเมินค่าสำหรับสินค้าที่มีแบทช์ และจะไม่พิจารณาอัตราขาเข้าของแต่ละแบทช์"
 
 msgid "If enabled, then system will only validate the pricing rule and not apply automatically. User has to manually set the discount percentage / margin / free items to validate the pricing rule"
-msgstr "หากเปิดใช้งาน ระบบจะตรวจสอบกฎการตั้งราคาเท่านั้นและจะไม่ใช้โดยอัตโนมัติ ผู้ใช้ต้องตั้งค่าร้อยละส่วนลด / กำไร / รายการฟรีด้วยตนเองเพื่อยืนยันกฎการตั้งราคา"
+msgstr "หากเปิดใช้งาน ระบบจะเพียงตรวจสอบกฎการกำหนดราคาและจะไม่นำไปใช้โดยอัตโนมัติ ผู้ใช้ต้องตั้งค่าเปอร์เซ็นต์ส่วนลด / กำไร / สินค้าฟรีด้วยตนเองเพื่อตรวจสอบกฎการกำหนดราคา"
 
 msgid "If enabled, user will be alerted before resetting posting date to current date in relevant transactions"
-msgstr ""
+msgstr "หากเปิดใช้งาน ผู้ใช้จะได้รับการแจ้งเตือนก่อนที่จะรีเซ็ตวันที่ลงรายการเป็นวันที่ปัจจุบันในธุรกรรมที่เกี่ยวข้อง"
 
 msgid "If item is a variant of another item then description, image, pricing, taxes etc will be set from the template unless explicitly specified"
-msgstr "หากรายการเป็นตัวเลือกของรายการอื่น คำอธิบาย รูปภาพ การตั้งราคา ภาษี ฯลฯ จะถูกตั้งค่าจากแม่แบบเว้นแต่จะระบุไว้โดยชัดเจน"
+msgstr "หากสินค้าเป็นตัวแปรของสินค้าอื่น คำอธิบาย, รูปภาพ, ราคา, ภาษี ฯลฯ จะถูกตั้งค่าจากเทมเพลต เว้นแต่จะระบุไว้เป็นอย่างอื่น"
 
 msgid "If items in stock, proceed with Material Transfer or Purchase."
-msgstr "หากมีรายการในสต็อก ให้ดำเนินการโอนวัสดุหรือซื้อ"
+msgstr "หากมีสินค้าในสต็อก ให้ดำเนินการโอนวัสดุหรือซื้อ"
 
 msgid "If mentioned, the system will allow only the users with this Role to create or modify any stock transaction earlier than the latest stock transaction for a specific item and warehouse. If set as blank, it allows all users to create/edit back-dated transactions."
-msgstr "หากระบุไว้ ระบบจะอนุญาตเฉพาะผู้ใช้ที่มีบทบาทนี้ในการสร้างหรือแก้ไขธุรกรรมสต็อกใด ๆ ก่อนหน้าธุรกรรมสต็อกล่าสุดสำหรับรายการและคลังสินค้าที่ระบุ หากตั้งค่าเป็นว่างเปล่า จะอนุญาตให้ผู้ใช้ทั้งหมดสร้าง/แก้ไขธุรกรรมย้อนหลังได้"
+msgstr "หากระบุไว้ ระบบจะอนุญาตเฉพาะผู้ใช้ที่มีบทบาทนี้ในการสร้างหรือแก้ไขธุรกรรมสต็อกใดๆ ที่มีวันที่ก่อนหน้าธุรกรรมสต็อกล่าสุดสำหรับสินค้าและคลังสินค้าที่ระบุ หากเว้นว่างไว้ จะอนุญาตให้ผู้ใช้ทุกคนสร้าง/แก้ไขธุรกรรมย้อนหลังได้"
 
 msgid "If more than one package of the same type (for print)"
-msgstr "หากมีมากกว่าหนึ่งแพ็คเกจของประเภทเดียวกัน (สำหรับการพิมพ์)"
+msgstr "หากมีพัสดุประเภทเดียวกันมากกว่าหนึ่งชิ้น (สำหรับพิมพ์)"
 
 msgid "If no taxes are set, and Taxes and Charges Template is selected, the system will automatically apply the taxes from the chosen template."
-msgstr ""
+msgstr "หากไม่ได้ตั้งค่าภาษี และได้เลือกเทมเพลตภาษีและค่าธรรมเนียมไว้ ระบบจะนำภาษีจากเทมเพลตที่เลือกมาใช้โดยอัตโนมัติ"
 
 msgid "If not, you can Cancel / Submit this entry"
-msgstr "หากไม่ใช่ คุณสามารถยกเลิก / ส่งรายการนี้"
+msgstr "หากไม่ คุณสามารถยกเลิก / ส่งรายการนี้ได้"
 
 msgid "If rate is zero then item will be treated as \"Free Item\""
-msgstr ""
+msgstr "หากอัตราเป็นศูนย์ สินค้าจะถูกถือว่าเป็น \"สินค้าฟรี\""
 
 msgid "If subcontracted to a vendor"
-msgstr "หากจ้างช่วงให้กับผู้ขาย"
+msgstr "หากจ้างเหมาช่วงให้แก่ผู้ขาย"
 
 msgid "If the BOM results in Scrap material, the Scrap Warehouse needs to be selected."
-msgstr "หาก BOM ส่งผลให้เกิดวัสดุเศษ คลังสินค้าเศษต้องถูกเลือก"
+msgstr "หาก BOM มีวัสดุเศษซาก ต้องเลือกคลังสินค้าเศษซาก"
 
 msgid "If the account is frozen, entries are allowed to restricted users."
-msgstr "หากบัญชีถูกแช่แข็ง จะอนุญาตให้ผู้ใช้ที่ถูกจำกัดทำรายการได้"
+msgstr "หากบัญชีถูกระงับ จะอนุญาตให้ผู้ใช้ที่ถูกจำกัดเข้าถึงรายการได้"
 
 msgid "If the item is transacting as a Zero Valuation Rate item in this entry, please enable 'Allow Zero Valuation Rate' in the {0} Item table."
-msgstr "หากรายการกำลังทำธุรกรรมเป็นรายการที่มีอัตราการประเมินมูลค่าเป็นศูนย์ในรายการนี้ โปรดเปิดใช้งาน 'อนุญาตอัตราการประเมินมูลค่าเป็นศูนย์' ในตารางรายการ {0}"
+msgstr "หากสินค้ากำลังทำธุรกรรมด้วยอัตราการประเมินค่าเป็นศูนย์ในรายการนี้ กรุณาเปิดใช้งาน 'อนุญาตอัตราการประเมินค่าเป็นศูนย์' ในตารางสินค้า {0}"
 
 msgid "If the selected BOM has Operations mentioned in it, the system will fetch all Operations from BOM, these values can be changed."
-msgstr "หาก BOM ที่เลือกมีการดำเนินการที่กล่าวถึงในนั้น ระบบจะดึงการดำเนินการทั้งหมดจาก BOM ค่านี้สามารถเปลี่ยนแปลงได้"
+msgstr "หาก BOM ที่เลือกมีการระบุการดำเนินงานไว้ ระบบจะดึงข้อมูลการดำเนินงานทั้งหมดจาก BOM และค่าเหล่านี้สามารถเปลี่ยนแปลงได้"
 
 msgid "If there is no assigned timeslot, then communication will be handled by this group"
-msgstr "หากไม่มีช่วงเวลาที่กำหนดไว้ การสื่อสารจะถูกจัดการโดยกลุ่มนี้"
+msgstr "หากไม่มีช่วงเวลาที่กำหนด การสื่อสารจะถูกจัดการโดยกลุ่มนี้"
 
 msgid "If there is no title column, use the code column for the title."
-msgstr "หากไม่มีคอลัมน์ชื่อเรื่อง ให้ใช้คอลัมน์รหัสสำหรับชื่อเรื่อง"
+msgstr "หากไม่มีคอลัมน์ชื่อเรื่อง ให้ใช้คอลัมน์รหัสแทนชื่อเรื่อง"
 
 msgid "If this checkbox is checked, paid amount will be splitted and allocated as per the amounts in payment schedule against each payment term"
-msgstr "หากเลือกช่องทำเครื่องหมายนี้ จำนวนเงินที่ชำระจะถูกแบ่งและจัดสรรตามจำนวนเงินในตารางการชำระเงินสำหรับแต่ละเงื่อนไขการชำระเงิน"
+msgstr "หากเลือกช่องนี้ จำนวนเงินที่ชำระจะถูกแบ่งและจัดสรรตามจำนวนเงินในตารางการชำระเงินสำหรับแต่ละเงื่อนไขการชำระเงิน"
 
 msgid "If this is checked subsequent new invoices will be created on calendar  month and quarter start dates irrespective of current invoice start date"
-msgstr "หากเลือกไว้ ใบแจ้งหนี้ใหม่ที่ตามมาจะถูกสร้างในวันที่เริ่มต้นของเดือนและไตรมาสในปฏิทินโดยไม่คำนึงถึงวันที่เริ่มต้นของใบแจ้งหนี้ปัจจุบัน"
+msgstr "หากเลือกไว้ ใบแจ้งหนี้ใหม่ถัดไปจะถูกสร้างขึ้นในวันที่เริ่มต้นของเดือนและไตรมาสตามปฏิทิน โดยไม่คำนึงถึงวันที่เริ่มต้นของใบแจ้งหนี้ปัจจุบัน"
 
 msgid "If this is unchecked Journal Entries will be saved in a Draft state and will have to be submitted manually"
-msgstr "หากไม่ได้เลือก รายการบัญชีจะถูกบันทึกในสถานะร่างและจะต้องส่งด้วยตนเอง"
+msgstr "หากไม่เลือก รายการสมุดรายวันจะถูกบันทึกในสถานะฉบับร่างและต้องส่งด้วยตนเอง"
 
 msgid "If this is unchecked, direct GL entries will be created to book deferred revenue or expense"
-msgstr "หากไม่ได้เลือก จะมีการสร้างรายการบัญชีแยกประเภททั่วไปโดยตรงเพื่อบันทึกรายได้หรือค่าใช้จ่ายรอตัดบัญชี"
+msgstr "หากไม่เลือก รายการ GL โดยตรงจะถูกสร้างขึ้นเพื่อบันทึกรายได้หรือค่าใช้จ่ายรอตัดบัญชี"
 
 msgid "If this is undesirable please cancel the corresponding Payment Entry."
-msgstr "หากไม่ต้องการ โปรดยกเลิกรายการชำระเงินที่เกี่ยวข้อง"
+msgstr "หากไม่ต้องการ กรุณายกเลิกรายการชำระเงินที่เกี่ยวข้อง"
 
 msgid "If this item has variants, then it cannot be selected in sales orders etc."
-msgstr "หากรายการนี้มีตัวเลือก จะไม่สามารถเลือกในคำสั่งขาย ฯลฯ ได้"
+msgstr "หากสินค้านี้มีตัวแปร จะไม่สามารถเลือกในใบสั่งขาย เป็นต้น ได้"
 
 msgid "If this option is configured 'Yes', ERPNext will prevent you from creating a Purchase Invoice or Receipt without creating a Purchase Order first. This configuration can be overridden for a particular supplier by enabling the 'Allow Purchase Invoice Creation Without Purchase Order' checkbox in the Supplier master."
-msgstr "หากตัวเลือกนี้ถูกตั้งค่าเป็น 'ใช่' ERPNext จะป้องกันไม่ให้คุณสร้างใบแจ้งหนี้ซื้อหรือใบรับซื้อโดยไม่สร้างใบสั่งซื้อก่อน การตั้งค่านี้สามารถแทนที่ได้สำหรับผู้จัดจำหน่ายเฉพาะโดยเปิดใช้งานช่องทำเครื่องหมาย 'อนุญาตการสร้างใบแจ้งหนี้ซื้อโดยไม่มีใบสั่งซื้อ' ในมาสเตอร์ผู้จัดจำหน่าย"
+msgstr "หากตัวเลือกนี้ถูกกำหนดเป็น 'ใช่' ERPNext จะป้องกันไม่ให้คุณสร้างใบแจ้งหนี้ซื้อหรือใบรับสินค้าโดยไม่ได้สร้างใบสั่งซื้อก่อน การกำหนดค่านี้สามารถถูกแทนที่สำหรับซัพพลายเออร์รายใดรายหนึ่งได้โดยการเปิดใช้งานช่อง 'อนุญาตให้สร้างใบแจ้งหนี้ซื้อโดยไม่มีใบสั่งซื้อ' ในข้อมูลหลักของซัพพลายเออร์"
 
 msgid "If this option is configured 'Yes', ERPNext will prevent you from creating a Purchase Invoice without creating a Purchase Receipt first. This configuration can be overridden for a particular supplier by enabling the 'Allow Purchase Invoice Creation Without Purchase Receipt' checkbox in the Supplier master."
-msgstr "หากตัวเลือกนี้ถูกตั้งค่าเป็น 'ใช่' ERPNext จะป้องกันไม่ให้คุณสร้างใบแจ้งหนี้ซื้อโดยไม่สร้างใบรับซื้อก่อน การตั้งค่านี้สามารถแทนที่ได้สำหรับผู้จัดจำหน่ายเฉพาะโดยเปิดใช้งานช่องทำเครื่องหมาย 'อนุญาตการสร้างใบแจ้งหนี้ซื้อโดยไม่มีใบรับซื้อ' ในมาสเตอร์ผู้จัดจำหน่าย"
+msgstr "หากตัวเลือกนี้ถูกกำหนดเป็น 'ใช่' ERPNext จะป้องกันไม่ให้คุณสร้างใบแจ้งหนี้ซื้อโดยไม่ได้สร้างใบรับสินค้าก่อน การกำหนดค่านี้สามารถถูกแทนที่สำหรับซัพพลายเออร์รายใดรายหนึ่งได้โดยการเปิดใช้งานช่อง 'อนุญาตให้สร้างใบแจ้งหนี้ซื้อโดยไม่มีใบรับสินค้า' ในข้อมูลหลักของซัพพลายเออร์"
 
 msgid "If ticked, multiple materials can be used for a single Work Order. This is useful if one or more time consuming products are being manufactured."
-msgstr "หากเลือกไว้ สามารถใช้วัสดุหลายชนิดสำหรับคำสั่งงานเดียวได้ ซึ่งมีประโยชน์หากมีการผลิตผลิตภัณฑ์ที่ใช้เวลานานหนึ่งหรือมากกว่า"
+msgstr "หากเลือก จะสามารถใช้วัสดุหลายอย่างสำหรับใบสั่งงานเดียวได้ ซึ่งมีประโยชน์หากมีการผลิตสินค้าที่ใช้เวลานานหนึ่งรายการขึ้นไป"
 
 msgid "If ticked, the BOM cost will be automatically updated based on Valuation Rate / Price List Rate / last purchase rate of raw materials."
-msgstr "หากเลือกไว้ ต้นทุน BOM จะถูกอัปเดตโดยอัตโนมัติตามอัตราการประเมินมูลค่า / อัตรารายการราคา / อัตราการซื้อครั้งสุดท้ายของวัตถุดิบ"
+msgstr "หากเลือก ต้นทุน BOM จะถูกอัปเดตโดยอัตโนมัติตามอัตราการประเมินค่า / อัตรารายการราคา / อัตราซื้อล่าสุดของวัตถุดิบ"
 
 msgid "If unlimited expiry for the Loyalty Points, keep the Expiry Duration empty or 0."
-msgstr "หากคะแนนสะสมไม่มีวันหมดอายุ ให้เว้นระยะเวลาหมดอายุว่างเปล่าหรือเป็น 0"
+msgstr "หากคะแนนสะสมไม่มีวันหมดอายุ ให้เว้นระยะเวลาหมดอายุว่างไว้หรือใส่เป็น 0"
 
 msgid "If yes, then this warehouse will be used to store rejected materials"
-msgstr "หากใช่ คลังสินค้านี้จะถูกใช้เพื่อเก็บวัสดุที่ถูกปฏิเสธ"
+msgstr "ถ้าใช่ คลังสินค้านี้จะถูกใช้เพื่อจัดเก็บวัสดุที่ถูกปฏิเสธ"
 
 msgid "If you are maintaining stock of this Item in your Inventory, ERPNext will make a stock ledger entry for each transaction of this item."
-msgstr "หากคุณเก็บสต็อกของรายการนี้ในสินค้าคงคลังของคุณ ERPNext จะสร้างรายการบัญชีสต็อกสำหรับแต่ละธุรกรรมของรายการนี้"
+msgstr "หากคุณดูแลสต็อกของสินค้านี้ในคลังสินค้าของคุณ ERPNext จะสร้างรายการบัญชีแยกประเภทสต็อกสำหรับทุกธุรกรรมของสินค้านี้"
 
 msgid "If you need to reconcile particular transactions against each other, then please select accordingly. If not, all the transactions will be allocated in FIFO order."
-msgstr "หากคุณต้องการกระทบยอดธุรกรรมเฉพาะระหว่างกัน โปรดเลือกตามนั้น หากไม่ใช่ ธุรกรรมทั้งหมดจะถูกจัดสรรตามลำดับ FIFO"
+msgstr "หากคุณต้องการกระทบยอดธุรกรรมบางรายการซึ่งกันและกัน กรุณาเลือกตามนั้น หากไม่ ธุรกรรมทั้งหมดจะถูกจัดสรรตามลำดับ FIFO"
 
 msgid "If you still want to proceed, please disable 'Skip Available Sub Assembly Items' checkbox."
-msgstr "หากคุณยังต้องการดำเนินการต่อ โปรดยกเลิกการเลือกช่องทำเครื่องหมาย 'ข้ามรายการประกอบย่อยที่มีอยู่'"
+msgstr "หากคุณยังต้องการดำเนินการต่อ กรุณายกเลิกการเลือกช่อง 'ข้ามส่วนประกอบย่อยที่มีอยู่'"
 
 msgid "If you still want to proceed, please enable {0}."
-msgstr "หากคุณยังต้องการดำเนินการต่อ โปรดเปิดใช้งาน {0}"
+msgstr "หากคุณยังต้องการดำเนินการต่อ กรุณาเปิดใช้งาน {0}"
 
 msgid "If you {0} {1} quantities of the item {2}, the scheme {3} will be applied on the item."
-msgstr "หากคุณ {0} {1} ปริมาณของรายการ {2} โครงการ {3} จะถูกใช้กับรายการ"
+msgstr "หากคุณ {0} ปริมาณ {1} ของสินค้า {2}, รูปแบบ {3} จะถูกนำไปใช้กับสินค้า"
 
 msgid "If you {0} {1} worth item {2}, the scheme {3} will be applied on the item."
-msgstr "หากคุณ {0} {1} มูลค่าของรายการ {2} โครงการ {3} จะถูกใช้กับรายการ"
+msgstr "หากคุณ {0} มูลค่า {1} ของสินค้า {2}, รูปแบบ {3} จะถูกนำไปใช้กับสินค้า"
 
 msgid "If your CSV uses a different delimiter, add that character here, ensuring no spaces or additional characters are included."
-msgstr "หาก CSV ของคุณใช้ตัวคั่นที่แตกต่างกัน ให้เพิ่มอักขระนั้นที่นี่ โดยให้แน่ใจว่าไม่มีช่องว่างหรืออักขระเพิ่มเติมรวมอยู่ด้วย"
+msgstr "หากไฟล์ CSV ของคุณใช้ตัวคั่นที่แตกต่างกัน ให้เพิ่มอักขระนั้นที่นี่ โดยตรวจสอบให้แน่ใจว่าไม่มีช่องว่างหรืออักขระเพิ่มเติม"
 
 msgid "Ignore"
 msgstr "ละเว้น"
 
 msgid "Ignore Account Closing Balance"
-msgstr "ละเว้นยอดปิดบัญชี"
+msgstr "ละเว้นยอดคงเหลือปิดบัญชี"
 
 msgid "Ignore Closing Balance"
-msgstr "ละเว้นยอดปิด"
+msgstr "ละเว้นยอดคงเหลือปิด"
 
 msgid "Ignore Default Payment Terms Template"
-msgstr "ละเว้นแม่แบบเงื่อนไขการชำระเงินเริ่มต้น"
+msgstr "ละเว้นเทมเพลตเงื่อนไขการชำระเงินเริ่มต้น"
 
 msgid "Ignore Employee Time Overlap"
-msgstr "ละเว้นการทับซ้อนเวลาของพนักงาน"
+msgstr "ละเว้นเวลาที่ทับซ้อนของพนักงาน"
 
 msgid "Ignore Empty Stock"
-msgstr "ละเว้นสต็อกว่างเปล่า"
+msgstr "ละเว้นสต็อกว่าง"
 
 msgid "Ignore Exchange Rate Revaluation and Gain / Loss Journals"
-msgstr ""
+msgstr "ละเว้นการตีราคาอัตราแลกเปลี่ยนและสมุดรายวันกำไร/ขาดทุน"
 
 msgid "Ignore Existing Ordered Qty"
-msgstr "ละเว้นปริมาณที่สั่งซื้อที่มีอยู่"
+msgstr "ละเว้นปริมาณที่สั่งซื้อแล้ว"
 
 msgid "Ignore Existing Projected Quantity"
-msgstr "ละเว้นปริมาณที่คาดการณ์ที่มีอยู่"
+msgstr "ละเว้นปริมาณคาดการณ์ที่มีอยู่"
 
 msgid "Ignore Is Opening check for reporting"
-msgstr "ละเว้นการตรวจสอบการเปิดสำหรับการรายงาน"
+msgstr "ละเว้นการตรวจสอบ 'เป็นรายการยอดยกมา' สำหรับการรายงาน"
 
 msgid "Ignore Pricing Rule"
-msgstr "ละเว้นกฎการตั้งราคา"
+msgstr "ละเว้นกฎการกำหนดราคา"
 
 msgid "Ignore Pricing Rule is enabled. Cannot apply coupon code."
-msgstr "เปิดใช้งานการละเว้นกฎการตั้งราคา ไม่สามารถใช้รหัสคูปองได้"
+msgstr "เปิดใช้งาน 'ละเว้นกฎการกำหนดราคา' ไม่สามารถใช้รหัสคูปองได้"
 
 msgid "Ignore System Generated Credit / Debit Notes"
-msgstr "ละเว้นใบเครดิต/เดบิตที่สร้างโดยระบบ"
+msgstr "ละเว้นใบลดหนี้ / ใบเพิ่มหนี้ที่สร้างโดยระบบ"
 
 msgid "Ignore User Time Overlap"
-msgstr "ละเว้นการทับซ้อนเวลาของผู้ใช้"
+msgstr "ละเว้นเวลาที่ทับซ้อนของผู้ใช้"
 
 msgid "Ignore Voucher Type filter and Select Vouchers Manually"
 msgstr "ละเว้นตัวกรองประเภทใบสำคัญและเลือกใบสำคัญด้วยตนเอง"
 
 msgid "Ignore Workstation Time Overlap"
-msgstr "ละเว้นการทับซ้อนเวลาของสถานีงาน"
+msgstr "ละเว้นเวลาที่ทับซ้อนของสถานีงาน"
 
 msgid "Ignores legacy Is Opening field in GL Entry that allows adding opening balance post the system is in use while generating reports"
-msgstr "ละเว้นฟิลด์ Is Opening แบบเก่าที่อนุญาตให้เพิ่มยอดเปิดหลังจากที่ระบบถูกใช้งานในขณะสร้างรายงาน"
+msgstr "ละเว้นฟิลด์ 'เป็นรายการยอดยกมา' แบบเก่าในรายการ GL ซึ่งอนุญาตให้เพิ่มยอดยกมาหลังจากระบบเริ่มใช้งานแล้วในขณะสร้างรายงาน"
 
 msgid "Image"
-msgstr "ภาพ"
+msgstr "รูปภาพ"
 
 msgid "Image View"
-msgstr "มุมมองภาพ"
+msgstr "มุมมองรูปภาพ"
 
 msgid "Impairment"
 msgstr "การด้อยค่า"
 
 msgid "Implementation Partner"
-msgstr ""
+msgstr "พันธมิตรผู้ดำเนินงาน"
 
 msgid "Import"
 msgstr "นำเข้า"
@@ -344,10 +338,10 @@ msgid "Import Chart of Accounts from a csv file"
 msgstr "นำเข้าผังบัญชีจากไฟล์ csv"
 
 msgid "Import Data"
-msgstr ""
+msgstr "นำเข้าข้อมูล"
 
 msgid "Import File"
-msgstr "นำเข้าไฟล์"
+msgstr "ไฟล์นำเข้า"
 
 msgid "Import File Errors and Warnings"
 msgstr "ข้อผิดพลาดและคำเตือนของไฟล์นำเข้า"
@@ -362,13 +356,13 @@ msgid "Import Log"
 msgstr "บันทึกการนำเข้า"
 
 msgid "Import Log Preview"
-msgstr "ดูตัวอย่างบันทึกการนำเข้า"
+msgstr "ตัวอย่างบันทึกการนำเข้า"
 
 msgid "Import MT940 Fromat"
-msgstr ""
+msgstr "นำเข้ารูปแบบ MT940"
 
 msgid "Import Preview"
-msgstr "ดูตัวอย่างการนำเข้า"
+msgstr "ตัวอย่างการนำเข้า"
 
 msgid "Import Progress"
 msgstr "ความคืบหน้าการนำเข้า"
@@ -377,7 +371,7 @@ msgid "Import Successful"
 msgstr "นำเข้าสำเร็จ"
 
 msgid "Import Supplier Invoice"
-msgstr "นำเข้าใบแจ้งหนี้ผู้จัดจำหน่าย"
+msgstr "นำเข้าใบแจ้งหนี้ซัพพลายเออร์"
 
 msgid "Import Type"
 msgstr "ประเภทการนำเข้า"
@@ -389,7 +383,7 @@ msgid "Import Warnings"
 msgstr "คำเตือนการนำเข้า"
 
 msgid "Import completed. {0} common codes created."
-msgstr "การนำเข้าเสร็จสมบูรณ์ สร้างรหัสทั่วไป {0} รายการ"
+msgstr "การนำเข้าเสร็จสมบูรณ์ สร้างรหัสร่วม {0} รายการ"
 
 msgid "Import from Google Sheets"
 msgstr "นำเข้าจาก Google Sheets"
@@ -398,46 +392,46 @@ msgid "Import in Bulk"
 msgstr "นำเข้าเป็นกลุ่ม"
 
 msgid "Importing Common Codes"
-msgstr "กำลังนำเข้ารหัสทั่วไป"
+msgstr "กำลังนำเข้ารหัสร่วม"
 
 msgid "Importing {0} of {1}, {2}"
-msgstr "กำลังนำเข้า {0} ของ {1}, {2}"
+msgstr "กำลังนำเข้า {0} จาก {1}, {2}"
 
 msgid "In House"
-msgstr "ในบ้าน"
+msgstr "ภายในองค์กร"
 
 msgid "In Maintenance"
-msgstr "อยู่ในระหว่างการบำรุงรักษา"
+msgstr "อยู่ระหว่างการบำรุงรักษา"
 
 msgid "In Mins"
-msgstr "ในนาที"
+msgstr "ในหน่วยนาที"
 
 msgid "In Minutes"
-msgstr "ในนาที"
+msgstr "ในหน่วยนาที"
 
 msgid "In Party Currency"
-msgstr "ในสกุลเงินของฝ่าย"
+msgstr "ในสกุลเงินของคู่ค้า"
 
 msgid "In Percentage"
-msgstr "ในเปอร์เซ็นต์"
+msgstr "เป็นเปอร์เซ็นต์"
 
 msgid "In Process"
-msgstr "อยู่ในกระบวนการ"
+msgstr "อยู่ระหว่างดำเนินการ"
 
 msgid "In Production"
-msgstr "อยู่ในกระบวนการผลิต"
+msgstr "อยู่ระหว่างการผลิต"
 
 msgid "In Progress"
 msgstr "กำลังดำเนินการ"
 
 msgid "In Qty"
-msgstr "ในปริมาณ"
+msgstr "เป็นปริมาณ"
 
 msgid "In Stock"
-msgstr "ในสต็อก"
+msgstr "มีในสต็อก"
 
 msgid "In Stock Qty"
-msgstr "ในปริมาณสต็อก"
+msgstr "ปริมาณในสต็อก"
 
 msgid "In Transit"
 msgstr "อยู่ระหว่างการขนส่ง"
@@ -446,46 +440,46 @@ msgid "In Transit Transfer"
 msgstr "การโอนระหว่างการขนส่ง"
 
 msgid "In Transit Warehouse"
-msgstr "คลังสินค้าในระหว่างการขนส่ง"
+msgstr "คลังสินค้าระหว่างทาง"
 
 msgid "In Value"
-msgstr "ในมูลค่า"
+msgstr "เป็นมูลค่า"
 
 msgid "In Words"
-msgstr "ในคำ"
+msgstr "จำนวนเงินตัวอักษร"
 
 msgid "In Words (Company Currency)"
-msgstr "ในคำ (สกุลเงินบริษัท)"
+msgstr "จำนวนเงินตัวอักษร (สกุลเงินบริษัท)"
 
 msgid "In Words (Export) will be visible once you save the Delivery Note."
-msgstr "ในคำ (ส่งออก) จะปรากฏเมื่อคุณบันทึกใบส่งของ"
+msgstr "จำนวนเงินตัวอักษร (ส่งออก) จะปรากฏเมื่อคุณบันทึกใบส่งของ"
 
 msgid "In Words will be visible once you save the Delivery Note."
-msgstr "ในคำจะปรากฏเมื่อคุณบันทึกใบส่งของ"
+msgstr "จำนวนเงินตัวอักษรจะปรากฏเมื่อคุณบันทึกใบส่งของ"
 
 msgid "In Words will be visible once you save the Sales Invoice."
-msgstr "ในคำจะปรากฏเมื่อคุณบันทึกใบแจ้งหนี้ขาย"
+msgstr "จำนวนเงินตัวอักษรจะปรากฏเมื่อคุณบันทึกใบแจ้งหนี้การขาย"
 
 msgid "In Words will be visible once you save the Sales Order."
-msgstr "ในคำจะปรากฏเมื่อคุณบันทึกใบสั่งขาย"
+msgstr "จำนวนเงินตัวอักษรจะปรากฏเมื่อคุณบันทึกใบสั่งขาย"
 
 msgid "In mins"
-msgstr "ในนาที"
+msgstr "ในหน่วยนาที"
 
 msgid "In minutes"
-msgstr "ในนาที"
+msgstr "ในหน่วยนาที"
 
 msgid "In row {0} of Appointment Booking Slots: \"To Time\" must be later than \"From Time\"."
-msgstr ""
+msgstr "ในแถวที่ {0} ของช่องจองนัดหมาย: \"ถึงเวลา\" ต้องอยู่หลัง \"จากเวลา\""
 
 msgid "In stock"
-msgstr "ในสต็อก"
+msgstr "มีในสต็อก"
 
 msgid "In the case of multi-tier program, Customers will be auto assigned to the concerned tier as per their spent"
-msgstr "ในกรณีของโปรแกรมหลายระดับ ลูกค้าจะถูกกำหนดให้กับระดับที่เกี่ยวข้องโดยอัตโนมัติตามการใช้จ่ายของพวกเขา"
+msgstr "ในกรณีของโปรแกรมหลายระดับ ลูกค้าจะถูกจัดเข้าระดับที่เกี่ยวข้องโดยอัตโนมัติตามยอดใช้จ่าย"
 
 msgid "In this section, you can define Company-wide transaction-related defaults for this Item. Eg. Default Warehouse, Default Price List, Supplier, etc."
-msgstr "ในส่วนนี้ คุณสามารถกำหนดค่าเริ่มต้นที่เกี่ยวข้องกับธุรกรรมทั่วทั้งบริษัทสำหรับรายการนี้ เช่น คลังสินค้าเริ่มต้น รายการราคาเริ่มต้น ผู้จัดจำหน่าย ฯลฯ"
+msgstr "ในส่วนนี้ คุณสามารถกำหนดค่าเริ่มต้นที่เกี่ยวข้องกับธุรกรรมทั่วทั้งบริษัทสำหรับสินค้านี้ได้ เช่น คลังสินค้าเริ่มต้น, รายการราคาเริ่มต้น, ซัพพลายเออร์, เป็นต้น"
 
 msgid "Inactive"
 msgstr "ไม่ใช้งาน"
@@ -494,7 +488,7 @@ msgid "Inactive Customers"
 msgstr "ลูกค้าที่ไม่ใช้งาน"
 
 msgid "Inactive Sales Items"
-msgstr "รายการขายที่ไม่ใช้งาน"
+msgstr "สินค้าขายที่ไม่ใช้งาน"
 
 msgid "Inactive Status"
 msgstr "สถานะไม่ใช้งาน"
