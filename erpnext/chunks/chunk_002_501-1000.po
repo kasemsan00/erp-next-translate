@@ -1,116 +1,92 @@
-﻿"         <th class=\"table-sr\" style=\"width: 50%;\">Non Child Document</th>\n"
-"   </tr>\n"
-"</thead>\n"
-"<tbody>\n"
-"<tr>\n"
-"         <td>\n"
-"                  <p> To access parent document field use parent.fieldname and to access child table document field use doc.fieldname </p>\n\n"
-"         </td>\n"
-"         <td>\n"
-"                    <p>To access document field use doc.fieldname </p>\n"
-"         </td>\n"
-"</tr>\n"
-"<tr>\n"
-"        <td>\n"
-"                   <p><b>Example: </b> parent.doctype == \"Stock Entry\" and doc.item_code == \"Test\" </p>\n\n"
-"        </td>\n"
-"         <td>\n"
-"                   <p><b>Example: </b> doc.doctype == \"Stock Entry\" and doc.purpose == \"Manufacture\"</p>    \n"
-"          </td>\n"
-"</tr>\n\n"
-"</tbody>\n"
-"</table>\n\n\n\n\n\n\n"
-msgstr ""
-
-msgid "A - B"
-msgstr ""
+﻿msgid "A - B"
+msgstr "A - B"
 
 msgid "A - C"
-msgstr ""
+msgstr "A - C"
 
 msgid "A Customer Group exists with same name please change the Customer name or rename the Customer Group"
-msgstr "มีกลุ่มลูกค้าที่มีชื่อเดียวกันอยู่แล้ว โปรดเปลี่ยนชื่อลูกค้าหรือเปลี่ยนชื่อกลุ่มลูกค้า"
+msgstr "มีกลุ่มลูกค้าที่ใช้ชื่อเดียวกันนี้อยู่แล้ว กรุณาเปลี่ยนชื่อลูกค้าหรือเปลี่ยนชื่อกลุ่มลูกค้า"
 
 msgid "A Holiday List can be added to exclude counting these days for the Workstation."
-msgstr "สามารถเพิ่มรายการวันหยุดเพื่อยกเว้นการนับวันเหล่านี้สำหรับสถานีงานได้"
+msgstr "สามารถเพิ่มรายการวันหยุดเพื่อไม่ให้นับวันเหล่านี้สำหรับสถานีงานได้"
 
 msgid "A Lead requires either a person's name or an organization's name"
-msgstr "ลูกค้าเป้าหมายต้องการชื่อบุคคลหรือชื่อองค์กร"
+msgstr "ลูกค้าเป้าหมายต้องมีชื่อบุคคลหรือชื่อองค์กร"
 
 msgid "A Packing Slip can only be created for Draft Delivery Note."
 msgstr "ใบจัดสินค้าสามารถสร้างได้จากใบส่งของฉบับร่างเท่านั้น"
 
 msgid "A Price List is a collection of Item Prices either Selling, Buying, or both"
-msgstr "รายการราคาคือชุดของราคาสินค้าซึ่งอาจเป็นการขาย, การซื้อ, หรือทั้งสองอย่าง"
+msgstr "รายการราคาคือชุดราคาสินค้าสำหรับการขาย, การซื้อ, หรือทั้งสองอย่าง"
 
 msgid "A Product or a Service that is bought, sold or kept in stock."
-msgstr "ผลิตภัณฑ์หรือบริการที่ซื้อ, ขาย หรือเก็บไว้ในสต็อก"
+msgstr "ผลิตภัณฑ์หรือบริการที่มีการซื้อ, ขาย, หรือเก็บไว้ในสต็อก"
 
 msgid "A Reconciliation Job {0} is running for the same filters. Cannot reconcile now"
-msgstr ""
+msgstr "งานกระทบยอด {0} กำลังทำงานด้วยตัวกรองเดียวกัน ไม่สามารถกระทบยอดได้ในขณะนี้"
 
 msgid "A Transaction Deletion Document: {0} is triggered for {0}"
-msgstr ""
+msgstr "เอกสารการลบธุรกรรม: {0} ถูกเรียกใช้งานสำหรับ {0}"
 
 msgid "A condition for a Shipping Rule"
-msgstr ""
+msgstr "เงื่อนไขสำหรับกฎการจัดส่ง"
 
 msgid "A customer must have primary contact email."
-msgstr ""
+msgstr "ลูกค้าต้องมีอีเมลผู้ติดต่อหลัก"
 
 msgid "A driver must be set to submit."
-msgstr ""
+msgstr "ต้องกำหนดคนขับเพื่อดำเนินการ"
 
 msgid "A logical Warehouse against which stock entries are made."
-msgstr ""
+msgstr "คลังสินค้าเชิงตรรกะที่ใช้บันทึกรายการสต็อก"
 
 msgid "A new appointment has been created for you with {0}"
-msgstr ""
+msgstr "มีการสร้างนัดหมายใหม่ให้คุณกับ {0}"
 
 msgid "A template with tax category {0} already exists. Only one template is allowed with each tax category"
-msgstr ""
+msgstr "มีเทมเพลตสำหรับหมวดหมู่ภาษี {0} อยู่แล้ว อนุญาตให้มีเทมเพลตเดียวสำหรับแต่ละหมวดหมู่ภาษี"
 
 msgid "A third party distributor / dealer / commission agent / affiliate / reseller who sells the companies products for a commission."
-msgstr ""
+msgstr "ผู้จัดจำหน่าย / ตัวแทน / ตัวแทนค่าคอมมิชชั่น / พันธมิตร / ผู้ค้าปลีกบุคคลที่สาม ที่ขายสินค้าของบริษัทเพื่อรับค่าคอมมิชชั่น"
 
 msgid "A+"
-msgstr ""
+msgstr "A+"
 
 msgid "A-"
-msgstr ""
+msgstr "A-"
 
 msgid "A4"
-msgstr ""
+msgstr "A4"
 
 msgid "AB+"
-msgstr ""
+msgstr "AB+"
 
 msgid "AB-"
-msgstr ""
+msgstr "AB-"
 
 msgid "ACC-PINV-.YYYY.-"
-msgstr ""
+msgstr "ACC-PINV-.YYYY.-"
 
 msgid "AMC Expiry Date"
-msgstr ""
+msgstr "วันที่หมดอายุ AMC"
 
 msgid "API"
-msgstr ""
+msgstr "API"
 
 msgid "API Details"
-msgstr ""
+msgstr "รายละเอียด API"
 
 msgid "API Endpoint"
-msgstr ""
+msgstr "API Endpoint"
 
 msgid "API Key"
-msgstr ""
+msgstr "คีย์ API"
 
 msgid "AWB Number"
-msgstr ""
+msgstr "หมายเลข AWB"
 
 msgid "Abampere"
-msgstr ""
+msgstr "แอบแอมแปร์"
 
 msgid "Abbr"
 msgstr "ตัวย่อ"
@@ -119,64 +95,64 @@ msgid "Abbreviation"
 msgstr "ตัวย่อ"
 
 msgid "Abbreviation already used for another company"
-msgstr ""
+msgstr "ตัวย่อนี้ถูกใช้โดยบริษัทอื่นแล้ว"
 
 msgid "Abbreviation is mandatory"
-msgstr ""
+msgstr "ต้องระบุตัวย่อ"
 
 msgid "Abbreviation: {0} must appear only once"
-msgstr ""
+msgstr "ตัวย่อ: {0} ต้องปรากฏเพียงครั้งเดียว"
 
 msgid "About Us Settings"
-msgstr ""
+msgstr "การตั้งค่า 'เกี่ยวกับเรา'"
 
 msgid "About {0} minute remaining"
-msgstr ""
+msgstr "เหลือเวลาประมาณ {0} นาที"
 
 msgid "About {0} minutes remaining"
-msgstr ""
+msgstr "เหลือเวลาประมาณ {0} นาที"
 
 msgid "About {0} seconds remaining"
-msgstr ""
+msgstr "เหลือเวลาประมาณ {0} วินาที"
 
 msgid "Above 120 Days"
-msgstr ""
+msgstr "มากกว่า 120 วัน"
 
 msgid "Academics User"
-msgstr ""
+msgstr "ผู้ใช้ฝ่ายวิชาการ"
 
 msgid "Acceptance Criteria Formula"
-msgstr ""
+msgstr "สูตรเกณฑ์การยอมรับ"
 
 msgid "Acceptance Criteria Value"
-msgstr ""
+msgstr "ค่าเกณฑ์การยอมรับ"
 
 msgid "Accepted"
 msgstr "ยอมรับแล้ว"
 
 msgid "Accepted Qty"
-msgstr ""
+msgstr "ปริมาณที่ยอมรับ"
 
 msgid "Accepted Qty in Stock UOM"
-msgstr ""
+msgstr "ปริมาณที่ยอมรับในหน่วยสต็อก"
 
 msgid "Accepted Quantity"
 msgstr "ปริมาณที่ยอมรับ"
 
 msgid "Accepted Warehouse"
-msgstr ""
+msgstr "คลังสินค้าที่ยอมรับ"
 
 msgid "Access Key"
-msgstr ""
+msgstr "คีย์การเข้าถึง"
 
 msgid "Access Key is required for Service Provider: {0}"
-msgstr ""
+msgstr "จำเป็นต้องมีคีย์การเข้าถึงสำหรับผู้ให้บริการ: {0}"
 
 msgid "According to CEFACT/ICG/2010/IC013 or CEFACT/ICG/2010/IC010"
-msgstr ""
+msgstr "ตาม CEFACT/ICG/2010/IC013 หรือ CEFACT/ICG/2010/IC010"
 
 msgid "According to the BOM {0}, the Item '{1}' is missing in the stock entry."
-msgstr ""
+msgstr "ตามรายการวัตถุดิบ (BOM) {0}, สินค้า '{1}' ไม่มีอยู่ในรายการบันทึกสต็อก"
 
 msgid "Account"
 msgstr "บัญชี"
@@ -191,10 +167,10 @@ msgid "Account Currency"
 msgstr "สกุลเงินของบัญชี"
 
 msgid "Account Currency (From)"
-msgstr ""
+msgstr "สกุลเงินบัญชี (จาก)"
 
 msgid "Account Currency (To)"
-msgstr ""
+msgstr "สกุลเงินบัญชี (ถึง)"
 
 msgid "Account Details"
 msgstr "รายละเอียดบัญชี"
@@ -203,298 +179,298 @@ msgid "Account Head"
 msgstr "หัวบัญชี"
 
 msgid "Account Manager"
-msgstr ""
+msgstr "ผู้จัดการบัญชี"
 
 msgid "Account Missing"
-msgstr ""
+msgstr "ไม่พบบัญชี"
 
 msgid "Account Name"
-msgstr ""
+msgstr "ชื่อบัญชี"
 
 msgid "Account Not Found"
-msgstr ""
+msgstr "ไม่พบบัญชี"
 
 msgid "Account Number"
-msgstr ""
+msgstr "เลขที่บัญชี"
 
 msgid "Account Number {0} already used in account {1}"
-msgstr ""
+msgstr "เลขที่บัญชี {0} ถูกใช้แล้วในบัญชี {1}"
 
 msgid "Account Opening Balance"
-msgstr ""
+msgstr "ยอดยกมาของบัญชี"
 
 msgid "Account Paid From"
-msgstr ""
+msgstr "บัญชีที่จ่ายจาก"
 
 msgid "Account Paid To"
-msgstr ""
+msgstr "บัญชีที่จ่ายให้"
 
 msgid "Account Pay Only"
-msgstr ""
+msgstr "บัญชีสำหรับจ่ายเท่านั้น"
 
 msgid "Account Subtype"
-msgstr ""
+msgstr "ประเภทย่อยของบัญชี"
 
 msgid "Account Type"
-msgstr ""
+msgstr "ประเภทบัญชี"
 
 msgid "Account Value"
-msgstr ""
+msgstr "มูลค่าบัญชี"
 
 msgid "Account balance already in Credit, you are not allowed to set 'Balance Must Be' as 'Debit'"
-msgstr ""
+msgstr "ยอดคงเหลือในบัญชีเป็นเครดิตอยู่แล้ว ไม่อนุญาตให้ตั้งค่า 'ยอดคงเหลือต้องเป็น' เป็น 'เดบิต'"
 
 msgid "Account balance already in Debit, you are not allowed to set 'Balance Must Be' as 'Credit'"
-msgstr ""
+msgstr "ยอดคงเหลือในบัญชีเป็นเดบิตอยู่แล้ว ไม่อนุญาตให้ตั้งค่า 'ยอดคงเหลือต้องเป็น' เป็น 'เครดิต'"
 
 msgid "Account for Change Amount"
-msgstr ""
+msgstr "บัญชีสำหรับเงินทอน"
 
 msgid "Account is mandatory to get payment entries"
-msgstr ""
+msgstr "ต้องระบุบัญชีเพื่อรับรายการการชำระเงิน"
 
 msgid "Account is not set for the dashboard chart {0}"
-msgstr ""
+msgstr "ยังไม่ได้ตั้งค่าบัญชีสำหรับแผนภูมิแดชบอร์ด {0}"
 
 msgid "Account not Found"
-msgstr ""
+msgstr "ไม่พบบัญชี"
 
 msgid "Account with child nodes cannot be converted to ledger"
-msgstr ""
+msgstr "บัญชีที่มีโหนดลูกไม่สามารถแปลงเป็นบัญชีแยกประเภทได้"
 
 msgid "Account with child nodes cannot be set as ledger"
-msgstr ""
+msgstr "บัญชีที่มีโหนดลูกไม่สามารถตั้งเป็นบัญชีแยกประเภทได้"
 
 msgid "Account with existing transaction can not be converted to group."
-msgstr ""
+msgstr "บัญชีที่มีธุรกรรมอยู่แล้วไม่สามารถแปลงเป็นกลุ่มได้"
 
 msgid "Account with existing transaction can not be deleted"
-msgstr ""
+msgstr "บัญชีที่มีธุรกรรมอยู่แล้วไม่สามารถลบได้"
 
 msgid "Account with existing transaction cannot be converted to ledger"
-msgstr ""
+msgstr "บัญชีที่มีธุรกรรมอยู่แล้วไม่สามารถแปลงเป็นบัญชีแยกประเภทได้"
 
 msgid "Account {0} added multiple times"
-msgstr ""
+msgstr "บัญชี {0} ถูกเพิ่มหลายครั้ง"
 
 msgid "Account {0} does not belong to company: {1}"
-msgstr ""
+msgstr "บัญชี {0} ไม่ได้อยู่ในบริษัท: {1}"
 
 msgid "Account {0} does not belongs to company {1}"
-msgstr ""
+msgstr "บัญชี {0} ไม่ได้อยู่ในบริษัท {1}"
 
 msgid "Account {0} does not exist"
-msgstr ""
+msgstr "ไม่มีบัญชี {0}"
 
 msgid "Account {0} does not exists"
-msgstr ""
+msgstr "ไม่มีบัญชี {0}"
 
 msgid "Account {0} does not exists in the dashboard chart {1}"
-msgstr ""
+msgstr "ไม่มีบัญชี {0} ในแผนภูมิแดชบอร์ด {1}"
 
 msgid "Account {0} does not match with Company {1} in Mode of Account: {2}"
-msgstr ""
+msgstr "บัญชี {0} ไม่ตรงกับบริษัท {1} ในโหมดของบัญชี: {2}"
 
 msgid "Account {0} doesn't belong to Company {1}"
-msgstr ""
+msgstr "บัญชี {0} ไม่ได้อยู่ในบริษัท {1}"
 
 msgid "Account {0} exists in parent company {1}."
-msgstr ""
+msgstr "บัญชี {0} มีอยู่ในบริษัทแม่ {1}"
 
 msgid "Account {0} has been entered multiple times"
-msgstr ""
+msgstr "บัญชี {0} ถูกป้อนหลายครั้ง"
 
 msgid "Account {0} is added in the child company {1}"
-msgstr ""
+msgstr "บัญชี {0} ถูกเพิ่มในบริษัทลูก {1}"
 
 msgid "Account {0} is frozen"
-msgstr ""
+msgstr "บัญชี {0} ถูกระงับ"
 
 msgid "Account {0} is invalid. Account Currency must be {1}"
-msgstr ""
+msgstr "บัญชี {0} ไม่ถูกต้อง สกุลเงินของบัญชีต้องเป็น {1}"
 
 msgid "Account {0} should be of type Expense"
-msgstr ""
+msgstr "บัญชี {0} ควรเป็นประเภทค่าใช้จ่าย"
 
 msgid "Account {0}: Parent account {1} can not be a ledger"
-msgstr ""
+msgstr "บัญชี {0}: บัญชีแม่ {1} ไม่สามารถเป็นบัญชีแยกประเภทได้"
 
 msgid "Account {0}: Parent account {1} does not belong to company: {2}"
-msgstr ""
+msgstr "บัญชี {0}: บัญชีแม่ {1} ไม่ได้อยู่ในบริษัท: {2}"
 
 msgid "Account {0}: Parent account {1} does not exist"
-msgstr ""
+msgstr "บัญชี {0}: ไม่มีบัญชีแม่ {1}"
 
 msgid "Account {0}: You can not assign itself as parent account"
-msgstr ""
+msgstr "บัญชี {0}: คุณไม่สามารถกำหนดตัวเองเป็นบัญชีแม่ได้"
 
 msgid "Account: <b>{0}</b> is capital Work in progress and can not be updated by Journal Entry"
-msgstr ""
+msgstr "บัญชี: <b>{0}</b> เป็นงานระหว่างทำประเภททุนและไม่สามารถอัปเดตผ่านสมุดรายวันทั่วไปได้"
 
 msgid "Account: {0} can only be updated via Stock Transactions"
-msgstr ""
+msgstr "บัญชี: {0} สามารถอัปเดตได้ผ่านธุรกรรมสต็อกเท่านั้น"
 
 msgid "Account: {0} is not permitted under Payment Entry"
-msgstr ""
+msgstr "บัญชี: {0} ไม่ได้รับอนุญาตภายใต้รายการการชำระเงิน"
 
 msgid "Account: {0} with currency: {1} can not be selected"
-msgstr ""
+msgstr "บัญชี: {0} ที่มีสกุลเงิน: {1} ไม่สามารถเลือกได้"
 
 msgid "Accountant"
-msgstr ""
+msgstr "นักบัญชี"
 
 msgid "Accounting"
-msgstr ""
+msgstr "การบัญชี"
 
 msgid "Accounting Details"
 msgstr "รายละเอียดทางบัญชี"
 
 msgid "Accounting Dimension"
-msgstr ""
+msgstr "มิติทางการบัญชี"
 
 msgid "Accounting Dimension <b>{0}</b> is required for 'Balance Sheet' account {1}."
-msgstr ""
+msgstr "ต้องระบุมิติทางการบัญชี <b>{0}</b> สำหรับบัญชี 'งบดุล' {1}"
 
 msgid "Accounting Dimension <b>{0}</b> is required for 'Profit and Loss' account {1}."
-msgstr ""
+msgstr "ต้องระบุมิติทางการบัญชี <b>{0}</b> สำหรับบัญชี 'กำไรขาดทุน' {1}"
 
 msgid "Accounting Dimension Detail"
-msgstr ""
+msgstr "รายละเอียดมิติทางการบัญชี"
 
 msgid "Accounting Dimension Filter"
-msgstr ""
+msgstr "ตัวกรองมิติทางการบัญชี"
 
 msgid "Accounting Dimensions"
-msgstr ""
+msgstr "มิติทางการบัญชี"
 
 msgid "Accounting Dimensions "
-msgstr ""
+msgstr "มิติทางการบัญชี "
 
 msgid "Accounting Dimensions Filter"
-msgstr ""
+msgstr "ตัวกรองมิติทางการบัญชี"
 
 msgid "Accounting Entries"
-msgstr ""
+msgstr "รายการทางบัญชี"
 
 msgid "Accounting Entry for Asset"
-msgstr ""
+msgstr "รายการทางบัญชีสำหรับสินทรัพย์"
 
 msgid "Accounting Entry for LCV in Stock Entry {0}"
-msgstr ""
+msgstr "รายการทางบัญชีสำหรับ LCV ในรายการสต็อก {0}"
 
 msgid "Accounting Entry for Landed Cost Voucher for SCR {0}"
-msgstr ""
+msgstr "รายการทางบัญชีสำหรับใบสำคัญต้นทุนที่ดินสำหรับ SCR {0}"
 
 msgid "Accounting Entry for Service"
-msgstr ""
+msgstr "รายการทางบัญชีสำหรับบริการ"
 
 msgid "Accounting Entry for Stock"
-msgstr ""
+msgstr "รายการทางบัญชีสำหรับสต็อก"
 
 msgid "Accounting Entry for {0}"
-msgstr ""
+msgstr "รายการทางบัญชีสำหรับ {0}"
 
 msgid "Accounting Entry for {0}: {1} can only be made in currency: {2}"
-msgstr ""
+msgstr "รายการทางบัญชีสำหรับ {0}: {1} สามารถทำได้ในสกุลเงิน: {2} เท่านั้น"
 
 msgid "Accounting Ledger"
-msgstr ""
+msgstr "สมุดบัญชีแยกประเภท"
 
 msgid "Accounting Masters"
-msgstr ""
+msgstr "ข้อมูลหลักทางการบัญชี"
 
 msgid "Accounting Period"
-msgstr ""
+msgstr "รอบระยะเวลาบัญชี"
 
 msgid "Accounting Period overlaps with {0}"
-msgstr ""
+msgstr "รอบระยะเวลาบัญชีทับซ้อนกับ {0}"
 
 msgid "Accounting entries are frozen up to this date. Nobody can create or modify entries except users with the role specified below"
-msgstr ""
+msgstr "รายการทางบัญชีถูกระงับจนถึงวันที่นี้ ไม่มีใครสามารถสร้างหรือแก้ไขรายการได้ ยกเว้นผู้ใช้ที่มีบทบาทที่ระบุด้านล่าง"
 
 msgid "Accounts"
-msgstr ""
+msgstr "บัญชี"
 
 msgid "Accounts Closing"
-msgstr ""
+msgstr "การปิดบัญชี"
 
 msgid "Accounts Frozen Till Date"
-msgstr ""
+msgstr "บัญชีถูกระงับจนถึงวันที่"
 
 msgid "Accounts Manager"
-msgstr ""
+msgstr "ผู้จัดการบัญชี"
 
 msgid "Accounts Missing Error"
-msgstr ""
+msgstr "ข้อผิดพลาดไม่พบบัญชี"
 
 msgid "Accounts Payable"
 msgstr "เจ้าหนี้การค้า"
 
 msgid "Accounts Payable Summary"
-msgstr ""
+msgstr "สรุปเจ้าหนี้การค้า"
 
 msgid "Accounts Receivable"
 msgstr "ลูกหนี้การค้า"
 
 msgid "Accounts Receivable / Payable Tuning"
-msgstr ""
+msgstr "การปรับปรุงลูกหนี้/เจ้าหนี้การค้า"
 
 msgid "Accounts Receivable Credit Account"
-msgstr ""
+msgstr "บัญชีเครดิตลูกหนี้การค้า"
 
 msgid "Accounts Receivable Discounted Account"
-msgstr ""
+msgstr "บัญชีส่วนลดลูกหนี้การค้า"
 
 msgid "Accounts Receivable Summary"
-msgstr ""
+msgstr "สรุปลูกหนี้การค้า"
 
 msgid "Accounts Receivable Unpaid Account"
-msgstr ""
+msgstr "บัญชีค้างชำระลูกหนี้การค้า"
 
 msgid "Accounts Receivable/Payable"
-msgstr ""
+msgstr "ลูกหนี้/เจ้าหนี้การค้า"
 
 msgid "Accounts Settings"
 msgstr "การตั้งค่าบัญชี"
 
 msgid "Accounts User"
-msgstr ""
+msgstr "ผู้ใช้ระบบบัญชี"
 
 msgid "Accounts table cannot be blank."
-msgstr ""
+msgstr "ตารางบัญชีต้องไม่ว่างเปล่า"
 
 msgid "Accounts to Merge"
-msgstr ""
+msgstr "บัญชีที่จะรวม"
 
 msgid "Accumulated Depreciation"
 msgstr "ค่าเสื่อมราคาสะสม"
 
 msgid "Accumulated Depreciation Account"
-msgstr ""
+msgstr "บัญชีค่าเสื่อมราคาสะสม"
 
 msgid "Accumulated Depreciation Amount"
-msgstr ""
+msgstr "จำนวนค่าเสื่อมราคาสะสม"
 
 msgid "Accumulated Depreciation as on"
-msgstr ""
+msgstr "ค่าเสื่อมราคาสะสม ณ วันที่"
 
 msgid "Accumulated Monthly"
-msgstr ""
+msgstr "สะสมรายเดือน"
 
 msgid "Accumulated Monthly Budget for Account {0} against {1} {2} is {3}. It will be collectively ({4}) exceeded by {5}"
-msgstr ""
+msgstr "งบประมาณรายเดือนสะสมสำหรับบัญชี {0} เทียบกับ {1} {2} คือ {3} จะเกินงบประมาณรวม ({4}) ไป {5}"
 
 msgid "Accumulated Monthly Budget for Account {0} against {1}: {2} is {3}. It will be exceeded by {4}"
-msgstr ""
+msgstr "งบประมาณรายเดือนสะสมสำหรับบัญชี {0} เทียบกับ {1}: {2} คือ {3} จะเกินงบประมาณไป {4}"
 
 msgid "Accumulated Values"
-msgstr ""
+msgstr "ค่าสะสม"
 
 msgid "Accumulated Values in Group Company"
-msgstr ""
+msgstr "ค่าสะสมในกลุ่มบริษัท"
 
 msgid "Achieved ({})"
-msgstr ""
+msgstr "สำเร็จแล้ว ({})"
 
 msgid "Acquisition Date"
-msgstr ""
+msgstr "วันที่ได้มา"

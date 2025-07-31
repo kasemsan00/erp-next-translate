@@ -1,121 +1,119 @@
-msgstr ""
-
 msgid "Against Blanket Order"
-msgstr ""
+msgstr "อ้างอิงใบสั่งซื้อแบบครอบคลุม"
 
 msgid "Against Customer Order {0}"
-msgstr ""
+msgstr "อ้างอิงคำสั่งซื้อของลูกค้า {0}"
 
 msgid "Against Default Supplier"
-msgstr ""
+msgstr "อ้างอิงผู้จัดจำหน่ายเริ่มต้น"
 
 msgid "Against Delivery Note Item"
-msgstr ""
+msgstr "อ้างอิงรายการในใบส่งของ"
 
 msgid "Against Docname"
-msgstr ""
+msgstr "อ้างอิงชื่อเอกสาร"
 
 msgid "Against Doctype"
-msgstr ""
+msgstr "อ้างอิงประเภทเอกสาร"
 
 msgid "Against Document Detail No"
-msgstr ""
+msgstr "อ้างอิงหมายเลขรายละเอียดเอกสาร"
 
 msgid "Against Document No"
-msgstr ""
+msgstr "อ้างอิงหมายเลขเอกสาร"
 
 msgid "Against Expense Account"
-msgstr ""
+msgstr "อ้างอิงบัญชีค่าใช้จ่าย"
 
 msgid "Against Income Account"
-msgstr ""
+msgstr "อ้างอิงบัญชีรายได้"
 
 msgid "Against Journal Entry {0} does not have any unmatched {1} entry"
-msgstr ""
+msgstr "รายการสมุดรายวัน {0} ไม่มีรายการ {1} ที่ไม่ตรงกัน"
 
 msgid "Against Journal Entry {0} is already adjusted against some other voucher"
-msgstr ""
+msgstr "รายการสมุดรายวัน {0} ถูกปรับปรุงกับใบสำคัญอื่นแล้ว"
 
 msgid "Against Pick List"
-msgstr ""
+msgstr "อ้างอิงรายการจัดสินค้า"
 
 msgid "Against Sales Invoice"
-msgstr ""
+msgstr "อ้างอิงใบกำกับภาษีขาย"
 
 msgid "Against Sales Invoice Item"
-msgstr ""
+msgstr "อ้างอิงรายการในใบกำกับภาษีขาย"
 
 msgid "Against Sales Order"
 msgstr "อ้างอิงใบสั่งขาย"
 
 msgid "Against Sales Order Item"
-msgstr ""
+msgstr "อ้างอิงรายการในใบสั่งขาย"
 
 msgid "Against Stock Entry"
-msgstr ""
+msgstr "อ้างอิงรายการสต็อก"
 
 msgid "Against Supplier Invoice {0}"
-msgstr ""
+msgstr "อ้างอิงใบแจ้งหนี้ผู้จัดจำหน่าย {0}"
 
 msgid "Against Voucher"
-msgstr ""
+msgstr "อ้างอิงใบสำคัญ"
 
 msgid "Against Voucher No"
-msgstr ""
+msgstr "อ้างอิงหมายเลขใบสำคัญ"
 
 msgid "Against Voucher Type"
-msgstr ""
+msgstr "อ้างอิงประเภทใบสำคัญ"
 
 msgid "Age"
 msgstr "อายุ"
 
 msgid "Age (Days)"
-msgstr ""
+msgstr "อายุ (วัน)"
 
 msgid "Age ({0})"
-msgstr ""
+msgstr "อายุ ({0})"
 
 msgid "Ageing Based On"
-msgstr ""
+msgstr "การแบ่งอายุตาม"
 
 msgid "Ageing Range"
-msgstr ""
+msgstr "ช่วงอายุ"
 
 msgid "Ageing Report based on {0} up to {1}"
-msgstr ""
+msgstr "รายงานอายุหนี้ตาม {0} จนถึง {1}"
 
 msgid "Agenda"
-msgstr ""
+msgstr "วาระการประชุม"
 
 msgid "Agent"
 msgstr "ตัวแทน"
 
 msgid "Agent Busy Message"
-msgstr ""
+msgstr "ข้อความเมื่อตัวแทนไม่ว่าง"
 
 msgid "Agent Details"
-msgstr ""
+msgstr "รายละเอียดตัวแทน"
 
 msgid "Agent Group"
-msgstr ""
+msgstr "กลุ่มตัวแทน"
 
 msgid "Agent Unavailable Message"
-msgstr ""
+msgstr "ข้อความเมื่อตัวแทนไม่พร้อมให้บริการ"
 
 msgid "Agents"
-msgstr ""
+msgstr "ตัวแทน"
 
 msgid "Aggregate a group of Items into another Item. This is useful if you are maintaining the stock of the packed items and not the bundled item"
-msgstr ""
+msgstr "รวมกลุ่มของสินค้าเป็นสินค้าอีกรายการหนึ่ง มีประโยชน์หากคุณดูแลสต็อกของสินค้าที่บรรจุหีบห่อแทนที่จะเป็นสินค้าที่รวมกัน"
 
 msgid "Agriculture"
-msgstr ""
+msgstr "เกษตรกรรม"
 
 msgid "Airline"
-msgstr ""
+msgstr "สายการบิน"
 
 msgid "Algorithm"
-msgstr ""
+msgstr "อัลกอริทึม"
 
 msgid "All"
 msgstr "ทั้งหมด"
@@ -124,377 +122,376 @@ msgid "All Accounts"
 msgstr "ทุกบัญชี"
 
 msgid "All Activities"
-msgstr ""
+msgstr "ทุกกิจกรรม"
 
 msgid "All Activities HTML"
-msgstr ""
+msgstr "HTML ทุกกิจกรรม"
 
 msgid "All BOMs"
-msgstr ""
+msgstr "BOM ทั้งหมด"
 
 msgid "All Contact"
-msgstr ""
+msgstr "ผู้ติดต่อทั้งหมด"
 
 msgid "All Customer Contact"
-msgstr ""
+msgstr "ผู้ติดต่อลูกค้าทั้งหมด"
 
 msgid "All Customer Groups"
-msgstr ""
+msgstr "ทุกกลุ่มลูกค้า"
 
 msgid "All Day"
 msgstr "ทั้งวัน"
 
 msgid "All Departments"
-msgstr ""
+msgstr "ทุกแผนก"
 
 msgid "All Employee (Active)"
-msgstr ""
+msgstr "พนักงานทั้งหมด (ที่ใช้งานอยู่)"
 
 msgid "All Item Groups"
-msgstr ""
+msgstr "ทุกกลุ่มสินค้า"
 
 msgid "All Items"
 msgstr "ทุกรายการ"
 
 msgid "All Lead (Open)"
-msgstr ""
+msgstr "ผู้สนใจทั้งหมด (เปิดอยู่)"
 
 msgid "All Parties "
-msgstr ""
+msgstr "ทุกฝ่าย "
 
 msgid "All Sales Partner Contact"
-msgstr ""
+msgstr "ผู้ติดต่อคู่ค้าทั้งหมด"
 
 msgid "All Sales Person"
-msgstr ""
+msgstr "พนักงานขายทั้งหมด"
 
 msgid "All Sales Transactions can be tagged against multiple Sales Persons so that you can set and monitor targets."
-msgstr ""
+msgstr "ธุรกรรมการขายทั้งหมดสามารถเชื่อมโยงกับพนักงานขายหลายคนได้ เพื่อให้คุณสามารถตั้งค่าและติดตามเป้าหมายได้"
 
 msgid "All Supplier Contact"
-msgstr ""
+msgstr "ผู้ติดต่อผู้จัดจำหน่ายทั้งหมด"
 
 msgid "All Supplier Groups"
-msgstr ""
+msgstr "ทุกกลุ่มผู้จัดจำหน่าย"
 
 msgid "All Territories"
-msgstr ""
+msgstr "ทุกพื้นที่"
 
 msgid "All Warehouses"
 msgstr "ทุกคลังสินค้า"
 
 msgid "All allocations have been successfully reconciled"
-msgstr ""
+msgstr "การจัดสรรทั้งหมดได้รับการกระทบยอดเรียบร้อยแล้ว"
 
 msgid "All communications including and above this shall be moved into the new Issue"
-msgstr ""
+msgstr "การสื่อสารทั้งหมดรวมถึงที่สูงกว่านี้จะถูกย้ายไปยังปัญหาใหม่"
 
 msgid "All items are already requested"
-msgstr ""
+msgstr "สินค้าทุกรายการถูกร้องขอแล้ว"
 
 msgid "All items have already been Invoiced/Returned"
-msgstr ""
+msgstr "สินค้าทุกรายการถูกออกใบแจ้งหนี้/คืนแล้ว"
 
 msgid "All items have already been received"
-msgstr ""
+msgstr "ได้รับสินค้าทุกรายการแล้ว"
 
 msgid "All items have already been transferred for this Work Order."
-msgstr ""
+msgstr "สินค้าทุกรายการสำหรับใบสั่งงานนี้ถูกโอนย้ายแล้ว"
 
 msgid "All items in this document already have a linked Quality Inspection."
-msgstr ""
+msgstr "สินค้าทุกรายการในเอกสารนี้มีการตรวจสอบคุณภาพที่เชื่อมโยงอยู่แล้ว"
 
 msgid "All the Comments and Emails will be copied from one document to another newly created document(Lead -> Opportunity -> Quotation) throughout the CRM documents."
-msgstr ""
+msgstr "ความคิดเห็นและอีเมลทั้งหมดจะถูกคัดลอกจากเอกสารหนึ่งไปยังเอกสารที่สร้างขึ้นใหม่ (ผู้สนใจ -> โอกาส -> ใบเสนอราคา) ตลอดทั้งเอกสาร CRM"
 
 msgid "All the items have been already returned."
-msgstr ""
+msgstr "สินค้าทุกรายการถูกคืนแล้ว"
 
 msgid "All the required items (raw materials) will be fetched from BOM and populated in this table. Here you can also change the Source Warehouse for any item. And during the production, you can track transferred raw materials from this table."
-msgstr ""
+msgstr "สินค้าที่ต้องการทั้งหมด (วัตถุดิบ) จะถูกดึงมาจาก BOM และเติมลงในตารางนี้ ที่นี่คุณยังสามารถเปลี่ยนคลังสินค้าต้นทางสำหรับสินค้าใด ๆ ได้ และในระหว่างการผลิต คุณสามารถติดตามวัตถุดิบที่โอนย้ายจากตารางนี้ได้"
 
 msgid "All these items have already been Invoiced/Returned"
-msgstr ""
+msgstr "สินค้าเหล่านี้ถูกออกใบแจ้งหนี้/คืนแล้ว"
 
 msgid "Allocate"
-msgstr ""
+msgstr "จัดสรร"
 
 msgid "Allocate Advances Automatically (FIFO)"
-msgstr ""
+msgstr "จัดสรรเงินทดรองจ่ายอัตโนมัติ (FIFO)"
 
 msgid "Allocate Payment Amount"
-msgstr ""
+msgstr "จัดสรรจำนวนเงินที่ชำระ"
 
 msgid "Allocate Payment Based On Payment Terms"
-msgstr ""
+msgstr "จัดสรรการชำระเงินตามเงื่อนไขการชำระเงิน"
 
 msgid "Allocate Payment Request"
-msgstr ""
+msgstr "จัดสรรคำขอชำระเงิน"
 
 msgid "Allocated"
-msgstr ""
+msgstr "จัดสรรแล้ว"
 
 msgid "Allocated Amount"
-msgstr ""
+msgstr "จำนวนที่จัดสรร"
 
 msgid "Allocated Entries"
-msgstr ""
+msgstr "รายการที่จัดสรร"
 
 msgid "Allocated To:"
-msgstr ""
+msgstr "จัดสรรให้:"
 
 msgid "Allocated amount"
-msgstr ""
+msgstr "จำนวนที่จัดสรร"
 
 msgid "Allocated amount cannot be greater than unadjusted amount"
-msgstr ""
+msgstr "จำนวนที่จัดสรรไม่สามารถมากกว่าจำนวนที่ยังไม่ปรับปรุง"
 
 msgid "Allocated amount cannot be negative"
-msgstr ""
+msgstr "จำนวนที่จัดสรรไม่สามารถเป็นค่าลบ"
 
 msgid "Allocation"
-msgstr ""
+msgstr "การจัดสรร"
 
 msgid "Allocations"
-msgstr ""
+msgstr "การจัดสรร"
 
 msgid "Allotted Qty"
-msgstr ""
+msgstr "ปริมาณที่จัดสรร"
 
 msgid "Allow"
-msgstr ""
+msgstr "อนุญาต"
 
 msgid "Allow Account Creation Against Child Company"
 msgstr "อนุญาตให้สร้างบัญชีกับบริษัทลูก"
 
 msgid "Allow Alternative Item"
-msgstr ""
+msgstr "อนุญาตสินคาทดแทน"
 
 msgid "Allow Alternative Item must be checked on Item {}"
-msgstr ""
+msgstr "ต้องเลือก 'อนุญาตสินคาทดแทน' ในสินค้า {}"
 
 msgid "Allow Continuous Material Consumption"
-msgstr ""
+msgstr "อนุญาตการใช้วัสดุต่อเนื่อง"
 
 msgid "Allow Excess Material Transfer"
-msgstr ""
+msgstr "อนุญาตการโอนย้ายวัสดุเกิน"
 
 msgid "Allow Implicit Pegged Currency Conversion"
-msgstr ""
+msgstr "อนุญาตการแปลงสกุลเงินที่ตรึงไว้โดยนัย"
 
 msgid "Allow In Returns"
-msgstr ""
+msgstr "อนุญาตในการคืนสินค้า"
 
 msgid "Allow Internal Transfers at Arm's Length Price"
-msgstr ""
+msgstr "อนุญาตการโอนย้ายภายในตามราคาตลาด"
 
 msgid "Allow Item To Be Added Multiple Times in a Transaction"
-msgstr ""
+msgstr "อนุญาตให้เพิ่มสินค้าหลายครั้งในหนึ่งธุรกรรม"
 
 msgid "Allow Item to Be Added Multiple Times in a Transaction"
-msgstr ""
+msgstr "อนุญาตให้เพิ่มสินค้าหลายครั้งในหนึ่งธุรกรรม"
 
 msgid "Allow Item to be Added Multiple Times in a Transaction"
-msgstr ""
+msgstr "อนุญาตให้เพิ่มสินค้าหลายครั้งในหนึ่งธุรกรรม"
 
 msgid "Allow Lead Duplication based on Emails"
-msgstr ""
+msgstr "อนุญาตให้มีผู้สนใจซ้ำซ้อนตามอีเมล"
 
 msgid "Allow Material Transfer from Delivery Note to Sales Invoice"
-msgstr ""
+msgstr "อนุญาตการโอนย้ายวัสดุจากใบส่งของไปยังใบกำกับภาษีขาย"
 
 msgid "Allow Material Transfer from Purchase Receipt to Purchase Invoice"
-msgstr ""
+msgstr "อนุญาตการโอนย้ายวัสดุจากใบรับสินค้าไปยังใบแจ้งหนี้ซื้อ"
 
 msgid "Allow Multiple Material Consumption"
-msgstr ""
+msgstr "อนุญาตการใช้วัสดุหลายครั้ง"
 
 msgid "Allow Multiple Sales Orders Against a Customer's Purchase Order"
-msgstr ""
+msgstr "อนุญาตให้มีใบสั่งขายหลายใบต่อหนึ่งใบสั่งซื้อของลูกค้า"
 
 msgid "Allow Negative Stock"
-msgstr ""
+msgstr "อนุญาตสต็อกติดลบ"
 
 msgid "Allow Negative rates for Items"
-msgstr ""
+msgstr "อนุญาตอัตราติดลบสำหรับสินค้า"
 
 msgid "Allow Or Restrict Dimension"
-msgstr ""
+msgstr "อนุญาตหรือจำกัดมิติ"
 
 msgid "Allow Overtime"
-msgstr ""
+msgstr "อนุญาตทำงานล่วงเวลา"
 
 msgid "Allow Partial Payment"
-msgstr ""
+msgstr "อนุญาตชำระเงินบางส่วน"
 
 msgid "Allow Partial Reservation"
-msgstr ""
+msgstr "อนุญาตการจองบางส่วน"
 
 msgid "Allow Production on Holidays"
-msgstr ""
+msgstr "อนุญาตการผลิตในวันหยุด"
 
 msgid "Allow Purchase"
-msgstr ""
+msgstr "อนุญาตการซื้อ"
 
 msgid "Allow Purchase Invoice Creation Without Purchase Order"
-msgstr ""
+msgstr "อนุญาตสร้างใบแจ้งหนี้ซื้อโดยไม่มีใบสั่งซื้อ"
 
 msgid "Allow Purchase Invoice Creation Without Purchase Receipt"
-msgstr ""
+msgstr "อนุญาตสร้างใบแจ้งหนี้ซื้อโดยไม่มีใบรับสินค้า"
 
 msgid "Allow Purchase Order with Zero Quantity"
-msgstr ""
+msgstr "อนุญาตใบสั่งซื้อที่มีปริมาณเป็นศูนย์"
 
 msgid "Allow Quotation with Zero Quantity"
-msgstr ""
+msgstr "อนุญาตใบเสนอราคาที่มีปริมาณเป็นศูนย์"
 
 msgid "Allow Rename Attribute Value"
-msgstr ""
+msgstr "อนุญาตเปลี่ยนชื่อค่าคุณลักษณะ"
 
 msgid "Allow Request for Quotation with Zero Quantity"
-msgstr ""
+msgstr "อนุญาตใบขอเสนอราคาที่มีปริมาณเป็นศูนย์"
 
 msgid "Allow Resetting Service Level Agreement"
-msgstr ""
+msgstr "อนุญาตการรีเซ็ตข้อตกลงระดับการให้บริการ"
 
 msgid "Allow Resetting Service Level Agreement from Support Settings."
-msgstr ""
+msgstr "อนุญาตการรีเซ็ตข้อตกลงระดับการให้บริการจากการตั้งค่าการสนับสนุน"
 
 msgid "Allow Sales"
-msgstr ""
+msgstr "อนุญาตการขาย"
 
 msgid "Allow Sales Invoice Creation Without Delivery Note"
-msgstr ""
+msgstr "อนุญาตสร้างใบกำกับภาษีขายโดยไม่มีใบส่งของ"
 
 msgid "Allow Sales Invoice Creation Without Sales Order"
-msgstr ""
+msgstr "อนุญาตสร้างใบกำกับภาษีขายโดยไม่มีใบสั่งขาย"
 
 msgid "Allow Sales Order Creation For Expired Quotation"
-msgstr ""
+msgstr "อนุญาตสร้างใบสั่งขายสำหรับใบเสนอราคาที่หมดอายุ"
 
 msgid "Allow Sales Order with Zero Quantity"
-msgstr ""
+msgstr "อนุญาตใบสั่งขายที่มีปริมาณเป็นศูนย์"
 
 msgid "Allow Stale Exchange Rates"
-msgstr ""
+msgstr "อนุญาตอัตราแลกเปลี่ยนที่ไม่อัปเดต"
 
 msgid "Allow Supplier Quotation with Zero Quantity"
-msgstr ""
+msgstr "อนุญาตใบเสนอราคาจากผู้จัดจำหน่ายที่มีปริมาณเป็นศูนย์"
 
 msgid "Allow UOM with Conversion Rate Defined in Item"
-msgstr ""
+msgstr "อนุญาตหน่วยวัดที่มีอัตราการแปลงที่กำหนดในสินค้า"
 
 msgid "Allow User to Edit Discount"
-msgstr ""
+msgstr "อนุญาตให้ผู้ใช้แก้ไขส่วนลด"
 
 msgid "Allow User to Edit Price List Rate in Transactions"
-msgstr ""
+msgstr "อนุญาตให้ผู้ใช้แก้ไขอัตราในรายการราคาในธุรกรรม"
 
 msgid "Allow User to Edit Rate"
-msgstr ""
+msgstr "อนุญาตให้ผู้ใช้แก้ไขอัตรา"
 
 msgid "Allow Variant UOM to be different from Template UOM"
-msgstr ""
+msgstr "อนุญาตให้หน่วยวัดของตัวแปรแตกต่างจากหน่วยวัดของเทมเพลต"
 
 msgid "Allow Zero Rate"
-msgstr ""
+msgstr "อนุญาตอัตราเป็นศูนย์"
 
 msgid "Allow Zero Valuation Rate"
-msgstr ""
+msgstr "อนุญาตอัตราการประเมินค่าเป็นศูนย์"
 
 msgid "Allow existing Serial No to be Manufactured/Received again"
-msgstr ""
+msgstr "อนุญาตให้หมายเลขซีเรียลที่มีอยู่แล้วถูกผลิต/รับอีกครั้ง"
 
 msgid "Allow material consumptions without immediately manufacturing finished goods against a Work Order"
-msgstr ""
+msgstr "อนุญาตการใช้วัสดุโดยไม่ต้องผลิตสินค้าสำเร็จรูปทันทีตามใบสั่งงาน"
 
 msgid "Allow multi-currency invoices against single party account "
-msgstr ""
+msgstr "อนุญาตใบแจ้งหนี้หลายสกุลเงินสำหรับบัญชีคู่ค้าเดียว"
 
 msgid "Allow to Edit Stock UOM Qty for Purchase Documents"
-msgstr ""
+msgstr "อนุญาตให้แก้ไขปริมาณหน่วยวัดสต็อกสำหรับเอกสารการซื้อ"
 
 msgid "Allow to Edit Stock UOM Qty for Sales Documents"
-msgstr ""
+msgstr "อนุญาตให้แก้ไขปริมาณหน่วยวัดสต็อกสำหรับเอกสารการขาย"
 
 msgid "Allow to Make Quality Inspection after Purchase / Delivery"
-msgstr ""
+msgstr "อนุญาตให้ทำการตรวจสอบคุณภาพหลังจากการซื้อ / การส่งมอบ"
 
 msgid "Allow transferring raw materials even after the Required Quantity is fulfilled"
-msgstr ""
+msgstr "อนุญาตการโอนวัตถุดิบแม้ว่าจะครบตามปริมาณที่ต้องการแล้ว"
 
 msgid "Allowed"
-msgstr ""
+msgstr "อนุญาตแล้ว"
 
 msgid "Allowed Dimension"
-msgstr ""
+msgstr "มิติที่อนุญาต"
 
 msgid "Allowed Doctypes"
-msgstr ""
+msgstr "ประเภทเอกสารที่อนุญาต"
 
 msgid "Allowed Items"
-msgstr ""
+msgstr "สินค้าที่อนุญาต"
 
 msgid "Allowed To Transact With"
-msgstr ""
+msgstr "อนุญาตให้ทำธุรกรรมกับ"
 
 msgid "Allowed primary roles are 'Customer' and 'Supplier'. Please select one of these roles only."
-msgstr ""
+msgstr "บทบาทหลักที่อนุญาตคือ 'ลูกค้า' และ 'ผู้จัดจำหน่าย' กรุณาเลือกหนึ่งในบทบาทเหล่านี้เท่านั้น"
 
 msgid "Allows to keep aside a specific quantity of inventory for a particular order."
-msgstr ""
+msgstr "อนุญาตให้กันสินค้าคงคลังจำนวนหนึ่งไว้สำหรับคำสั่งซื้อเฉพาะ"
 
 msgid "Allows users to submit Purchase Orders with zero quantity. Useful when rates are fixed but the quantities are not. Eg. Rate Contracts."
-msgstr ""
+msgstr "อนุญาตให้ผู้ใช้ส่งใบสั่งซื้อที่มีปริมาณเป็นศูนย์ได้ มีประโยชน์เมื่ออัตราคงที่แต่ปริมาณไม่คงที่ เช่น สัญญาจ้างเหมา"
 
 msgid "Allows users to submit Quotations with zero quantity. Useful when rates are fixed but the quantities are not. Eg. Rate Contracts."
-msgstr ""
+msgstr "อนุญาตให้ผู้ใช้ส่งใบเสนอราคาที่มีปริมาณเป็นศูนย์ได้ มีประโยชน์เมื่ออัตราคงที่แต่ปริมาณไม่คงที่ เช่น สัญญาจ้างเหมา"
 
 msgid "Allows users to submit Request for Quotations with zero quantity. Useful when rates are fixed but the quantities are not. Eg. Rate Contracts."
-msgstr ""
+msgstr "อนุญาตให้ผู้ใช้ส่งใบขอเสนอราคาที่มีปริมาณเป็นศูนย์ได้ มีประโยชน์เมื่ออัตราคงที่แต่ปริมาณไม่คงที่ เช่น สัญญาจ้างเหมา"
 
 msgid "Allows users to submit Sales Orders with zero quantity. Useful when rates are fixed but the quantities are not. Eg. Rate Contracts."
-msgstr ""
+msgstr "อนุญาตให้ผู้ใช้ส่งใบสั่งขายที่มีปริมาณเป็นศูนย์ได้ มีประโยชน์เมื่ออัตราคงที่แต่ปริมาณไม่คงที่ เช่น สัญญาจ้างเหมา"
 
 msgid "Allows users to submit Supplier Quotations with zero quantity. Useful when rates are fixed but the quantities are not. Eg. Rate Contracts."
-msgstr ""
+msgstr "อนุญาตให้ผู้ใช้ส่งใบเสนอราคาจากผู้จัดจำหน่ายที่มีปริมาณเป็นศูนย์ได้ มีประโยชน์เมื่ออัตราคงที่แต่ปริมาณไม่คงที่ เช่น สัญญาจ้างเหมา"
 
 msgid "Already Picked"
-msgstr ""
+msgstr "จัดแล้ว"
 
 msgid "Already record exists for the item {0}"
-msgstr ""
+msgstr "มีบันทึกสำหรับสินค้า {0} อยู่แล้ว"
 
 msgid "Already set default in pos profile {0} for user {1}, kindly disabled default"
-msgstr ""
+msgstr "ตั้งค่าเริ่มต้นในโปรไฟล์ POS {0} สำหรับผู้ใช้ {1} แล้ว กรุณาปิดการใช้งานค่าเริ่มต้น"
 
 msgid "Also you can't switch back to FIFO after setting the valuation method to Moving Average for this item."
-msgstr ""
+msgstr "นอกจากนี้ คุณไม่สามารถเปลี่ยนกลับไปใช้ FIFO ได้หลังจากตั้งค่าวิธีการประเมินมูลค่าเป็นแบบถัวเฉลี่ยเคลื่อนที่สำหรับสินค้านี้"
 
 msgid "Alternate Item"
-msgstr ""
+msgstr "สินคาทดแทน"
 
 msgid "Alternative Item Code"
-msgstr ""
+msgstr "รหัสสินคาทดแทน"
 
 msgid "Alternative Item Name"
-msgstr ""
+msgstr "ชื่อสินคาทดแทน"
 
 msgid "Alternative Items"
-msgstr ""
+msgstr "สินคาทดแทน"
 
 msgid "Alternative item must not be same as item code"
-msgstr ""
+msgstr "สินคาทดแทนต้องไม่เหมือนกับรหัสสินค้า"
 
 msgid "Alternatively, you can download the template and fill your data in."
-msgstr "อีกทางเลือกหนึ่ง, คุณสามารถดาวน์โหลดเทมเพลตและกรอกข้อมูลของคุณได้"
+msgstr "อีกทางเลือกหนึ่ง คุณสามารถดาวน์โหลดเทมเพลตและกรอกข้อมูลของคุณได้"
 
 msgid "Always Ask"
-msgstr ""
+msgstr "ถามเสมอ"
 
 msgid "Amended From"
 msgstr "แก้ไขจาก"
 
 msgid "Amount"
-msgstr ""
-
+msgstr "จำนวนเงิน"

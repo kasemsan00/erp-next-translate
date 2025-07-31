@@ -1,28 +1,26 @@
-msgstr ""
-
 msgid "B+"
-msgstr ""
+msgstr "B+"
 
 msgid "B-"
-msgstr ""
+msgstr "B-"
 
 msgid "BFS"
-msgstr ""
+msgstr "BFS"
 
 msgid "BIN Qty"
-msgstr ""
+msgstr "ปริมาณในช่องเก็บ"
 
 msgid "BOM"
 msgstr "รายการวัตถุดิบ"
 
 msgid "BOM 1"
-msgstr ""
+msgstr "BOM 1"
 
 msgid "BOM 1 {0} and BOM 2 {1} should not be same"
 msgstr "BOM 1 {0} และ BOM 2 {1} ไม่ควรเหมือนกัน"
 
 msgid "BOM 2"
-msgstr ""
+msgstr "BOM 2"
 
 msgid "BOM Comparison Tool"
 msgstr "เครื่องมือเปรียบเทียบ BOM"
@@ -40,10 +38,10 @@ msgid "BOM Detail No"
 msgstr "หมายเลขรายละเอียด BOM"
 
 msgid "BOM Explorer"
-msgstr "ตัวสำรวจ BOM"
+msgstr "เครื่องมือสำรวจ BOM"
 
 msgid "BOM Explosion Item"
-msgstr "รายการการระเบิด BOM"
+msgstr "รายการแตก BOM"
 
 msgid "BOM ID"
 msgstr "รหัส BOM"
@@ -52,7 +50,7 @@ msgid "BOM Info"
 msgstr "ข้อมูล BOM"
 
 msgid "BOM Item"
-msgstr "รายการ BOM"
+msgstr "รายการใน BOM"
 
 msgid "BOM Level"
 msgstr "ระดับ BOM"
@@ -67,37 +65,37 @@ msgid "BOM No. for a Finished Good Item"
 msgstr "หมายเลข BOM สำหรับสินค้าสำเร็จรูป"
 
 msgid "BOM Operation"
-msgstr "การดำเนินการ BOM"
+msgstr "การดำเนินงานตาม BOM"
 
 msgid "BOM Operations Time"
-msgstr "เวลาการดำเนินการ BOM"
+msgstr "เวลาการดำเนินงานตาม BOM"
 
 msgid "BOM Qty"
-msgstr "ปริมาณ BOM"
+msgstr "ปริมาณตาม BOM"
 
 msgid "BOM Rate"
-msgstr "อัตรา BOM"
+msgstr "อัตราตาม BOM"
 
 msgid "BOM Scrap Item"
-msgstr "รายการเศษ BOM"
+msgstr "รายการเศษซากตาม BOM"
 
 msgid "BOM Search"
 msgstr "ค้นหา BOM"
 
 msgid "BOM Stock Calculated"
-msgstr "คำนวณสต็อก BOM แล้ว"
+msgstr "คำนวณสต็อกตาม BOM แล้ว"
 
 msgid "BOM Stock Report"
-msgstr "รายงานสต็อก BOM"
+msgstr "รายงานสต็อกตาม BOM"
 
 msgid "BOM Tree"
 msgstr "โครงสร้าง BOM"
 
 msgid "BOM UoM"
-msgstr "หน่วยวัด BOM"
+msgstr "หน่วยวัดตาม BOM"
 
 msgid "BOM Update Batch"
-msgstr "อัปเดตชุด BOM"
+msgstr "ชุดอัปเดต BOM"
 
 msgid "BOM Update Initiated"
 msgstr "เริ่มการอัปเดต BOM แล้ว"
@@ -109,13 +107,13 @@ msgid "BOM Update Tool"
 msgstr "เครื่องมืออัปเดต BOM"
 
 msgid "BOM Update Tool Log with job status maintained"
-msgstr "บันทึกเครื่องมืออัปเดต BOM พร้อมสถานะงานที่บำรุงรักษา"
+msgstr "บันทึกเครื่องมืออัปเดต BOM พร้อมสถานะงาน"
 
 msgid "BOM Updation already in progress. Please wait until {0} is complete."
-msgstr "การอัปเดต BOM กำลังดำเนินการอยู่ โปรดรอจนกว่า {0} จะเสร็จสิ้น"
+msgstr "การอัปเดต BOM กำลังดำเนินการอยู่ กรุณารอจนกว่า {0} จะเสร็จสิ้น"
 
 msgid "BOM Updation is queued and may take a few minutes. Check {0} for progress."
-msgstr "การอัปเดต BOM อยู่ในคิวและอาจใช้เวลาสองสามนาที โปรดตรวจสอบ {0} สำหรับความคืบหน้า"
+msgstr "การอัปเดต BOM อยู่ในคิวและอาจใช้เวลาสักครู่ ตรวจสอบความคืบหน้าได้ที่ {0}"
 
 msgid "BOM Variance Report"
 msgstr "รายงานความแปรปรวนของ BOM"
@@ -124,10 +122,10 @@ msgid "BOM Website Item"
 msgstr "รายการ BOM บนเว็บไซต์"
 
 msgid "BOM Website Operation"
-msgstr "การดำเนินการ BOM บนเว็บไซต์"
+msgstr "การดำเนินงาน BOM บนเว็บไซต์"
 
 msgid "BOM and Manufacturing Quantity are required"
-msgstr "ต้องการ BOM และปริมาณการผลิต"
+msgstr "จำเป็นต้องมี BOM และปริมาณการผลิต"
 
 msgid "BOM and Production"
 msgstr "BOM และการผลิต"
@@ -136,22 +134,22 @@ msgid "BOM does not contain any stock item"
 msgstr "BOM ไม่มีรายการสต็อกใด ๆ"
 
 msgid "BOM recursion: {0} cannot be child of {1}"
-msgstr "การวนซ้ำ BOM: {0} ไม่สามารถเป็นลูกของ {1} ได้"
+msgstr "การเรียกซ้ำ BOM: {0} ไม่สามารถเป็นลูกของ {1} ได้"
 
 msgid "BOM recursion: {1} cannot be parent or child of {0}"
-msgstr "การวนซ้ำ BOM: {1} ไม่สามารถเป็นพ่อแม่หรือลูกของ {0} ได้"
+msgstr "การเรียกซ้ำ BOM: {1} ไม่สามารถเป็นแม่หรือลูกของ {0} ได้"
 
 msgid "BOM {0} does not belong to Item {1}"
-msgstr "BOM {0} ไม่ได้เป็นของรายการ {1}"
+msgstr "BOM {0} ไม่ได้เป็นของสินค้า {1}"
 
 msgid "BOM {0} must be active"
-msgstr "BOM {0} ต้องเปิดใช้งาน"
+msgstr "BOM {0} ต้องเปิดใช้งานอยู่"
 
 msgid "BOM {0} must be submitted"
-msgstr "BOM {0} ต้องถูกส่ง"
+msgstr "ต้องส่ง BOM {0}"
 
 msgid "BOM {0} not found for the item {1}"
-msgstr "ไม่พบ BOM {0} สำหรับรายการ {1}"
+msgstr "ไม่พบ BOM {0} สำหรับสินค้า {1}"
 
 msgid "BOMs Updated"
 msgstr "อัปเดต BOM แล้ว"
@@ -163,338 +161,337 @@ msgid "BOMs creation failed"
 msgstr "การสร้าง BOM ล้มเหลว"
 
 msgid "BOMs creation has been enqueued, kindly check the status after some time"
-msgstr "การสร้าง BOM ได้ถูกจัดคิวแล้ว โปรดตรวจสอบสถานะหลังจากเวลาผ่านไป"
+msgstr "การสร้าง BOM ได้ถูกเข้าคิวแล้ว กรุณาตรวจสอบสถานะในภายหลัง"
 
 msgid "Backdated Stock Entry"
-msgstr ""
+msgstr "รายการสต็อกย้อนหลัง"
 
 msgid "Backflush Materials From WIP Warehouse"
-msgstr ""
+msgstr "เบิกจ่ายวัสดุจากคลังสินค้างานระหว่างทำ"
 
 msgid "Backflush Raw Materials"
-msgstr ""
+msgstr "เบิกจ่ายวัตถุดิบ"
 
 msgid "Backflush Raw Materials Based On"
-msgstr ""
+msgstr "เบิกจ่ายวัตถุดิบตาม"
 
 msgid "Backflush Raw Materials From Work-in-Progress Warehouse"
-msgstr ""
+msgstr "เบิกจ่ายวัตถุดิบจากคลังสินค้างานระหว่างทำ"
 
 msgid "Backflush Raw Materials of Subcontract Based On"
-msgstr ""
+msgstr "เบิกจ่ายวัตถุดิบของงานเหมาช่วงตาม"
 
 msgid "Balance"
 msgstr "ยอดคงเหลือ"
 
 msgid "Balance (Dr - Cr)"
-msgstr ""
+msgstr "ยอดคงเหลือ (เดบิต - เครดิต)"
 
 msgid "Balance ({0})"
-msgstr ""
+msgstr "ยอดคงเหลือ ({0})"
 
 msgid "Balance In Account Currency"
-msgstr ""
+msgstr "ยอดคงเหลือในสกุลเงินของบัญชี"
 
 msgid "Balance In Base Currency"
-msgstr ""
+msgstr "ยอดคงเหลือในสกุลเงินหลัก"
 
 msgid "Balance Qty"
-msgstr ""
+msgstr "ปริมาณคงเหลือ"
 
 msgid "Balance Qty (Stock)"
-msgstr ""
+msgstr "ปริมาณคงเหลือ (สต็อก)"
 
 msgid "Balance Serial No"
-msgstr ""
+msgstr "หมายเลขซีเรียลคงเหลือ"
 
 msgid "Balance Sheet"
-msgstr ""
+msgstr "งบดุล"
 
 msgid "Balance Sheet Summary"
-msgstr ""
+msgstr "สรุปงบดุล"
 
 msgid "Balance Stock Qty"
-msgstr ""
+msgstr "ปริมาณสต็อกคงเหลือ"
 
 msgid "Balance Stock Value"
-msgstr ""
+msgstr "มูลค่าสต็อกคงเหลือ"
 
 msgid "Balance Value"
-msgstr ""
+msgstr "มูลค่าคงเหลือ"
 
 msgid "Balance for Account {0} must always be {1}"
-msgstr ""
+msgstr "ยอดคงเหลือสำหรับบัญชี {0} ต้องเป็น {1} เสมอ"
 
 msgid "Balance must be"
-msgstr ""
+msgstr "ยอดคงเหลือต้องเป็น"
 
 msgid "Bank"
-msgstr ""
+msgstr "ธนาคาร"
 
 msgid "Bank / Cash Account"
-msgstr ""
+msgstr "บัญชีธนาคาร / เงินสด"
 
 msgid "Bank A/C No."
-msgstr ""
+msgstr "เลขที่บัญชีธนาคาร"
 
 msgid "Bank Account"
-msgstr ""
+msgstr "บัญชีธนาคาร"
 
 msgid "Bank Account Details"
-msgstr ""
+msgstr "รายละเอียดบัญชีธนาคาร"
 
 msgid "Bank Account Info"
-msgstr ""
+msgstr "ข้อมูลบัญชีธนาคาร"
 
 msgid "Bank Account No"
 msgstr "เลขที่บัญชีธนาคาร"
 
 msgid "Bank Account Subtype"
-msgstr ""
+msgstr "ประเภทย่อยของบัญชีธนาคาร"
 
 msgid "Bank Account Type"
-msgstr ""
+msgstr "ประเภทบัญชีธนาคาร"
 
 msgid "Bank Account {} in Bank Transaction {} is not matching with Bank Account {}"
-msgstr ""
+msgstr "บัญชีธนาคาร {} ในธุรกรรมธนาคาร {} ไม่ตรงกับบัญชีธนาคาร {}"
 
 msgid "Bank Accounts"
 msgstr "บัญชีธนาคาร"
 
 msgid "Bank Balance"
-msgstr ""
+msgstr "ยอดคงเหลือในธนาคาร"
 
 msgid "Bank Charges"
-msgstr ""
+msgstr "ค่าธรรมเนียมธนาคาร"
 
 msgid "Bank Charges Account"
-msgstr ""
+msgstr "บัญชีค่าธรรมเนียมธนาคาร"
 
 msgid "Bank Clearance"
-msgstr ""
+msgstr "การเคลียร์เช็คผ่านธนาคาร"
 
 msgid "Bank Clearance Detail"
-msgstr ""
+msgstr "รายละเอียดการเคลียร์เช็คผ่านธนาคาร"
 
 msgid "Bank Clearance Summary"
-msgstr ""
+msgstr "สรุปการเคลียร์เช็คผ่านธนาคาร"
 
 msgid "Bank Credit Balance"
-msgstr ""
+msgstr "ยอดคงเหลือเครดิตของธนาคาร"
 
 msgid "Bank Details"
-msgstr ""
+msgstr "รายละเอียดธนาคาร"
 
 msgid "Bank Draft"
-msgstr ""
+msgstr "ดราฟต์ธนาคาร"
 
 msgid "Bank Entry"
-msgstr ""
+msgstr "รายการธนาคาร"
 
 msgid "Bank Guarantee"
-msgstr ""
+msgstr "หนังสือค้ำประกันของธนาคาร"
 
 msgid "Bank Guarantee Number"
-msgstr ""
+msgstr "หมายเลขหนังสือค้ำประกันของธนาคาร"
 
 msgid "Bank Guarantee Type"
-msgstr ""
+msgstr "ประเภทหนังสือค้ำประกันของธนาคาร"
 
 msgid "Bank Name"
 msgstr "ชื่อธนาคาร"
 
 msgid "Bank Overdraft Account"
-msgstr "บัญชีเงินเบิกเกินบัญชี"
+msgstr "บัญชีเงินเบิกเกินบัญชีธนาคาร"
 
 msgid "Bank Reconciliation Statement"
-msgstr ""
+msgstr "งบกระทบยอดเงินฝากธนาคาร"
 
 msgid "Bank Reconciliation Tool"
-msgstr ""
+msgstr "เครื่องมือกระทบยอดเงินฝากธนาคาร"
 
 msgid "Bank Statement Import"
-msgstr ""
+msgstr "การนำเข้าใบแจ้งยอดธนาคาร"
 
 msgid "Bank Statement balance as per General Ledger"
-msgstr ""
+msgstr "ยอดคงเหลือในใบแจ้งยอดธนาคารตามบัญชีแยกประเภททั่วไป"
 
 msgid "Bank Transaction"
-msgstr ""
+msgstr "ธุรกรรมธนาคาร"
 
 msgid "Bank Transaction Mapping"
-msgstr ""
+msgstr "การจับคู่ธุรกรรมธนาคาร"
 
 msgid "Bank Transaction Payments"
-msgstr ""
+msgstr "การชำระเงินธุรกรรมธนาคาร"
 
 msgid "Bank Transaction {0} Matched"
-msgstr ""
+msgstr "ธุรกรรมธนาคาร {0} ตรงกัน"
 
 msgid "Bank Transaction {0} added as Journal Entry"
-msgstr ""
+msgstr "ธุรกรรมธนาคาร {0} ถูกเพิ่มเป็นรายการสมุดรายวัน"
 
 msgid "Bank Transaction {0} added as Payment Entry"
-msgstr ""
+msgstr "ธุรกรรมธนาคาร {0} ถูกเพิ่มเป็นรายการชำระเงิน"
 
 msgid "Bank Transaction {0} is already fully reconciled"
-msgstr ""
+msgstr "ธุรกรรมธนาคาร {0} ได้รับการกระทบยอดเรียบร้อยแล้ว"
 
 msgid "Bank Transaction {0} updated"
-msgstr ""
+msgstr "อัปเดตธุรกรรมธนาคาร {0} แล้ว"
 
 msgid "Bank account cannot be named as {0}"
-msgstr ""
+msgstr "บัญชีธนาคารไม่สามารถตั้งชื่อเป็น {0} ได้"
 
 msgid "Bank account {0} already exists and could not be created again"
-msgstr ""
+msgstr "มีบัญชีธนาคาร {0} อยู่แล้วและไม่สามารถสร้างซ้ำได้"
 
 msgid "Bank accounts added"
-msgstr ""
+msgstr "เพิ่มบัญชีธนาคารแล้ว"
 
 msgid "Bank transaction creation error"
-msgstr ""
+msgstr "ข้อผิดพลาดในการสร้างธุรกรรมธนาคาร"
 
 msgid "Bank/Cash Account"
-msgstr ""
+msgstr "บัญชีธนาคาร/เงินสด"
 
 msgid "Bank/Cash Account {0} doesn't belong to company {1}"
-msgstr ""
+msgstr "บัญชีธนาคาร/เงินสด {0} ไม่ได้อยู่ในบริษัท {1}"
 
 msgid "Banking"
-msgstr ""
+msgstr "การธนาคาร"
 
 msgid "Bar"
-msgstr ""
+msgstr "บาร์"
 
 msgid "Barcode"
-msgstr ""
+msgstr "บาร์โค้ด"
 
 msgid "Barcode Type"
-msgstr ""
+msgstr "ประเภทบาร์โค้ด"
 
 msgid "Barcode {0} already used in Item {1}"
-msgstr ""
+msgstr "บาร์โค้ด {0} ถูกใช้แล้วในสินค้า {1}"
 
 msgid "Barcode {0} is not a valid {1} code"
-msgstr ""
+msgstr "บาร์โค้ด {0} ไม่ใช่รหัส {1} ที่ถูกต้อง"
 
 msgid "Barcodes"
-msgstr ""
+msgstr "บาร์โค้ด"
 
 msgid "Barleycorn"
-msgstr ""
+msgstr "บาร์เลย์คอร์น"
 
 msgid "Barrel (Oil)"
-msgstr ""
+msgstr "บาร์เรล (น้ำมัน)"
 
 msgid "Barrel(Beer)"
-msgstr ""
+msgstr "บาร์เรล (เบียร์)"
 
 msgid "Base Amount"
-msgstr ""
+msgstr "จำนวนเงินฐาน"
 
 msgid "Base Amount (Company Currency)"
-msgstr ""
+msgstr "จำนวนเงินฐาน (สกุลเงินบริษัท)"
 
 msgid "Base Change Amount (Company Currency)"
-msgstr ""
+msgstr "จำนวนเงินทอนฐาน (สกุลเงินบริษัท)"
 
 msgid "Base Cost Per Unit"
-msgstr ""
+msgstr "ต้นทุนฐานต่อหน่วย"
 
 msgid "Base Hour Rate(Company Currency)"
-msgstr ""
+msgstr "อัตราชั่วโมงฐาน (สกุลเงินบริษัท)"
 
 msgid "Base Rate"
-msgstr ""
+msgstr "อัตราฐาน"
 
 msgid "Base Tax Withholding Net Total"
-msgstr ""
+msgstr "ยอดสุทธิหักภาษี ณ ที่จ่ายฐาน"
 
 msgid "Base Total"
-msgstr ""
+msgstr "ยอดรวมฐาน"
 
 msgid "Base Total Billable Amount"
-msgstr ""
+msgstr "ยอดรวมที่เรียกเก็บได้ฐาน"
 
 msgid "Base Total Billed Amount"
-msgstr ""
+msgstr "ยอดรวมที่เรียกเก็บแล้วฐาน"
 
 msgid "Base Total Costing Amount"
-msgstr ""
+msgstr "ยอดรวมต้นทุนฐาน"
 
 msgid "Base URL"
-msgstr ""
+msgstr "URL พื้นฐาน"
 
 msgid "Based On"
-msgstr ""
+msgstr "อ้างอิงจาก"
 
 msgid "Based On Data ( in years )"
-msgstr ""
+msgstr "อ้างอิงจากข้อมูล (ปี)"
 
 msgid "Based On Document"
-msgstr ""
+msgstr "อ้างอิงจากเอกสาร"
 
 msgid "Based On Payment Terms"
-msgstr ""
+msgstr "อ้างอิงจากเงื่อนไขการชำระเงิน"
 
 msgid "Based On Price List"
-msgstr ""
+msgstr "อ้างอิงจากรายการราคา"
 
 msgid "Based On Value"
-msgstr ""
+msgstr "อ้างอิงจากมูลค่า"
 
 msgid "Based on your HR Policy, select your leave allocation period's end date"
-msgstr ""
+msgstr "ตามนโยบาย HR ของคุณ, เลือกวันที่สิ้นสุดของรอบการจัดสรรวันลา"
 
 msgid "Based on your HR Policy, select your leave allocation period's start date"
-msgstr ""
+msgstr "ตามนโยบาย HR ของคุณ, เลือกวันที่เริ่มต้นของรอบการจัดสรรวันลา"
 
 msgid "Basic Amount"
-msgstr ""
+msgstr "จำนวนเงินพื้นฐาน"
 
 msgid "Basic Amount (Company Currency)"
-msgstr ""
+msgstr "จำนวนเงินพื้นฐาน (สกุลเงินบริษัท)"
 
 msgid "Basic Rate (Company Currency)"
-msgstr ""
+msgstr "อัตราพื้นฐาน (สกุลเงินบริษัท)"
 
 msgid "Basic Rate (as per Stock UOM)"
-msgstr ""
+msgstr "อัตราพื้นฐาน (ตามหน่วยวัดสต็อก)"
 
 msgid "Batch"
-msgstr ""
+msgstr "ล็อต"
 
 msgid "Batch Description"
-msgstr ""
+msgstr "คำอธิบายล็อต"
 
 msgid "Batch Details"
-msgstr ""
+msgstr "รายละเอียดล็อต"
 
 msgid "Batch Expiry Date"
-msgstr ""
+msgstr "วันที่หมดอายุของล็อต"
 
 msgid "Batch ID"
-msgstr ""
+msgstr "รหัสล็อต"
 
 msgid "Batch ID is mandatory"
-msgstr ""
+msgstr "ต้องระบุรหัสล็อต"
 
 msgid "Batch Item Expiry Status"
-msgstr ""
+msgstr "สถานะการหมดอายุของสินค้าตามล็อต"
 
 msgid "Batch No"
-msgstr ""
+msgstr "หมายเลขล็อต"
 
 msgid "Batch No is mandatory"
-msgstr ""
+msgstr "ต้องระบุหมายเลขล็อต"
 
 msgid "Batch No {0} does not exists"
-msgstr ""
+msgstr "ไม่มีหมายเลขล็อต {0}"
 
 msgid "Batch No {0} is linked with Item {1} which has serial no. Please scan serial no instead."
-msgstr ""
+msgstr "หมายเลขล็อต {0} เชื่อมโยงกับสินค้า {1} ซึ่งมีหมายเลขซีเรียล กรุณาสแกนหมายเลขซีเรียลแทน"
 
 msgid "Batch No {0} is not present in the original {1} {2}, hence you can't return it against the {1} {2}"
-msgstr ""
-
+msgstr "ไม่มีหมายเลขล็อต {0} ใน {1} {2} ต้นฉบับ ดังนั้นคุณไม่สามารถคืนสินค้าโดยอ้างอิง {1} {2} ได้"

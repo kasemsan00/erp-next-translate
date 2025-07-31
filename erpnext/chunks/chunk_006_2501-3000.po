@@ -1,9 +1,10 @@
+# Translation for chunk_006_2501-3000.po
 
 msgid "Asset Shift Factor"
-msgstr "ปัจจัยกะสินทรัพย์"
+msgstr "ปัจจัยกะการทำงานของสินทรัพย์"
 
 msgid "Asset Shift Factor {0} is set as default currently. Please change it first."
-msgstr "ปัจจัยกะสินทรัพย์ {0} ถูกตั้งเป็นค่าเริ่มต้นในปัจจุบัน โปรดเปลี่ยนก่อน"
+msgstr "ปัจจัยกะการทำงานของสินทรัพย์ {0} ถูกตั้งเป็นค่าเริ่มต้นอยู่ กรุณาเปลี่ยนก่อน"
 
 msgid "Asset Status"
 msgstr "สถานะสินทรัพย์"
@@ -12,10 +13,10 @@ msgid "Asset Value"
 msgstr "มูลค่าสินทรัพย์"
 
 msgid "Asset Value Adjustment"
-msgstr "การปรับมูลค่าสินทรัพย์"
+msgstr "การปรับปรุงมูลค่าสินทรัพย์"
 
 msgid "Asset Value Adjustment cannot be posted before Asset's purchase date <b>{0}</b>."
-msgstr "ไม่สามารถบันทึกการปรับมูลค่าสินทรัพย์ก่อนวันที่ซื้อสินทรัพย์ <b>{0}</b> ได้"
+msgstr "ไม่สามารถลงรายการปรับปรุงมูลค่าสินทรัพย์ก่อนวันที่ซื้อสินทรัพย์ <b>{0}</b> ได้"
 
 msgid "Asset Value Analytics"
 msgstr "การวิเคราะห์มูลค่าสินทรัพย์"
@@ -24,118 +25,118 @@ msgid "Asset cancelled"
 msgstr "สินทรัพย์ถูกยกเลิก"
 
 msgid "Asset cannot be cancelled, as it is already {0}"
-msgstr "ไม่สามารถยกเลิกสินทรัพย์ได้ เนื่องจากมันอยู่ในสถานะ {0} แล้ว"
+msgstr "ไม่สามารถยกเลิกสินทรัพย์ได้ เนื่องจากอยู่ในสถานะ {0} แล้ว"
 
 msgid "Asset cannot be scrapped before the last depreciation entry."
-msgstr "ไม่สามารถทิ้งสินทรัพย์ได้ก่อนการบันทึกค่าเสื่อมราคาครั้งสุดท้าย"
+msgstr "ไม่สามารถจำหน่ายสินทรัพย์ได้ก่อนการลงรายการค่าเสื่อมราคาครั้งล่าสุด"
 
 msgid "Asset capitalized after Asset Capitalization {0} was submitted"
-msgstr "สินทรัพย์ถูกเพิ่มมูลค่าหลังจากการส่งการเพิ่มมูลค่าสินทรัพย์ {0}"
+msgstr "สินทรัพย์ถูกบันทึกเป็นทุนหลังจากส่งเอกสารการบันทึกสินทรัพย์เป็นทุน {0}"
 
 msgid "Asset created"
-msgstr "สินทรัพย์ถูกสร้าง"
+msgstr "สร้างสินทรัพย์แล้ว"
 
 msgid "Asset created after being split from Asset {0}"
-msgstr "สินทรัพย์ถูกสร้างหลังจากแยกออกจากสินทรัพย์ {0}"
+msgstr "สร้างสินทรัพย์แล้วหลังจากการแบ่งสินทรัพย์ {0}"
 
 msgid "Asset deleted"
-msgstr "สินทรัพย์ถูกลบ"
+msgstr "ลบสินทรัพย์แล้ว"
 
 msgid "Asset issued to Employee {0}"
-msgstr "สินทรัพย์ถูกออกให้พนักงาน {0}"
+msgstr "สินทรัพย์ถูกจ่ายให้พนักงาน {0}"
 
 msgid "Asset out of order due to Asset Repair {0}"
-msgstr "สินทรัพย์ไม่สามารถใช้งานได้เนื่องจากการซ่อมแซมสินทรัพย์ {0}"
+msgstr "สินทรัพย์ไม่พร้อมใช้งานเนื่องจากการซ่อมแซมสินทรัพย์ {0}"
 
 msgid "Asset received at Location {0} and issued to Employee {1}"
-msgstr "สินทรัพย์ได้รับที่ตำแหน่ง {0} และออกให้พนักงาน {1}"
+msgstr "ได้รับสินทรัพย์ที่สถานที่ {0} และจ่ายให้พนักงาน {1}"
 
 msgid "Asset restored"
-msgstr "สินทรัพย์ถูกกู้คืน"
+msgstr "กู้คืนสินทรัพย์แล้ว"
 
 msgid "Asset restored after Asset Capitalization {0} was cancelled"
-msgstr "สินทรัพย์ถูกกู้คืนหลังจากการยกเลิกการเพิ่มมูลค่าสินทรัพย์ {0}"
+msgstr "กู้คืนสินทรัพย์แล้วหลังจากการยกเลิกเอกสารการบันทึกสินทรัพย์เป็นทุน {0}"
 
 msgid "Asset returned"
-msgstr "สินทรัพย์ถูกคืน"
+msgstr "คืนสินทรัพย์แล้ว"
 
 msgid "Asset scrapped"
-msgstr "สินทรัพย์ถูกทิ้ง"
+msgstr "จำหน่ายสินทรัพย์แล้ว"
 
 msgid "Asset scrapped via Journal Entry {0}"
-msgstr "สินทรัพย์ถูกทิ้งผ่านรายการบัญชี {0}"
+msgstr "สินทรัพย์ถูกจำหน่ายผ่านสมุดรายวันทั่วไป {0}"
 
 msgid "Asset sold"
-msgstr "สินทรัพย์ถูกขาย"
+msgstr "ขายสินทรัพย์แล้ว"
 
 msgid "Asset submitted"
-msgstr "สินทรัพย์ถูกส่ง"
+msgstr "ส่งข้อมูลสินทรัพย์แล้ว"
 
 msgid "Asset transferred to Location {0}"
-msgstr "สินทรัพย์ถูกย้ายไปยังตำแหน่ง {0}"
+msgstr "ย้ายสินทรัพย์ไปยังสถานที่ {0}"
 
 msgid "Asset updated after being split into Asset {0}"
-msgstr "สินทรัพย์ถูกอัปเดตหลังจากแยกออกเป็นสินทรัพย์ {0}"
+msgstr "อัปเดตสินทรัพย์แล้วหลังจากแบ่งเป็นสินทรัพย์ {0}"
 
 msgid "Asset updated due to Asset Repair {0} {1}."
-msgstr "สินทรัพย์ถูกอัปเดตเนื่องจากการซ่อมแซมสินทรัพย์ {0} {1}"
+msgstr "อัปเดตสินทรัพย์แล้วเนื่องจากการซ่อมแซมสินทรัพย์ {0} {1}"
 
 msgid "Asset {0} cannot be scrapped, as it is already {1}"
-msgstr "สินทรัพย์ {0} ไม่สามารถทิ้งได้ เนื่องจากมันอยู่ในสถานะ {1} แล้ว"
+msgstr "สินทรัพย์ {0} ไม่สามารถจำหน่ายได้ เนื่องจากอยู่ในสถานะ {1} แล้ว"
 
 msgid "Asset {0} does not belong to Item {1}"
-msgstr "สินทรัพย์ {0} ไม่ได้เป็นของรายการ {1}"
+msgstr "สินทรัพย์ {0} ไม่ใช่ของสินค้า {1}"
 
 msgid "Asset {0} does not belong to company {1}"
-msgstr "สินทรัพย์ {0} ไม่ได้เป็นของบริษัท {1}"
+msgstr "สินทรัพย์ {0} ไม่ใช่ของบริษัท {1}"
 
 msgid "Asset {0} does not belongs to the custodian {1}"
-msgstr "สินทรัพย์ {0} ไม่ได้เป็นของผู้ดูแล {1}"
+msgstr "สินทรัพย์ {0} ไม่ได้อยู่ในความดูแลของ {1}"
 
 msgid "Asset {0} does not belongs to the location {1}"
-msgstr "สินทรัพย์ {0} ไม่ได้เป็นของตำแหน่ง {1}"
+msgstr "สินทรัพย์ {0} ไม่ได้อยู่ที่สถานที่ {1}"
 
 msgid "Asset {0} does not exist"
-msgstr "สินทรัพย์ {0} ไม่มีอยู่"
+msgstr "ไม่มีสินทรัพย์ {0}"
 
 msgid "Asset {0} has been updated. Please set the depreciation details if any and submit it."
-msgstr "สินทรัพย์ {0} ถูกอัปเดตแล้ว โปรดตั้งค่ารายละเอียดค่าเสื่อมราคาหากมีและส่ง"
+msgstr "สินทรัพย์ {0} ได้รับการอัปเดตแล้ว กรุณาตั้งค่ารายละเอียดค่าเสื่อมราคา (ถ้ามี) และส่งข้อมูล"
 
 msgid "Asset {0} is in {1} status and cannot be repaired."
-msgstr ""
+msgstr "สินทรัพย์ {0} อยู่ในสถานะ {1} และไม่สามารถซ่อมแซมได้"
 
 msgid "Asset {0} must be submitted"
-msgstr "สินทรัพย์ {0} ต้องถูกส่ง"
+msgstr "ต้องส่งข้อมูลสินทรัพย์ {0}"
 
 msgid "Asset {assets_link} created for {item_code}"
-msgstr "สินทรัพย์ {assets_link} ถูกสร้างสำหรับ {item_code}"
+msgstr "สร้างสินทรัพย์ {assets_link} สำหรับสินค้า {item_code}"
 
 msgid "Asset's depreciation schedule updated after Asset Shift Allocation {0}"
-msgstr "ตารางค่าเสื่อมราคาสินทรัพย์ถูกอัปเดตหลังจากการจัดสรรกะสินทรัพย์ {0}"
+msgstr "ตารางค่าเสื่อมราคาของสินทรัพย์ได้รับการอัปเดตหลังจากการจัดสรรกะการทำงานของสินทรัพย์ {0}"
 
 msgid "Asset's value adjusted after cancellation of Asset Value Adjustment {0}"
-msgstr "มูลค่าสินทรัพย์ถูกปรับหลังจากการยกเลิกการปรับมูลค่าสินทรัพย์ {0}"
+msgstr "มูลค่าของสินทรัพย์ถูกปรับปรุงหลังจากการยกเลิกการปรับปรุงมูลค่าสินทรัพย์ {0}"
 
 msgid "Asset's value adjusted after submission of Asset Value Adjustment {0}"
-msgstr "มูลค่าสินทรัพย์ถูกปรับหลังจากการส่งการปรับมูลค่าสินทรัพย์ {0}"
+msgstr "มูลค่าของสินทรัพย์ถูกปรับปรุงหลังจากการส่งการปรับปรุงมูลค่าสินทรัพย์ {0}"
 
 msgid "Assets"
 msgstr "สินทรัพย์"
 
 msgid "Assets not created for {item_code}. You will have to create asset manually."
-msgstr "สินทรัพย์ไม่ได้ถูกสร้างสำหรับ {item_code} คุณจะต้องสร้างสินทรัพย์ด้วยตนเอง"
+msgstr "ไม่ได้สร้างสินทรัพย์สำหรับ {item_code} คุณจะต้องสร้างสินทรัพย์ด้วยตนเอง"
 
 msgid "Assets {assets_link} created for {item_code}"
-msgstr "สินทรัพย์ {assets_link} ถูกสร้างสำหรับ {item_code}"
+msgstr "สร้างสินทรัพย์ {assets_link} สำหรับสินค้า {item_code}"
 
 msgid "Assign Job to Employee"
-msgstr ""
+msgstr "มอบหมายงานให้พนักงาน"
 
 msgid "Assign To"
 msgstr "มอบหมายให้"
 
 msgid "Assign to Name"
-msgstr ""
+msgstr "มอบหมายให้ (ชื่อ)"
 
 msgid "Assigned To"
 msgstr "มอบหมายให้"
@@ -144,357 +145,1364 @@ msgid "Assignment"
 msgstr "การมอบหมาย"
 
 msgid "Assignment Conditions"
-msgstr ""
+msgstr "เงื่อนไขการมอบหมาย"
 
 msgid "Associate"
-msgstr ""
+msgstr "ผู้ร่วมงาน"
 
 msgid "At Row #{0}: The picked quantity {1} for the item {2} is greater than available stock {3} for the batch {4} in the warehouse {5}. Please restock the item."
-msgstr ""
+msgstr "ที่แถว #{0}: ปริมาณที่เลือก {1} สำหรับสินค้า {2} มากกว่าสต็อกที่มีอยู่ {3} สำหรับชุดการผลิต {4} ในคลังสินค้า {5} กรุณาเติมสต็อกสินค้า"
 
 msgid "At Row #{0}: The picked quantity {1} for the item {2} is greater than available stock {3} in the warehouse {4}."
-msgstr ""
+msgstr "ที่แถว #{0}: ปริมาณที่เลือก {1} สำหรับสินค้า {2} มากกว่าสต็อกที่มีอยู่ {3} ในคลังสินค้า {4}"
 
 msgid "At least one account with exchange gain or loss is required"
-msgstr ""
+msgstr "ต้องมีอย่างน้อยหนึ่งบัญชีสำหรับกำไรหรือขาดทุนจากอัตราแลกเปลี่ยน"
 
 msgid "At least one asset has to be selected."
-msgstr ""
+msgstr "ต้องเลือกสินทรัพย์อย่างน้อยหนึ่งรายการ"
 
 msgid "At least one invoice has to be selected."
-msgstr ""
+msgstr "ต้องเลือกใบแจ้งหนี้อย่างน้อยหนึ่งรายการ"
 
 msgid "At least one item should be entered with negative quantity in return document"
-msgstr ""
+msgstr "ต้องมีอย่างน้อยหนึ่งรายการที่ใส่ปริมาณเป็นลบในเอกสารการคืนสินค้า"
 
 msgid "At least one mode of payment is required for POS invoice."
-msgstr ""
+msgstr "ต้องมีวิธีการชำระเงินอย่างน้อยหนึ่งวิธีสำหรับใบแจ้งหนี้ POS"
 
 msgid "At least one of the Applicable Modules should be selected"
-msgstr ""
+msgstr "ต้องเลือกโมดูลที่เกี่ยวข้องอย่างน้อยหนึ่งโมดูล"
 
 msgid "At least one of the Selling or Buying must be selected"
-msgstr ""
+msgstr "ต้องเลือกการขายหรือการซื้ออย่างน้อยหนึ่งอย่าง"
 
 msgid "At least one warehouse is mandatory"
-msgstr ""
+msgstr "ต้องระบุคลังสินค้าอย่างน้อยหนึ่งแห่ง"
 
 msgid "At row #{0}: the Difference Account must not be a Stock type account, please change the Account Type for the account {1} or select a different account"
-msgstr ""
+msgstr "ที่แถว #{0}: บัญชีผลต่างต้องไม่ใช่บัญชีประเภทสต็อก กรุณาเปลี่ยนประเภทบัญชีสำหรับบัญชี {1} หรือเลือกบัญชีอื่น"
 
 msgid "At row #{0}: the sequence id {1} cannot be less than previous row sequence id {2}"
-msgstr ""
+msgstr "ที่แถว #{0}: รหัสลำดับ {1} ต้องไม่น้อยกว่ารหัสลำดับของแถวก่อนหน้า {2}"
 
 msgid "At row #{0}: you have selected the Difference Account {1}, which is a Cost of Goods Sold type account. Please select a different account"
-msgstr ""
+msgstr "ที่แถว #{0}: คุณได้เลือกบัญชีผลต่าง {1} ซึ่งเป็นบัญชีประเภทต้นทุนขาย กรุณาเลือกบัญชีอื่น"
 
 msgid "At row {0}: Batch No is mandatory for Item {1}"
-msgstr ""
+msgstr "ที่แถว {0}: หมายเลขชุดการผลิตเป็นสิ่งจำเป็นสำหรับสินค้า {1}"
 
 msgid "At row {0}: Parent Row No cannot be set for item {1}"
-msgstr ""
+msgstr "ที่แถว {0}: ไม่สามารถตั้งค่าหมายเลขแถวแม่สำหรับสินค้า {1}"
 
 msgid "At row {0}: Qty is mandatory for the batch {1}"
-msgstr ""
+msgstr "ที่แถว {0}: ปริมาณเป็นสิ่งจำเป็นสำหรับชุดการผลิต {1}"
 
 msgid "At row {0}: Serial No is mandatory for Item {1}"
-msgstr ""
+msgstr "ที่แถว {0}: หมายเลขซีเรียลเป็นสิ่งจำเป็นสำหรับสินค้า {1}"
 
 msgid "At row {0}: Serial and Batch Bundle {1} has already created. Please remove the values from the serial no or batch no fields."
-msgstr ""
+msgstr "ที่แถว {0}: ชุดซีเรียลและชุดการผลิต {1} ถูกสร้างขึ้นแล้ว กรุณาลบค่าออกจากช่องหมายเลขซีเรียลหรือหมายเลขชุดการผลิต"
 
 msgid "At row {0}: set Parent Row No for item {1}"
-msgstr ""
+msgstr "ที่แถว {0}: ตั้งค่าหมายเลขแถวแม่สำหรับสินค้า {1}"
 
 msgid "Atmosphere"
-msgstr ""
+msgstr "บรรยากาศ"
 
 msgid "Attach .csv file with two columns, one for the old name and one for the new name"
-msgstr ""
+msgstr "แนบไฟล์ .csv ที่มีสองคอลัมน์: คอลัมน์หนึ่งสำหรับชื่อเก่าและอีกคอลัมน์สำหรับชื่อใหม่"
 
 msgid "Attach CSV File"
-msgstr ""
+msgstr "แนบไฟล์ CSV"
 
 msgid "Attach custom Chart of Accounts file"
-msgstr ""
+msgstr "แนบไฟล์ผังบัญชีที่กำหนดเอง"
 
 msgid "Attachment"
-msgstr ""
+msgstr "ไฟล์แนบ"
 
 msgid "Attachments"
-msgstr ""
+msgstr "ไฟล์แนบ"
 
 msgid "Attendance & Leaves"
-msgstr ""
+msgstr "การเข้างานและการลา"
 
 msgid "Attendance Device ID (Biometric/RF tag ID)"
-msgstr ""
+msgstr "รหัสอุปกรณ์บันทึกเวลา (รหัสไบโอเมตริก/แท็ก RF)"
 
 msgid "Attribute"
-msgstr ""
+msgstr "คุณลักษณะ"
 
 msgid "Attribute Name"
-msgstr ""
+msgstr "ชื่อคุณลักษณะ"
 
 msgid "Attribute Value"
-msgstr ""
+msgstr "ค่าคุณลักษณะ"
 
 msgid "Attribute table is mandatory"
-msgstr ""
+msgstr "ตารางคุณลักษณะเป็นสิ่งจำเป็น"
 
 msgid "Attribute value: {0} must appear only once"
-msgstr ""
+msgstr "ค่าคุณลักษณะ: {0} ต้องปรากฏเพียงครั้งเดียว"
 
 msgid "Attribute {0} selected multiple times in Attributes Table"
-msgstr ""
+msgstr "คุณลักษณะ {0} ถูกเลือกหลายครั้งในตารางคุณลักษณะ"
 
 msgid "Attributes"
-msgstr ""
+msgstr "คุณลักษณะ"
 
 msgid "Auditor"
-msgstr ""
+msgstr "ผู้ตรวจสอบบัญชี"
 
 msgid "Authentication Failed"
-msgstr ""
+msgstr "การยืนยันตัวตนล้มเหลว"
 
 msgid "Authorised By"
-msgstr ""
+msgstr "อนุมัติโดย"
 
 msgid "Authorization Control"
-msgstr ""
+msgstr "การควบคุมการอนุมัติ"
 
 msgid "Authorization Rule"
-msgstr ""
+msgstr "กฎการอนุมัติ"
 
 msgid "Authorized Signatory"
-msgstr ""
+msgstr "ผู้มีอำนาจลงนาม"
 
 msgid "Authorized Value"
-msgstr ""
+msgstr "มูลค่าที่ได้รับอนุมัติ"
 
 msgid "Auto Create Assets on Purchase"
-msgstr ""
+msgstr "สร้างสินทรัพย์อัตโนมัติเมื่อซื้อ"
 
 msgid "Auto Create Exchange Rate Revaluation"
-msgstr ""
+msgstr "สร้างการตีราคาอัตราแลกเปลี่ยนใหม่โดยอัตโนมัติ"
 
 msgid "Auto Create Purchase Receipt"
-msgstr ""
+msgstr "สร้างใบรับสินค้าอัตโนมัติ"
 
 msgid "Auto Create Serial and Batch Bundle For Outward"
-msgstr ""
+msgstr "สร้างชุดซีเรียลและชุดการผลิตอัตโนมัติสำหรับขาออก"
 
 msgid "Auto Create Subcontracting Order"
-msgstr ""
+msgstr "สร้างใบสั่งจ้างเหมาช่วงอัตโนมัติ"
 
 msgid "Auto Created"
-msgstr ""
+msgstr "สร้างอัตโนมัติ"
 
 msgid "Auto Created Serial and Batch Bundle"
-msgstr ""
+msgstr "ชุดซีเรียลและชุดการผลิตที่สร้างอัตโนมัติ"
 
 msgid "Auto Creation of Contact"
-msgstr ""
+msgstr "การสร้างผู้ติดต่ออัตโนมัติ"
 
 msgid "Auto Email Report"
-msgstr ""
+msgstr "รายงานอีเมลอัตโนมัติ"
 
 msgid "Auto Fetch"
-msgstr ""
+msgstr "ดึงข้อมูลอัตโนมัติ"
 
 msgid "Auto Fetch Serial Numbers"
-msgstr ""
+msgstr "ดึงหมายเลขซีเรียลอัตโนมัติ"
 
 msgid "Auto Insert Item Price If Missing"
-msgstr ""
+msgstr "แทรกราคาสินค้าอัตโนมัติหากไม่มี"
 
 msgid "Auto Material Request"
-msgstr ""
+msgstr "ใบขอวัสดุอัตโนมัติ"
 
 msgid "Auto Material Requests Generated"
-msgstr ""
+msgstr "สร้างใบขอวัสดุอัตโนมัติแล้ว"
 
 msgid "Auto Name"
-msgstr ""
+msgstr "ชื่ออัตโนมัติ"
 
 msgid "Auto Opt In (For all customers)"
-msgstr ""
+msgstr "เข้าร่วมอัตโนมัติ (สำหรับลูกค้าทุกคน)"
 
 msgid "Auto Reconcile"
-msgstr ""
+msgstr "กระทบยอดอัตโนมัติ"
 
 msgid "Auto Reconcile Payments"
-msgstr ""
+msgstr "กระทบยอดการชำระเงินอัตโนมัติ"
 
 msgid "Auto Reconciliation"
-msgstr ""
+msgstr "การกระทบยอดอัตโนมัติ"
 
 msgid "Auto Reconciliation Job Trigger"
-msgstr ""
+msgstr "ทริกเกอร์งานกระทบยอดอัตโนมัติ"
 
 msgid "Auto Reconciliation has started in the background"
-msgstr ""
+msgstr "การกระทบยอดอัตโนมัติได้เริ่มทำงานในเบื้องหลังแล้ว"
 
 msgid "Auto Reconciliation of Payments has been disabled. Enable it through {0}"
-msgstr ""
+msgstr "การกระทบยอดการชำระเงินอัตโนมัติถูกปิดใช้งาน เปิดใช้งานผ่าน {0}"
 
 msgid "Auto Repeat"
-msgstr ""
+msgstr "ทำซ้ำอัตโนมัติ"
 
 msgid "Auto Repeat Detail"
-msgstr ""
+msgstr "รายละเอียดการทำซ้ำอัตโนมัติ"
 
 msgid "Auto Reserve Serial and Batch Nos"
-msgstr ""
+msgstr "สำรองหมายเลขซีเรียลและชุดการผลิตอัตโนมัติ"
 
 msgid "Auto Reserve Stock"
-msgstr ""
+msgstr "สำรองสต็อกอัตโนมัติ"
 
 msgid "Auto Reserve Stock for Sales Order on Purchase"
-msgstr ""
+msgstr "สำรองสต็อกอัตโนมัติสำหรับใบสั่งขายเมื่อมีการซื้อ"
 
 msgid "Auto Tax Settings Error"
-msgstr ""
+msgstr "ข้อผิดพลาดการตั้งค่าภาษีอัตโนมัติ"
 
 msgid "Auto close Opportunity Replied after the no. of days mentioned above"
-msgstr ""
+msgstr "ปิดโอกาสทางการขายที่ตอบกลับแล้วโดยอัตโนมัติหลังจากจำนวนวันที่ระบุไว้ข้างต้น"
 
 msgid "Auto match and set the Party in Bank Transactions"
-msgstr ""
+msgstr "จับคู่และตั้งค่าคู่ค้าในธุรกรรมธนาคารโดยอัตโนมัติ"
 
 msgid "Auto re-order"
-msgstr ""
+msgstr "สั่งซื้อซ้ำอัตโนมัติ"
 
 msgid "Auto repeat document updated"
-msgstr ""
+msgstr "อัปเดตเอกสารที่ทำซ้ำอัตโนมัติแล้ว"
 
 msgid "Auto write off precision loss while consolidation"
-msgstr ""
+msgstr "ตัดจำหน่ายผลต่างจากการปัดเศษอัตโนมัติระหว่างการรวมบัญชี"
 
 msgid "Automatically Add Filtered Item To Cart"
-msgstr ""
+msgstr "เพิ่มสินค้าที่กรองแล้วลงในรถเข็นโดยอัตโนมัติ"
 
 msgid "Automatically Add Taxes and Charges from Item Tax Template"
-msgstr ""
+msgstr "เพิ่มภาษีและค่าธรรมเนียมจากเทมเพลตภาษีสินค้าโดยอัตโนมัติ"
 
 msgid "Automatically Add Taxes from Taxes and Charges Template"
-msgstr ""
+msgstr "เพิ่มภาษีจากเทมเพลตภาษีและค่าธรรมเนียมโดยอัตโนมัติ"
 
 msgid "Automatically Create New Batch"
-msgstr ""
+msgstr "สร้างชุดการผลิตใหม่โดยอัตโนมัติ"
 
 msgid "Automatically Fetch Payment Terms from Order"
-msgstr ""
+msgstr "ดึงเงื่อนไขการชำระเงินจากใบสั่งซื้อโดยอัตโนมัติ"
 
 msgid "Automatically Process Deferred Accounting Entry"
-msgstr ""
+msgstr "ประมวลผลรายการบัญชีรอตัดบัญชีโดยอัตโนมัติ"
 
 msgid "Automatically post balancing accounting entry"
-msgstr ""
+msgstr "ลงรายการปรับปรุงยอดคงเหลือโดยอัตโนมัติ"
 
 msgid "Automotive"
-msgstr ""
+msgstr "ยานยนต์"
 
 msgid "Availability Of Slots"
-msgstr ""
+msgstr "ความพร้อมของช่วงเวลา"
 
 msgid "Available"
-msgstr ""
+msgstr "มีอยู่ / ว่าง"
 
 msgid "Available Batch Qty at From Warehouse"
-msgstr ""
+msgstr "ปริมาณชุดการผลิตที่ใช้ได้ที่คลังสินค้าต้นทาง"
 
 msgid "Available Batch Qty at Warehouse"
-msgstr ""
+msgstr "ปริมาณชุดการผลิตที่ใช้ได้ที่คลังสินค้า"
 
 msgid "Available Batch Report"
-msgstr ""
+msgstr "รายงานชุดการผลิตที่ใช้ได้"
 
 msgid "Available For Use Date"
-msgstr ""
+msgstr "วันที่พร้อมใช้งาน"
 
 msgid "Available Qty"
-msgstr ""
+msgstr "ปริมาณที่ใช้ได้"
 
 msgid "Available Qty For Consumption"
-msgstr ""
+msgstr "ปริมาณที่ใช้ได้สำหรับการบริโภค"
 
 msgid "Available Qty at Company"
-msgstr ""
+msgstr "ปริมาณที่ใช้ได้ที่บริษัท"
 
 msgid "Available Qty at Source Warehouse"
-msgstr ""
+msgstr "ปริมาณที่ใช้ได้ที่คลังสินค้าต้นทาง"
 
 msgid "Available Qty at Target Warehouse"
-msgstr ""
+msgstr "ปริมาณที่ใช้ได้ที่คลังสินค้าปลายทาง"
 
 msgid "Available Qty at WIP Warehouse"
-msgstr ""
+msgstr "ปริมาณที่ใช้ได้ที่คลังสินค้าระหว่างผลิต"
 
 msgid "Available Qty at Warehouse"
-msgstr ""
+msgstr "ปริมาณที่ใช้ได้ที่คลังสินค้า"
 
 msgid "Available Qty to Reserve"
-msgstr ""
+msgstr "ปริมาณที่สามารถสำรองได้"
 
 msgid "Available Quantity"
-msgstr ""
+msgstr "ปริมาณที่ใช้ได้"
 
 msgid "Available Serial No"
-msgstr ""
+msgstr "หมายเลขซีเรียลที่ใช้ได้"
 
 msgid "Available Stock"
-msgstr ""
+msgstr "สต็อกที่ใช้ได้"
 
 msgid "Available Stock for Packing Items"
-msgstr ""
+msgstr "สต็อกที่ใช้ได้สำหรับสินค้าแพ็ค"
 
 msgid "Available for use date is required"
-msgstr ""
+msgstr "ต้องระบุวันที่พร้อมใช้งาน"
 
 msgid "Available quantity is {0}, you need {1}"
-msgstr ""
+msgstr "ปริมาณที่มีอยู่คือ {0} คุณต้องการ {1}"
 
 msgid "Available {0}"
-msgstr ""
+msgstr "มีอยู่ {0}"
 
 msgid "Available-for-use Date"
-msgstr ""
+msgstr "วันที่พร้อมใช้งาน"
 
 msgid "Available-for-use Date should be after purchase date"
-msgstr ""
+msgstr "วันที่พร้อมใช้งานควรอยู่หลังวันที่ซื้อ"
 
 msgid "Average Age"
-msgstr ""
+msgstr "อายุเฉลี่ย"
 
 msgid "Average Completion"
-msgstr ""
+msgstr "ความสำเร็จโดยเฉลี่ย"
 
 msgid "Average Discount"
-msgstr ""
+msgstr "ส่วนลดเฉลี่ย"
 
 msgid "Average Rate"
-msgstr ""
+msgstr "อัตราเฉลี่ย"
 
 msgid "Average Response Time"
-msgstr ""
+msgstr "เวลาตอบสนองเฉลี่ย"
 
 msgid "Average time taken by the supplier to deliver"
-msgstr ""
+msgstr "เวลาเฉลี่ยที่ซัพพลายเออร์ใช้ในการจัดส่ง"
 
 msgid "Avg Daily Outgoing"
-msgstr ""
+msgstr "ค่าเฉลี่ยรายจ่ายต่อวัน"
 
 msgid "Avg Rate"
-msgstr ""
+msgstr "อัตราเฉลี่ย"
 
 msgid "Avg Rate (Balance Stock)"
-msgstr ""
+msgstr "อัตราเฉลี่ย (สต็อกคงเหลือ)"
 
 msgid "Avg. Buying Price List Rate"
-msgstr ""
+msgstr "เฉลี่ย อัตราตามรายการราคาซื้อ"
 
 msgid "Avg. Selling Price List Rate"
-msgstr ""
+msgstr "เฉลี่ย อัตราตามรายการราคาขาย"
 
 msgid "Avg. Selling Rate"
+msgstr "เฉลี่ย อัตราการขาย"
+
+# Translation for chunk_008_3501-4000.po
+
+msgid "Batch No."
+msgstr "เลขที่แบทช์"
+
+msgid "Batch Nos"
+msgstr "เลขที่แบทช์"
+
+msgid "Batch Nos are created successfully"
+msgstr "สร้างเลขที่แบทช์เรียบร้อยแล้ว"
+
+msgid "Batch Not Available for Return"
+msgstr "แบทช์ไม่พร้อมสำหรับการคืน"
+
+msgid "Batch Number Series"
+msgstr "ชุดเลขที่แบทช์"
+
+msgid "Batch Qty"
+msgstr "ปริมาณแบทช์"
+
+msgid "Batch Quantity"
+msgstr "ปริมาณแบทช์"
+
+msgid "Batch Size"
+msgstr "ขนาดแบทช์"
+
+msgid "Batch UOM"
+msgstr "หน่วยนับของแบทช์"
+
+msgid "Batch and Serial No"
+msgstr "แบทช์และหมายเลขซีเรียล"
+
+msgid "Batch not created for item {} since it does not have a batch series."
+msgstr "ไม่ได้สร้างแบทช์สำหรับสินค้า {} เนื่องจากไม่มีชุดเลขที่แบทช์"
+
+msgid "Batch {0} and Warehouse"
+msgstr "แบทช์ {0} และคลังสินค้า"
+
+msgid "Batch {0} is not available in warehouse {1}"
+msgstr "แบทช์ {0} ไม่มีในคลังสินค้า {1}"
+
+msgid "Batch {0} of Item {1} has expired."
+msgstr "แบทช์ {0} ของสินค้า {1} หมดอายุแล้ว"
+
+msgid "Batch {0} of Item {1} is disabled."
+msgstr "แบทช์ {0} ของสินค้า {1} ถูกปิดใช้งาน"
+
+msgid "Batch-Wise Balance History"
+msgstr "ประวัติยอดคงเหลือตามแบทช์"
+
+msgid "Batchwise Valuation"
+msgstr "การประเมินค่าตามแบทช์"
+
+msgid "Before reconciliation"
+msgstr "ก่อนการกระทบยอด"
+
+msgid "Begin On (Days)"
+msgstr "เริ่มต้นใน (วัน)"
+
+msgid "Beginning of the current subscription period"
+msgstr "จุดเริ่มต้นของรอบการสมัครสมาชิกปัจจุบัน"
+
+msgid "Below Subscription Plans are of different currency to the party default billing currency/Company currency: {0}"
+msgstr "แผนการสมัครสมาชิกด้านล่างนี้ใช้สกุลเงินแตกต่างจากสกุลเงินเรียกเก็บเงินเริ่มต้นของคู่ค้า/สกุลเงินของบริษัท: {0}"
+
+msgid "Bill Date"
+msgstr "วันที่ในบิล"
+
+msgid "Bill No"
+msgstr "เลขที่บิล"
+
+msgid "Bill for Rejected Quantity in Purchase Invoice"
+msgstr "เรียกเก็บเงินสำหรับปริมาณที่ถูกปฏิเสธในใบแจ้งหนี้ซื้อ"
+
+msgid "Bill of Materials"
+msgstr "รายการวัตถุดิบในการผลิต"
+
+msgid "Billed"
+msgstr "เรียกเก็บเงินแล้ว"
+
+msgid "Billed Amount"
+msgstr "จำนวนเงินที่เรียกเก็บแล้ว"
+
+msgid "Billed Amt"
+msgstr "จำนวนเงินที่เรียกเก็บ"
+
+msgid "Billed Items To Be Received"
+msgstr "สินค้าที่เรียกเก็บเงินแล้วรอรับ"
+
+msgid "Billed Qty"
+msgstr "ปริมาณที่เรียกเก็บแล้ว"
+
+msgid "Billed, Received & Returned"
+msgstr "เรียกเก็บแล้ว, ได้รับแล้ว และส่งคืนแล้ว"
+
+msgid "Billing Address"
+msgstr "ที่อยู่สำหรับเรียกเก็บเงิน"
+
+msgid "Billing Address Details"
+msgstr "รายละเอียดที่อยู่สำหรับเรียกเก็บเงิน"
+
+msgid "Billing Address Name"
+msgstr "ชื่อที่อยู่สำหรับเรียกเก็บเงิน"
+
+msgid "Billing Address does not belong to the {0}"
+msgstr "ที่อยู่สำหรับเรียกเก็บเงินไม่ได้เป็นของ {0}"
+
+msgid "Billing Amount"
+msgstr "จำนวนเงินที่เรียกเก็บ"
+
+msgid "Billing City"
+msgstr "เมืองสำหรับเรียกเก็บเงิน"
+
+msgid "Billing Country"
+msgstr "ประเทศสำหรับเรียกเก็บเงิน"
+
+msgid "Billing County"
+msgstr "เขตสำหรับเรียกเก็บเงิน"
+
+msgid "Billing Currency"
+msgstr "สกุลเงินสำหรับเรียกเก็บเงิน"
+
+msgid "Billing Date"
+msgstr "วันที่เรียกเก็บเงิน"
+
+msgid "Billing Details"
+msgstr "รายละเอียดการเรียกเก็บเงิน"
+
+msgid "Billing Email"
+msgstr "อีเมลสำหรับเรียกเก็บเงิน"
+
+msgid "Billing Hours"
+msgstr "ชั่วโมงที่เรียกเก็บเงิน"
+
+msgid "Billing Interval"
+msgstr "ช่วงเวลาการเรียกเก็บเงิน"
+
+msgid "Billing Interval Count"
+msgstr "จำนวนช่วงเวลาการเรียกเก็บเงิน"
+
+msgid "Billing Interval Count cannot be less than 1"
+msgstr "จำนวนช่วงเวลาการเรียกเก็บเงินต้องไม่น้อยกว่า 1"
+
+msgid "Billing Interval in Subscription Plan must be Month to follow calendar months"
+msgstr "ช่วงเวลาการเรียกเก็บเงินในแผนการสมัครสมาชิกต้องเป็น 'เดือน' เพื่อให้เป็นไปตามเดือนปฏิทิน"
+
+msgid "Billing Rate"
+msgstr "อัตราการเรียกเก็บเงิน"
+
+msgid "Billing State"
+msgstr "รัฐ/จังหวัดสำหรับเรียกเก็บเงิน"
+
+msgid "Billing Status"
+msgstr "สถานะการเรียกเก็บเงิน"
+
+msgid "Billing Zipcode"
+msgstr "รหัสไปรษณีย์สำหรับเรียกเก็บเงิน"
+
+msgid "Billing currency must be equal to either default company's currency or party account currency"
+msgstr "สกุลเงินที่เรียกเก็บต้องตรงกับสกุลเงินเริ่มต้นของบริษัทหรือสกุลเงินบัญชีของคู่ค้า"
+
+msgid "Bin"
+msgstr "ช่องเก็บ"
+
+msgid "Bin Qty Recalculated"
+msgstr "คำนวณปริมาณในช่องเก็บใหม่แล้ว"
+
+msgid "Bio / Cover Letter"
+msgstr "ประวัติส่วนตัว / จดหมายนำ"
+
+msgid "Biot"
+msgstr "ไบโอต์"
+
+msgid "Biotechnology"
+msgstr "เทคโนโลยีชีวภาพ"
+
+msgid "Bisect Accounting Statements"
+msgstr "แบ่งครึ่งงบการเงิน"
+
+msgid "Bisect Left"
+msgstr "แบ่งซ้าย"
+
+msgid "Bisect Nodes"
+msgstr "แบ่งโหนด"
+
+msgid "Bisect Right"
+msgstr "แบ่งขวา"
+
+msgid "Bisecting From"
+msgstr "กำลังแบ่งจาก"
+
+msgid "Bisecting Left ..."
+msgstr "กำลังแบ่งซ้าย ..."
+
+msgid "Bisecting Right ..."
+msgstr "กำลังแบ่งขวา ..."
+
+msgid "Bisecting To"
+msgstr "กำลังแบ่งถึง"
+
+msgid "Black"
+msgstr "สีดำ"
+
+msgid "Blanket Order"
+msgstr "ใบสั่งซื้อแบบครอบคลุม"
+
+msgid "Blanket Order Allowance (%)"
+msgstr "ส่วนเผื่อใบสั่งซื้อแบบครอบคลุม (%)"
+
+msgid "Blanket Order Item"
+msgstr "รายการในใบสั่งซื้อแบบครอบคลุม"
+
+msgid "Blanket Order Rate"
+msgstr "อัตราในใบสั่งซื้อแบบครอบคลุม"
+
+msgid "Block Invoice"
+msgstr "ระงับใบแจ้งหนี้"
+
+msgid "Block Supplier"
+msgstr "ระงับซัพพลายเออร์"
+
+msgid "Blog Subscriber"
+msgstr "ผู้ติดตามบล็อก"
+
+msgid "Blood Group"
+msgstr "กรุ๊ปเลือด"
+
+msgid "Blue"
+msgstr "สีน้ำเงิน"
+
+msgid "Body"
+msgstr "เนื้อหา"
+
+msgid "Body Text"
+msgstr "ข้อความเนื้อหา"
+
+msgid "Body and Closing Text Help"
+msgstr "วิธีใช้ข้อความเนื้อหาและข้อความปิดท้าย"
+
+msgid "Bom No"
+msgstr "เลขที่ BOM"
+
+msgid "Book Advance Payments as Liability option is chosen. Paid From account changed from {0} to {1}."
+msgstr "เลือกตัวเลือก 'บันทึกการชำระเงินล่วงหน้าเป็นหนี้สิน' แล้ว บัญชีที่จ่ายจากเปลี่ยนจาก {0} เป็น {1}"
+
+msgid "Book Advance Payments in Separate Party Account"
+msgstr "บันทึกการชำระเงินล่วงหน้าในบัญชีคู่ค้าแยกต่างหาก"
+
+msgid "Book Appointment"
+msgstr "จองนัดหมาย"
+
+msgid "Book Asset Depreciation Entry Automatically"
+msgstr "บันทึกรายการค่าเสื่อมราคาสินทรัพย์โดยอัตโนมัติ"
+
+msgid "Book Deferred Entries Based On"
+msgstr "บันทึกรายการรอตัดบัญชีตาม"
+
+msgid "Book Deferred Entries Via Journal Entry"
+msgstr "บันทึกรายการรอตัดบัญชีผ่านสมุดรายวันทั่วไป"
+
+msgid "Book Tax Loss on Early Payment Discount"
+msgstr "บันทึกขาดทุนทางภาษีจากส่วนลดการชำระเงินก่อนกำหนด"
+
+msgid "Book an appointment"
+msgstr "ทำการจองนัดหมาย"
+
+msgid "Booked"
+msgstr "จองแล้ว"
+
+msgid "Booked Fixed Asset"
+msgstr "สินทรัพย์ถาวรที่จองแล้ว"
+
+msgid "Booking stock value across multiple accounts will make it harder to track stock and account value."
+msgstr "การบันทึกมูลค่าสต็อกในหลายบัญชีจะทำให้การติดตามสต็อกและมูลค่าบัญชียากขึ้น"
+
+msgid "Books have been closed till the period ending on {0}"
+msgstr "บัญชีถูกปิดจนถึงงวดสิ้นสุดวันที่ {0}"
+
+msgid "Both"
+msgstr "ทั้งสอง"
+
+msgid "Both Payable Account: {0} and Advance Account: {1} must be of same currency for company: {2}"
+msgstr "ทั้งบัญชีเจ้าหนี้: {0} และบัญชีล่วงหน้า: {1} ต้องเป็นสกุลเงินเดียวกันสำหรับบริษัท: {2}"
+
+msgid "Both Receivable Account: {0} and Advance Account: {1} must be of same currency for company: {2}"
+msgstr "ทั้งบัญชีลูกหนี้: {0} และบัญชีล่วงหน้า: {1} ต้องเป็นสกุลเงินเดียวกันสำหรับบริษัท: {2}"
+
+msgid "Both Trial Period Start Date and Trial Period End Date must be set"
+msgstr "ต้องตั้งค่าทั้งวันที่เริ่มต้นและวันที่สิ้นสุดของช่วงทดลองใช้"
+
+msgid "Both {0} Account: {1} and Advance Account: {2} must be of same currency for company: {3}"
+msgstr "ทั้งบัญชี {0}: {1} และบัญชีล่วงหน้า: {2} ต้องเป็นสกุลเงินเดียวกันสำหรับบริษัท: {3}"
+
+msgid "Box"
+msgstr "กล่อง"
+
+msgid "Branch"
+msgstr "สาขา"
+
+msgid "Branch Code"
+msgstr "รหัสสาขา"
+
+msgid "Brand"
+msgstr "แบรนด์"
+
+msgid "Brand Defaults"
+msgstr "ค่าเริ่มต้นของแบรนด์"
+
+msgid "Brand Name"
+msgstr "ชื่อแบรนด์"
+
+msgid "Breakdown"
+msgstr "การชำรุด"
+
+msgid "Broadcasting"
+msgstr "การแพร่กระจาย"
+
+msgid "Brokerage"
+msgstr "ค่านายหน้า"
+
+msgid "Browse BOM"
+msgstr "เรียกดู BOM"
+
+msgid "Btu (It)"
+msgstr "บีทียู (IT)"
+
+msgid "Btu (Mean)"
+msgstr "บีทียู (เฉลี่ย)"
+
+msgid "Btu (Th)"
+msgstr "บีทียู (TH)"
+
+msgid "Btu/Hour"
+msgstr "บีทียู/ชั่วโมง"
+
+msgid "Btu/Minutes"
+msgstr "บีทียู/นาที"
+
+msgid "Btu/Seconds"
+msgstr "บีทียู/วินาที"
+
+msgid "Budget"
+msgstr "งบประมาณ"
+
+msgid "Budget Account"
+msgstr "บัญชีงบประมาณ"
+
+msgid "Budget Accounts"
+msgstr "บัญชีงบประมาณ"
+
+msgid "Budget Against"
+msgstr "งบประมาณเทียบกับ"
+
+msgid "Budget Amount"
+msgstr "จำนวนงบประมาณ"
+
+msgid "Budget Detail"
+msgstr "รายละเอียดงบประมาณ"
+
+msgid "Budget Exceeded"
+msgstr "เกินงบประมาณ"
+
+msgid "Budget List"
+msgstr "รายการงบประมาณ"
+
+msgid "Budget Variance Report"
+msgstr "รายงานผลต่างงบประมาณ"
+
+msgid "Budget cannot be assigned against Group Account {0}"
+msgstr "ไม่สามารถกำหนดงบประมาณให้กับบัญชีกลุ่ม {0} ได้"
+
+msgid "Budget cannot be assigned against {0}, as it's not an Income or Expense account"
+msgstr "ไม่สามารถกำหนดงบประมาณให้กับ {0} ได้ เนื่องจากไม่ใช่บัญชีรายได้หรือค่าใช้จ่าย"
+
+msgid "Budgets"
+msgstr "งบประมาณ"
+
+msgid "Buffered Cursor"
+msgstr "เคอร์เซอร์แบบบัฟเฟอร์"
+
+msgid "Build All?"
+msgstr "สร้างทั้งหมดหรือไม่?"
+
+msgid "Build Tree"
+msgstr "สร้างโครงสร้างต้นไม้"
+
+msgid "Buildable Qty"
+msgstr "ปริมาณที่สร้างได้"
+
+msgid "Buildings"
+msgstr "อาคาร"
+
+msgid "Bulk Rename Jobs"
+msgstr "งานเปลี่ยนชื่อเป็นกลุ่ม"
+
+msgid "Bulk Transaction Log"
+msgstr "บันทึกธุรกรรมเป็นกลุ่ม"
+
+msgid "Bulk Transaction Log Detail"
+msgstr "รายละเอียดบันทึกธุรกรรมเป็นกลุ่ม"
+
+msgid "Bulk Update"
+msgstr "อัปเดตเป็นกลุ่ม"
+
+msgid "Bundle Items"
+msgstr "สินค้าชุด"
+
+msgid "Bundle Qty"
+msgstr "ปริมาณชุด"
+
+msgid "Bushel (UK)"
+msgstr "บุชเชล (UK)"
+
+msgid "Bushel (US Dry Level)"
+msgstr "บุชเชล (US Dry Level)"
+
+msgid "Business Analyst"
+msgstr "นักวิเคราะห์ธุรกิจ"
+
+msgid "Business Development Manager"
+msgstr "ผู้จัดการฝ่ายพัฒนาธุรกิจ"
+
+msgid "Busy"
+msgstr "ไม่ว่าง"
+
+msgid "Buy"
+msgstr "ซื้อ"
+
+msgid "Buyer of Goods and Services."
+msgstr "ผู้ซื้อสินค้าและบริการ"
+
+msgid "Buying"
+msgstr "การซื้อ"
+
+msgid "Buying & Selling Settings"
+msgstr "การตั้งค่าการซื้อและขาย"
+
+msgid "Buying Amount"
+msgstr "จำนวนเงินซื้อ"
+
+msgid "Buying Price List"
+msgstr "รายการราคาซื้อ"
+
+msgid "Buying Rate"
+msgstr "อัตราการซื้อ"
+
+msgid "Buying Settings"
+msgstr "การตั้งค่าการซื้อ"
+
+msgid "Buying and Selling"
+msgstr "การซื้อและขาย"
+
+msgid "Buying must be checked, if Applicable For is selected as {0}"
+msgstr "ต้องเลือก 'การซื้อ' หาก 'ใช้สำหรับ' ถูกเลือกเป็น {0}"
+
+msgid "By default, the Supplier Name is set as per the Supplier Name entered. If you want Suppliers to be named by a <a href='https://docs.erpnext.com/docs/user/manual/en/setting-up/settings/naming-series' target='_blank'>Naming Series</a> choose the 'Naming Series' option."
+msgstr "โดยค่าเริ่มต้น ชื่อซัพพลายเออร์จะถูกตั้งค่าตามชื่อซัพพลายเออร์ที่ป้อน หากคุณต้องการให้ซัพพลายเออร์ถูกตั้งชื่อตาม <a href='https://docs.erpnext.com/docs/user/manual/en/setting-up/settings/naming-series' target='_blank'>ชุดการตั้งชื่อ</a> ให้เลือกตัวเลือก 'ชุดการตั้งชื่อ'"
+
+msgid "Bypass Credit Limit Check at Sales Order"
+msgstr "ข้ามการตรวจสอบวงเงินเครดิตที่ใบสั่งขาย"
+
+msgid "Bypass credit check at Sales Order"
+msgstr "ข้ามการตรวจสอบวงเงินเครดิตที่ใบสั่งขาย"
+
+msgid "CANCELLED"
+msgstr "ยกเลิกแล้ว"
+
+msgid "CC"
+msgstr "สำเนาถึง"
+
+msgid "CC To"
+msgstr "สำเนาถึง"
+
+msgid "CODE-39"
+msgstr "CODE-39"
+
+msgid "COGS By Item Group"
+msgstr "ต้นทุนขายตามกลุ่มสินค้า"
+
+msgid "COGS Debit"
+msgstr "เดบิตต้นทุนขาย"
+
+msgid "CRM"
+msgstr "CRM"
+
+msgid "CRM Note"
+msgstr "บันทึก CRM"
+
+msgid "CRM Settings"
+msgstr "การตั้งค่า CRM"
+
+msgid "CWIP Account"
+msgstr "บัญชีงานระหว่างทำประเภททุน"
+
+msgid "Caballeria"
+msgstr "คาบัลเลเรีย"
+
+msgid "Cable Length"
+msgstr "ความยาวสายเคเบิล"
+
+msgid "Cable Length (UK)"
+msgstr "ความยาวสายเคเบิล (UK)"
+
+# Translation for chunk_009_4001-4500.po
+
+msgid "Cable Length (US)"
+msgstr "ความยาวสายเคเบิล (US)"
+
+msgid "Calculate Ageing With"
+msgstr "คำนวณอายุหนี้ด้วย"
+
+msgid "Calculate Based On"
+msgstr "คำนวณจาก"
+
+msgid "Calculate Depreciation"
+msgstr "คำนวณค่าเสื่อมราคา"
+
+msgid "Calculate Estimated Arrival Times"
+msgstr "คำนวณเวลาที่คาดว่าจะมาถึง"
+
+msgid "Calculate Product Bundle Price based on Child Items' Rates"
+msgstr "คำนวณราคาชุดสินค้าตามอัตราของสินค้าย่อย"
+
+msgid "Calculate daily depreciation using total days in depreciation period"
+msgstr "คำนวณค่าเสื่อมราคารายวันโดยใช้จำนวนวันทั้งหมดในรอบระยะเวลาค่าเสื่อมราคา"
+
+msgid "Calculated Bank Statement balance"
+msgstr "ยอดคงเหลือในใบแจ้งยอดธนาคารที่คำนวณแล้ว"
+
+msgid "Calculated Discount Mismatch"
+msgstr "ส่วนลดที่คำนวณไม่ตรงกัน"
+
+msgid "Calculations"
+msgstr "การคำนวณ"
+
+msgid "Calendar Event"
+msgstr "กิจกรรมในปฏิทิน"
+
+msgid "Calibration"
+msgstr "การสอบเทียบ"
+
+msgid "Calibre"
+msgstr "คาลิเบอร์"
+
+msgid "Call Again"
+msgstr "โทรอีกครั้ง"
+
+msgid "Call Connected"
+msgstr "เชื่อมต่อการโทรแล้ว"
+
+msgid "Call Details"
+msgstr "รายละเอียดการโทร"
+
+msgid "Call Duration in seconds"
+msgstr "ระยะเวลาการโทร (วินาที)"
+
+msgid "Call Ended"
+msgstr "สิ้นสุดการโทร"
+
+msgid "Call Handling Schedule"
+msgstr "ตารางการจัดการสาย"
+
+msgid "Call Log"
+msgstr "บันทึกการโทร"
+
+msgid "Call Missed"
+msgstr "ไม่ได้รับสาย"
+
+msgid "Call Received By"
+msgstr "รับสายโดย"
+
+msgid "Call Receiving Device"
+msgstr "อุปกรณ์รับสาย"
+
+msgid "Call Routing"
+msgstr "การกำหนดเส้นทางสาย"
+
+msgid "Call Schedule Row {0}: To time slot should always be ahead of From time slot."
+msgstr "แถวตารางการโทร {0}: ช่วงเวลา 'ถึง' ควรอยู่หลังช่วงเวลา 'จาก' เสมอ"
+
+msgid "Call Summary"
+msgstr "สรุปการโทร"
+
+msgid "Call Summary Saved"
+msgstr "บันทึกสรุปการโทรแล้ว"
+
+msgid "Call Type"
+msgstr "ประเภทการโทร"
+
+msgid "Callback"
+msgstr "การโทรกลับ"
+
+msgid "Calorie (Food)"
+msgstr "แคลอรี่ (อาหาร)"
+
+msgid "Calorie (It)"
+msgstr "แคลอรี่ (It)"
+
+msgid "Calorie (Mean)"
+msgstr "แคลอรี่ (เฉลี่ย)"
+
+msgid "Calorie (Th)"
+msgstr "แคลอรี่ (Th)"
+
+msgid "Calorie/Seconds"
+msgstr "แคลอรี่/วินาที"
+
+msgid "Campaign"
+msgstr "แคมเปญ"
+
+msgid "Campaign Efficiency"
+msgstr "ประสิทธิภาพแคมเปญ"
+
+msgid "Campaign Email Schedule"
+msgstr "ตารางอีเมลแคมเปญ"
+
+msgid "Campaign Item"
+msgstr "รายการแคมเปญ"
+
+msgid "Campaign Name"
+msgstr "ชื่อแคมเปญ"
+
+msgid "Campaign Naming By"
+msgstr "การตั้งชื่อแคมเปญโดย"
+
+msgid "Campaign Schedules"
+msgstr "ตารางเวลาแคมเปญ"
+
+msgid "Can be approved by {0}"
+msgstr "สามารถอนุมัติโดย {0}"
+
+msgid "Can not close Work Order. Since {0} Job Cards are in Work In Progress state."
+msgstr "ไม่สามารถปิดใบสั่งงานได้ เนื่องจากมีบัตรงาน {0} ใบอยู่ในสถานะ 'กำลังดำเนินการ'"
+
+msgid "Can not filter based on Cashier, if grouped by Cashier"
+msgstr "ไม่สามารถกรองตามพนักงานเก็บเงินได้ หากจัดกลุ่มตามพนักงานเก็บเงิน"
+
+msgid "Can not filter based on Child Account, if grouped by Account"
+msgstr "ไม่สามารถกรองตามบัญชีย่อยได้ หากจัดกลุ่มตามบัญชี"
+
+msgid "Can not filter based on Customer, if grouped by Customer"
+msgstr "ไม่สามารถกรองตามลูกค้าได้ หากจัดกลุ่มตามลูกค้า"
+
+msgid "Can not filter based on POS Profile, if grouped by POS Profile"
+msgstr "ไม่สามารถกรองตามโปรไฟล์ POS ได้ หากจัดกลุ่มตามโปรไฟล์ POS"
+
+msgid "Can not filter based on Payment Method, if grouped by Payment Method"
+msgstr "ไม่สามารถกรองตามวิธีการชำระเงินได้ หากจัดกลุ่มตามวิธีการชำระเงิน"
+
+msgid "Can not filter based on Voucher No, if grouped by Voucher"
+msgstr "ไม่สามารถกรองตามเลขที่ใบสำคัญได้ หากจัดกลุ่มตามใบสำคัญ"
+
+msgid "Can only make payment against unbilled {0}"
+msgstr "สามารถชำระเงินได้เฉพาะกับ {0} ที่ยังไม่ได้เรียกเก็บเงิน"
+
+msgid "Can refer row only if the charge type is 'On Previous Row Amount' or 'Previous Row Total'"
+msgstr "สามารถอ้างอิงแถวได้ก็ต่อเมื่อประเภทค่าใช้จ่ายเป็น 'ตามจำนวนเงินแถวก่อนหน้า' หรือ 'ยอดรวมแถวก่อนหน้า'"
+
+msgid "Can't change the valuation method, as there are transactions against some items which do not have its own valuation method"
+msgstr "ไม่สามารถเปลี่ยนวิธีการประเมินค่าได้ เนื่องจากมีธุรกรรมที่เกี่ยวข้องกับสินค้าบางรายการที่ไม่มีวิธีการประเมินค่าของตนเอง"
+
+msgid "Cancel"
+msgstr "ยกเลิก"
+
+msgid "Cancel At End Of Period"
+msgstr "ยกเลิกเมื่อสิ้นสุดรอบ"
+
+msgid "Cancel Material Visit {0} before cancelling this Warranty Claim"
+msgstr "ยกเลิกการเข้าพบเรื่องวัสดุ {0} ก่อนที่จะยกเลิกการเคลมประกันนี้"
+
+msgid "Cancel Material Visits {0} before cancelling this Maintenance Visit"
+msgstr "ยกเลิกการเข้าพบเรื่องวัสดุ {0} ก่อนที่จะยกเลิกการเข้าบำรุงรักษานี้"
+
+msgid "Cancel Subscription"
+msgstr "ยกเลิกการสมัครสมาชิก"
+
+msgid "Cancel Subscription After Grace Period"
+msgstr "ยกเลิกการสมัครสมาชิกหลังช่วงผ่อนผัน"
+
+msgid "Cancelation Date"
+msgstr "วันที่ยกเลิก"
+
+msgid "Canceled"
+msgstr "ยกเลิกแล้ว"
+
+msgid "Cancelled"
+msgstr "ยกเลิกแล้ว"
+
+msgid "Cannot Assign Cashier"
+msgstr "ไม่สามารถมอบหมายพนักงานเก็บเงิน"
+
+msgid "Cannot Calculate Arrival Time as Driver Address is Missing."
+msgstr "ไม่สามารถคำนวณเวลาถึงได้เนื่องจากไม่มีที่อยู่คนขับ"
+
+msgid "Cannot Create Return"
+msgstr "ไม่สามารถสร้างรายการคืนสินค้าได้"
+
+msgid "Cannot Merge"
+msgstr "ไม่สามารถรวมได้"
+
+msgid "Cannot Optimize Route as Driver Address is Missing."
+msgstr "ไม่สามารถปรับเส้นทางให้เหมาะสมได้เนื่องจากไม่มีที่อยู่คนขับ"
+
+msgid "Cannot Relieve Employee"
+msgstr "ไม่สามารถปลดพนักงานได้"
+
+msgid "Cannot Resubmit Ledger entries for vouchers in Closed fiscal year."
+msgstr "ไม่สามารถส่งรายการบัญชีแยกประเภทซ้ำสำหรับใบสำคัญในปีงบประมาณที่ปิดแล้วได้"
+
+msgid "Cannot amend {0} {1}, please create a new one instead."
+msgstr "ไม่สามารถแก้ไข {0} {1} ได้ กรุณาสร้างใหม่แทน"
+
+msgid "Cannot apply TDS against multiple parties in one entry"
+msgstr "ไม่สามารถใช้หัก ณ ที่จ่ายกับหลายคู่ค้าในรายการเดียวได้"
+
+msgid "Cannot be a fixed asset item as Stock Ledger is created."
+msgstr "ไม่สามารถเป็นสินทรัพย์ถาวรได้เนื่องจากมีการสร้างบัญชีแยกประเภทสต็อกแล้ว"
+
+msgid "Cannot cancel POS Closing Entry"
+msgstr "ไม่สามารถยกเลิกรายการปิดยอด POS ได้"
+
+msgid "Cannot cancel as processing of cancelled documents is pending."
+msgstr "ไม่สามารถยกเลิกได้เนื่องจากกำลังรอการประมวลผลเอกสารที่ยกเลิก"
+
+msgid "Cannot cancel because submitted Stock Entry {0} exists"
+msgstr "ไม่สามารถยกเลิกได้เนื่องจากมีรายการสต็อกที่ส่งแล้ว {0} อยู่"
+
+msgid "Cannot cancel the transaction. Reposting of item valuation on submission is not completed yet."
+msgstr "ไม่สามารถยกเลิกธุรกรรมได้ การลงรายการประเมินค่าสินค้าใหม่เมื่อส่งยังไม่เสร็จสมบูรณ์"
+
+msgid "Cannot cancel this document as it is linked with the submitted asset {asset_link}. Please cancel the asset to continue."
+msgstr "ไม่สามารถยกเลิกเอกสารนี้ได้เนื่องจากเชื่อมโยงกับสินทรัพย์ที่ส่งแล้ว {asset_link} กรุณายกเลิกสินทรัพย์เพื่อดำเนินการต่อ"
+
+msgid "Cannot cancel transaction for Completed Work Order."
+msgstr "ไม่สามารถยกเลิกธุรกรรมสำหรับใบสั่งงานที่เสร็จสมบูรณ์แล้วได้"
+
+msgid "Cannot change Attributes after stock transaction. Make a new Item and transfer stock to the new Item"
+msgstr "ไม่สามารถเปลี่ยนคุณลักษณะได้หลังจากมีธุรกรรมสต็อกแล้ว ให้สร้างสินค้าใหม่และโอนสต็อกไปยังสินค้าใหม่"
+
+msgid "Cannot change Fiscal Year Start Date and Fiscal Year End Date once the Fiscal Year is saved."
+msgstr "ไม่สามารถเปลี่ยนวันที่เริ่มต้นปีงบประมาณและวันที่สิ้นสุดปีงบประมาณได้เมื่อบันทึกปีงบประมาณแล้ว"
+
+msgid "Cannot change Reference Document Type."
+msgstr "ไม่สามารถเปลี่ยนประเภทเอกสารอ้างอิงได้"
+
+msgid "Cannot change Service Stop Date for item in row {0}"
+msgstr "ไม่สามารถเปลี่ยนวันที่หยุดให้บริการสำหรับสินค้าในแถวที่ {0}"
+
+msgid "Cannot change Variant properties after stock transaction. You will have to make a new Item to do this."
+msgstr "ไม่สามารถเปลี่ยนคุณสมบัติตัวแปรได้หลังจากมีธุรกรรมสต็อกแล้ว คุณจะต้องสร้างสินค้าใหม่เพื่อทำเช่นนี้"
+
+msgid "Cannot change company's default currency, because there are existing transactions. Transactions must be cancelled to change the default currency."
+msgstr "ไม่สามารถเปลี่ยนสกุลเงินเริ่มต้นของบริษัทได้เนื่องจากมีธุรกรรมอยู่แล้ว ต้องยกเลิกธุรกรรมเพื่อเปลี่ยนสกุลเงินเริ่มต้น"
+
+msgid "Cannot complete task {0} as its dependant task {1} are not completed / cancelled."
+msgstr "ไม่สามารถทำงาน {0} ให้เสร็จได้ เนื่องจากงานที่ขึ้นต่อกัน {1} ยังไม่เสร็จสิ้น / ถูกยกเลิก"
+
+msgid "Cannot convert Cost Center to ledger as it has child nodes"
+msgstr "ไม่สามารถแปลงศูนย์ต้นทุนเป็นบัญชีแยกประเภทได้เนื่องจากมีโหนดลูก"
+
+msgid "Cannot convert Task to non-group because the following child Tasks exist: {0}."
+msgstr "ไม่สามารถแปลงงานเป็นแบบไม่มีกลุ่มได้เนื่องจากมีงานย่อยต่อไปนี้อยู่: {0}"
+
+msgid "Cannot convert to Group because Account Type is selected."
+msgstr "ไม่สามารถแปลงเป็นกลุ่มได้เนื่องจากมีการเลือกประเภทบัญชีไว้"
+
+msgid "Cannot covert to Group because Account Type is selected."
+msgstr "ไม่สามารถแปลงเป็นกลุ่มได้เนื่องจากมีการเลือกประเภทบัญชีไว้"
+
+msgid "Cannot create Stock Reservation Entries for future dated Purchase Receipts."
+msgstr "ไม่สามารถสร้างรายการสำรองสต็อกสำหรับใบรับสินค้าที่ลงวันที่ในอนาคตได้"
+
+msgid "Cannot create a pick list for Sales Order {0} because it has reserved stock. Please unreserve the stock in order to create a pick list."
+msgstr "ไม่สามารถสร้างรายการเลือกสินค้าสำหรับใบสั่งขาย {0} ได้เนื่องจากมีการสำรองสต็อกไว้ กรุณายกเลิกการสำรองสต็อกเพื่อสร้างรายการเลือกสินค้า"
+
+msgid "Cannot create accounting entries against disabled accounts: {0}"
+msgstr "ไม่สามารถสร้างรายการบัญชีกับบัญชีที่ปิดใช้งาน: {0}"
+
+msgid "Cannot create return for consolidated invoice {0}."
+msgstr "ไม่สามารถสร้างการคืนสินค้าสำหรับใบแจ้งหนี้รวม {0} ได้"
+
+msgid "Cannot create root account."
+msgstr "ไม่สามารถสร้างบัญชีรากได้"
+
+msgid "Cannot deactivate or cancel BOM as it is linked with other BOMs"
+msgstr "ไม่สามารถปิดใช้งานหรือยกเลิก BOM ได้เนื่องจากเชื่อมโยงกับ BOM อื่น"
+
+msgid "Cannot declare as lost, because Quotation has been made."
+msgstr "ไม่สามารถประกาศเป็น 'สูญหาย' ได้เนื่องจากมีการสร้างใบเสนอราคาแล้ว"
+
+msgid "Cannot deduct when category is for 'Valuation' or 'Valuation and Total'"
+msgstr "ไม่สามารถหักได้เมื่อหมวดหมู่อยู่ใน 'การประเมินค่า' หรือ 'การประเมินค่าและยอดรวม'"
+
+msgid "Cannot delete Exchange Gain/Loss row"
+msgstr "ไม่สามารถลบแถวกำไร/ขาดทุนจากอัตราแลกเปลี่ยนได้"
+
+msgid "Cannot delete Serial No {0}, as it is used in stock transactions"
+msgstr "ไม่สามารถลบหมายเลขซีเรียล {0} ได้เนื่องจากมีการใช้ในธุรกรรมสต็อก"
+
+msgid "Cannot disassemble more than produced quantity."
+msgstr "ไม่สามารถถอดประกอบเกินกว่าปริมาณที่ผลิตได้"
+
+msgid "Cannot enqueue multi docs for one company. {0} is already queued/running for company: {1}"
+msgstr "ไม่สามารถเพิ่มเอกสารหลายฉบับเข้าคิวสำหรับบริษัทเดียวได้ {0} อยู่ในคิว/กำลังทำงานสำหรับบริษัท: {1} อยู่แล้ว"
+
+msgid "Cannot ensure delivery by Serial No as Item {0} is added with and without Ensure Delivery by Serial No."
+msgstr "ไม่สามารถรับประกันการจัดส่งด้วยหมายเลขซีเรียลได้ เนื่องจากสินค้า {0} ถูกเพิ่มทั้งแบบมีและไม่มีการรับประกันการจัดส่งด้วยหมายเลขซีเรียล"
+
+msgid "Cannot find Item with this Barcode"
+msgstr "ไม่พบสินค้าที่มีบาร์โค้ดนี้"
+
+msgid "Cannot find a default warehouse for item {0}. Please set one in the Item Master or in Stock Settings."
+msgstr "ไม่พบคลังสินค้าเริ่มต้นสำหรับสินค้า {0} กรุณาตั้งค่าในข้อมูลหลักของสินค้าหรือในการตั้งค่าสต็อก"
+
+msgid "Cannot make any transactions until the deletion job is completed"
+msgstr "ไม่สามารถทำธุรกรรมใดๆ ได้จนกว่างานลบจะเสร็จสมบูรณ์"
+
+msgid "Cannot produce more Item {0} than Sales Order quantity {1}"
+msgstr "ไม่สามารถผลิตสินค้า {0} เกินกว่าปริมาณในใบสั่งขาย {1}"
+
+msgid "Cannot produce more item for {0}"
+msgstr "ไม่สามารถผลิตสินค้าเพิ่มสำหรับ {0}"
+
+msgid "Cannot produce more than {0} items for {1}"
+msgstr "ไม่สามารถผลิตสินค้าเกิน {0} ชิ้นสำหรับ {1}"
+
+msgid "Cannot receive from customer against negative outstanding"
+msgstr "ไม่สามารถรับเงินจากลูกค้าที่มียอดค้างชำระติดลบได้"
+
+msgid "Cannot refer row number greater than or equal to current row number for this Charge type"
+msgstr "ไม่สามารถอ้างอิงหมายเลขแถวที่มากกว่าหรือเท่ากับหมายเลขแถวปัจจุบันสำหรับประเภทค่าใช้จ่ายนี้ได้"
+
+msgid "Cannot retrieve link token for update. Check Error Log for more information"
+msgstr "ไม่สามารถดึงโทเค็นลิงก์สำหรับการอัปเดตได้ ตรวจสอบบันทึกข้อผิดพลาดสำหรับข้อมูลเพิ่มเติม"
+
+msgid "Cannot retrieve link token. Check Error Log for more information"
+msgstr "ไม่สามารถดึงโทเค็นลิงก์ได้ ตรวจสอบบันทึกข้อผิดพลาดสำหรับข้อมูลเพิ่มเติม"
+
+msgid "Cannot select charge type as 'On Previous Row Amount' or 'On Previous Row Total' for first row"
+msgstr "ไม่สามารถเลือกประเภทค่าใช้จ่ายเป็น 'ตามจำนวนเงินแถวก่อนหน้า' หรือ 'ตามยอดรวมแถวก่อนหน้า' สำหรับแถวแรกได้"
+
+msgid "Cannot set as Lost as Sales Order is made."
+msgstr "ไม่สามารถตั้งเป็น 'สูญหาย' ได้เนื่องจากมีการสร้างใบสั่งขายแล้ว"
+
+msgid "Cannot set authorization on basis of Discount for {0}"
+msgstr "ไม่สามารถตั้งค่าการอนุมัติตามส่วนลดสำหรับ {0} ได้"
+
+msgid "Cannot set multiple Item Defaults for a company."
+msgstr "ไม่สามารถตั้งค่าเริ่มต้นของสินค้าหลายรายการสำหรับบริษัทเดียวได้"
+
+msgid "Cannot set quantity less than delivered quantity"
+msgstr "ไม่สามารถตั้งค่าปริมาณน้อยกว่าปริมาณที่จัดส่งแล้ว"
+
+msgid "Cannot set quantity less than received quantity"
+msgstr "ไม่สามารถตั้งค่าปริมาณน้อยกว่าปริมาณที่ได้รับแล้ว"
+
+msgid "Cannot set the field <b>{0}</b> for copying in variants"
+msgstr "ไม่สามารถตั้งค่าฟิลด์ <b>{0}</b> สำหรับการคัดลอกในตัวแปรได้"
+
+msgid "Cannot {0} from {1} without any negative outstanding invoice"
+msgstr "ไม่สามารถ {0} จาก {1} ได้หากไม่มีใบแจ้งหนี้ที่มียอดค้างชำระติดลบ"
+
+msgid "Canonical URI"
+msgstr "Canonical URI"
+
+msgid "Capacity"
+msgstr "ความจุ"
+
+msgid "Capacity (Stock UOM)"
+msgstr "ความจุ (หน่วยสต็อก)"
+
+msgid "Capacity Planning"
+msgstr "การวางแผนกำลังการผลิต"
+
+msgid "Capacity Planning Error, planned start time can not be same as end time"
+msgstr "ข้อผิดพลาดในการวางแผนกำลังการผลิต เวลาเริ่มต้นที่วางแผนไว้ต้องไม่ตรงกับเวลาสิ้นสุด"
+
+msgid "Capacity Planning For (Days)"
+msgstr "การวางแผนกำลังการผลิตสำหรับ (วัน)"
+
+msgid "Capacity in Stock UOM"
+msgstr "ความจุในหน่วยสต็อก"
+
+msgid "Capacity must be greater than 0"
+msgstr "ความจุต้องมากกว่า 0"
+
+msgid "Capital Equipment"
+msgstr "อุปกรณ์ทุน"
+
+msgid "Capital Stock"
+msgstr "หุ้นทุน"
+
+msgid "Capital Work In Progress Account"
+msgstr "บัญชีงานระหว่างทำประเภททุน"
+
+msgid "Capital Work in Progress"
+msgstr "งานระหว่างทำประเภททุน"
+
+msgid "Capitalize Asset"
+msgstr "บันทึกสินทรัพย์เป็นทุน"
+
+msgid "Capitalize Repair Cost"
+msgstr "บันทึกต้นทุนซ่อมแซมเป็นทุน"
+
+msgid "Capitalized"
+msgstr "บันทึกเป็นทุนแล้ว"
+
+msgid "Carat"
+msgstr "กะรัต"
+
+msgid "Carriage Paid To"
+msgstr "ค่าขนส่งจ่ายถึง"
+
+msgid "Carriage and Insurance Paid to"
+msgstr "ค่าขนส่งและประกันจ่ายถึง"
+
+msgid "Carrier"
+msgstr "ผู้ขนส่ง"
+
+msgid "Carrier Service"
+msgstr "บริการขนส่ง"
+
+msgid "Carry Forward Communication and Comments"
+msgstr "ส่งต่อการสื่อสารและความคิดเห็น"
+
+msgid "Cash"
+msgstr "เงินสด"
+
+msgid "Cash Entry"
+msgstr "รายการเงินสด"
+
+msgid "Cash Flow"
+msgstr "กระแสเงินสด"
+
+msgid "Cash Flow Statement"
+msgstr "งบกระแสเงินสด"
+
+msgid "Cash Flow from Financing"
+msgstr "กระแสเงินสดจากกิจกรรมจัดหาเงิน"
+
+msgid "Cash Flow from Investing"
+msgstr "กระแสเงินสดจากกิจกรรมลงทุน"
+
+msgid "Cash Flow from Operations"
+msgstr "กระแสเงินสดจากกิจกรรมดำเนินงาน"
+
+msgid "Cash In Hand"
+msgstr "เงินสดในมือ"
+
+msgid "Cash or Bank Account is mandatory for making payment entry"
+msgstr "ต้องมีบัญชีเงินสดหรือบัญชีธนาคารเพื่อทำรายการชำระเงิน"
+
+msgid "Cash/Bank Account"
+msgstr "บัญชีเงินสด/ธนาคาร"
+
+msgid "Cashier"
+msgstr "พนักงานเก็บเงิน"
+
+msgid "Cashier Closing"
+msgstr "การปิดยอดพนักงานเก็บเงิน"
+
+msgid "Cashier Closing Payments"
+msgstr "การชำระเงินในการปิดยอดพนักงานเก็บเงิน"
+
+msgid "Cashier is currently assigned to another POS."
+msgstr "พนักงานเก็บเงินกำลังถูกมอบหมายให้กับ POS อื่นอยู่"
+
+msgid "Catch All"
+msgstr "ดักจับทั้งหมด"
+
+msgid "Categorize By"
+msgstr "จัดหมวดหมู่ตาม"
+
+msgid "Categorize by"
+msgstr "จัดหมวดหมู่ตาม"
+
+msgid "Categorize by Account"
+msgstr "จัดหมวดหมู่ตามบัญชี"
+
+msgid "Categorize by Item"
+msgstr "จัดหมวดหมู่ตามสินค้า"
+
+msgid "Categorize by Party"
+msgstr "จัดหมวดหมู่ตามคู่ค้า"
+
+msgid "Categorize by Supplier"
+msgstr "จัดหมวดหมู่ตามซัพพลายเออร์"
+
+msgid "Categorize by Voucher"
+msgstr "จัดหมวดหมู่ตามใบสำคัญ"
+
+msgid "Categorize by Voucher (Consolidated)"
+msgstr "จัดหมวดหมู่ตามใบสำคัญ (รวม)"
+
+msgid "Category"
+msgstr "หมวดหมู่"
+
+msgid "Category Details"
+msgstr "รายละเอียดหมวดหมู่"
+
+msgid "Category Name"
+msgstr "ชื่อหมวดหมู่"
+
+msgid "Category-wise Asset Value"
+msgstr "มูลค่าสินทรัพย์ตามหมวดหมู่"

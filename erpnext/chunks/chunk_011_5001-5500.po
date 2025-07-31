@@ -2,367 +2,367 @@ msgid "Company field is required"
 msgstr "ต้องระบุฟิลด์บริษัท"
 
 msgid "Company is mandatory"
-msgstr ""
+msgstr "ต้องระบุบริษัท"
 
 msgid "Company is mandatory for company account"
-msgstr ""
+msgstr "ต้องระบุบริษัทสำหรับบัญชีบริษัท"
 
 msgid "Company is mandatory for generating an invoice. Please set a default company in Global Defaults."
-msgstr ""
+msgstr "ต้องระบุบริษัทเพื่อสร้างใบแจ้งหนี้ กรุณาตั้งค่าบริษัทเริ่มต้นใน Global Defaults"
 
 msgid "Company name not same"
-msgstr ""
+msgstr "ชื่อบริษัทไม่ตรงกัน"
 
 msgid "Company of asset {0} and purchase document {1} doesn't matches."
-msgstr ""
+msgstr "บริษัทของสินทรัพย์ {0} และเอกสารซื้อ {1} ไม่ตรงกัน"
 
 msgid "Company registration numbers for your reference. Tax numbers etc."
-msgstr ""
+msgstr "เลขทะเบียนบริษัทสำหรับการอ้างอิงของคุณ เช่น เลขประจำตัวผู้เสียภาษี เป็นต้น"
 
 msgid "Company which internal customer represents"
-msgstr ""
+msgstr "บริษัทที่ลูกค้าภายในเป็นตัวแทน"
 
 msgid "Company which internal customer represents."
-msgstr ""
+msgstr "บริษัทที่ลูกค้าภายในเป็นตัวแทน"
 
 msgid "Company which internal supplier represents"
-msgstr ""
+msgstr "บริษัทที่ซัพพลายเออร์ภายในเป็นตัวแทน"
 
 msgid "Company {0} added multiple times"
-msgstr ""
+msgstr "บริษัท {0} ถูกเพิ่มหลายครั้ง"
 
 msgid "Company {0} does not exist"
-msgstr ""
+msgstr "ไม่มีบริษัท {0}"
 
 msgid "Company {0} is added more than once"
-msgstr ""
+msgstr "บริษัท {0} ถูกเพิ่มมากกว่าหนึ่งครั้ง"
 
 msgid "Company {} does not exist yet. Taxes setup aborted."
-msgstr ""
+msgstr "ยังไม่มีบริษัท {} การตั้งค่าภาษีถูกยกเลิก"
 
 msgid "Company {} does not match with POS Profile Company {}"
-msgstr ""
+msgstr "บริษัท {} ไม่ตรงกับบริษัทในโปรไฟล์ POS {}"
 
 msgid "Competitor"
 msgstr "คู่แข่ง"
 
 msgid "Competitor Detail"
-msgstr ""
+msgstr "รายละเอียดคู่แข่ง"
 
 msgid "Competitor Name"
-msgstr ""
+msgstr "ชื่อคู่แข่ง"
 
 msgid "Competitors"
-msgstr ""
+msgstr "คู่แข่ง"
 
 msgid "Complete"
 msgstr "เสร็จสมบูรณ์"
 
 msgid "Complete Job"
-msgstr ""
+msgstr "ทำให้งานเสร็จสมบูรณ์"
 
 msgid "Complete Order"
-msgstr ""
+msgstr "ทำให้คำสั่งซื้อเสร็จสมบูรณ์"
 
 msgid "Completed"
 msgstr "เสร็จสมบูรณ์แล้ว"
 
 msgid "Completed By"
-msgstr ""
+msgstr "เสร็จสมบูรณ์โดย"
 
 msgid "Completed On"
 msgstr "เสร็จสมบูรณ์เมื่อ"
 
 msgid "Completed On cannot be greater than Today"
-msgstr ""
+msgstr "วันที่เสร็จสมบูรณ์ต้องไม่เกินวันนี้"
 
 msgid "Completed Operation"
-msgstr ""
+msgstr "การดำเนินงานที่เสร็จสมบูรณ์"
 
 msgid "Completed Qty"
-msgstr ""
+msgstr "ปริมาณที่เสร็จสมบูรณ์"
 
 msgid "Completed Qty cannot be greater than 'Qty to Manufacture'"
-msgstr ""
+msgstr "ปริมาณที่เสร็จสมบูรณ์ต้องไม่มากกว่า 'ปริมาณที่จะผลิต'"
 
 msgid "Completed Quantity"
-msgstr ""
+msgstr "ปริมาณที่เสร็จสมบูรณ์"
 
 msgid "Completed Tasks"
-msgstr ""
+msgstr "งานที่เสร็จสมบูรณ์"
 
 msgid "Completed Time"
-msgstr ""
+msgstr "เวลาที่เสร็จสมบูรณ์"
 
 msgid "Completed Work Orders"
-msgstr ""
+msgstr "ใบสั่งงานที่เสร็จสมบูรณ์"
 
 msgid "Completion"
-msgstr ""
+msgstr "ความสมบูรณ์"
 
 msgid "Completion By"
-msgstr ""
+msgstr "เสร็จสมบูรณ์โดย"
 
 msgid "Completion Date"
-msgstr ""
+msgstr "วันที่เสร็จสมบูรณ์"
 
 msgid "Completion Date can not be before Failure Date. Please adjust the dates accordingly."
-msgstr ""
+msgstr "วันที่เสร็จสมบูรณ์ต้องไม่มาก่อนวันที่ล้มเหลว กรุณาปรับวันที่ให้ถูกต้อง"
 
 msgid "Completion Status"
-msgstr ""
+msgstr "สถานะความสมบูรณ์"
 
 msgid "Comprehensive Insurance"
-msgstr ""
+msgstr "ประกันภัยชั้นหนึ่ง"
 
 msgid "Computer"
-msgstr ""
+msgstr "คอมพิวเตอร์"
 
 msgid "Condition"
 msgstr "เงื่อนไข"
 
 msgid "Conditional Rule"
-msgstr ""
+msgstr "กฎแบบมีเงื่อนไข"
 
 msgid "Conditional Rule Examples"
-msgstr ""
+msgstr "ตัวอย่างกฎแบบมีเงื่อนไข"
 
 msgid "Conditions will be applied on all the selected items combined. "
-msgstr ""
+msgstr "เงื่อนไขจะถูกนำไปใช้กับทุกรายการที่เลือกรวมกัน"
 
 msgid "Configuration"
 msgstr "การกำหนดค่า"
 
 msgid "Configure Product Assembly"
-msgstr ""
+msgstr "กำหนดค่าการประกอบผลิตภัณฑ์"
 
 msgid "Configure the action to stop the transaction or just warn if the same rate is not maintained."
-msgstr ""
+msgstr "กำหนดค่าการดำเนินการให้หยุดธุรกรรมหรือเพียงแค่เตือนหากไม่รักษาอัตราเดิมไว้"
 
 msgid "Configure the default Price List when creating a new Purchase transaction. Item prices will be fetched from this Price List."
-msgstr ""
+msgstr "กำหนดค่ารายการราคาเริ่มต้นเมื่อสร้างธุรกรรมการซื้อใหม่ ราคาของสินค้าจะถูกดึงมาจากรายการราคานี้"
 
 msgid "Confirm before resetting posting date"
-msgstr ""
+msgstr "ยืนยันก่อนรีเซ็ตวันที่ลงรายการ"
 
 msgid "Confirmation Date"
-msgstr ""
+msgstr "วันที่ยืนยัน"
 
 msgid "Connections"
-msgstr ""
+msgstr "การเชื่อมต่อ"
 
 msgid "Consider Accounting Dimensions"
-msgstr ""
+msgstr "พิจารณามิติทางการบัญชี"
 
 msgid "Consider Entire Party Ledger Amount"
-msgstr ""
+msgstr "พิจารณาจำนวนเงินทั้งหมดในบัญชีแยกประเภทของคู่ค้า"
 
 msgid "Consider Minimum Order Qty"
-msgstr ""
+msgstr "พิจารณาปริมาณสั่งซื้อขั้นต่ำ"
 
 msgid "Consider Process Loss"
-msgstr ""
+msgstr "พิจารณาการสูญเสียจากกระบวนการ"
 
 msgid "Consider Projected Qty in Calculation"
-msgstr ""
+msgstr "พิจารณาปริมาณที่คาดการณ์ในการคำนวณ"
 
 msgid "Consider Projected Qty in Calculation (RM)"
-msgstr ""
+msgstr "พิจารณาปริมาณที่คาดการณ์ในการคำนวณ (วัตถุดิบ)"
 
 msgid "Consider Rejected Warehouses"
-msgstr ""
+msgstr "พิจารณาคลังสินค้าที่ถูกปฏิเสธ"
 
 msgid "Consider Tax or Charge for"
-msgstr ""
+msgstr "พิจารณาภาษีหรือค่าธรรมเนียมสำหรับ"
 
 msgid "Considered In Paid Amount"
-msgstr ""
+msgstr "พิจารณาในจำนวนเงินที่ชำระแล้ว"
 
 msgid "Consolidate Sales Order Items"
-msgstr ""
+msgstr "รวมรายการในใบสั่งขาย"
 
 msgid "Consolidate Sub Assembly Items"
-msgstr ""
+msgstr "รวมรายการส่วนประกอบย่อย"
 
 msgid "Consolidated"
-msgstr ""
+msgstr "รวมยอด"
 
 msgid "Consolidated Credit Note"
-msgstr ""
+msgstr "ใบลดหนี้รวมยอด"
 
 msgid "Consolidated Financial Statement"
-msgstr ""
+msgstr "งบการเงินรวม"
 
 msgid "Consolidated Sales Invoice"
-msgstr ""
+msgstr "ใบแจ้งหนี้การขายรวมยอด"
 
 msgid "Consultant"
-msgstr ""
+msgstr "ที่ปรึกษา"
 
 msgid "Consulting"
-msgstr ""
+msgstr "การให้คำปรึกษา"
 
 msgid "Consumable"
-msgstr ""
+msgstr "วัสดุสิ้นเปลือง"
 
 msgid "Consumable Cost"
-msgstr ""
+msgstr "ต้นทุนวัสดุสิ้นเปลือง"
 
 msgid "Consumed"
-msgstr ""
+msgstr "ใช้ไปแล้ว"
 
 msgid "Consumed Amount"
-msgstr ""
+msgstr "จำนวนที่ใช้ไป"
 
 msgid "Consumed Asset Total Value"
-msgstr ""
+msgstr "มูลค่ารวมของสินทรัพย์ที่ใช้ไป"
 
 msgid "Consumed Assets"
-msgstr ""
+msgstr "สินทรัพย์ที่ใช้ไป"
 
 msgid "Consumed Items"
-msgstr ""
+msgstr "สินค้าที่ใช้ไป"
 
 msgid "Consumed Items Cost"
-msgstr ""
+msgstr "ต้นทุนสินค้าที่ใช้ไป"
 
 msgid "Consumed Qty"
-msgstr ""
+msgstr "ปริมาณที่ใช้ไป"
 
 msgid "Consumed Qty cannot be greater than Reserved Qty for item {0}"
-msgstr ""
+msgstr "ปริมาณที่ใช้ไปต้องไม่มากกว่าปริมาณที่สำรองไว้สำหรับสินค้า {0}"
 
 msgid "Consumed Quantity"
-msgstr ""
+msgstr "ปริมาณที่ใช้ไป"
 
 msgid "Consumed Stock Items"
-msgstr ""
+msgstr "รายการสต็อกที่ใช้ไป"
 
 msgid "Consumed Stock Items, Consumed Asset Items or Consumed Service Items is mandatory for Capitalization"
-msgstr ""
+msgstr "ต้องระบุรายการสต็อกที่ใช้ไป, รายการสินทรัพย์ที่ใช้ไป หรือรายการบริการที่ใช้ไปสำหรับการบันทึกเป็นทุน"
 
 msgid "Consumed Stock Total Value"
-msgstr ""
+msgstr "มูลค่ารวมของสต็อกที่ใช้ไป"
 
 msgid "Consumer Products"
-msgstr ""
+msgstr "สินค้าอุปโภคบริโภค"
 
 msgid "Consumption Rate"
-msgstr ""
+msgstr "อัตราการบริโภค"
 
 msgid "Contact"
-msgstr ""
+msgstr "ผู้ติดต่อ"
 
 msgid "Contact Desc"
-msgstr ""
+msgstr "รายละเอียดผู้ติดต่อ"
 
 msgid "Contact Details"
-msgstr ""
+msgstr "รายละเอียดการติดต่อ"
 
 msgid "Contact Email"
-msgstr ""
+msgstr "อีเมลติดต่อ"
 
 msgid "Contact HTML"
-msgstr ""
+msgstr "HTML ผู้ติดต่อ"
 
 msgid "Contact Info"
-msgstr ""
+msgstr "ข้อมูลการติดต่อ"
 
 msgid "Contact Information"
-msgstr ""
+msgstr "ข้อมูลการติดต่อ"
 
 msgid "Contact List"
-msgstr ""
+msgstr "รายชื่อผู้ติดต่อ"
 
 msgid "Contact Mobile"
-msgstr ""
+msgstr "มือถือผู้ติดต่อ"
 
 msgid "Contact Mobile No"
-msgstr ""
+msgstr "เบอร์มือถือผู้ติดต่อ"
 
 msgid "Contact Name"
-msgstr ""
+msgstr "ชื่อผู้ติดต่อ"
 
 msgid "Contact No."
 msgstr "เบอร์ติดต่อ"
 
 msgid "Contact Person"
-msgstr ""
+msgstr "ผู้ติดต่อ"
 
 msgid "Contact Person does not belong to the {0}"
-msgstr ""
+msgstr "ผู้ติดต่อไม่ได้เป็นของ {0}"
 
 msgid "Contact Us Settings"
-msgstr ""
+msgstr "การตั้งค่า 'ติดต่อเรา'"
 
 msgid "Contact: "
 msgstr "ติดต่อ: "
 
 msgid "Contacts"
-msgstr ""
+msgstr "ผู้ติดต่อ"
 
 msgid "Content"
-msgstr ""
+msgstr "เนื้อหา"
 
 msgid "Content Type"
-msgstr ""
+msgstr "ประเภทเนื้อหา"
 
 msgid "Continue"
-msgstr ""
+msgstr "ดำเนินการต่อ"
 
 msgid "Contra Entry"
-msgstr ""
+msgstr "รายการปรับปรุงบัญชี"
 
 msgid "Contract"
-msgstr ""
+msgstr "สัญญา"
 
 msgid "Contract Details"
-msgstr ""
+msgstr "รายละเอียดสัญญา"
 
 msgid "Contract End Date"
-msgstr ""
+msgstr "วันที่สิ้นสุดสัญญา"
 
 msgid "Contract Fulfilment Checklist"
-msgstr ""
+msgstr "เช็คลิสต์การปฏิบัติตามสัญญา"
 
 msgid "Contract Period"
-msgstr ""
+msgstr "ระยะเวลาสัญญา"
 
 msgid "Contract Template"
-msgstr ""
+msgstr "เทมเพลตสัญญา"
 
 msgid "Contract Template Fulfilment Terms"
-msgstr ""
+msgstr "เงื่อนไขการปฏิบัติตามสัญญาของเทมเพลต"
 
 msgid "Contract Template Help"
-msgstr ""
+msgstr "วิธีใช้เทมเพลตสัญญา"
 
 msgid "Contract Terms"
-msgstr ""
+msgstr "เงื่อนไขสัญญา"
 
 msgid "Contract Terms and Conditions"
-msgstr ""
+msgstr "ข้อกำหนดและเงื่อนไขของสัญญา"
 
 msgid "Contribution %"
-msgstr ""
+msgstr "% ส่วนสนับสนุน"
 
 msgid "Contribution (%)"
-msgstr ""
+msgstr "ส่วนสนับสนุน (%)"
 
 msgid "Contribution Amount"
-msgstr ""
+msgstr "จำนวนเงินสนับสนุน"
 
 msgid "Contribution Qty"
-msgstr ""
+msgstr "ปริมาณสนับสนุน"
 
 msgid "Contribution to Net Total"
-msgstr ""
+msgstr "ส่วนสนับสนุนต่อยอดรวมสุทธิ"
 
 msgid "Control Action"
-msgstr ""
+msgstr "การดำเนินการควบคุม"
 
 msgid "Control Action for Cumulative Expense"
-msgstr ""
+msgstr "การดำเนินการควบคุมสำหรับค่าใช้จ่ายสะสม"
 
 msgid "Control Historical Stock Transactions"
 msgstr "ควบคุมธุรกรรมสต็อกในอดีต"
@@ -377,7 +377,7 @@ msgid "Conversion factor for default Unit of Measure must be 1 in row {0}"
 msgstr "ปัจจัยการแปลงสำหรับหน่วยวัดเริ่มต้นต้องเป็น 1 ในแถว {0}"
 
 msgid "Conversion factor for item {0} has been reset to 1.0 as the uom {1} is same as stock uom {2}."
-msgstr "ปัจจัยการแปลงสำหรับรายการ {0} ถูกรีเซ็ตเป็น 1.0 เนื่องจาก uom {1} เหมือนกับ uom สต็อก {2}"
+msgstr "ปัจจัยการแปลงสำหรับรายการ {0} ถูกรีเซ็ตเป็น 1.0 เนื่องจากหน่วยวัด {1} เหมือนกับหน่วยวัดสต็อก {2}"
 
 msgid "Conversion rate cannot be 0"
 msgstr "อัตราการแปลงไม่สามารถเป็น 0 ได้"
@@ -427,7 +427,7 @@ msgid "Corrective Action"
 msgstr "การดำเนินการแก้ไข"
 
 msgid "Corrective Job Card"
-msgstr "บัตรงานแก้ไข"
+msgstr "ใบงานแก้ไข"
 
 msgid "Corrective Operation"
 msgstr "การดำเนินการแก้ไข"
@@ -439,7 +439,7 @@ msgid "Corrective/Preventive"
 msgstr "การแก้ไข/การป้องกัน"
 
 msgid "Cosmetics"
-msgstr ""
+msgstr "เครื่องสำอาง"
 
 msgid "Cost"
 msgstr "ต้นทุน"
@@ -463,7 +463,7 @@ msgid "Cost Center Number"
 msgstr "หมายเลขศูนย์ต้นทุน"
 
 msgid "Cost Center and Budgeting"
-msgstr ""
+msgstr "ศูนย์ต้นทุนและการจัดทำงบประมาณ"
 
 msgid "Cost Center for Item rows has been updated to {0}"
 msgstr "ศูนย์ต้นทุนสำหรับแถวรายการได้รับการอัปเดตเป็น {0}"
@@ -497,4 +497,3 @@ msgstr "ศูนย์ต้นทุน: {0} ไม่มีอยู่"
 
 msgid "Cost Centers"
 msgstr "ศูนย์ต้นทุน"
-

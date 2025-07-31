@@ -1,170 +1,170 @@
 ﻿msgid "Currency Exchange Settings Result"
-msgstr ""
+msgstr "ผลลัพธ์การตั้งค่าอัตราแลกเปลี่ยน"
 
 msgid "Currency Exchange must be applicable for Buying or for Selling."
-msgstr ""
+msgstr "การแลกเปลี่ยนสกุลเงินต้องใช้ได้กับการซื้อหรือการขาย"
 
 msgid "Currency and Price List"
-msgstr ""
+msgstr "สกุลเงินและรายการราคา"
 
 msgid "Currency can not be changed after making entries using some other currency"
-msgstr ""
+msgstr "ไม่สามารถเปลี่ยนสกุลเงินได้หลังจากทำรายการโดยใช้สกุลเงินอื่นแล้ว"
 
 msgid "Currency for {0} must be {1}"
-msgstr ""
+msgstr "สกุลเงินสำหรับ {0} ต้องเป็น {1}"
 
 msgid "Currency of the Closing Account must be {0}"
-msgstr ""
+msgstr "สกุลเงินของบัญชีปิดต้องเป็น {0}"
 
 msgid "Currency of the price list {0} must be {1} or {2}"
-msgstr ""
+msgstr "สกุลเงินของรายการราคา {0} ต้องเป็น {1} หรือ {2}"
 
 msgid "Currency should be same as Price List Currency: {0}"
-msgstr ""
+msgstr "สกุลเงินควรตรงกับสกุลเงินในรายการราคา: {0}"
 
 msgid "Current Address"
-msgstr ""
+msgstr "ที่อยู่ปัจจุบัน"
 
 msgid "Current Address Is"
-msgstr ""
+msgstr "ที่อยู่ปัจจุบันคือ"
 
 msgid "Current Amount"
-msgstr ""
+msgstr "จำนวนเงินปัจจุบัน"
 
 msgid "Current Asset"
-msgstr ""
+msgstr "สินทรัพย์หมุนเวียน"
 
 msgid "Current Asset Value"
-msgstr ""
+msgstr "มูลค่าสินทรัพย์ปัจจุบัน"
 
 msgid "Current Assets"
 msgstr "สินทรัพย์หมุนเวียน"
 
 msgid "Current BOM"
-msgstr ""
+msgstr "BOM ปัจจุบัน"
 
 msgid "Current BOM and New BOM can not be same"
-msgstr ""
+msgstr "BOM ปัจจุบันและ BOM ใหม่ต้องไม่เหมือนกัน"
 
 msgid "Current Exchange Rate"
-msgstr ""
+msgstr "อัตราแลกเปลี่ยนปัจจุบัน"
 
 msgid "Current Index"
-msgstr ""
+msgstr "ดัชนีปัจจุบัน"
 
 msgid "Current Invoice End Date"
-msgstr ""
+msgstr "วันที่สิ้นสุดใบแจ้งหนี้ปัจจุบัน"
 
 msgid "Current Invoice Start Date"
-msgstr ""
+msgstr "วันที่เริ่มต้นใบแจ้งหนี้ปัจจุบัน"
 
 msgid "Current Level"
-msgstr ""
+msgstr "ระดับปัจจุบัน"
 
 msgid "Current Liabilities"
 msgstr "หนี้สินหมุนเวียน"
 
 msgid "Current Liability"
-msgstr ""
+msgstr "หนี้สินหมุนเวียน"
 
 msgid "Current Node"
-msgstr ""
+msgstr "โหนดปัจจุบัน"
 
 msgid "Current Qty"
-msgstr ""
+msgstr "ปริมาณปัจจุบัน"
 
 msgid "Current Serial / Batch Bundle"
-msgstr ""
+msgstr "ชุดซีเรียล / แบทช์ปัจจุบัน"
 
 msgid "Current Serial No"
-msgstr ""
+msgstr "หมายเลขซีเรียลปัจจุบัน"
 
 msgid "Current State"
-msgstr ""
+msgstr "สถานะปัจจุบัน"
 
 msgid "Current Status"
 msgstr "สถานะปัจจุบัน"
 
 msgid "Current Stock"
-msgstr ""
+msgstr "สต็อกปัจจุบัน"
 
 msgid "Current Time"
-msgstr ""
+msgstr "เวลาปัจจุบัน"
 
 msgid "Current Valuation Rate"
-msgstr ""
+msgstr "อัตราการประเมินค่าปัจจุบัน"
 
 msgid "Curves"
-msgstr ""
+msgstr "เส้นโค้ง"
 
 msgid "Custodian"
-msgstr ""
+msgstr "ผู้ดูแล"
 
 msgid "Custody"
-msgstr ""
+msgstr "การดูแล"
 
 msgid "Custom"
-msgstr ""
+msgstr "กำหนดเอง"
 
 msgid "Custom Remarks"
-msgstr ""
+msgstr "หมายเหตุกำหนดเอง"
 
 msgid "Custom delimiters"
-msgstr ""
+msgstr "ตัวคั่นที่กำหนดเอง"
 
 msgid "Custom?"
-msgstr ""
+msgstr "กำหนดเอง?"
 
 msgid "Customer"
 msgstr "ลูกค้า"
 
 msgid "Customer "
-msgstr ""
+msgstr "ลูกค้า "
 
 msgid "Customer / Item / Item Group"
-msgstr "ลูกค้า / รายการ / กลุ่มรายการ"
+msgstr "ลูกค้า / สินค้า / กลุ่มสินค้า"
 
 msgid "Customer / Lead Address"
-msgstr "ที่อยู่ลูกค้า / ผู้ติดต่อ"
+msgstr "ที่อยู่ลูกค้า / ลีด"
 
 msgid "Customer Acquisition and Loyalty"
-msgstr "การได้มาของลูกค้าและความภักดี"
+msgstr "การได้มาซึ่งลูกค้าและความภักดี"
 
 msgid "Customer Address"
 msgstr "ที่อยู่ลูกค้า"
 
 msgid "Customer Addresses And Contacts"
-msgstr ""
+msgstr "ที่อยู่และผู้ติดต่อของลูกค้า"
 
 msgid "Customer Code"
 msgstr "รหัสลูกค้า"
 
 msgid "Customer Contact"
-msgstr "ผู้ติดต่อของลูกค้า"
+msgstr "ผู้ติดต่อลูกค้า"
 
 msgid "Customer Contact Email"
-msgstr "อีเมลผู้ติดต่อของลูกค้า"
+msgstr "อีเมลผู้ติดต่อลูกค้า"
 
 msgid "Customer Credit Balance"
-msgstr "ยอดเครดิตของลูกค้า"
+msgstr "ยอดคงเหลือเครดิตลูกค้า"
 
 msgid "Customer Credit Limit"
-msgstr "วงเงินเครดิตของลูกค้า"
+msgstr "วงเงินเครดิตลูกค้า"
 
 msgid "Customer Defaults"
-msgstr "ค่าเริ่มต้นของลูกค้า"
+msgstr "ค่าเริ่มต้นลูกค้า"
 
 msgid "Customer Details"
 msgstr "รายละเอียดลูกค้า"
 
 msgid "Customer Feedback"
-msgstr "ข้อเสนอแนะจากลูกค้า"
+msgstr "ความคิดเห็นจากลูกค้า"
 
 msgid "Customer Group"
 msgstr "กลุ่มลูกค้า"
 
 msgid "Customer Group Item"
-msgstr "รายการกลุ่มลูกค้า"
+msgstr "สินค้ากลุ่มลูกค้า"
 
 msgid "Customer Group Name"
 msgstr "ชื่อกลุ่มลูกค้า"
@@ -176,28 +176,28 @@ msgid "Customer Groups"
 msgstr "กลุ่มลูกค้า"
 
 msgid "Customer Item"
-msgstr "รายการของลูกค้า"
+msgstr "สินค้าลูกค้า"
 
 msgid "Customer Items"
-msgstr "รายการของลูกค้า"
+msgstr "สินค้าลูกค้า"
 
 msgid "Customer LPO"
-msgstr "ใบสั่งซื้อของลูกค้า"
+msgstr "LPO ของลูกค้า"
 
 msgid "Customer LPO No."
-msgstr "หมายเลขใบสั่งซื้อของลูกค้า"
+msgstr "เลขที่ LPO ของลูกค้า"
 
 msgid "Customer Ledger Summary"
-msgstr "สรุปบัญชีแยกประเภทของลูกค้า"
+msgstr "สรุปบัญชีแยกประเภทลูกค้า"
 
 msgid "Customer Mobile No"
-msgstr "หมายเลขมือถือของลูกค้า"
+msgstr "เบอร์มือถือลูกค้า"
 
 msgid "Customer Name"
 msgstr "ชื่อลูกค้า"
 
 msgid "Customer Name: "
-msgstr ""
+msgstr "ชื่อลูกค้า: "
 
 msgid "Customer Naming By"
 msgstr "การตั้งชื่อลูกค้าโดย"
@@ -206,22 +206,22 @@ msgid "Customer Number"
 msgstr "หมายเลขลูกค้า"
 
 msgid "Customer Number At Supplier"
-msgstr "หมายเลขลูกค้าที่ผู้จัดจำหน่าย"
+msgstr "หมายเลขลูกค้าที่ซัพพลายเออร์"
 
 msgid "Customer Numbers"
 msgstr "หมายเลขลูกค้า"
 
 msgid "Customer PO"
-msgstr "ใบสั่งซื้อของลูกค้า"
+msgstr "ใบสั่งซื้อลูกค้า"
 
 msgid "Customer PO Details"
-msgstr "รายละเอียดใบสั่งซื้อของลูกค้า"
+msgstr "รายละเอียดใบสั่งซื้อลูกค้า"
 
 msgid "Customer POS Id"
-msgstr "รหัส POS ของลูกค้า"
+msgstr "รหัส POS ลูกค้า"
 
 msgid "Customer POS id"
-msgstr "รหัส POS ของลูกค้า"
+msgstr "รหัส POS ลูกค้า"
 
 msgid "Customer Portal Users"
 msgstr "ผู้ใช้พอร์ทัลลูกค้า"
@@ -233,73 +233,73 @@ msgid "Customer Primary Contact"
 msgstr "ผู้ติดต่อหลักของลูกค้า"
 
 msgid "Customer Provided"
-msgstr "ลูกค้าให้มา"
+msgstr "ลูกค้าจัดหาให้"
 
 msgid "Customer Service"
 msgstr "บริการลูกค้า"
 
 msgid "Customer Service Representative"
-msgstr ""
+msgstr "ตัวแทนบริการลูกค้า"
 
 msgid "Customer Territory"
-msgstr "เขตลูกค้า"
+msgstr "เขตพื้นที่ลูกค้า"
 
 msgid "Customer Type"
 msgstr "ประเภทลูกค้า"
 
 msgid "Customer Warehouse (Optional)"
-msgstr "คลังสินค้าของลูกค้า (ไม่บังคับ)"
+msgstr "คลังสินค้าลูกค้า (ตัวเลือก)"
 
 msgid "Customer contact updated successfully."
-msgstr "อัปเดตผู้ติดต่อของลูกค้าเรียบร้อยแล้ว"
+msgstr "อัปเดตผู้ติดต่อลูกค้าเรียบร้อยแล้ว"
 
 msgid "Customer is required"
-msgstr "จำเป็นต้องมีลูกค้า"
+msgstr "ต้องระบุลูกค้า"
 
 msgid "Customer isn't enrolled in any Loyalty Program"
-msgstr "ลูกค้าไม่ได้ลงทะเบียนในโปรแกรมสะสมคะแนนใด ๆ"
+msgstr "ลูกค้ายังไม่ได้เข้าร่วมโปรแกรมสะสมคะแนนใดๆ"
 
 msgid "Customer or Item"
-msgstr "ลูกค้าหรือรายการ"
+msgstr "ลูกค้าหรือสินค้า"
 
 msgid "Customer required for 'Customerwise Discount'"
-msgstr "จำเป็นต้องมีลูกค้าสำหรับ 'ส่วนลดตามลูกค้า'"
+msgstr "ต้องระบุลูกค้าสำหรับ 'ส่วนลดตามลูกค้า'"
 
 msgid "Customer {0} does not belong to project {1}"
-msgstr "ลูกค้า {0} ไม่ได้เป็นของโครงการ {1}"
+msgstr "ลูกค้า {0} ไม่ได้อยู่ในโครงการ {1}"
 
 msgid "Customer's Item Code"
-msgstr "รหัสรายการของลูกค้า"
+msgstr "รหัสสินค้าของลูกค้า"
 
 msgid "Customer's Purchase Order"
 msgstr "ใบสั่งซื้อของลูกค้า"
 
 msgid "Customer's Purchase Order Date"
-msgstr "วันที่ใบสั่งซื้อของลูกค้า"
+msgstr "วันที่ในใบสั่งซื้อของลูกค้า"
 
 msgid "Customer's Purchase Order No"
-msgstr "หมายเลขใบสั่งซื้อของลูกค้า"
+msgstr "เลขที่ใบสั่งซื้อของลูกค้า"
 
 msgid "Customer's Vendor"
-msgstr ""
+msgstr "ผู้ขายของลูกค้า"
 
 msgid "Customer-wise Item Price"
 msgstr "ราคาสินค้าตามลูกค้า"
 
 msgid "Customer/Lead Name"
-msgstr "ชื่อลูกค้า/ผู้ติดต่อ"
+msgstr "ชื่อลูกค้า/ลีด"
 
 msgid "Customer: "
-msgstr ""
+msgstr "ลูกค้า: "
 
 msgid "Customers"
 msgstr "ลูกค้า"
 
 msgid "Customers Without Any Sales Transactions"
-msgstr "ลูกค้าที่ไม่มีธุรกรรมการขายใด ๆ"
+msgstr "ลูกค้าที่ไม่มีธุรกรรมการขาย"
 
 msgid "Customers not selected."
-msgstr "ไม่ได้เลือกลูกค้า"
+msgstr "ยังไม่ได้เลือกลูกค้า"
 
 msgid "Customerwise Discount"
 msgstr "ส่วนลดตามลูกค้า"
@@ -308,13 +308,13 @@ msgid "Customs Tariff Number"
 msgstr "หมายเลขพิกัดศุลกากร"
 
 msgid "Cycle/Second"
-msgstr ""
+msgstr "รอบ/วินาที"
 
 msgid "D - E"
-msgstr ""
+msgstr "D - E"
 
 msgid "DFS"
-msgstr ""
+msgstr "DFS"
 
 msgid "Daily"
 msgstr "รายวัน"
@@ -323,40 +323,40 @@ msgid "Daily Project Summary for {0}"
 msgstr "สรุปโครงการรายวันสำหรับ {0}"
 
 msgid "Daily Reminders"
-msgstr "การเตือนรายวัน"
+msgstr "การแจ้งเตือนรายวัน"
 
 msgid "Daily Time to send"
-msgstr "เวลาส่งรายวัน"
+msgstr "เวลาที่จะส่งรายวัน"
 
 msgid "Daily Timesheet Summary"
-msgstr "สรุปตารางเวลารายวัน"
+msgstr "สรุปใบบันทึกเวลารายวัน"
 
 msgid "Dashboard"
 msgstr "แดชบอร์ด"
 
 msgid "Data Based On"
-msgstr "ข้อมูลตาม"
+msgstr "ข้อมูลอ้างอิงจาก"
 
 msgid "Data Fetch Method"
-msgstr "วิธีดึงข้อมูล"
+msgstr "วิธีการดึงข้อมูล"
 
 msgid "Data Import Configuration"
 msgstr "การกำหนดค่าการนำเข้าข้อมูล"
 
 msgid "Data Import and Settings"
-msgstr ""
+msgstr "การนำเข้าข้อมูลและการตั้งค่า"
 
 msgid "Date"
 msgstr "วันที่"
 
 msgid "Date "
-msgstr "วันที่"
+msgstr "วันที่ "
 
 msgid "Date Based On"
-msgstr "วันที่ตาม"
+msgstr "วันที่อ้างอิงจาก"
 
 msgid "Date Of Retirement"
-msgstr "วันที่เกษียณ"
+msgstr "วันที่เกษียณอายุ"
 
 msgid "Date Settings"
 msgstr "การตั้งค่าวันที่"
@@ -368,25 +368,25 @@ msgid "Date of Birth"
 msgstr "วันเกิด"
 
 msgid "Date of Birth cannot be greater than today."
-msgstr "วันเกิดต้องไม่เกินวันนี้"
+msgstr "วันเกิดต้องไม่เกินวันปัจจุบัน"
 
 msgid "Date of Commencement"
-msgstr "วันที่เริ่มต้น"
+msgstr "วันที่เริ่มดำเนินการ"
 
 msgid "Date of Commencement should be greater than Date of Incorporation"
-msgstr "วันที่เริ่มต้นควรมากกว่าวันที่จดทะเบียน"
+msgstr "วันที่เริ่มดำเนินการควรอยู่หลังวันที่จดทะเบียนบริษัท"
 
 msgid "Date of Establishment"
 msgstr "วันที่ก่อตั้ง"
 
 msgid "Date of Incorporation"
-msgstr "วันที่จดทะเบียน"
+msgstr "วันที่จดทะเบียนบริษัท"
 
 msgid "Date of Issue"
 msgstr "วันที่ออก"
 
 msgid "Date of Joining"
-msgstr "วันที่เข้าร่วม"
+msgstr "วันที่เริ่มงาน"
 
 msgid "Date of Transaction"
 msgstr "วันที่ทำธุรกรรม"
@@ -404,40 +404,40 @@ msgid "Day Of Week"
 msgstr "วันในสัปดาห์"
 
 msgid "Day of Week"
-msgstr ""
+msgstr "วันในสัปดาห์"
 
 msgid "Day to Send"
 msgstr "วันที่ส่ง"
 
 msgid "Day(s) after invoice date"
-msgstr "วันหลังจากวันที่ใบแจ้งหนี้"
+msgstr "วันหลังวันที่ในใบแจ้งหนี้"
 
 msgid "Day(s) after the end of the invoice month"
-msgstr "วันหลังจากสิ้นเดือนของใบแจ้งหนี้"
+msgstr "วันหลังสิ้นเดือนของใบแจ้งหนี้"
 
 msgid "Days"
 msgstr "วัน"
 
 msgid "Days Since Last Order"
-msgstr "จำนวนวันที่ผ่านมานับจากคำสั่งซื้อครั้งล่าสุด"
+msgstr "จำนวนวันตั้งแต่การสั่งซื้อครั้งล่าสุด"
 
 msgid "Days Since Last order"
-msgstr ""
+msgstr "จำนวนวันตั้งแต่การสั่งซื้อครั้งล่าสุด"
 
 msgid "Days Until Due"
-msgstr "จำนวนวันที่เหลือจนถึงกำหนด"
+msgstr "จำนวนวันจนถึงวันครบกำหนด"
 
 msgid "Days before the current subscription period"
-msgstr "วันก่อนช่วงการสมัครปัจจุบัน"
+msgstr "วันก่อนรอบการสมัครสมาชิกปัจจุบัน"
 
 msgid "DeLinked"
-msgstr "ยกเลิกการเชื่อมโยง"
+msgstr "ยกเลิกการเชื่อมโยงแล้ว"
 
 msgid "Deal Owner"
 msgstr "เจ้าของดีล"
 
 msgid "Dealer"
-msgstr ""
+msgstr "ตัวแทนจำหน่าย"
 
 msgid "Dear"
 msgstr "เรียน"
@@ -467,25 +467,25 @@ msgid "Debit Amount in Transaction Currency"
 msgstr "จำนวนเงินเดบิตในสกุลเงินธุรกรรม"
 
 msgid "Debit Note"
-msgstr "ใบลดหนี้"
+msgstr "ใบเพิ่มหนี้ (Debit Note)"
 
 msgid "Debit Note Amount"
-msgstr "จำนวนเงินใบลดหนี้"
+msgstr "จำนวนเงินในใบเพิ่มหนี้"
 
 msgid "Debit Note Issued"
-msgstr "ออกใบลดหนี้"
+msgstr "ออกใบเพิ่มหนี้แล้ว"
 
 msgid "Debit Note will update it's own outstanding amount, even if 'Return Against' is specified."
-msgstr "ใบลดหนี้จะอัปเดตจำนวนเงินคงค้างของตัวเอง แม้ว่าจะระบุ 'คืนกับ' ก็ตาม"
+msgstr "ใบเพิ่มหนี้จะอัปเดตยอดค้างชำระของตัวเอง แม้ว่าจะระบุ 'อ้างอิงการคืน' ก็ตาม"
 
 msgid "Debit To"
 msgstr "เดบิตไปยัง"
 
 msgid "Debit To is required"
-msgstr "ต้องระบุเดบิตไปยัง"
+msgstr "ต้องระบุ 'เดบิตไปยัง'"
 
 msgid "Debit and Credit not equal for {0} #{1}. Difference is {2}."
-msgstr "เดบิตและเครดิตไม่เท่ากันสำหรับ {0} #{1}. ความแตกต่างคือ {2}."
+msgstr "เดบิตและเครดิตไม่เท่ากันสำหรับ {0} #{1} ผลต่างคือ {2}"
 
 msgid "Debit in Company Currency"
 msgstr "เดบิตในสกุลเงินบริษัท"

@@ -5,82 +5,82 @@ msgid "Cost Per Unit"
 msgstr "ต้นทุนต่อหน่วย"
 
 msgid "Cost and Freight"
-msgstr ""
+msgstr "ต้นทุนและค่าขนส่ง"
 
 msgid "Cost of Delivered Items"
-msgstr "ต้นทุนของรายการที่ส่งมอบ"
+msgstr "ต้นทุนของสินค้าที่ส่งมอบแล้ว"
 
 msgid "Cost of Goods Sold"
-msgstr "ต้นทุนขายสินค้าและบริการ"
+msgstr "ต้นทุนขาย"
 
 msgid "Cost of Goods Sold Account in Items Table"
-msgstr "บัญชีต้นทุนสินค้าที่ขายในตารางรายการ"
+msgstr "บัญชีต้นทุนขายในตารางสินค้า"
 
 msgid "Cost of Issued Items"
-msgstr "ต้นทุนของรายการที่ออก"
+msgstr "ต้นทุนของสินค้าที่เบิกจ่าย"
 
 msgid "Cost of Poor Quality Report"
-msgstr "รายงานต้นทุนของคุณภาพที่ไม่ดี"
+msgstr "รายงานต้นทุนคุณภาพต่ำ"
 
 msgid "Cost of Purchased Items"
-msgstr "ต้นทุนของรายการที่ซื้อ"
+msgstr "ต้นทุนของสินค้าที่ซื้อ"
 
 msgid "Cost of various activities"
-msgstr "ต้นทุนของกิจกรรมต่าง ๆ"
+msgstr "ต้นทุนของกิจกรรมต่างๆ"
 
 msgid "Cost to Company (CTC)"
 msgstr "ต้นทุนต่อบริษัท (CTC)"
 
 msgid "Cost, Insurance and Freight"
-msgstr ""
+msgstr "ต้นทุน, ค่าประกันภัย และค่าขนส่ง"
 
 msgid "Costing"
-msgstr "การคำนวณต้นทุน"
+msgstr "การคิดต้นทุน"
 
 msgid "Costing Amount"
-msgstr "จำนวนการคำนวณต้นทุน"
+msgstr "จำนวนเงินในการคิดต้นทุน"
 
 msgid "Costing Details"
-msgstr "รายละเอียดการคำนวณต้นทุน"
+msgstr "รายละเอียดการคิดต้นทุน"
 
 msgid "Costing Rate"
-msgstr "อัตราการคำนวณต้นทุน"
+msgstr "อัตราการคิดต้นทุน"
 
 msgid "Costing and Billing"
-msgstr "การคำนวณต้นทุนและการเรียกเก็บเงิน"
+msgstr "การคิดต้นทุนและการเรียกเก็บเงิน"
 
 msgid "Costing and Billing fields has been updated"
-msgstr ""
+msgstr "ฟิลด์การคิดต้นทุนและการเรียกเก็บเงินได้รับการอัปเดตแล้ว"
 
 msgid "Could Not Delete Demo Data"
-msgstr ""
+msgstr "ไม่สามารถลบข้อมูลตัวอย่างได้"
 
 msgid "Could not auto create Customer due to the following missing mandatory field(s):"
-msgstr ""
+msgstr "ไม่สามารถสร้างลูกค้าอัตโนมัติได้เนื่องจากขาดฟิลด์บังคับต่อไปนี้:"
 
 msgid "Could not create Credit Note automatically, please uncheck 'Issue Credit Note' and submit again"
-msgstr ""
+msgstr "ไม่สามารถสร้างใบลดหนี้อัตโนมัติได้ กรุณายกเลิกการเลือก 'ออกใบลดหนี้' และส่งอีกครั้ง"
 
 msgid "Could not detect the Company for updating Bank Accounts"
-msgstr ""
+msgstr "ไม่พบบริษัทสำหรับการอัปเดตบัญชีธนาคาร"
 
 msgid "Could not find a suitable shift to match the difference: {0}"
-msgstr ""
+msgstr "ไม่พบกะที่เหมาะสมเพื่อจับคู่ผลต่าง: {0}"
 
 msgid "Could not find path for "
-msgstr ""
+msgstr "ไม่พบเส้นทางสำหรับ "
 
 msgid "Could not retrieve information for {0}."
-msgstr ""
+msgstr "ไม่สามารถดึงข้อมูลสำหรับ {0} ได้"
 
 msgid "Could not solve criteria score function for {0}. Make sure the formula is valid."
-msgstr ""
+msgstr "ไม่สามารถแก้ฟังก์ชันคะแนนเกณฑ์สำหรับ {0} ได้ โปรดตรวจสอบว่าสูตรถูกต้อง"
 
 msgid "Could not solve weighted score function. Make sure the formula is valid."
-msgstr ""
+msgstr "ไม่สามารถแก้ฟังก์ชันคะแนนถ่วงน้ำหนักได้ โปรดตรวจสอบว่าสูตรถูกต้อง"
 
 msgid "Coulomb"
-msgstr ""
+msgstr "คูลอมบ์"
 
 msgid "Count"
 msgstr "จำนวน"
@@ -89,28 +89,28 @@ msgid "Country"
 msgstr "ประเทศ"
 
 msgid "Country Code in File does not match with country code set up in the system"
-msgstr ""
+msgstr "รหัสประเทศในไฟล์ไม่ตรงกับรหัสประเทศที่ตั้งค่าไว้ในระบบ"
 
 msgid "Country of Origin"
-msgstr ""
+msgstr "ประเทศต้นกำเนิด"
 
 msgid "Coupon Code"
-msgstr ""
+msgstr "รหัสคูปอง"
 
 msgid "Coupon Code Based"
-msgstr ""
+msgstr "อ้างอิงรหัสคูปอง"
 
 msgid "Coupon Description"
-msgstr ""
+msgstr "คำอธิบายคูปอง"
 
 msgid "Coupon Name"
-msgstr ""
+msgstr "ชื่อคูปอง"
 
 msgid "Coupon Type"
-msgstr ""
+msgstr "ประเภทคูปอง"
 
 msgid "Cr"
-msgstr ""
+msgstr "เครดิต"
 
 msgid "Create"
 msgstr "สร้าง"
@@ -119,318 +119,320 @@ msgid "Create Chart Of Accounts Based On"
 msgstr "สร้างผังบัญชีตาม"
 
 msgid "Create Delivery Note"
-msgstr "สร้างบันทึกการส่งมอบ"
+msgstr "สร้างใบส่งของ"
 
 msgid "Create Delivery Trip"
-msgstr ""
+msgstr "สร้างเที่ยวการจัดส่ง"
 
 msgid "Create Depreciation Entry"
-msgstr ""
+msgstr "สร้างรายการค่าเสื่อมราคา"
 
 msgid "Create Employee"
 msgstr "สร้างพนักงาน"
 
 msgid "Create Employee Records"
-msgstr ""
+msgstr "สร้างบันทึกพนักงาน"
 
 msgid "Create Employee records."
-msgstr ""
+msgstr "สร้างบันทึกพนักงาน"
 
 msgid "Create Grouped Asset"
-msgstr ""
+msgstr "สร้างสินทรัพย์กลุ่ม"
 
 msgid "Create Inter Company Journal Entry"
-msgstr ""
+msgstr "สร้างรายการสมุดรายวันระหว่างบริษัท"
 
 msgid "Create Invoices"
-msgstr ""
+msgstr "สร้างใบแจ้งหนี้"
 
 msgid "Create Job Card"
-msgstr ""
+msgstr "สร้างใบงาน"
 
 msgid "Create Job Card based on Batch Size"
-msgstr ""
+msgstr "สร้างใบงานตามขนาดแบทช์"
 
 msgid "Create Journal Entries"
-msgstr ""
+msgstr "สร้างรายการสมุดรายวัน"
 
 msgid "Create Journal Entry"
-msgstr ""
+msgstr "สร้างรายการสมุดรายวัน"
 
 msgid "Create Lead"
-msgstr ""
+msgstr "สร้างลีด"
 
 msgid "Create Leads"
-msgstr ""
+msgstr "สร้างลีด"
 
 msgid "Create Ledger Entries for Change Amount"
-msgstr ""
+msgstr "สร้างรายการบัญชีแยกประเภทสำหรับเงินทอน"
 
 msgid "Create Link"
-msgstr ""
+msgstr "สร้างลิงก์"
 
 msgid "Create Missing Party"
-msgstr ""
+msgstr "สร้างคู่ค้าที่ขาดหายไป"
 
 msgid "Create Multi-level BOM"
-msgstr ""
+msgstr "สร้าง BOM หลายระดับ"
 
 msgid "Create New Contact"
-msgstr ""
+msgstr "สร้างผู้ติดต่อใหม่"
 
 msgid "Create New Customer"
-msgstr ""
+msgstr "สร้างลูกค้าใหม่"
 
 msgid "Create New Lead"
-msgstr ""
+msgstr "สร้างลีดใหม่"
 
 msgid "Create Opportunity"
-msgstr ""
+msgstr "สร้างโอกาสทางการขาย"
 
 msgid "Create POS Opening Entry"
-msgstr ""
+msgstr "สร้างรายการเปิด POS"
 
 msgid "Create Payment Entry"
-msgstr ""
+msgstr "สร้างรายการชำระเงิน"
 
 msgid "Create Payment Entry for Consolidated POS Invoices."
-msgstr ""
+msgstr "สร้างรายการชำระเงินสำหรับใบแจ้งหนี้ POS ที่รวมยอดแล้ว"
 
 msgid "Create Pick List"
-msgstr ""
+msgstr "สร้างรายการเลือกสินค้า"
 
 msgid "Create Print Format"
-msgstr ""
+msgstr "สร้างรูปแบบการพิมพ์"
 
 msgid "Create Prospect"
-msgstr ""
+msgstr "สร้างลูกค้ามุ่งหวัง"
 
 msgid "Create Purchase Order"
-msgstr ""
+msgstr "สร้างใบสั่งซื้อ"
 
 msgid "Create Purchase Orders"
-msgstr ""
+msgstr "สร้างใบสั่งซื้อ"
 
 msgid "Create Quotation"
-msgstr ""
+msgstr "สร้างใบเสนอราคา"
 
 msgid "Create Receiver List"
-msgstr ""
+msgstr "สร้างรายชื่อผู้รับ"
 
 msgid "Create Reposting Entries"
-msgstr ""
+msgstr "สร้างรายการลงบัญชีใหม่"
 
 msgid "Create Reposting Entry"
-msgstr ""
+msgstr "สร้างรายการลงบัญชีใหม่"
 
 msgid "Create Sales Invoice"
-msgstr ""
+msgstr "สร้างใบแจ้งหนี้การขาย"
 
 msgid "Create Sales Order"
-msgstr ""
+msgstr "สร้างใบสั่งขาย"
 
 msgid "Create Sales Orders to help you plan your work and deliver on-time"
-msgstr ""
+msgstr "สร้างใบสั่งขายเพื่อช่วยคุณวางแผนงานและส่งมอบได้ตรงเวลา"
 
 msgid "Create Sample Retention Stock Entry"
-msgstr ""
+msgstr "สร้างรายการสต็อกตัวอย่างที่เก็บไว้"
 
 msgid "Create Stock Entry"
-msgstr ""
+msgstr "สร้างรายการสต็อก"
 
 msgid "Create Supplier Quotation"
-msgstr ""
+msgstr "สร้างใบเสนอราคาจากซัพพลายเออร์"
 
 msgid "Create Tax Template"
-msgstr ""
+msgstr "สร้างเทมเพลตภาษี"
 
 msgid "Create Timesheet"
-msgstr ""
+msgstr "สร้างใบบันทึกเวลา"
 
 msgid "Create User"
-msgstr ""
+msgstr "สร้างผู้ใช้"
 
 msgid "Create User Permission"
-msgstr ""
+msgstr "สร้างสิทธิ์ผู้ใช้"
 
 msgid "Create Users"
-msgstr ""
+msgstr "สร้างผู้ใช้"
 
 msgid "Create Variant"
-msgstr ""
+msgstr "สร้างตัวแปร"
 
 msgid "Create Variants"
-msgstr ""
+msgstr "สร้างตัวแปร"
 
 msgid "Create Workstation"
-msgstr ""
+msgstr "สร้างสถานีงาน"
 
 msgid "Create a variant with the template image."
-msgstr ""
+msgstr "สร้างตัวแปรพร้อมรูปภาพเทมเพลต"
 
 msgid "Create an incoming stock transaction for the Item."
-msgstr ""
+msgstr "สร้างธุรกรรมสต็อกขาเข้าสำหรับสินค้า"
 
 msgid "Create customer quotes"
-msgstr ""
+msgstr "สร้างใบเสนอราคาลูกค้า"
 
 msgid "Create in Draft Status"
-msgstr ""
+msgstr "สร้างในสถานะฉบับร่าง"
 
 msgid "Create missing customer or supplier."
-msgstr ""
+msgstr "สร้างลูกค้าหรือซัพพลายเออร์ที่ขาดหายไป"
 
 msgid "Create {0} {1} ?"
-msgstr ""
+msgstr "สร้าง {0} {1} ?"
 
 msgid "Created On"
-msgstr ""
+msgstr "สร้างเมื่อ"
 
 msgid "Created {0} scorecards for {1} between:"
-msgstr ""
+msgstr "สร้าง {0} scorecards สำหรับ {1} ระหว่าง:"
 
 msgid "Creating Accounts..."
 msgstr "กำลังสร้างบัญชี..."
 
 msgid "Creating Delivery Note ..."
-msgstr ""
+msgstr "กำลังสร้างใบส่งของ..."
 
 msgid "Creating Dimensions..."
-msgstr ""
+msgstr "กำลังสร้างมิติ..."
 
 msgid "Creating Journal Entries..."
-msgstr ""
+msgstr "กำลังสร้างรายการสมุดรายวัน..."
 
 msgid "Creating Packing Slip ..."
-msgstr ""
+msgstr "กำลังสร้างใบจัดสินค้า..."
 
 msgid "Creating Purchase Invoices ..."
-msgstr ""
+msgstr "กำลังสร้างใบแจ้งหนี้ซื้อ..."
 
 msgid "Creating Purchase Order ..."
-msgstr ""
+msgstr "กำลังสร้างใบสั่งซื้อ..."
 
 msgid "Creating Purchase Receipt ..."
-msgstr ""
+msgstr "กำลังสร้างใบรับสินค้า..."
 
 msgid "Creating Sales Invoices ..."
-msgstr ""
+msgstr "กำลังสร้างใบแจ้งหนี้ขาย..."
 
 msgid "Creating Stock Entry"
-msgstr ""
+msgstr "กำลังสร้างรายการสต็อก"
 
 msgid "Creating Subcontracting Order ..."
-msgstr ""
+msgstr "กำลังสร้างใบสั่งจ้างเหมาช่วง..."
 
 msgid "Creating Subcontracting Receipt ..."
-msgstr ""
+msgstr "กำลังสร้างใบรับงานจ้างเหมาช่วง..."
 
 msgid "Creating User..."
-msgstr ""
+msgstr "กำลังสร้างผู้ใช้..."
 
 msgid "Creating {} out of {} {}"
-msgstr ""
+msgstr "กำลังสร้าง {} จาก {} {}"
 
 msgid "Creation"
-msgstr ""
+msgstr "การสร้าง"
 
 msgid "Creation Document No"
-msgstr ""
+msgstr "เลขที่เอกสารการสร้าง"
 
 msgid "Creation of <b><a href='/app/{0}'>{1}(s)</a></b> successful"
-msgstr ""
+msgstr "การสร้าง <b><a href='/app/{0}'>{1}</a></b> สำเร็จ"
 
 msgid "Creation of {0} failed.\n"
 "\t\t\t\tCheck <b><a href=\"/app/bulk-transaction-log\">Bulk Transaction Log</a></b>"
-msgstr ""
+msgstr "การสร้าง {0} ล้มเหลว\n"
+"\t\t\t\tตรวจสอบ <b><a href=\"/app/bulk-transaction-log\">บันทึกธุรกรรมเป็นกลุ่ม</a></b>"
 
 msgid "Creation of {0} partially successful.\n"
 "\t\t\t\tCheck <b><a href=\"/app/bulk-transaction-log\">Bulk Transaction Log</a></b>"
-msgstr ""
+msgstr "การสร้าง {0} สำเร็จบางส่วน\n"
+"\t\t\t\tตรวจสอบ <b><a href=\"/app/bulk-transaction-log\">บันทึกธุรกรรมเป็นกลุ่ม</a></b>"
 
 msgid "Credit"
-msgstr ""
+msgstr "เครดิต"
 
 msgid "Credit (Transaction)"
-msgstr ""
+msgstr "เครดิต (ธุรกรรม)"
 
 msgid "Credit ({0})"
-msgstr ""
+msgstr "เครดิต ({0})"
 
 msgid "Credit Account"
-msgstr ""
+msgstr "บัญชีเครดิต"
 
 msgid "Credit Amount"
-msgstr ""
+msgstr "จำนวนเงินเครดิต"
 
 msgid "Credit Amount in Account Currency"
-msgstr ""
+msgstr "จำนวนเงินเครดิตในสกุลเงินบัญชี"
 
 msgid "Credit Amount in Transaction Currency"
-msgstr ""
+msgstr "จำนวนเงินเครดิตในสกุลเงินธุรกรรม"
 
 msgid "Credit Balance"
-msgstr ""
+msgstr "ยอดคงเหลือเครดิต"
 
 msgid "Credit Card"
-msgstr ""
+msgstr "บัตรเครดิต"
 
 msgid "Credit Card Entry"
-msgstr ""
+msgstr "รายการบัตรเครดิต"
 
 msgid "Credit Days"
-msgstr ""
+msgstr "วันเครดิต"
 
 msgid "Credit Limit"
-msgstr ""
+msgstr "วงเงินเครดิต"
 
 msgid "Credit Limit Crossed"
-msgstr ""
+msgstr "เกินวงเงินเครดิต"
 
 msgid "Credit Limit Settings"
-msgstr ""
+msgstr "การตั้งค่าวงเงินเครดิต"
 
 msgid "Credit Limit and Payment Terms"
-msgstr ""
+msgstr "วงเงินเครดิตและเงื่อนไขการชำระเงิน"
 
 msgid "Credit Limit:"
-msgstr ""
+msgstr "วงเงินเครดิต:"
 
 msgid "Credit Limits"
-msgstr ""
+msgstr "วงเงินเครดิต"
 
 msgid "Credit Months"
-msgstr ""
+msgstr "เดือนเครดิต"
 
 msgid "Credit Note"
-msgstr ""
+msgstr "ใบลดหนี้ (Credit Note)"
 
 msgid "Credit Note Amount"
-msgstr ""
+msgstr "จำนวนเงินในใบลดหนี้"
 
 msgid "Credit Note Issued"
-msgstr ""
+msgstr "ออกใบลดหนี้แล้ว"
 
 msgid "Credit Note will update it's own outstanding amount, even if 'Return Against' is specified."
-msgstr ""
+msgstr "ใบลดหนี้จะอัปเดตยอดค้างชำระของตัวเอง แม้ว่าจะระบุ 'คืนสินค้าอ้างอิง' ก็ตาม"
 
 msgid "Credit Note {0} has been created automatically"
-msgstr ""
+msgstr "ใบลดหนี้ {0} ถูกสร้างขึ้นโดยอัตโนมัติ"
 
 msgid "Credit To"
-msgstr ""
+msgstr "เครดิตไปยัง"
 
 msgid "Credit in Company Currency"
-msgstr ""
+msgstr "เครดิตในสกุลเงินบริษัท"
 
 msgid "Credit limit has been crossed for customer {0} ({1}/{2})"
-msgstr ""
+msgstr "เกินวงเงินเครดิตสำหรับลูกค้า {0} ({1}/{2})"
 
 msgid "Credit limit is already defined for the Company {0}"
-msgstr ""
+msgstr "มีการกำหนดวงเงินเครดิตสำหรับบริษัท {0} แล้ว"
 
 msgid "Credit limit reached for customer {0}"
-msgstr ""
+msgstr "ถึงวงเงินเครดิตสำหรับลูกค้า {0}"
 
 msgid "Creditors"
 msgstr "เจ้าหนี้"
@@ -439,62 +441,61 @@ msgid "Criteria"
 msgstr "เกณฑ์"
 
 msgid "Criteria Formula"
-msgstr ""
+msgstr "สูตรเกณฑ์"
 
 msgid "Criteria Name"
-msgstr ""
+msgstr "ชื่อเกณฑ์"
 
 msgid "Criteria Setup"
-msgstr ""
+msgstr "การตั้งค่าเกณฑ์"
 
 msgid "Criteria Weight"
-msgstr ""
+msgstr "น้ำหนักเกณฑ์"
 
 msgid "Criteria weights must add up to 100%"
-msgstr ""
+msgstr "น้ำหนักเกณฑ์ต้องรวมกันได้ 100%"
 
 msgid "Cron Interval should be between 1 and 59 Min"
-msgstr ""
+msgstr "ช่วงเวลา Cron ควรอยู่ระหว่าง 1 ถึง 59 นาที"
 
 msgid "Cross Listing of Item in multiple groups"
-msgstr ""
+msgstr "การแสดงรายการสินค้าข้ามกลุ่ม"
 
 msgid "Cubic Centimeter"
-msgstr ""
+msgstr "ลูกบาศก์เซนติเมตร"
 
 msgid "Cubic Decimeter"
-msgstr ""
+msgstr "ลูกบาศก์เดซิเมตร"
 
 msgid "Cubic Foot"
-msgstr ""
+msgstr "ลูกบาศก์ฟุต"
 
 msgid "Cubic Inch"
-msgstr ""
+msgstr "ลูกบาศก์นิ้ว"
 
 msgid "Cubic Meter"
-msgstr ""
+msgstr "ลูกบาศก์เมตร"
 
 msgid "Cubic Millimeter"
-msgstr ""
+msgstr "ลูกบาศก์มิลลิเมตร"
 
 msgid "Cubic Yard"
-msgstr ""
+msgstr "ลูกบาศก์หลา"
 
 msgid "Cumulative Transaction Threshold"
-msgstr ""
+msgstr "เกณฑ์ธุรกรรมสะสม"
 
 msgid "Cup"
-msgstr ""
+msgstr "ถ้วย"
 
 msgid "Currency"
-msgstr ""
+msgstr "สกุลเงิน"
 
 msgid "Currency Exchange"
-msgstr ""
+msgstr "การแลกเปลี่ยนสกุลเงิน"
 
 msgid "Currency Exchange Settings"
-msgstr ""
+msgstr "การตั้งค่าการแลกเปลี่ยนสกุลเงิน"
 
 msgid "Currency Exchange Settings Details"
-msgstr ""
-
+msgstr "รายละเอียดการตั้งค่าการแลกเปลี่ยนสกุลเงิน"

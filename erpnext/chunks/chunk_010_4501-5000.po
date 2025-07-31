@@ -1,31 +1,26 @@
-msgstr ""
-
-msgid "Caution"
-msgstr "ข้อควรระวัง"
-
 msgid "Caution: This might alter frozen accounts."
-msgstr ""
+msgstr "ข้อควรระวัง: การดำเนินการนี้อาจเปลี่ยนแปลงบัญชีที่ถูกระงับ"
 
 msgid "Cellphone Number"
-msgstr ""
+msgstr "หมายเลขโทรศัพท์มือถือ"
 
 msgid "Celsius"
-msgstr ""
+msgstr "เซลเซียส"
 
 msgid "Cental"
-msgstr ""
+msgstr "เซนทัล"
 
 msgid "Centiarea"
-msgstr ""
+msgstr "เซนติอาเร"
 
 msgid "Centigram/Litre"
-msgstr ""
+msgstr "เซนติกรัม/ลิตร"
 
 msgid "Centilitre"
-msgstr ""
+msgstr "เซนติลิตร"
 
 msgid "Centimeter"
-msgstr ""
+msgstr "เซนติเมตร"
 
 msgid "Certificate"
 msgstr "ใบรับรอง"
@@ -34,67 +29,67 @@ msgid "Certificate Details"
 msgstr "รายละเอียดใบรับรอง"
 
 msgid "Certificate Limit"
-msgstr ""
+msgstr "ขีดจำกัดใบรับรอง"
 
 msgid "Certificate No"
 msgstr "เลขที่ใบรับรอง"
 
 msgid "Certificate Required"
-msgstr ""
+msgstr "ต้องการใบรับรอง"
 
 msgid "Chain"
-msgstr ""
+msgstr "เชน"
 
 msgid "Change Amount"
-msgstr ""
+msgstr "จำนวนเงินทอน"
 
 msgid "Change Release Date"
-msgstr ""
+msgstr "เปลี่ยนวันที่เผยแพร่"
 
 msgid "Change in Stock Value"
-msgstr ""
+msgstr "การเปลี่ยนแปลงมูลค่าสต็อก"
 
 msgid "Change the account type to Receivable or select a different account."
-msgstr ""
+msgstr "เปลี่ยนประเภทบัญชีเป็น 'ลูกหนี้' หรือเลือกบัญชีอื่น"
 
 msgid "Change this date manually to setup the next synchronization start date"
-msgstr ""
+msgstr "เปลี่ยนวันที่นี้ด้วยตนเองเพื่อตั้งค่าวันที่เริ่มต้นการซิงโครไนซ์ครั้งถัดไป"
 
 msgid "Changed customer name to '{}' as '{}' already exists."
-msgstr ""
+msgstr "เปลี่ยนชื่อลูกค้าเป็น '{}' เนื่องจากมี '{}' อยู่แล้ว"
 
 msgid "Changes"
 msgstr "การเปลี่ยนแปลง"
 
 msgid "Changes in {0}"
-msgstr ""
+msgstr "การเปลี่ยนแปลงใน {0}"
 
 msgid "Changing Customer Group for the selected Customer is not allowed."
-msgstr ""
+msgstr "ไม่อนุญาตให้เปลี่ยนกลุ่มลูกค้าสำหรับลูกค้าที่เลือก"
 
 msgid "Changing the valuation method to Moving Average will affect new transactions. If backdated entries are added, earlier FIFO-based entries will be reposted, which may change closing balances."
-msgstr ""
+msgstr "การเปลี่ยนวิธีการประเมินค่าเป็นแบบถัวเฉลี่ยเคลื่อนที่จะส่งผลต่อธุรกรรมใหม่ หากมีการเพิ่มรายการย้อนหลัง รายการที่ใช้ FIFO ก่อนหน้านี้จะถูกลงบัญชีใหม่ ซึ่งอาจทำให้ยอดคงเหลือปิดบัญชีเปลี่ยนแปลง"
 
 msgid "Channel Partner"
-msgstr ""
+msgstr "คู่ค้าช่องทาง"
 
 msgid "Charge of type 'Actual' in row {0} cannot be included in Item Rate or Paid Amount"
-msgstr ""
+msgstr "ค่าใช้จ่ายประเภท 'ตามจริง' ในแถวที่ {0} ไม่สามารถรวมอยู่ในอัตราสินค้าหรือจำนวนเงินที่ชำระได้"
 
 msgid "Chargeable"
-msgstr ""
+msgstr "คิดค่าบริการได้"
 
 msgid "Charges Incurred"
-msgstr ""
+msgstr "ค่าใช้จ่ายที่เกิดขึ้น"
 
 msgid "Charges are updated in Purchase Receipt against each item"
-msgstr ""
+msgstr "ค่าใช้จ่ายจะถูกอัปเดตในใบรับสินค้าตามสินค้าแต่ละรายการ"
 
 msgid "Charges will be distributed proportionately based on item qty or amount, as per your selection"
-msgstr ""
+msgstr "ค่าใช้จ่ายจะถูกกระจายตามสัดส่วนตามปริมาณหรือจำนวนเงินของสินค้า ตามที่คุณเลือก"
 
 msgid "Chart"
-msgstr ""
+msgstr "แผนภูมิ"
 
 msgid "Chart Of Accounts"
 msgstr "ผังบัญชี"
@@ -103,398 +98,397 @@ msgid "Chart Of Accounts Template"
 msgstr "เทมเพลตผังบัญชี"
 
 msgid "Chart Preview"
-msgstr "ผังตัวอย่าง"
+msgstr "ดูตัวอย่างผัง"
 
 msgid "Chart Tree"
-msgstr "โครงสร้างของผัง"
+msgstr "โครงสร้างผัง"
 
 msgid "Chart of Accounts"
 msgstr "ผังบัญชี"
 
 msgid "Chart of Accounts Importer"
-msgstr "ตัวนำเข้าผังบัญชี"
+msgstr "เครื่องมือนำเข้าผังบัญชี"
 
 msgid "Chart of Cost Centers"
-msgstr "ผังศูยน์ต้นทุน"
+msgstr "ผังศูนย์ต้นทุน"
 
 msgid "Charts Based On"
-msgstr ""
+msgstr "แผนภูมิตาม"
 
 msgid "Chassis No"
-msgstr ""
+msgstr "เลขตัวถัง"
 
 msgid "Chat"
-msgstr ""
+msgstr "แชท"
 
 msgid "Check Supplier Invoice Number Uniqueness"
-msgstr ""
+msgstr "ตรวจสอบความซ้ำซ้อนของหมายเลขใบแจ้งหนี้ผู้จัดจำหน่าย"
 
 msgid "Check if it is a hydroponic unit"
-msgstr ""
+msgstr "ตรวจสอบว่าเป็นหน่วยไฮโดรโปนิกส์หรือไม่"
 
 msgid "Check if material transfer entry is not required"
-msgstr ""
+msgstr "ตรวจสอบว่าไม่จำเป็นต้องมีรายการโอนย้ายวัสดุหรือไม่"
 
 msgid "Check in (group)"
-msgstr ""
+msgstr "เช็คอิน (กลุ่ม)"
 
 msgid "Check this to disallow fractions. (for Nos)"
-msgstr ""
+msgstr "เลือกช่องนี้เพื่อไม่อนุญาตให้มีเศษส่วน (สำหรับ 'จำนวน')"
 
 msgid "Checked On"
-msgstr ""
+msgstr "ตรวจสอบเมื่อ"
 
 msgid "Checking this will round off the tax amount to the nearest integer"
-msgstr ""
+msgstr "การเลือกช่องนี้จะปัดเศษจำนวนภาษีเป็นจำนวนเต็มที่ใกล้ที่สุด"
 
 msgid "Checkout"
-msgstr ""
+msgstr "ชำระเงิน"
 
 msgid "Checkout Order / Submit Order / New Order"
-msgstr ""
+msgstr "ชำระเงิน / ส่งคำสั่งซื้อ / คำสั่งซื้อใหม่"
 
 msgid "Chemical"
-msgstr ""
+msgstr "เคมี"
 
 msgid "Cheque"
-msgstr ""
+msgstr "เช็ค"
 
 msgid "Cheque Date"
-msgstr ""
+msgstr "วันที่บนเช็ค"
 
 msgid "Cheque Height"
-msgstr ""
+msgstr "ความสูงเช็ค"
 
 msgid "Cheque Number"
-msgstr ""
+msgstr "หมายเลขเช็ค"
 
 msgid "Cheque Print Template"
-msgstr ""
+msgstr "เทมเพลตพิมพ์เช็ค"
 
 msgid "Cheque Size"
-msgstr ""
+msgstr "ขนาดเช็ค"
 
 msgid "Cheque Width"
-msgstr ""
+msgstr "ความกว้างเช็ค"
 
 msgid "Cheque/Reference Date"
-msgstr ""
+msgstr "วันที่เช็ค/อ้างอิง"
 
 msgid "Cheque/Reference No"
-msgstr ""
+msgstr "หมายเลขเช็ค/อ้างอิง"
 
 msgid "Cheques Required"
-msgstr ""
+msgstr "ต้องการเช็ค"
 
 msgid "Cheques and Deposits Incorrectly cleared"
-msgstr ""
+msgstr "เช็คและเงินฝากที่เคลียร์ไม่ถูกต้อง"
 
 msgid "Cheques and Deposits incorrectly cleared"
-msgstr ""
+msgstr "เช็คและเงินฝากที่เคลียร์ไม่ถูกต้อง"
 
 msgid "Chief Executive Officer"
-msgstr ""
+msgstr "ประธานเจ้าหน้าที่บริหาร"
 
 msgid "Chief Financial Officer"
-msgstr ""
+msgstr "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
 
 msgid "Chief Operating Officer"
-msgstr ""
+msgstr "ประธานเจ้าหน้าที่ฝ่ายปฏิบัติการ"
 
 msgid "Chief Technology Officer"
-msgstr ""
+msgstr "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
 
 msgid "Child Docname"
-msgstr ""
+msgstr "ชื่อเอกสารลูก"
 
 msgid "Child Row Reference"
-msgstr ""
+msgstr "การอ้างอิงแถวลูก"
 
 msgid "Child Task exists for this Task. You can not delete this Task."
-msgstr ""
+msgstr "มีงานย่อยสำหรับงานนี้ คุณไม่สามารถลบงานนี้ได้"
 
 msgid "Child nodes can be only created under 'Group' type nodes"
-msgstr ""
+msgstr "โหนดลูกสามารถสร้างได้ภายใต้โหนดประเภท 'กลุ่ม' เท่านั้น"
 
 msgid "Child warehouse exists for this warehouse. You can not delete this warehouse."
-msgstr ""
+msgstr "มีคลังสินค้าย่อยสำหรับคลังสินค้านี้ คุณไม่สามารถลบคลังสินค้านี้ได้"
 
 msgid "Circular Reference Error"
-msgstr ""
+msgstr "ข้อผิดพลาดการอ้างอิงแบบวงกลม"
 
 msgid "City"
-msgstr ""
+msgstr "เมือง"
 
 msgid "Class / Percentage"
-msgstr ""
+msgstr "ระดับ / เปอร์เซ็นต์"
 
 msgid "Classification of Customers by region"
-msgstr ""
+msgstr "การจำแนกลูกค้าตามภูมิภาค"
 
 msgid "Clauses and Conditions"
-msgstr ""
+msgstr "ข้อกำหนดและเงื่อนไข"
 
 msgid "Clear Demo Data"
-msgstr ""
+msgstr "ล้างข้อมูลสาธิต"
 
 msgid "Clear Notifications"
-msgstr ""
+msgstr "ล้างการแจ้งเตือน"
 
 msgid "Clear Table"
-msgstr ""
+msgstr "ล้างตาราง"
 
 msgid "Clearance Date"
-msgstr ""
+msgstr "วันที่เคลียร์"
 
 msgid "Clearance Date not mentioned"
-msgstr ""
+msgstr "ไม่ได้ระบุวันที่เคลียร์"
 
 msgid "Clearance Date updated"
-msgstr ""
+msgstr "อัปเดตวันที่เคลียร์แล้ว"
 
 msgid "Clearing Demo Data..."
-msgstr ""
+msgstr "กำลังล้างข้อมูลสาธิต..."
 
 msgid "Click on 'Get Finished Goods for Manufacture' to fetch the items from the above Sales Orders. Items only for which a BOM is present will be fetched."
-msgstr ""
+msgstr "คลิกที่ 'ดึงสินค้าสำเร็จรูปเพื่อการผลิต' เพื่อดึงสินค้าจากใบสั่งขายข้างต้น จะดึงเฉพาะสินค้าที่มี BOM อยู่เท่านั้น"
 
 msgid "Click on Add to Holidays. This will populate the holidays table with all the dates that fall on the selected weekly off. Repeat the process for populating the dates for all your weekly holidays"
-msgstr ""
+msgstr "คลิกที่ 'เพิ่มในวันหยุด' ซึ่งจะเติมตารางวันหยุดด้วยวันที่ทั้งหมดที่ตรงกับวันหยุดประจำสัปดาห์ที่เลือก ทำซ้ำกระบวนการเพื่อเติมวันที่สำหรับวันหยุดประจำสัปดาห์ทั้งหมดของคุณ"
 
 msgid "Click on Get Sales Orders to fetch sales orders based on the above filters."
-msgstr ""
+msgstr "คลิกที่ 'ดึงใบสั่งขาย' เพื่อดึงใบสั่งขายตามตัวกรองข้างต้น"
 
 msgid "Click on Import Invoices button once the zip file has been attached to the document. Any errors related to processing will be shown in the Error Log."
-msgstr ""
+msgstr "คลิกที่ปุ่ม 'นำเข้าใบแจ้งหนี้' หลังจากแนบไฟล์ zip กับเอกสารแล้ว ข้อผิดพลาดใด ๆ ที่เกี่ยวข้องกับการประมวลผลจะแสดงในบันทึกข้อผิดพลาด"
 
 msgid "Click on the link below to verify your email and confirm the appointment"
-msgstr ""
+msgstr "คลิกที่ลิงก์ด้านล่างเพื่อยืนยันอีเมลและยืนยันการนัดหมาย"
 
 msgid "Click to add email / phone"
-msgstr ""
+msgstr "คลิกเพื่อเพิ่มอีเมล / โทรศัพท์"
 
 msgid "Client"
-msgstr ""
+msgstr "ลูกค้า"
 
 msgid "Close"
-msgstr ""
+msgstr "ปิด"
 
 msgid "Close Issue After Days"
-msgstr ""
+msgstr "ปิดปัญหาหลังจาก (วัน)"
 
 msgid "Close Loan"
-msgstr ""
+msgstr "ปิดเงินกู้"
 
 msgid "Close Replied Opportunity After Days"
-msgstr ""
+msgstr "ปิดโอกาสทางการขายที่ตอบกลับแล้วหลังจาก (วัน)"
 
 msgid "Close the POS"
-msgstr ""
+msgstr "ปิด POS"
 
 msgid "Closed"
-msgstr ""
+msgstr "ปิดแล้ว"
 
 msgid "Closed Document"
-msgstr ""
+msgstr "เอกสารที่ปิดแล้ว"
 
 msgid "Closed Documents"
-msgstr ""
+msgstr "เอกสารที่ปิดแล้ว"
 
 msgid "Closed Work Order can not be stopped or Re-opened"
-msgstr ""
+msgstr "ใบสั่งงานที่ปิดแล้วไม่สามารถหยุดหรือเปิดใหม่ได้"
 
 msgid "Closed order cannot be cancelled. Unclose to cancel."
-msgstr ""
+msgstr "คำสั่งซื้อที่ปิดแล้วไม่สามารถยกเลิกได้ กรุณาเปิดใหม่เพื่อยกเลิก"
 
 msgid "Closing"
-msgstr ""
+msgstr "การปิด"
 
 msgid "Closing (Cr)"
-msgstr ""
+msgstr "ปิด (เครดิต)"
 
 msgid "Closing (Dr)"
-msgstr ""
+msgstr "ปิด (เดบิต)"
 
 msgid "Closing (Opening + Total)"
-msgstr ""
+msgstr "ปิด (เปิด + ทั้งหมด)"
 
 msgid "Closing Account Head"
-msgstr ""
+msgstr "หัวข้อบัญชีปิด"
 
 msgid "Closing Account {0} must be of type Liability / Equity"
-msgstr ""
+msgstr "บัญชีปิด {0} ต้องเป็นประเภทหนี้สิน / ทุน"
 
 msgid "Closing Amount"
-msgstr ""
+msgstr "จำนวนเงินปิด"
 
 msgid "Closing Balance"
-msgstr ""
+msgstr "ยอดคงเหลือปิดบัญชี"
 
 msgid "Closing Balance as per Bank Statement"
-msgstr ""
+msgstr "ยอดคงเหลือปิดบัญชีตามใบแจ้งยอดธนาคาร"
 
 msgid "Closing Balance as per ERP"
-msgstr ""
+msgstr "ยอดคงเหลือปิดบัญชีตาม ERP"
 
 msgid "Closing Date"
-msgstr ""
+msgstr "วันที่ปิด"
 
 msgid "Closing Text"
-msgstr ""
+msgstr "ข้อความปิดท้าย"
 
 msgid "Closing [Opening + Total] "
-msgstr ""
+msgstr "ปิด [เปิด + ทั้งหมด] "
 
 msgid "Code"
-msgstr ""
+msgstr "รหัส"
 
 msgid "Code List"
-msgstr ""
+msgstr "รายการรหัส"
 
 msgid "Cold Calling"
-msgstr ""
+msgstr "การโทรหาลูกค้าโดยไม่มีการนัดหมาย"
 
 msgid "Collapse All"
-msgstr ""
+msgstr "ยุบทั้งหมด"
 
 msgid "Collect Outstanding Amount"
-msgstr ""
+msgstr "เรียกเก็บยอดค้างชำระ"
 
 msgid "Collect Progress"
-msgstr ""
+msgstr "รวบรวมความคืบหน้า"
 
 msgid "Collection Factor (=1 LP)"
-msgstr ""
+msgstr "ปัจจัยการสะสม (=1 LP)"
 
 msgid "Collection Rules"
-msgstr ""
+msgstr "กฎการสะสม"
 
 msgid "Collection Tier"
-msgstr ""
+msgstr "ระดับการสะสม"
 
 msgid "Color"
-msgstr ""
+msgstr "สี"
 
 msgid "Colour"
-msgstr ""
+msgstr "สี"
 
 msgid "Column in Bank File"
-msgstr ""
+msgstr "คอลัมน์ในไฟล์ธนาคาร"
 
 msgid "Column {0}"
-msgstr ""
+msgstr "คอลัมน์ {0}"
 
 msgid "Columns are not according to template. Please compare the uploaded file with standard template"
-msgstr "แนวตั้งไม่ตรงตามเทมเพลต กรุณาเปรียบเทียบไฟล์ที่อัปโหลดกับเทมเพลตมาตรฐาน"
+msgstr "คอลัมน์ไม่ตรงตามเทมเพลต กรุณาเปรียบเทียบไฟล์ที่อัปโหลดกับเทมเพลตมาตรฐาน"
 
 msgid "Combined invoice portion must equal 100%"
-msgstr ""
+msgstr "ส่วนของใบแจ้งหนี้รวมต้องเท่ากับ 100%"
 
 msgid "Comments"
-msgstr ""
+msgstr "ความคิดเห็น"
 
 msgid "Commercial"
-msgstr ""
+msgstr "เชิงพาณิชย์"
 
 msgid "Commission"
-msgstr ""
+msgstr "ค่าคอมมิชชั่น"
 
 msgid "Commission Rate"
-msgstr ""
+msgstr "อัตราค่าคอมมิชชั่น"
 
 msgid "Commission Rate %"
-msgstr ""
+msgstr "อัตราค่าคอมมิชชั่น %"
 
 msgid "Commission Rate (%)"
-msgstr ""
+msgstr "อัตราค่าคอมมิชชั่น (%)"
 
 msgid "Commission on Sales"
-msgstr "ค่านายหน้า"
+msgstr "ค่านายหน้าจากการขาย"
 
 msgid "Common Code"
-msgstr ""
+msgstr "รหัสร่วม"
 
 msgid "Communication"
-msgstr ""
+msgstr "การสื่อสาร"
 
 msgid "Communication Channel"
-msgstr ""
+msgstr "ช่องทางการสื่อสาร"
 
 msgid "Communication Medium"
-msgstr ""
+msgstr "สื่อกลางการสื่อสาร"
 
 msgid "Communication Medium Timeslot"
-msgstr ""
+msgstr "ช่วงเวลาของสื่อกลางการสื่อสาร"
 
 msgid "Communication Medium Type"
-msgstr ""
+msgstr "ประเภทสื่อกลางการสื่อสาร"
 
 msgid "Compact Item Print"
-msgstr ""
+msgstr "พิมพ์รายการสินค้าแบบย่อ"
 
 msgid "Companies"
-msgstr ""
+msgstr "บริษัท"
 
 msgid "Company"
 msgstr "บริษัท"
 
 msgid "Company Abbreviation"
-msgstr ""
+msgstr "ตัวย่อบริษัท"
 
 msgid "Company Abbreviation cannot have more than 5 characters"
-msgstr ""
+msgstr "ตัวย่อบริษัทต้องมีความยาวไม่เกิน 5 ตัวอักษร"
 
 msgid "Company Account"
-msgstr ""
+msgstr "บัญชีบริษัท"
 
 msgid "Company Address"
-msgstr ""
+msgstr "ที่อยู่บริษัท"
 
 msgid "Company Address Display"
-msgstr ""
+msgstr "การแสดงที่อยู่บริษัท"
 
 msgid "Company Address Name"
-msgstr ""
+msgstr "ชื่อที่อยู่บริษัท"
 
 msgid "Company Bank Account"
-msgstr ""
+msgstr "บัญชีธนาคารของบริษัท"
 
 msgid "Company Billing Address"
-msgstr ""
+msgstr "ที่อยู่เรียกเก็บเงินของบริษัท"
 
 msgid "Company Contact Person"
-msgstr ""
+msgstr "ผู้ติดต่อของบริษัท"
 
 msgid "Company Description"
-msgstr ""
+msgstr "รายละเอียดบริษัท"
 
 msgid "Company Details"
 msgstr "รายละเอียดบริษัท"
 
 msgid "Company Email"
-msgstr ""
+msgstr "อีเมลบริษัท"
 
 msgid "Company Logo"
-msgstr ""
+msgstr "โลโก้บริษัท"
 
 msgid "Company Name"
-msgstr ""
+msgstr "ชื่อบริษัท"
 
 msgid "Company Name cannot be Company"
-msgstr ""
+msgstr "ชื่อบริษัทไม่สามารถเป็น 'บริษัท' ได้"
 
 msgid "Company Not Linked"
-msgstr ""
+msgstr "บริษัทไม่ได้เชื่อมโยง"
 
 msgid "Company Shipping Address"
-msgstr ""
+msgstr "ที่อยู่จัดส่งของบริษัท"
 
 msgid "Company Tax ID"
-msgstr ""
+msgstr "หมายเลขประจำตัวผู้เสียภาษีของบริษัท"
 
 msgid "Company and Posting Date is mandatory"
-msgstr ""
+msgstr "ต้องระบุบริษัทและวันที่ลงรายการ"
 
 msgid "Company currencies of both the companies should match for Inter Company Transactions."
-msgstr ""
-
+msgstr "สกุลเงินของทั้งสองบริษัทต้องตรงกันสำหรับธุรกรรมระหว่างบริษัท"

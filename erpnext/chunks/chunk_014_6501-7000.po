@@ -1,4 +1,3 @@
-
 msgid "Debtor/Creditor"
 msgstr "ลูกหนี้/เจ้าหนี้"
 
@@ -9,13 +8,13 @@ msgid "Debtors"
 msgstr "ลูกหนี้"
 
 msgid "Decigram/Litre"
-msgstr ""
+msgstr "เดซิกรัม/ลิตร"
 
 msgid "Decilitre"
-msgstr ""
+msgstr "เดซิลิตร"
 
 msgid "Decimeter"
-msgstr ""
+msgstr "เดซิเมตร"
 
 msgid "Declare Lost"
 msgstr "ประกาศสูญหาย"
@@ -39,211 +38,208 @@ msgid "Default Accounts"
 msgstr "บัญชีเริ่มต้น"
 
 msgid "Default Activity Cost exists for Activity Type - {0}"
-msgstr ""
+msgstr "มีต้นทุนกิจกรรมเริ่มต้นสำหรับประเภทกิจกรรม - {0}"
 
 msgid "Default Advance Account"
-msgstr ""
+msgstr "บัญชีล่วงหน้าเริ่มต้น"
 
 msgid "Default Advance Paid Account"
-msgstr ""
+msgstr "บัญชีจ่ายล่วงหน้าเริ่มต้น"
 
 msgid "Default Advance Received Account"
-msgstr ""
+msgstr "บัญชีรับล่วงหน้าเริ่มต้น"
 
 msgid "Default BOM"
 msgstr "BOM เริ่มต้น"
 
 msgid "Default BOM ({0}) must be active for this item or its template"
-msgstr ""
-
-msgid "Default BOM for {0} not found"
-msgstr ""
+msgstr "BOM เริ่มต้น ({0}) ต้องเปิดใช้งานสำหรับสินค้านี้หรือเทมเพลตของมัน"
 
 msgid "Default BOM not found for FG Item {0}"
-msgstr ""
+msgstr "ไม่พบ BOM เริ่มต้นสำหรับสินค้าสำเร็จรูป {0}"
 
 msgid "Default BOM not found for Item {0} and Project {1}"
-msgstr ""
+msgstr "ไม่พบ BOM เริ่มต้นสำหรับสินค้า {0} และโครงการ {1}"
 
 msgid "Default Bank Account"
 msgstr "บัญชีธนาคารเริ่มต้น"
 
 msgid "Default Billing Rate"
-msgstr ""
+msgstr "อัตราการเรียกเก็บเงินเริ่มต้น"
 
 msgid "Default Buying Cost Center"
-msgstr ""
+msgstr "ศูนย์ต้นทุนการซื้อเริ่มต้น"
 
 msgid "Default Buying Price List"
-msgstr ""
+msgstr "รายการราคาซื้อเริ่มต้น"
 
 msgid "Default Buying Terms"
-msgstr ""
+msgstr "เงื่อนไขการซื้อเริ่มต้น"
 
 msgid "Default Cash Account"
-msgstr ""
+msgstr "บัญชีเงินสดเริ่มต้น"
 
 msgid "Default Common Code"
-msgstr ""
+msgstr "รหัสร่วมเริ่มต้น"
 
 msgid "Default Company"
 msgstr "บริษัทเริ่มต้น"
 
 msgid "Default Company Bank Account"
-msgstr ""
+msgstr "บัญชีธนาคารบริษัทเริ่มต้น"
 
 msgid "Default Cost Center"
 msgstr "ศูนย์ต้นทุนเริ่มต้น"
 
 msgid "Default Cost of Goods Sold Account"
-msgstr ""
+msgstr "บัญชีต้นทุนขายเริ่มต้น"
 
 msgid "Default Costing Rate"
-msgstr ""
+msgstr "อัตราการคิดต้นทุนเริ่มต้น"
 
 msgid "Default Currency"
-msgstr ""
+msgstr "สกุลเงินเริ่มต้น"
 
 msgid "Default Customer Group"
-msgstr ""
+msgstr "กลุ่มลูกค้าเริ่มต้น"
 
 msgid "Default Deferred Expense Account"
-msgstr ""
+msgstr "บัญชีค่าใช้จ่ายรอตัดบัญชีเริ่มต้น"
 
 msgid "Default Deferred Revenue Account"
-msgstr ""
+msgstr "บัญชีรายได้รอตัดบัญชีเริ่มต้น"
 
 msgid "Default Dimension"
-msgstr ""
+msgstr "มิติเริ่มต้น"
 
 msgid "Default Discount Account"
-msgstr ""
+msgstr "บัญชีส่วนลดเริ่มต้น"
 
 msgid "Default Distance Unit"
-msgstr ""
+msgstr "หน่วยระยะทางเริ่มต้น"
 
 msgid "Default Expense Account"
-msgstr ""
+msgstr "บัญชีค่าใช้จ่ายเริ่มต้น"
 
 msgid "Default Finance Book"
-msgstr ""
+msgstr "สมุดการเงินเริ่มต้น"
 
 msgid "Default Finished Goods Warehouse"
-msgstr ""
+msgstr "คลังสินค้าสำเร็จรูปเริ่มต้น"
 
 msgid "Default Holiday List"
-msgstr ""
+msgstr "รายการวันหยุดเริ่มต้น"
 
 msgid "Default In-Transit Warehouse"
-msgstr ""
+msgstr "คลังสินค้าระหว่างทางเริ่มต้น"
 
 msgid "Default Income Account"
-msgstr ""
+msgstr "บัญชีรายได้เริ่มต้น"
 
 msgid "Default Inventory Account"
-msgstr ""
+msgstr "บัญชีสินค้าคงคลังเริ่มต้น"
 
 msgid "Default Item Group"
-msgstr ""
+msgstr "กลุ่มสินค้าเริ่มต้น"
 
 msgid "Default Item Manufacturer"
-msgstr ""
+msgstr "ผู้ผลิตสินค้าเริ่มต้น"
 
 msgid "Default Letter Head"
-msgstr ""
+msgstr "หัวจดหมายเริ่มต้น"
 
 msgid "Default Manufacturer Part No"
-msgstr ""
+msgstr "หมายเลขชิ้นส่วนผู้ผลิตเริ่มต้น"
 
 msgid "Default Material Request Type"
-msgstr ""
+msgstr "ประเภทใบขอวัสดุเริ่มต้น"
 
 msgid "Default Operating Cost Account"
-msgstr ""
+msgstr "บัญชีต้นทุนการดำเนินงานเริ่มต้น"
 
 msgid "Default Payable Account"
-msgstr ""
+msgstr "บัญชีเจ้าหนี้เริ่มต้น"
 
 msgid "Default Payment Discount Account"
-msgstr ""
+msgstr "บัญชีส่วนลดการชำระเงินเริ่มต้น"
 
 msgid "Default Payment Request Message"
-msgstr ""
+msgstr "ข้อความขอชำระเงินเริ่มต้น"
 
 msgid "Default Payment Terms Template"
-msgstr ""
+msgstr "เทมเพลตเงื่อนไขการชำระเงินเริ่มต้น"
 
 msgid "Default Price List"
-msgstr ""
+msgstr "รายการราคาเริ่มต้น"
 
 msgid "Default Priority"
-msgstr ""
+msgstr "ลำดับความสำคัญเริ่มต้น"
 
 msgid "Default Provisional Account"
-msgstr ""
+msgstr "บัญชีชั่วคราวเริ่มต้น"
 
 msgid "Default Purchase Unit of Measure"
-msgstr ""
+msgstr "หน่วยวัดการซื้อเริ่มต้น"
 
 msgid "Default Quotation Validity Days"
-msgstr ""
+msgstr "จำนวนวันที่ใบเสนอราคามีผลเริ่มต้น"
 
 msgid "Default Receivable Account"
-msgstr ""
+msgstr "บัญชีลูกหนี้เริ่มต้น"
 
 msgid "Default Sales Unit of Measure"
-msgstr ""
+msgstr "หน่วยวัดการขายเริ่มต้น"
 
 msgid "Default Scrap Warehouse"
-msgstr ""
+msgstr "คลังสินค้าเศษซากเริ่มต้น"
 
 msgid "Default Selling Cost Center"
-msgstr ""
+msgstr "ศูนย์ต้นทุนการขายเริ่มต้น"
 
 msgid "Default Selling Terms"
-msgstr ""
+msgstr "เงื่อนไขการขายเริ่มต้น"
 
 msgid "Default Service Level Agreement"
-msgstr ""
+msgstr "ข้อตกลงระดับการให้บริการเริ่มต้น"
 
 msgid "Default Service Level Agreement for {0} already exists."
-msgstr ""
+msgstr "มีข้อตกลงระดับการให้บริการเริ่มต้นสำหรับ {0} อยู่แล้ว"
 
 msgid "Default Source Warehouse"
-msgstr ""
+msgstr "คลังสินค้าต้นทางเริ่มต้น"
 
 msgid "Default Stock UOM"
-msgstr ""
+msgstr "หน่วยวัดสต็อกเริ่มต้น"
 
 msgid "Default Supplier"
-msgstr ""
+msgstr "ซัพพลายเออร์เริ่มต้น"
 
 msgid "Default Supplier Group"
-msgstr ""
+msgstr "กลุ่มซัพพลายเออร์เริ่มต้น"
 
 msgid "Default Target Warehouse"
-msgstr ""
+msgstr "คลังสินค้าปลายทางเริ่มต้น"
 
 msgid "Default Territory"
-msgstr ""
+msgstr "เขตพื้นที่เริ่มต้น"
 
 msgid "Default Unit of Measure"
-msgstr ""
+msgstr "หน่วยวัดเริ่มต้น"
 
 msgid "Default Unit of Measure for Item {0} cannot be changed directly because you have already made some transaction(s) with another UOM. You need to either cancel the linked documents or create a new Item."
-msgstr ""
+msgstr "ไม่สามารถเปลี่ยนหน่วยวัดเริ่มต้นสำหรับสินค้า {0} ได้โดยตรงเนื่องจากคุณได้ทำธุรกรรมกับหน่วยวัดอื่นไปแล้ว คุณต้องยกเลิกเอกสารที่เชื่อมโยงหรือสร้างสินค้าใหม่"
 
 msgid "Default Unit of Measure for Item {0} cannot be changed directly because you have already made some transaction(s) with another UOM. You will need to create a new Item to use a different Default UOM."
-msgstr ""
+msgstr "ไม่สามารถเปลี่ยนหน่วยวัดเริ่มต้นสำหรับสินค้า {0} ได้โดยตรงเนื่องจากคุณได้ทำธุรกรรมกับหน่วยวัดอื่นไปแล้ว คุณจะต้องสร้างสินค้าใหม่เพื่อใช้หน่วยวัดเริ่มต้นที่แตกต่างกัน"
 
 msgid "Default Unit of Measure for Variant '{0}' must be same as in Template '{1}'"
-msgstr ""
+msgstr "หน่วยวัดเริ่มต้นสำหรับตัวแปร '{0}' ต้องเหมือนกับในเทมเพลต '{1}'"
 
 msgid "Default Valuation Method"
-msgstr ""
+msgstr "วิธีการประเมินค่าเริ่มต้น"
 
 msgid "Default Value"
-msgstr ""
+msgstr "ค่าเริ่มต้น"
 
 msgid "Default Warehouse"
 msgstr "คลังสินค้าเริ่มต้น"
@@ -255,7 +251,7 @@ msgid "Default Warehouses for Production"
 msgstr "คลังสินค้าเริ่มต้นสำหรับการผลิต"
 
 msgid "Default Work In Progress Warehouse"
-msgstr "คลังสินค้าสำหรับงานระหว่างทำเริ่มต้น"
+msgstr "คลังสินค้าสำหรับงานระหว่างผลิตเริ่มต้น"
 
 msgid "Default Workstation"
 msgstr "สถานีงานเริ่มต้น"
@@ -267,7 +263,7 @@ msgid "Default settings for your stock-related transactions"
 msgstr "การตั้งค่าเริ่มต้นสำหรับธุรกรรมที่เกี่ยวข้องกับสต็อกของคุณ"
 
 msgid "Default tax templates for sales, purchase and items are created."
-msgstr "สร้างแม่แบบภาษีเริ่มต้นสำหรับการขาย การซื้อ และรายการแล้ว"
+msgstr "สร้างแม่แบบภาษีเริ่มต้นสำหรับการขาย การซื้อ และสินค้าแล้ว"
 
 msgid "Default: 10 mins"
 msgstr "ค่าเริ่มต้น: 10 นาที"
@@ -276,7 +272,7 @@ msgid "Defaults"
 msgstr "ค่าเริ่มต้น"
 
 msgid "Defense"
-msgstr ""
+msgstr "การป้องกัน"
 
 msgid "Deferred Accounting"
 msgstr "การบัญชีรอตัดบัญชี"
@@ -309,7 +305,7 @@ msgid "Define Project type."
 msgstr "กำหนดประเภทโครงการ"
 
 msgid "Dekagram/Litre"
-msgstr ""
+msgstr "เดคากรัม/ลิตร"
 
 msgid "Delay (In Days)"
 msgstr "ความล่าช้า (เป็นวัน)"
@@ -330,7 +326,7 @@ msgid "Delayed Days"
 msgstr "วันที่ล่าช้า"
 
 msgid "Delayed Item Report"
-msgstr "รายงานรายการที่ล่าช้า"
+msgstr "รายงานสินค้าที่ล่าช้า"
 
 msgid "Delayed Order Report"
 msgstr "รายงานคำสั่งซื้อที่ล่าช้า"
@@ -345,7 +341,7 @@ msgid "Delete Accounting and Stock Ledger Entries on deletion of Transaction"
 msgstr "ลบรายการบัญชีและบัญชีแยกประเภทสต็อกเมื่อทำการลบธุรกรรม"
 
 msgid "Delete Bins"
-msgstr "ลบถัง"
+msgstr "ลบช่องเก็บ"
 
 msgid "Delete Cancelled Ledger Entries"
 msgstr "ลบรายการบัญชีแยกประเภทที่ถูกยกเลิก"
@@ -363,10 +359,10 @@ msgid "Delete all the Transactions for this Company"
 msgstr "ลบธุรกรรมทั้งหมดสำหรับบริษัทนี้"
 
 msgid "Deleted Documents"
-msgstr ""
+msgstr "เอกสารที่ถูกลบ"
 
 msgid "Deleting {0} and all associated Common Code documents..."
-msgstr "กำลังลบ {0} และเอกสาร Common Code ที่เกี่ยวข้องทั้งหมด..."
+msgstr "กำลังลบ {0} และเอกสารรหัสร่วมที่เกี่ยวข้องทั้งหมด..."
 
 msgid "Deletion in Progress!"
 msgstr "กำลังดำเนินการลบ!"
@@ -384,31 +380,31 @@ msgid "Delivered Amount"
 msgstr "จำนวนที่จัดส่งแล้ว"
 
 msgid "Delivered At Place"
-msgstr ""
+msgstr "ส่งมอบ ณ สถานที่"
 
 msgid "Delivered At Place Unloaded"
-msgstr ""
+msgstr "ส่งมอบ ณ สถานที่ที่ขนลงแล้ว"
 
 msgid "Delivered By Supplier"
-msgstr "จัดส่งโดยผู้จัดจำหน่าย"
+msgstr "จัดส่งโดยซัพพลายเออร์"
 
 msgid "Delivered Duty Paid"
-msgstr ""
+msgstr "ส่งมอบโดยชำระภาษีแล้ว"
 
 msgid "Delivered Items To Be Billed"
-msgstr "รายการที่จัดส่งที่ต้องเรียกเก็บเงิน"
+msgstr "สินค้าที่จัดส่งแล้วรอเรียกเก็บเงิน"
 
 msgid "Delivered Qty"
 msgstr "ปริมาณที่จัดส่งแล้ว"
 
 msgid "Delivered Qty (in Stock UOM)"
-msgstr ""
+msgstr "ปริมาณที่จัดส่งแล้ว (ในหน่วยสต็อก)"
 
 msgid "Delivered Quantity"
 msgstr "ปริมาณที่จัดส่งแล้ว"
 
 msgid "Delivered by Supplier (Drop Ship)"
-msgstr "จัดส่งโดยผู้จัดจำหน่าย (Drop Ship)"
+msgstr "จัดส่งโดยซัพพลายเออร์ (ดรอปชิป)"
 
 msgid "Delivered: {0}"
 msgstr "จัดส่งแล้ว: {0}"
@@ -435,7 +431,7 @@ msgid "Delivery Note No"
 msgstr "หมายเลขใบส่งของ"
 
 msgid "Delivery Note Packed Item"
-msgstr "รายการที่บรรจุในใบส่งของ"
+msgstr "สินค้าที่บรรจุในใบส่งของ"
 
 msgid "Delivery Note Trends"
 msgstr "แนวโน้มใบส่งของ"
@@ -447,7 +443,7 @@ msgid "Delivery Notes"
 msgstr "ใบส่งของ"
 
 msgid "Delivery Notes should not be in draft state when submitting a Delivery Trip. The following Delivery Notes are still in draft state: {0}. Please submit them first."
-msgstr "ใบส่งของไม่ควรอยู่ในสถานะร่างเมื่อส่งการเดินทางจัดส่ง ใบส่งของต่อไปนี้ยังอยู่ในสถานะร่าง: {0} โปรดยื่นก่อน"
+msgstr "ใบส่งของไม่ควรอยู่ในสถานะฉบับร่างเมื่อส่งเที่ยวการจัดส่ง ใบส่งของต่อไปนี้ยังอยู่ในสถานะฉบับร่าง: {0} กรุณาส่งข้อมูลก่อน"
 
 msgid "Delivery Notes {0} updated"
 msgstr "อัปเดตใบส่งของ {0} แล้ว"
@@ -468,33 +464,34 @@ msgid "Delivery To"
 msgstr "จัดส่งถึง"
 
 msgid "Delivery Trip"
-msgstr "การเดินทางจัดส่ง"
+msgstr "เที่ยวการจัดส่ง"
 
 msgid "Delivery User"
 msgstr "ผู้ใช้การจัดส่ง"
 
 msgid "Delivery Warehouse"
-msgstr "คลังสินค้าสำหรับการจัดส่ง"
+msgstr "คลังสินค้าจัดส่ง"
 
 msgid "Delivery to"
 msgstr "จัดส่งถึง"
 
 msgid "Delivery warehouse required for stock item {0}"
-msgstr "ต้องการคลังสินค้าสำหรับการจัดส่งสำหรับรายการสต็อก {0}"
+msgstr "ต้องการคลังสินค้าจัดส่งสำหรับสินค้าสต็อก {0}"
 
 msgid "Demand"
-msgstr ""
+msgstr "ความต้องการ"
 
 msgid "Demo Company"
-msgstr ""
+msgstr "บริษัทตัวอย่าง"
 
 msgid "Demo data cleared"
-msgstr ""
+msgstr "ล้างข้อมูลตัวอย่างแล้ว"
 
 msgid "Department"
-msgstr ""
+msgstr "แผนก"
 
 msgid "Department Stores"
-msgstr ""
+msgstr "ห้างสรรพสินค้า"
 
 msgid "Departure Time"
+msgstr "เวลาออกเดินทาง"

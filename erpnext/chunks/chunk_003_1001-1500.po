@@ -498,3 +498,4 @@ msgid "Against"
 msgstr ""
 
 msgid "Against Account"
+msgstr "เทียบกับบัญชี"

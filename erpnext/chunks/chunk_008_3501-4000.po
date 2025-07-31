@@ -1,467 +1,467 @@
 msgid "Batch No."
-msgstr ""
+msgstr "เลขที่แบทช์"
 
 msgid "Batch Nos"
-msgstr ""
+msgstr "เลขที่แบทช์"
 
 msgid "Batch Nos are created successfully"
-msgstr ""
+msgstr "สร้างเลขที่แบทช์เรียบร้อยแล้ว"
 
 msgid "Batch Not Available for Return"
-msgstr ""
+msgstr "แบทช์ไม่พร้อมสำหรับการคืน"
 
 msgid "Batch Number Series"
-msgstr ""
+msgstr "ชุดเลขที่แบทช์"
 
 msgid "Batch Qty"
-msgstr ""
+msgstr "ปริมาณแบทช์"
 
 msgid "Batch Quantity"
-msgstr ""
+msgstr "ปริมาณแบทช์"
 
 msgid "Batch Size"
-msgstr ""
+msgstr "ขนาดแบทช์"
 
 msgid "Batch UOM"
-msgstr ""
+msgstr "หน่วยนับของแบทช์"
 
 msgid "Batch and Serial No"
-msgstr ""
+msgstr "แบทช์และหมายเลขซีเรียล"
 
 msgid "Batch not created for item {} since it does not have a batch series."
-msgstr ""
+msgstr "ไม่ได้สร้างแบทช์สำหรับสินค้า {} เนื่องจากไม่มีชุดเลขที่แบทช์"
 
 msgid "Batch {0} and Warehouse"
-msgstr ""
+msgstr "แบทช์ {0} และคลังสินค้า"
 
 msgid "Batch {0} is not available in warehouse {1}"
-msgstr ""
+msgstr "แบทช์ {0} ไม่มีในคลังสินค้า {1}"
 
 msgid "Batch {0} of Item {1} has expired."
-msgstr ""
+msgstr "แบทช์ {0} ของสินค้า {1} หมดอายุแล้ว"
 
 msgid "Batch {0} of Item {1} is disabled."
-msgstr ""
+msgstr "แบทช์ {0} ของสินค้า {1} ถูกปิดใช้งาน"
 
 msgid "Batch-Wise Balance History"
-msgstr ""
+msgstr "ประวัติยอดคงเหลือตามแบทช์"
 
 msgid "Batchwise Valuation"
-msgstr ""
+msgstr "การประเมินค่าตามแบทช์"
 
 msgid "Before reconciliation"
-msgstr ""
+msgstr "ก่อนการกระทบยอด"
 
 msgid "Begin On (Days)"
 msgstr "เริ่มต้นใน (วัน)"
 
 msgid "Beginning of the current subscription period"
-msgstr ""
+msgstr "จุดเริ่มต้นของรอบการสมัครสมาชิกปัจจุบัน"
 
 msgid "Below Subscription Plans are of different currency to the party default billing currency/Company currency: {0}"
-msgstr ""
+msgstr "แผนการสมัครสมาชิกด้านล่างนี้ใช้สกุลเงินแตกต่างจากสกุลเงินเรียกเก็บเงินเริ่มต้นของคู่ค้า/สกุลเงินของบริษัท: {0}"
 
 msgid "Bill Date"
-msgstr ""
+msgstr "วันที่ในบิล"
 
 msgid "Bill No"
-msgstr ""
+msgstr "เลขที่บิล"
 
 msgid "Bill for Rejected Quantity in Purchase Invoice"
-msgstr ""
+msgstr "เรียกเก็บเงินสำหรับปริมาณที่ถูกปฏิเสธในใบแจ้งหนี้ซื้อ"
 
 msgid "Bill of Materials"
-msgstr "รายการวัตถุดิบ"
+msgstr "รายการวัตถุดิบในการผลิต"
 
 msgid "Billed"
 msgstr "เรียกเก็บเงินแล้ว"
 
 msgid "Billed Amount"
-msgstr ""
+msgstr "จำนวนเงินที่เรียกเก็บแล้ว"
 
 msgid "Billed Amt"
-msgstr ""
+msgstr "จำนวนเงินที่เรียกเก็บ"
 
 msgid "Billed Items To Be Received"
-msgstr ""
+msgstr "สินค้าที่เรียกเก็บเงินแล้วรอรับ"
 
 msgid "Billed Qty"
-msgstr ""
+msgstr "ปริมาณที่เรียกเก็บแล้ว"
 
 msgid "Billed, Received & Returned"
-msgstr ""
+msgstr "เรียกเก็บแล้ว, ได้รับแล้ว และส่งคืนแล้ว"
 
 msgid "Billing Address"
 msgstr "ที่อยู่สำหรับเรียกเก็บเงิน"
 
 msgid "Billing Address Details"
-msgstr ""
+msgstr "รายละเอียดที่อยู่สำหรับเรียกเก็บเงิน"
 
 msgid "Billing Address Name"
-msgstr ""
+msgstr "ชื่อที่อยู่สำหรับเรียกเก็บเงิน"
 
 msgid "Billing Address does not belong to the {0}"
-msgstr ""
+msgstr "ที่อยู่สำหรับเรียกเก็บเงินไม่ได้เป็นของ {0}"
 
 msgid "Billing Amount"
 msgstr "จำนวนเงินที่เรียกเก็บ"
 
 msgid "Billing City"
-msgstr ""
+msgstr "เมืองสำหรับเรียกเก็บเงิน"
 
 msgid "Billing Country"
-msgstr ""
+msgstr "ประเทศสำหรับเรียกเก็บเงิน"
 
 msgid "Billing County"
-msgstr ""
+msgstr "เขตสำหรับเรียกเก็บเงิน"
 
 msgid "Billing Currency"
-msgstr ""
+msgstr "สกุลเงินสำหรับเรียกเก็บเงิน"
 
 msgid "Billing Date"
-msgstr ""
+msgstr "วันที่เรียกเก็บเงิน"
 
 msgid "Billing Details"
-msgstr ""
+msgstr "รายละเอียดการเรียกเก็บเงิน"
 
 msgid "Billing Email"
-msgstr ""
+msgstr "อีเมลสำหรับเรียกเก็บเงิน"
 
 msgid "Billing Hours"
-msgstr ""
+msgstr "ชั่วโมงที่เรียกเก็บเงิน"
 
 msgid "Billing Interval"
-msgstr ""
+msgstr "ช่วงเวลาการเรียกเก็บเงิน"
 
 msgid "Billing Interval Count"
-msgstr ""
+msgstr "จำนวนช่วงเวลาการเรียกเก็บเงิน"
 
 msgid "Billing Interval Count cannot be less than 1"
-msgstr ""
+msgstr "จำนวนช่วงเวลาการเรียกเก็บเงินต้องไม่น้อยกว่า 1"
 
 msgid "Billing Interval in Subscription Plan must be Month to follow calendar months"
-msgstr ""
+msgstr "ช่วงเวลาการเรียกเก็บเงินในแผนการสมัครสมาชิกต้องเป็น 'เดือน' เพื่อให้เป็นไปตามเดือนปฏิทิน"
 
 msgid "Billing Rate"
-msgstr ""
+msgstr "อัตราการเรียกเก็บเงิน"
 
 msgid "Billing State"
-msgstr ""
+msgstr "รัฐ/จังหวัดสำหรับเรียกเก็บเงิน"
 
 msgid "Billing Status"
-msgstr ""
+msgstr "สถานะการเรียกเก็บเงิน"
 
 msgid "Billing Zipcode"
-msgstr ""
+msgstr "รหัสไปรษณีย์สำหรับเรียกเก็บเงิน"
 
 msgid "Billing currency must be equal to either default company's currency or party account currency"
-msgstr ""
+msgstr "สกุลเงินที่เรียกเก็บต้องตรงกับสกุลเงินเริ่มต้นของบริษัทหรือสกุลเงินบัญชีของคู่ค้า"
 
 msgid "Bin"
-msgstr "ถัง"
+msgstr "ช่องเก็บ"
 
 msgid "Bin Qty Recalculated"
-msgstr ""
+msgstr "คำนวณปริมาณในช่องเก็บใหม่แล้ว"
 
 msgid "Bio / Cover Letter"
-msgstr ""
+msgstr "ประวัติส่วนตัว / จดหมายนำ"
 
 msgid "Biot"
-msgstr ""
+msgstr "ไบโอต์"
 
 msgid "Biotechnology"
-msgstr ""
+msgstr "เทคโนโลยีชีวภาพ"
 
 msgid "Bisect Accounting Statements"
-msgstr ""
+msgstr "แบ่งครึ่งงบการเงิน"
 
 msgid "Bisect Left"
-msgstr ""
+msgstr "แบ่งซ้าย"
 
 msgid "Bisect Nodes"
-msgstr ""
+msgstr "แบ่งโหนด"
 
 msgid "Bisect Right"
-msgstr ""
+msgstr "แบ่งขวา"
 
 msgid "Bisecting From"
-msgstr ""
+msgstr "กำลังแบ่งจาก"
 
 msgid "Bisecting Left ..."
-msgstr ""
+msgstr "กำลังแบ่งซ้าย ..."
 
 msgid "Bisecting Right ..."
-msgstr ""
+msgstr "กำลังแบ่งขวา ..."
 
 msgid "Bisecting To"
-msgstr ""
+msgstr "กำลังแบ่งถึง"
 
 msgid "Black"
-msgstr ""
+msgstr "สีดำ"
 
 msgid "Blanket Order"
-msgstr ""
+msgstr "ใบสั่งซื้อแบบครอบคลุม"
 
 msgid "Blanket Order Allowance (%)"
-msgstr ""
+msgstr "ส่วนเผื่อใบสั่งซื้อแบบครอบคลุม (%)"
 
 msgid "Blanket Order Item"
-msgstr ""
+msgstr "รายการในใบสั่งซื้อแบบครอบคลุม"
 
 msgid "Blanket Order Rate"
-msgstr ""
+msgstr "อัตราในใบสั่งซื้อแบบครอบคลุม"
 
 msgid "Block Invoice"
-msgstr ""
+msgstr "ระงับใบแจ้งหนี้"
 
 msgid "Block Supplier"
-msgstr ""
+msgstr "ระงับซัพพลายเออร์"
 
 msgid "Blog Subscriber"
-msgstr ""
+msgstr "ผู้ติดตามบล็อก"
 
 msgid "Blood Group"
-msgstr ""
+msgstr "กรุ๊ปเลือด"
 
 msgid "Blue"
-msgstr ""
+msgstr "สีน้ำเงิน"
 
 msgid "Body"
 msgstr "เนื้อหา"
 
 msgid "Body Text"
-msgstr ""
+msgstr "ข้อความเนื้อหา"
 
 msgid "Body and Closing Text Help"
-msgstr ""
+msgstr "วิธีใช้ข้อความเนื้อหาและข้อความปิดท้าย"
 
 msgid "Bom No"
-msgstr ""
+msgstr "เลขที่ BOM"
 
 msgid "Book Advance Payments as Liability option is chosen. Paid From account changed from {0} to {1}."
-msgstr ""
+msgstr "เลือกตัวเลือก 'บันทึกการชำระเงินล่วงหน้าเป็นหนี้สิน' แล้ว บัญชีที่จ่ายจากเปลี่ยนจาก {0} เป็น {1}"
 
 msgid "Book Advance Payments in Separate Party Account"
-msgstr ""
+msgstr "บันทึกการชำระเงินล่วงหน้าในบัญชีคู่ค้าแยกต่างหาก"
 
 msgid "Book Appointment"
-msgstr ""
+msgstr "จองนัดหมาย"
 
 msgid "Book Asset Depreciation Entry Automatically"
-msgstr ""
+msgstr "บันทึกรายการค่าเสื่อมราคาสินทรัพย์โดยอัตโนมัติ"
 
 msgid "Book Deferred Entries Based On"
-msgstr ""
+msgstr "บันทึกรายการรอตัดบัญชีตาม"
 
 msgid "Book Deferred Entries Via Journal Entry"
-msgstr ""
+msgstr "บันทึกรายการรอตัดบัญชีผ่านสมุดรายวันทั่วไป"
 
 msgid "Book Tax Loss on Early Payment Discount"
-msgstr ""
+msgstr "บันทึกขาดทุนทางภาษีจากส่วนลดการชำระเงินก่อนกำหนด"
 
 msgid "Book an appointment"
-msgstr ""
+msgstr "ทำการจองนัดหมาย"
 
 msgid "Booked"
-msgstr ""
+msgstr "จองแล้ว"
 
 msgid "Booked Fixed Asset"
-msgstr ""
+msgstr "สินทรัพย์ถาวรที่จองแล้ว"
 
 msgid "Booking stock value across multiple accounts will make it harder to track stock and account value."
-msgstr ""
+msgstr "การบันทึกมูลค่าสต็อกในหลายบัญชีจะทำให้การติดตามสต็อกและมูลค่าบัญชียากขึ้น"
 
 msgid "Books have been closed till the period ending on {0}"
-msgstr ""
+msgstr "บัญชีถูกปิดจนถึงงวดสิ้นสุดวันที่ {0}"
 
 msgid "Both"
-msgstr ""
+msgstr "ทั้งสอง"
 
 msgid "Both Payable Account: {0} and Advance Account: {1} must be of same currency for company: {2}"
-msgstr ""
+msgstr "ทั้งบัญชีเจ้าหนี้: {0} และบัญชีล่วงหน้า: {1} ต้องเป็นสกุลเงินเดียวกันสำหรับบริษัท: {2}"
 
 msgid "Both Receivable Account: {0} and Advance Account: {1} must be of same currency for company: {2}"
-msgstr ""
+msgstr "ทั้งบัญชีลูกหนี้: {0} และบัญชีล่วงหน้า: {1} ต้องเป็นสกุลเงินเดียวกันสำหรับบริษัท: {2}"
 
 msgid "Both Trial Period Start Date and Trial Period End Date must be set"
-msgstr ""
+msgstr "ต้องตั้งค่าทั้งวันที่เริ่มต้นและวันที่สิ้นสุดของช่วงทดลองใช้"
 
 msgid "Both {0} Account: {1} and Advance Account: {2} must be of same currency for company: {3}"
-msgstr ""
+msgstr "ทั้งบัญชี {0}: {1} และบัญชีล่วงหน้า: {2} ต้องเป็นสกุลเงินเดียวกันสำหรับบริษัท: {3}"
 
 msgid "Box"
-msgstr ""
+msgstr "กล่อง"
 
 msgid "Branch"
-msgstr ""
+msgstr "สาขา"
 
 msgid "Branch Code"
-msgstr ""
+msgstr "รหัสสาขา"
 
 msgid "Brand"
-msgstr ""
+msgstr "แบรนด์"
 
 msgid "Brand Defaults"
-msgstr ""
+msgstr "ค่าเริ่มต้นของแบรนด์"
 
 msgid "Brand Name"
-msgstr ""
+msgstr "ชื่อแบรนด์"
 
 msgid "Breakdown"
-msgstr ""
+msgstr "การชำรุด"
 
 msgid "Broadcasting"
-msgstr ""
+msgstr "การแพร่กระจาย"
 
 msgid "Brokerage"
-msgstr ""
+msgstr "ค่านายหน้า"
 
 msgid "Browse BOM"
-msgstr ""
+msgstr "เรียกดู BOM"
 
 msgid "Btu (It)"
-msgstr ""
+msgstr "บีทียู (IT)"
 
 msgid "Btu (Mean)"
-msgstr ""
+msgstr "บีทียู (เฉลี่ย)"
 
 msgid "Btu (Th)"
-msgstr ""
+msgstr "บีทียู (TH)"
 
 msgid "Btu/Hour"
-msgstr ""
+msgstr "บีทียู/ชั่วโมง"
 
 msgid "Btu/Minutes"
-msgstr ""
+msgstr "บีทียู/นาที"
 
 msgid "Btu/Seconds"
-msgstr ""
+msgstr "บีทียู/วินาที"
 
 msgid "Budget"
-msgstr ""
+msgstr "งบประมาณ"
 
 msgid "Budget Account"
-msgstr ""
+msgstr "บัญชีงบประมาณ"
 
 msgid "Budget Accounts"
-msgstr ""
+msgstr "บัญชีงบประมาณ"
 
 msgid "Budget Against"
-msgstr ""
+msgstr "งบประมาณเทียบกับ"
 
 msgid "Budget Amount"
-msgstr ""
+msgstr "จำนวนงบประมาณ"
 
 msgid "Budget Detail"
-msgstr ""
+msgstr "รายละเอียดงบประมาณ"
 
 msgid "Budget Exceeded"
-msgstr ""
+msgstr "เกินงบประมาณ"
 
 msgid "Budget List"
-msgstr ""
+msgstr "รายการงบประมาณ"
 
 msgid "Budget Variance Report"
-msgstr ""
+msgstr "รายงานผลต่างงบประมาณ"
 
 msgid "Budget cannot be assigned against Group Account {0}"
-msgstr ""
+msgstr "ไม่สามารถกำหนดงบประมาณให้กับบัญชีกลุ่ม {0} ได้"
 
 msgid "Budget cannot be assigned against {0}, as it's not an Income or Expense account"
-msgstr ""
+msgstr "ไม่สามารถกำหนดงบประมาณให้กับ {0} ได้ เนื่องจากไม่ใช่บัญชีรายได้หรือค่าใช้จ่าย"
 
 msgid "Budgets"
-msgstr ""
+msgstr "งบประมาณ"
 
 msgid "Buffered Cursor"
-msgstr ""
+msgstr "เคอร์เซอร์แบบบัฟเฟอร์"
 
 msgid "Build All?"
-msgstr ""
+msgstr "สร้างทั้งหมดหรือไม่?"
 
 msgid "Build Tree"
-msgstr ""
+msgstr "สร้างโครงสร้างต้นไม้"
 
 msgid "Buildable Qty"
-msgstr ""
+msgstr "ปริมาณที่สร้างได้"
 
 msgid "Buildings"
 msgstr "อาคาร"
 
 msgid "Bulk Rename Jobs"
-msgstr ""
+msgstr "งานเปลี่ยนชื่อเป็นกลุ่ม"
 
 msgid "Bulk Transaction Log"
-msgstr ""
+msgstr "บันทึกธุรกรรมเป็นกลุ่ม"
 
 msgid "Bulk Transaction Log Detail"
-msgstr ""
+msgstr "รายละเอียดบันทึกธุรกรรมเป็นกลุ่ม"
 
 msgid "Bulk Update"
-msgstr ""
+msgstr "อัปเดตเป็นกลุ่ม"
 
 msgid "Bundle Items"
-msgstr ""
+msgstr "สินค้าชุด"
 
 msgid "Bundle Qty"
-msgstr ""
+msgstr "ปริมาณชุด"
 
 msgid "Bushel (UK)"
-msgstr ""
+msgstr "บุชเชล (UK)"
 
 msgid "Bushel (US Dry Level)"
-msgstr ""
+msgstr "บุชเชล (US Dry Level)"
 
 msgid "Business Analyst"
-msgstr ""
+msgstr "นักวิเคราะห์ธุรกิจ"
 
 msgid "Business Development Manager"
-msgstr ""
+msgstr "ผู้จัดการฝ่ายพัฒนาธุรกิจ"
 
 msgid "Busy"
-msgstr ""
+msgstr "ไม่ว่าง"
 
 msgid "Buy"
-msgstr ""
+msgstr "ซื้อ"
 
 msgid "Buyer of Goods and Services."
-msgstr ""
+msgstr "ผู้ซื้อสินค้าและบริการ"
 
 msgid "Buying"
-msgstr ""
+msgstr "การซื้อ"
 
 msgid "Buying & Selling Settings"
-msgstr ""
+msgstr "การตั้งค่าการซื้อและขาย"
 
 msgid "Buying Amount"
-msgstr ""
+msgstr "จำนวนเงินซื้อ"
 
 msgid "Buying Price List"
-msgstr ""
+msgstr "รายการราคาซื้อ"
 
 msgid "Buying Rate"
-msgstr ""
+msgstr "อัตราการซื้อ"
 
 msgid "Buying Settings"
-msgstr ""
+msgstr "การตั้งค่าการซื้อ"
 
 msgid "Buying and Selling"
-msgstr ""
+msgstr "การซื้อและขาย"
 
 msgid "Buying must be checked, if Applicable For is selected as {0}"
-msgstr ""
+msgstr "ต้องเลือก 'การซื้อ' หาก 'ใช้สำหรับ' ถูกเลือกเป็น {0}"
 
 msgid "By default, the Supplier Name is set as per the Supplier Name entered. If you want Suppliers to be named by a <a href='https://docs.erpnext.com/docs/user/manual/en/setting-up/settings/naming-series' target='_blank'>Naming Series</a> choose the 'Naming Series' option."
-msgstr ""
+msgstr "โดยค่าเริ่มต้น ชื่อซัพพลายเออร์จะถูกตั้งค่าตามชื่อซัพพลายเออร์ที่ป้อน หากคุณต้องการให้ซัพพลายเออร์ถูกตั้งชื่อตาม <a href='https://docs.erpnext.com/docs/user/manual/en/setting-up/settings/naming-series' target='_blank'>ชุดการตั้งชื่อ</a> ให้เลือกตัวเลือก 'ชุดการตั้งชื่อ'"
 
 msgid "Bypass Credit Limit Check at Sales Order"
-msgstr ""
+msgstr "ข้ามการตรวจสอบวงเงินเครดิตที่ใบสั่งขาย"
 
 msgid "Bypass credit check at Sales Order"
-msgstr ""
+msgstr "ข้ามการตรวจสอบวงเงินเครดิตที่ใบสั่งขาย"
 
 msgid "CANCELLED"
-msgstr ""
+msgstr "ยกเลิกแล้ว"
 
 msgid "CC"
 msgstr "สำเนาถึง"
@@ -470,16 +470,16 @@ msgid "CC To"
 msgstr "สำเนาถึง"
 
 msgid "CODE-39"
-msgstr ""
+msgstr "CODE-39"
 
 msgid "COGS By Item Group"
-msgstr "COGS ตามกลุ่มสินค้า"
+msgstr "ต้นทุนขายตามกลุ่มสินค้า"
 
 msgid "COGS Debit"
-msgstr "COGS เดบิต"
+msgstr "เดบิตต้นทุนขาย"
 
 msgid "CRM"
-msgstr ""
+msgstr "CRM"
 
 msgid "CRM Note"
 msgstr "บันทึก CRM"
@@ -488,13 +488,13 @@ msgid "CRM Settings"
 msgstr "การตั้งค่า CRM"
 
 msgid "CWIP Account"
-msgstr "บัญชีเงินทุนระหว่างดำเนินการ"
+msgstr "บัญชีงานระหว่างทำประเภททุน"
 
 msgid "Caballeria"
-msgstr ""
+msgstr "คาบัลเลเรีย"
 
 msgid "Cable Length"
-msgstr ""
+msgstr "ความยาวสายเคเบิล"
 
 msgid "Cable Length (UK)"
-msgstr ""
+msgstr "ความยาวสายเคเบิล (UK)"

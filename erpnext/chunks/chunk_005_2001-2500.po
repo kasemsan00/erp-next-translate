@@ -1,137 +1,137 @@
 msgid "Amount (AED)"
-msgstr ""
+msgstr "จำนวนเงิน (AED)"
 
 msgid "Amount (Company Currency)"
-msgstr ""
+msgstr "จำนวนเงิน (สกุลเงินบริษัท)"
 
 msgid "Amount Delivered"
-msgstr ""
+msgstr "จำนวนที่จัดส่งแล้ว"
 
 msgid "Amount Difference"
-msgstr ""
+msgstr "ส่วนต่างของจำนวนเงิน"
 
 msgid "Amount Difference with Purchase Invoice"
-msgstr ""
+msgstr "ส่วนต่างของจำนวนเงินกับใบแจ้งหนี้ซื้อ"
 
 msgid "Amount Eligible for Commission"
-msgstr ""
+msgstr "จำนวนเงินที่มีสิทธิ์ได้รับค่าคอมมิชชั่น"
 
 msgid "Amount In Figure"
-msgstr ""
+msgstr "จำนวนเงิน (ตัวเลข)"
 
 msgid "Amount in Account Currency"
-msgstr ""
+msgstr "จำนวนเงินในสกุลเงินของบัญชี"
 
 msgid "Amount in Words"
 msgstr "จำนวนเงิน (ตัวอักษร)"
 
 msgid "Amount in party's bank account currency"
-msgstr ""
+msgstr "จำนวนเงินในสกุลเงินบัญชีธนาคารของคู่ค้า"
 
 msgid "Amount in transaction currency"
-msgstr ""
+msgstr "จำนวนเงินในสกุลเงินของธุรกรรม"
 
 msgid "Amount in {0}"
-msgstr ""
+msgstr "จำนวนเงินใน {0}"
 
 msgid "Amount to Bill"
-msgstr ""
+msgstr "จำนวนเงินที่จะเรียกเก็บ"
 
 msgid "Amount {0} {1} against {2} {3}"
-msgstr ""
+msgstr "จำนวน {0} {1} เทียบกับ {2} {3}"
 
 msgid "Amount {0} {1} deducted against {2}"
-msgstr ""
+msgstr "จำนวน {0} {1} ถูกหักออกจาก {2}"
 
 msgid "Amount {0} {1} transferred from {2} to {3}"
-msgstr ""
+msgstr "จำนวน {0} {1} ถูกโอนจาก {2} ไปยัง {3}"
 
 msgid "Amount {0} {1} {2} {3}"
-msgstr ""
+msgstr "จำนวน {0} {1} {2} {3}"
 
 msgid "Amounts"
 msgstr "จำนวนเงิน"
 
 msgid "Ampere"
-msgstr ""
+msgstr "แอมแปร์"
 
 msgid "Ampere-Hour"
-msgstr ""
+msgstr "แอมแปร์-ชั่วโมง"
 
 msgid "Ampere-Minute"
-msgstr ""
+msgstr "แอมแปร์-นาที"
 
 msgid "Ampere-Second"
-msgstr ""
+msgstr "แอมแปร์-วินาที"
 
 msgid "Amt"
-msgstr ""
+msgstr "จำนวน"
 
 msgid "An Item Group is a way to classify items based on types."
-msgstr ""
+msgstr "กลุ่มสินค้าคือวิธีการจำแนกสินค้าตามประเภท"
 
 msgid "An error has been appeared while reposting item valuation via {0}"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดขณะลงรายการประเมินค่าสินค้าอีกครั้งผ่าน {0}"
 
 msgid "An error occurred during the update process"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดระหว่างกระบวนการอัปเดต"
 
 msgid "An error occurred for certain Items while creating Material Requests based on Re-order level. Please rectify these issues :"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดสำหรับสินค้าบางรายการขณะสร้างคำขอวัสดุตามระดับการสั่งซื้อซ้ำ กรุณาแก้ไขปัญหาเหล่านี้:"
 
 msgid "Analysis Chart"
 msgstr "แผนภูมิการวิเคราะห์"
 
 msgid "Analyst"
-msgstr ""
+msgstr "นักวิเคราะห์"
 
 msgid "Analytics"
-msgstr ""
+msgstr "การวิเคราะห์"
 
 msgid "Annual"
 msgstr "ประจำปี"
 
 msgid "Annual Billing: {0}"
-msgstr ""
+msgstr "การเรียกเก็บเงินรายปี: {0}"
 
 msgid "Annual Budget for Account {0} against {1} {2} is {3}. It will be collectively ({4}) exceeded by {5}"
-msgstr ""
+msgstr "งบประมาณรายปีสำหรับบัญชี {0} เทียบกับ {1} {2} คือ {3} ซึ่งจะเกินงบประมาณรวม ({4}) เป็นจำนวน {5}"
 
 msgid "Annual Budget for Account {0} against {1}: {2} is {3}. It will be exceeded by {4}"
-msgstr ""
+msgstr "งบประมาณรายปีสำหรับบัญชี {0} เทียบกับ {1}: {2} คือ {3} ซึ่งจะเกินงบประมาณเป็นจำนวน {4}"
 
 msgid "Annual Expenses"
-msgstr ""
+msgstr "ค่าใช้จ่ายประจำปี"
 
 msgid "Annual Income"
-msgstr ""
+msgstr "รายได้ประจำปี"
 
 msgid "Annual Revenue"
-msgstr ""
+msgstr "รายรับประจำปี"
 
 msgid "Another Budget record '{0}' already exists against {1} '{2}' and account '{3}' for fiscal year {4}"
-msgstr ""
+msgstr "มีบันทึกงบประมาณ '{0}' อยู่แล้วสำหรับ {1} '{2}' และบัญชี '{3}' สำหรับปีงบประมาณ {4}"
 
 msgid "Another Cost Center Allocation record {0} applicable from {1}, hence this allocation will be applicable upto {2}"
-msgstr ""
+msgstr "มีบันทึกการจัดสรรศูนย์ต้นทุน {0} อื่นที่ใช้ได้ตั้งแต่ {1} ดังนั้นการจัดสรรนี้จะใช้ได้ถึง {2}"
 
 msgid "Another Payment Request is already processed"
-msgstr ""
+msgstr "มีคำขอชำระเงินอื่นกำลังดำเนินการอยู่แล้ว"
 
 msgid "Another Sales Person {0} exists with the same Employee id"
-msgstr ""
+msgstr "มีพนักงานขาย {0} ที่มีรหัสพนักงานเดียวกันอยู่แล้ว"
 
 msgid "Any one of following filters required: warehouse, Item Code, Item Group"
-msgstr ""
+msgstr "ต้องการตัวกรองอย่างน้อยหนึ่งอย่าง: คลังสินค้า, รหัสสินค้า, กลุ่มสินค้า"
 
 msgid "Apparel & Accessories"
-msgstr ""
+msgstr "เสื้อผ้าและเครื่องประดับ"
 
 msgid "Applicable Charges"
-msgstr ""
+msgstr "ค่าใช้จ่ายที่เกี่ยวข้อง"
 
 msgid "Applicable Dimension"
-msgstr ""
+msgstr "มิติที่ใช้บังคับ"
 
 msgid "Applicable For"
 msgstr "ใช้สำหรับ"
@@ -143,175 +143,175 @@ msgid "Applicable Modules"
 msgstr "โมดูลที่เกี่ยวข้อง"
 
 msgid "Applicable On Account"
-msgstr ""
+msgstr "ใช้กับบัญชี"
 
 msgid "Applicable To (Designation)"
-msgstr ""
+msgstr "ใช้กับ (ตำแหน่ง)"
 
 msgid "Applicable To (Employee)"
-msgstr ""
+msgstr "ใช้กับ (พนักงาน)"
 
 msgid "Applicable To (Role)"
-msgstr ""
+msgstr "ใช้กับ (บทบาท)"
 
 msgid "Applicable To (User)"
-msgstr ""
+msgstr "ใช้กับ (ผู้ใช้)"
 
 msgid "Applicable for Countries"
-msgstr ""
+msgstr "ใช้สำหรับประเทศ"
 
 msgid "Applicable for Users"
-msgstr ""
+msgstr "ใช้สำหรับผู้ใช้"
 
 msgid "Applicable for external driver"
-msgstr ""
+msgstr "ใช้สำหรับคนขับภายนอก"
 
 msgid "Applicable if the company is SpA, SApA or SRL"
-msgstr ""
+msgstr "ใช้ได้หากบริษัทเป็น SpA, SApA หรือ SRL"
 
 msgid "Applicable if the company is a limited liability company"
-msgstr ""
+msgstr "ใช้ได้หากบริษัทเป็นบริษัทจำกัด"
 
 msgid "Applicable if the company is an Individual or a Proprietorship"
-msgstr ""
+msgstr "ใช้ได้หากบริษัทเป็นบุคคลธรรมดาหรือเจ้าของคนเดียว"
 
 msgid "Applicable on Cumulative Expense"
-msgstr ""
+msgstr "ใช้กับค่าใช้จ่ายสะสม"
 
 msgid "Applicable on Material Request"
-msgstr ""
+msgstr "ใช้กับคำขอวัสดุ"
 
 msgid "Applicable on Purchase Order"
-msgstr ""
+msgstr "ใช้กับใบสั่งซื้อ"
 
 msgid "Applicable on booking actual expenses"
-msgstr ""
+msgstr "ใช้กับการบันทึกค่าใช้จ่ายจริง"
 
 msgid "Application of Funds (Assets)"
-msgstr ""
+msgstr "การใช้เงินทุน (สินทรัพย์)"
 
 msgid "Applied Coupon Code"
-msgstr ""
+msgstr "รหัสคูปองที่ใช้"
 
 msgid "Applied on each reading."
-msgstr ""
+msgstr "ใช้กับการอ่านแต่ละครั้ง"
 
 msgid "Applied putaway rules."
-msgstr ""
+msgstr "ใช้กฎการจัดเก็บแล้ว"
 
 msgid "Applies To"
-msgstr ""
+msgstr "นำไปใช้กับ"
 
 msgid "Apply Additional Discount On"
-msgstr ""
+msgstr "ใช้ส่วนลดเพิ่มเติมกับ"
 
 msgid "Apply Discount On"
-msgstr ""
+msgstr "ใช้ส่วนลดกับ"
 
 msgid "Apply Discount on Discounted Rate"
-msgstr ""
+msgstr "ใช้ส่วนลดกับราคาที่ลดแล้ว"
 
 msgid "Apply Discount on Rate"
-msgstr ""
+msgstr "ใช้ส่วนลดกับอัตรา"
 
 msgid "Apply Multiple Pricing Rules"
-msgstr ""
+msgstr "ใช้กฎการกำหนดราคาหลายรายการ"
 
 msgid "Apply On"
-msgstr ""
+msgstr "ใช้กับ"
 
 msgid "Apply Putaway Rule"
-msgstr ""
+msgstr "ใช้กฎการจัดเก็บ"
 
 msgid "Apply Recursion Over (As Per Transaction UOM)"
-msgstr ""
+msgstr "ใช้การเรียกซ้ำ (ตามหน่วยวัดของธุรกรรม)"
 
 msgid "Apply Rule On Brand"
-msgstr ""
+msgstr "ใช้กฎกับแบรนด์"
 
 msgid "Apply Rule On Item Code"
-msgstr ""
+msgstr "ใช้กฎกับรหัสสินค้า"
 
 msgid "Apply Rule On Item Group"
-msgstr ""
+msgstr "ใช้กฎกับกลุ่มสินค้า"
 
 msgid "Apply Rule On Other"
-msgstr ""
+msgstr "ใช้กฎกับอื่นๆ"
 
 msgid "Apply SLA for Resolution Time"
-msgstr ""
+msgstr "ใช้ SLA สำหรับเวลาในการแก้ไขปัญหา"
 
 msgid "Apply TDS"
-msgstr ""
+msgstr "ใช้การหักภาษี ณ ที่จ่าย (TDS)"
 
 msgid "Apply Tax Withholding Amount"
-msgstr ""
+msgstr "ใช้จำนวนเงินหักภาษี ณ ที่จ่าย"
 
 msgid "Apply Tax Withholding Amount "
-msgstr ""
+msgstr "ใช้จำนวนเงินหักภาษี ณ ที่จ่าย "
 
 msgid "Apply restriction on dimension values"
-msgstr ""
+msgstr "ใช้ข้อจำกัดกับค่ามิติ"
 
 msgid "Apply to All Inventory Documents"
-msgstr ""
+msgstr "ใช้กับเอกสารสินค้าคงคลังทั้งหมด"
 
 msgid "Apply to Document"
-msgstr ""
+msgstr "ใช้กับเอกสาร"
 
 msgid "Appointment"
-msgstr ""
+msgstr "การนัดหมาย"
 
 msgid "Appointment Booking Settings"
-msgstr ""
+msgstr "การตั้งค่าการจองนัดหมาย"
 
 msgid "Appointment Booking Slots"
-msgstr ""
+msgstr "ช่องเวลาการจองนัดหมาย"
 
 msgid "Appointment Confirmation"
-msgstr ""
+msgstr "การยืนยันนัดหมาย"
 
 msgid "Appointment Created Successfully"
-msgstr ""
+msgstr "สร้างการนัดหมายสำเร็จแล้ว"
 
 msgid "Appointment Details"
-msgstr ""
+msgstr "รายละเอียดการนัดหมาย"
 
 msgid "Appointment Duration (In Minutes)"
-msgstr ""
+msgstr "ระยะเวลาการนัดหมาย (นาที)"
 
 msgid "Appointment Scheduling Disabled"
-msgstr ""
+msgstr "ปิดใช้งานการจัดตารางนัดหมาย"
 
 msgid "Appointment Scheduling has been disabled for this site"
-msgstr ""
+msgstr "การจัดตารางนัดหมายถูกปิดใช้งานสำหรับไซต์นี้"
 
 msgid "Appointment With"
-msgstr ""
+msgstr "นัดหมายกับ"
 
 msgid "Appointment was created. But no lead was found. Please check the email to confirm"
-msgstr ""
+msgstr "สร้างการนัดหมายแล้ว แต่ไม่พบข้อมูลผู้สนใจ กรุณาตรวจสอบอีเมลเพื่อยืนยัน"
 
 msgid "Approving Role (above authorized value)"
-msgstr ""
+msgstr "บทบาทผู้อนุมัติ (สูงกว่ามูลค่าที่ได้รับอนุญาต)"
 
 msgid "Approving Role cannot be same as role the rule is Applicable To"
-msgstr ""
+msgstr "บทบาทผู้อนุมัติไม่สามารถเป็นบทบาทเดียวกับที่กฎนี้ใช้บังคับ"
 
 msgid "Approving User  (above authorized value)"
-msgstr ""
+msgstr "ผู้ใช้อนุมัติ (สูงกว่ามูลค่าที่ได้รับอนุญาต)"
 
 msgid "Approving User cannot be same as user the rule is Applicable To"
-msgstr ""
+msgstr "ผู้ใช้อนุมัติไม่สามารถเป็นผู้ใช้เดียวกับที่กฎนี้ใช้บังคับ"
 
 msgid "Approximately match the description/party name against parties"
-msgstr ""
+msgstr "จับคู่คำอธิบาย/ชื่อคู่ค้ากับคู่ค้าโดยประมาณ"
 
 msgid "Are"
-msgstr ""
+msgstr "เป็น"
 
 msgid "Are you sure you want to clear all demo data?"
-msgstr ""
+msgstr "คุณแน่ใจหรือไม่ว่าต้องการล้างข้อมูลสาธิตทั้งหมด"
 
 msgid "Are you sure you want to delete this Item?"
 msgstr "คุณแน่ใจหรือไม่ว่าต้องการลบรายการนี้?"
@@ -332,7 +332,7 @@ msgid "Arrival Quantity"
 msgstr "ปริมาณที่มาถึง"
 
 msgid "Arshin"
-msgstr ""
+msgstr "อาร์ชิน"
 
 msgid "As On Date"
 msgstr "ณ วันที่"
@@ -350,25 +350,25 @@ msgid "As the field {0} is enabled, the value of the field {1} should be more th
 msgstr "เนื่องจากฟิลด์ {0} ถูกเปิดใช้งาน ค่าของฟิลด์ {1} ควรมากกว่า 1"
 
 msgid "As there are existing submitted transactions against item {0}, you can not change the value of {1}."
-msgstr "เนื่องจากมีธุรกรรมที่ส่งแล้วที่เกี่ยวข้องกับรายการ {0} คุณไม่สามารถเปลี่ยนค่าของ {1} ได้"
+msgstr "เนื่องจากมีธุรกรรมที่ส่งแล้วสำหรับสินค้า {0} คุณจึงไม่สามารถเปลี่ยนค่าของ {1} ได้"
 
 msgid "As there are negative stock, you can not enable {0}."
-msgstr "เนื่องจากมีสต็อกติดลบ คุณไม่สามารถเปิดใช้งาน {0} ได้"
+msgstr "เนื่องจากมีสต็อกติดลบ คุณจึงไม่สามารถเปิดใช้งาน {0} ได้"
 
 msgid "As there are reserved stock, you cannot disable {0}."
-msgstr "เนื่องจากมีสต็อกที่ถูกจองไว้ คุณไม่สามารถปิดใช้งาน {0} ได้"
+msgstr "เนื่องจากมีสต็อกที่จองไว้ คุณจึงไม่สามารถปิดใช้งาน {0} ได้"
 
 msgid "As there are sufficient Sub Assembly Items, Work Order is not required for Warehouse {0}."
-msgstr "เนื่องจากมีรายการชิ้นส่วนย่อยเพียงพอ จึงไม่จำเป็นต้องมีคำสั่งงานสำหรับคลังสินค้า {0}"
+msgstr "เนื่องจากมีชิ้นส่วนประกอบย่อยเพียงพอ จึงไม่จำเป็นต้องมีใบสั่งงานสำหรับคลังสินค้า {0}"
 
 msgid "As there are sufficient raw materials, Material Request is not required for Warehouse {0}."
 msgstr "เนื่องจากมีวัตถุดิบเพียงพอ จึงไม่จำเป็นต้องมีคำขอวัสดุสำหรับคลังสินค้า {0}"
 
 msgid "As {0} is enabled, you can not enable {1}."
-msgstr "เนื่องจาก {0} ถูกเปิดใช้งาน คุณไม่สามารถเปิดใช้งาน {1} ได้"
+msgstr "เนื่องจาก {0} ถูกเปิดใช้งาน คุณจึงไม่สามารถเปิดใช้งาน {1} ได้"
 
 msgid "Assembly Items"
-msgstr "รายการชิ้นส่วนประกอบ"
+msgstr "รายการประกอบ"
 
 msgid "Asset"
 msgstr "สินทรัพย์"
@@ -380,16 +380,16 @@ msgid "Asset Activity"
 msgstr "กิจกรรมสินทรัพย์"
 
 msgid "Asset Capitalization"
-msgstr "การเพิ่มมูลค่าสินทรัพย์"
+msgstr "การบันทึกสินทรัพย์เป็นทุน"
 
 msgid "Asset Capitalization Asset Item"
-msgstr "รายการสินทรัพย์ที่เพิ่มมูลค่าสินทรัพย์"
+msgstr "รายการสินทรัพย์ในการบันทึกเป็นทุน"
 
 msgid "Asset Capitalization Service Item"
-msgstr "รายการบริการที่เพิ่มมูลค่าสินทรัพย์"
+msgstr "รายการบริการในการบันทึกสินทรัพย์เป็นทุน"
 
 msgid "Asset Capitalization Stock Item"
-msgstr "รายการสต็อกที่เพิ่มมูลค่าสินทรัพย์"
+msgstr "รายการสต็อกในการบันทึกสินทรัพย์เป็นทุน"
 
 msgid "Asset Category"
 msgstr "หมวดหมู่สินทรัพย์"
@@ -401,7 +401,7 @@ msgid "Asset Category Name"
 msgstr "ชื่อหมวดหมู่สินทรัพย์"
 
 msgid "Asset Category is mandatory for Fixed Asset item"
-msgstr "หมวดหมู่สินทรัพย์เป็นฟิลด์บังคับสำหรับรายการสินทรัพย์ถาวร"
+msgstr "หมวดหมู่สินทรัพย์เป็นสิ่งจำเป็นสำหรับสินค้าประเภทสินทรัพย์ถาวร"
 
 msgid "Asset Depreciation Cost Center"
 msgstr "ศูนย์ต้นทุนค่าเสื่อมราคาสินทรัพย์"
@@ -413,22 +413,22 @@ msgid "Asset Depreciation Schedule"
 msgstr "ตารางค่าเสื่อมราคาสินทรัพย์"
 
 msgid "Asset Depreciation Schedule for Asset {0} and Finance Book {1} is not using shift based depreciation"
-msgstr "ตารางค่าเสื่อมราคาสินทรัพย์สำหรับสินทรัพย์ {0} และสมุดการเงิน {1} ไม่ได้ใช้ค่าเสื่อมราคาตามกะ"
+msgstr "ตารางค่าเสื่อมราคาสินทรัพย์สำหรับสินทรัพย์ {0} และสมุดการเงิน {1} ไม่ได้ใช้การคิดค่าเสื่อมราคาตามกะ"
 
 msgid "Asset Depreciation Schedule not found for Asset {0} and Finance Book {1}"
 msgstr "ไม่พบตารางค่าเสื่อมราคาสินทรัพย์สำหรับสินทรัพย์ {0} และสมุดการเงิน {1}"
 
 msgid "Asset Depreciation Schedule {0} for Asset {1} already exists."
-msgstr "ตารางค่าเสื่อมราคาสินทรัพย์ {0} สำหรับสินทรัพย์ {1} มีอยู่แล้ว"
+msgstr "มีตารางค่าเสื่อมราคาสินทรัพย์ {0} สำหรับสินทรัพย์ {1} อยู่แล้ว"
 
 msgid "Asset Depreciation Schedule {0} for Asset {1} and Finance Book {2} already exists."
-msgstr "ตารางค่าเสื่อมราคาสินทรัพย์ {0} สำหรับสินทรัพย์ {1} และสมุดการเงิน {2} มีอยู่แล้ว"
+msgstr "มีตารางค่าเสื่อมราคาสินทรัพย์ {0} สำหรับสินทรัพย์ {1} และสมุดการเงิน {2} อยู่แล้ว"
 
 msgid "Asset Depreciation Schedules created/updated:<br>{0}<br><br>Please check, edit if needed, and submit the Asset."
-msgstr "ตารางค่าเสื่อมราคาสินทรัพย์ที่สร้าง/อัปเดต:<br>{0}<br><br>โปรดตรวจสอบ แก้ไขหากจำเป็น และส่งสินทรัพย์"
+msgstr "ตารางค่าเสื่อมราคาสินทรัพย์ถูกสร้าง/อัปเดตแล้ว:<br>{0}<br><br>กรุณาตรวจสอบ แก้ไขหากจำเป็น และส่งข้อมูลสินทรัพย์"
 
 msgid "Asset Depreciations and Balances"
-msgstr "ค่าเสื่อมราคาสินทรัพย์และยอดคงเหลือ"
+msgstr "ค่าเสื่อมราคาและยอดคงเหลือของสินทรัพย์"
 
 msgid "Asset Details"
 msgstr "รายละเอียดสินทรัพย์"
@@ -437,13 +437,13 @@ msgid "Asset Disposal"
 msgstr "การจำหน่ายสินทรัพย์"
 
 msgid "Asset Finance Book"
-msgstr "สมุดการเงินสินทรัพย์"
+msgstr "สมุดการเงินของสินทรัพย์"
 
 msgid "Asset ID"
 msgstr "รหัสสินทรัพย์"
 
 msgid "Asset Location"
-msgstr "ตำแหน่งสินทรัพย์"
+msgstr "ที่ตั้งสินทรัพย์"
 
 msgid "Asset Maintenance"
 msgstr "การบำรุงรักษาสินทรัพย์"
@@ -461,7 +461,7 @@ msgid "Asset Movement"
 msgstr "การเคลื่อนย้ายสินทรัพย์"
 
 msgid "Asset Movement Item"
-msgstr "รายการการเคลื่อนย้ายสินทรัพย์"
+msgstr "รายการเคลื่อนย้ายสินทรัพย์"
 
 msgid "Asset Movement record {0} created"
 msgstr "สร้างบันทึกการเคลื่อนย้ายสินทรัพย์ {0} แล้ว"
@@ -482,19 +482,19 @@ msgid "Asset Quantity"
 msgstr "ปริมาณสินทรัพย์"
 
 msgid "Asset Received But Not Billed"
-msgstr "สินทรัพย์ที่ได้รับแต่ยังไม่ได้เรียกเก็บเงิน"
+msgstr "สินทรัพย์ที่ได้รับแต่ยังไม่เรียกเก็บเงิน"
 
 msgid "Asset Repair"
 msgstr "การซ่อมแซมสินทรัพย์"
 
 msgid "Asset Repair Consumed Item"
-msgstr "รายการที่ใช้ในการซ่อมแซมสินทรัพย์"
+msgstr "สินค้าที่ใช้ในการซ่อมแซมสินทรัพย์"
 
 msgid "Asset Repair Purchase Invoice"
-msgstr "ใบแจ้งหนี้การซื้อสำหรับการซ่อมแซมสินทรัพย์"
+msgstr "ใบแจ้งหนี้ซื้อสำหรับการซ่อมแซมสินทรัพย์"
 
 msgid "Asset Settings"
 msgstr "การตั้งค่าสินทรัพย์"
 
 msgid "Asset Shift Allocation"
-msgstr "การจัดสรรกะสินทรัพย์"
+msgstr "การจัดสรรกะของสินทรัพย์"
